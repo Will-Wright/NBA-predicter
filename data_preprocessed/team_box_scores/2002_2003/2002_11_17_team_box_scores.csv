@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SEATTLE SUPERSONICS,240,31,80,4,13,18,26,7,33,19,8,4,8,22,away,win,84.0,LOS ANGELES CLIPPERS,78.0
+LOS ANGELES CLIPPERS,240,30,82,4,15,14,24,15,42,21,4,6,19,27,home,loss,78.0,SEATTLE SUPERSONICS,84.0
+HOUSTON ROCKETS,240,34,78,3,11,22,27,10,34,14,4,8,15,22,away,win,93.0,LOS ANGELES LAKERS,89.0
+LOS ANGELES LAKERS,240,37,87,3,13,12,17,14,30,19,5,6,11,24,home,loss,89.0,HOUSTON ROCKETS,93.0
+WASHINGTON WIZARDS,240,30,64,6,12,18,24,5,23,17,7,7,23,28,away,loss,84.0,PHILADELPHIA 76ERS,100.0
+PHILADELPHIA 76ERS,240,35,76,4,11,26,33,14,26,22,14,2,14,20,home,win,100.0,WASHINGTON WIZARDS,84.0
+ORLANDO MAGIC,240,36,96,9,22,18,21,22,31,20,12,4,20,21,away,loss,99.0,SACRAMENTO KINGS,101.0
+SACRAMENTO KINGS,240,41,81,5,11,14,18,5,33,19,16,5,18,19,home,win,101.0,ORLANDO MAGIC,99.0
+UTAH JAZZ,240,36,82,0,3,10,18,16,33,27,6,3,17,19,away,win,82.0,TORONTO RAPTORS,78.0
+TORONTO RAPTORS,240,28,79,2,16,20,23,12,30,12,9,5,15,23,home,loss,78.0,UTAH JAZZ,82.0

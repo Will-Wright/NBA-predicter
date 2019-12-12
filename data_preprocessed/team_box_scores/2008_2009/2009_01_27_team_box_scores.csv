@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SACRAMENTO KINGS,240,37,74,12,25,24,26,5,20,23,8,7,11,22,away,loss,110.0,CLEVELAND CAVALIERS,117.0
+CLEVELAND CAVALIERS,240,37,78,11,26,32,40,17,32,26,6,5,14,19,home,win,117.0,SACRAMENTO KINGS,110.0
+CHARLOTTE BOBCATS,290,45,96,9,26,18,27,11,42,31,7,3,12,23,away,win,117.0,LOS ANGELES LAKERS,110.0
+LOS ANGELES LAKERS,290,43,99,7,22,17,23,11,31,19,4,9,12,26,home,loss,110.0,CHARLOTTE BOBCATS,117.0
+DENVER NUGGETS,240,32,72,9,23,27,34,12,33,14,15,15,27,27,away,win,100.0,MEMPHIS GRIZZLIES,85.0
+MEMPHIS GRIZZLIES,240,30,80,4,9,21,30,12,27,17,12,5,26,34,home,loss,85.0,DENVER NUGGETS,100.0
+INDIANA PACERS,240,44,87,9,24,14,17,4,25,21,4,4,15,24,away,loss,111.0,ORLANDO MAGIC,135.0
+ORLANDO MAGIC,240,45,82,15,33,30,37,10,40,29,9,5,16,18,home,win,135.0,INDIANA PACERS,111.0
+SAN ANTONIO SPURS,240,37,72,11,20,21,32,7,28,24,9,5,13,21,away,win,106.0,UTAH JAZZ,100.0
+UTAH JAZZ,240,38,79,6,17,18,25,11,35,23,6,2,13,23,home,loss,100.0,SAN ANTONIO SPURS,106.0

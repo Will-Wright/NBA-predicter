@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DENVER NUGGETS,240,23,79,2,9,12,18,18,31,12,8,10,22,19,away,loss,60.0,INDIANA PACERS,71.0
+INDIANA PACERS,240,27,76,0,8,17,23,15,34,21,15,7,16,20,home,win,71.0,DENVER NUGGETS,60.0
+LOS ANGELES LAKERS,240,40,87,8,19,25,41,16,32,25,7,5,10,22,away,win,113.0,MILWAUKEE BUCKS,107.0
+MILWAUKEE BUCKS,240,36,90,9,19,26,30,17,35,22,8,5,12,26,home,loss,107.0,LOS ANGELES LAKERS,113.0
+HOUSTON ROCKETS,240,35,66,5,10,11,17,5,39,17,9,4,22,22,away,win,86.0,NEW JERSEY NETS,75.0
+NEW JERSEY NETS,240,27,80,4,12,17,22,12,23,21,12,1,12,20,home,loss,75.0,HOUSTON ROCKETS,86.0
+MIAMI HEAT,240,24,68,4,12,21,24,10,34,8,8,3,13,31,away,loss,73.0,SAN ANTONIO SPURS,80.0
+SAN ANTONIO SPURS,240,25,73,4,15,26,41,15,33,12,6,5,10,17,home,win,80.0,MIAMI HEAT,73.0

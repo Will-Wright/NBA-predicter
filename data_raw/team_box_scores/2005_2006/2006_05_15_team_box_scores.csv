@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+DETROIT PISTONS,240,25,75,4,15,18,23,11,25,12,9,5,14,19
+CLEVELAND CAVALIERS,240,29,68,5,11,11,17,7,29,13,7,5,18,22
+SAN ANTONIO SPURS,265,42,79,8,14,26,32,7,30,16,10,4,14,29
+DALLAS MAVERICKS,265,45,90,5,12,28,32,13,26,18,2,7,12,26

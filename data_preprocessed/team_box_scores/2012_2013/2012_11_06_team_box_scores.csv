@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,36,86,8,19,13,17,11,32,23,4,5,11,22,away,loss,93.0,CHICAGO BULLS,99.0
+CHICAGO BULLS,240,40,84,2,6,17,24,9,34,27,7,7,9,12,home,win,99.0,ORLANDO MAGIC,93.0
+DETROIT PISTONS,240,35,78,6,12,21,25,8,27,26,6,9,13,19,away,loss,97.0,DENVER NUGGETS,109.0
+DENVER NUGGETS,240,41,92,10,30,17,22,21,31,23,9,11,15,21,home,win,109.0,DETROIT PISTONS,97.0
+TORONTO RAPTORS,240,30,84,7,30,21,25,8,29,16,11,2,17,24,away,loss,88.0,OKLAHOMA CITY THUNDER,108.0
+OKLAHOMA CITY THUNDER,240,35,74,9,25,29,34,7,39,24,10,9,17,22,home,win,108.0,TORONTO RAPTORS,88.0

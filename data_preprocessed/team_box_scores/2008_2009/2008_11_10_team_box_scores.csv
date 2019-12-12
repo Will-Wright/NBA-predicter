@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+TORONTO RAPTORS,240,33,77,8,19,13,18,8,31,25,3,2,16,23,away,loss,87.0,BOSTON CELTICS,94.0
+BOSTON CELTICS,240,32,73,6,20,24,27,5,34,17,5,2,11,21,home,win,94.0,TORONTO RAPTORS,87.0
+OKLAHOMA CITY THUNDER,240,36,93,5,11,22,26,19,32,19,5,5,17,24,away,loss,99.0,INDIANA PACERS,107.0
+INDIANA PACERS,240,41,85,4,14,21,29,8,33,21,10,10,11,22,home,win,107.0,OKLAHOMA CITY THUNDER,99.0
+NEW JERSEY NETS,240,33,71,13,25,15,20,11,28,19,6,6,18,25,away,loss,94.0,MIAMI HEAT,99.0
+MIAMI HEAT,240,31,70,11,25,26,32,9,22,15,7,3,13,17,home,win,99.0,NEW JERSEY NETS,94.0
+PORTLAND TRAIL BLAZERS,240,35,80,9,17,27,32,5,29,18,9,1,5,27,away,win,106.0,ORLANDO MAGIC,99.0
+ORLANDO MAGIC,240,32,71,7,24,28,38,10,34,15,3,1,14,26,home,loss,99.0,PORTLAND TRAIL BLAZERS,106.0
+MEMPHIS GRIZZLIES,240,38,86,4,15,22,25,11,28,10,11,4,14,23,away,loss,102.0,PHOENIX SUNS,107.0
+PHOENIX SUNS,240,37,76,8,21,25,28,7,31,16,3,5,19,21,home,win,107.0,MEMPHIS GRIZZLIES,102.0

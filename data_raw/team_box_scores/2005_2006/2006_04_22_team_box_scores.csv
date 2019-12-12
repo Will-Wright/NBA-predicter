@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+WASHINGTON WIZARDS,240,29,71,3,22,25,36,9,27,15,7,8,10,21
+CLEVELAND CAVALIERS,240,38,87,5,14,16,22,20,32,21,6,4,10,25
+DENVER NUGGETS,240,35,91,1,6,16,22,19,23,16,9,5,7,21
+LOS ANGELES CLIPPERS,240,30,68,6,12,23,30,12,31,22,3,4,15,22
+CHICAGO BULLS,240,40,88,13,26,13,17,10,30,20,5,4,16,30
+MIAMI HEAT,240,37,77,5,19,32,39,9,37,18,11,8,17,20
+SACRAMENTO KINGS,240,33,84,5,14,17,20,13,19,14,7,0,9,25
+SAN ANTONIO SPURS,240,42,73,11,17,27,32,12,39,25,5,6,12,20

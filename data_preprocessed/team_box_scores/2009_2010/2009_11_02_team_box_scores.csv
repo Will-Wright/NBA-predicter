@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW JERSEY NETS,240,25,67,3,10,15,18,8,25,11,8,10,25,25,away,loss,68.0,CHARLOTTE BOBCATS,79.0
+CHARLOTTE BOBCATS,240,24,74,1,15,30,35,19,32,12,14,6,19,22,home,win,79.0,NEW JERSEY NETS,68.0
+MINNESOTA TIMBERWOLVES,240,37,88,2,6,14,16,14,26,21,10,6,12,25,away,loss,90.0,LOS ANGELES CLIPPERS,93.0
+LOS ANGELES CLIPPERS,240,32,75,4,18,25,32,15,33,23,8,10,18,15,home,win,93.0,MINNESOTA TIMBERWOLVES,90.0
+NEW ORLEANS HORNETS,240,42,86,10,26,17,19,7,33,24,3,4,11,21,away,loss,111.0,NEW YORK KNICKS,117.0
+NEW YORK KNICKS,240,43,93,7,23,24,28,12,32,24,6,3,9,20,home,win,117.0,NEW ORLEANS HORNETS,111.0
+MEMPHIS GRIZZLIES,265,45,99,5,9,21,27,20,37,17,6,4,21,27,away,loss,116.0,SACRAMENTO KINGS,127.0
+SACRAMENTO KINGS,265,45,93,14,25,23,36,10,30,26,8,10,13,22,home,win,127.0,MEMPHIS GRIZZLIES,116.0
+HOUSTON ROCKETS,240,42,84,10,19,19,26,15,31,29,9,4,14,27,away,win,113.0,UTAH JAZZ,96.0
+UTAH JAZZ,240,32,71,3,11,29,34,8,30,18,8,7,19,26,home,loss,96.0,HOUSTON ROCKETS,113.0

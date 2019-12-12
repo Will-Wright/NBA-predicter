@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+UTAH JAZZ,240,43,97,1,11,10,16,23,19,30,11,5,6,28,away,loss,97.0,HOUSTON ROCKETS,104.0
+HOUSTON ROCKETS,240,33,54,7,12,31,41,5,28,20,6,5,17,18,home,win,104.0,UTAH JAZZ,97.0
+SACRAMENTO KINGS,240,30,85,2,9,21,28,15,28,14,12,4,22,20,away,loss,83.0,NEW JERSEY NETS,117.0
+NEW JERSEY NETS,240,42,88,8,12,25,30,13,34,24,11,0,17,23,home,win,117.0,SACRAMENTO KINGS,83.0
+TORONTO RAPTORS,240,34,65,8,16,24,26,6,26,25,8,4,19,27,away,win,100.0,PHILADELPHIA 76ERS,93.0
+PHILADELPHIA 76ERS,240,34,76,1,8,24,29,11,23,16,11,1,14,18,home,loss,93.0,TORONTO RAPTORS,100.0
+MINNESOTA TIMBERWOLVES,240,33,86,3,8,14,18,14,30,19,3,4,17,28,away,loss,83.0,SAN ANTONIO SPURS,113.0
+SAN ANTONIO SPURS,240,41,80,5,9,26,39,13,38,24,10,7,10,22,home,win,113.0,MINNESOTA TIMBERWOLVES,83.0

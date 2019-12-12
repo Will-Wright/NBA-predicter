@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DALLAS MAVERICKS,240,34,72,8,19,19,24,5,19,20,5,2,9,18,away,loss,95.0,CLEVELAND CAVALIERS,111.0
+CLEVELAND CAVALIERS,240,45,78,9,13,12,17,10,29,33,2,2,13,22,home,win,111.0,DALLAS MAVERICKS,95.0
+LOS ANGELES LAKERS,240,51,94,11,22,17,24,7,42,30,8,7,8,18,away,win,130.0,GOLDEN STATE WARRIORS,97.0
+GOLDEN STATE WARRIORS,240,36,92,4,17,21,24,10,36,22,4,3,13,21,home,loss,97.0,LOS ANGELES LAKERS,130.0
+ORLANDO MAGIC,240,39,77,8,22,14,25,13,37,18,3,7,17,23,away,win,100.0,MILWAUKEE BUCKS,98.0
+MILWAUKEE BUCKS,240,37,90,11,19,13,17,15,29,19,7,3,6,21,home,loss,98.0,ORLANDO MAGIC,100.0
+PORTLAND TRAIL BLAZERS,240,34,75,3,18,21,29,10,24,19,6,2,13,23,away,loss,92.0,UTAH JAZZ,108.0
+UTAH JAZZ,240,43,71,7,12,15,27,7,30,36,7,2,11,20,home,win,108.0,PORTLAND TRAIL BLAZERS,92.0
+CHARLOTTE BOBCATS,240,35,76,4,10,18,25,10,31,21,9,3,12,17,away,win,92.0,WASHINGTON WIZARDS,76.0
+WASHINGTON WIZARDS,240,30,77,4,16,12,13,7,31,14,4,6,14,22,home,loss,76.0,CHARLOTTE BOBCATS,92.0

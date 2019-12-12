@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MEMPHIS GRIZZLIES,240,32,87,3,14,13,16,15,23,13,5,5,13,17,away,loss,80.0,BOSTON CELTICS,98.0
+BOSTON CELTICS,240,36,73,7,20,19,21,7,38,28,9,5,18,15,home,win,98.0,MEMPHIS GRIZZLIES,80.0
+TORONTO RAPTORS,240,34,79,6,22,15,21,10,28,17,6,3,16,25,away,loss,89.0,MIAMI HEAT,95.0
+MIAMI HEAT,240,31,69,4,12,29,34,4,32,15,8,2,14,19,home,win,95.0,TORONTO RAPTORS,89.0

@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,43,100,7,14,10,14,17,30,27,6,3,9,20,away,loss,103.0,INDIANA PACERS,110.0
+INDIANA PACERS,240,46,89,2,6,16,22,11,35,36,7,5,10,18,home,win,110.0,WASHINGTON WIZARDS,103.0
+NEW JERSEY NETS,240,32,83,6,19,25,39,19,34,22,13,5,16,22,away,win,95.0,LOS ANGELES CLIPPERS,90.0
+LOS ANGELES CLIPPERS,240,35,83,2,17,18,26,11,32,15,8,7,18,26,home,loss,90.0,NEW JERSEY NETS,95.0
+MILWAUKEE BUCKS,240,31,75,6,22,10,11,4,38,14,7,5,16,13,away,win,78.0,TORONTO RAPTORS,75.0
+TORONTO RAPTORS,240,33,92,4,20,5,7,17,30,18,10,6,11,11,home,loss,75.0,MILWAUKEE BUCKS,78.0

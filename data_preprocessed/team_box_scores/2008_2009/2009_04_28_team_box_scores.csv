@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHICAGO BULLS,265,34,85,9,23,27,32,14,36,18,7,6,13,23,away,loss,104.0,BOSTON CELTICS,106.0
+BOSTON CELTICS,265,42,86,6,16,16,24,9,35,24,5,9,10,20,home,win,106.0,CHICAGO BULLS,104.0
+PHILADELPHIA 76ERS,240,29,68,4,18,16,20,4,29,17,7,2,15,28,away,loss,78.0,ORLANDO MAGIC,91.0
+ORLANDO MAGIC,240,33,76,8,23,17,24,15,30,14,7,3,13,21,home,win,91.0,PHILADELPHIA 76ERS,78.0
+HOUSTON ROCKETS,240,33,73,3,15,8,10,3,33,17,5,1,16,24,away,loss,77.0,PORTLAND TRAIL BLAZERS,88.0
+PORTLAND TRAIL BLAZERS,240,33,72,6,14,16,23,7,30,14,10,8,11,12,home,win,88.0,HOUSTON ROCKETS,77.0
+DALLAS MAVERICKS,240,38,74,10,20,20,25,10,30,20,8,2,10,18,away,win,106.0,SAN ANTONIO SPURS,93.0
+SAN ANTONIO SPURS,240,39,75,3,16,12,19,9,24,19,5,5,10,24,home,loss,93.0,DALLAS MAVERICKS,106.0

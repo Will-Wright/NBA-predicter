@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SAN ANTONIO SPURS,240,44,83,7,15,14,21,15,35,32,8,5,15,21,away,win,109.0,BOSTON CELTICS,92.0
+BOSTON CELTICS,240,33,79,5,16,21,27,11,23,19,7,8,13,20,home,loss,92.0,SAN ANTONIO SPURS,109.0
+MIAMI HEAT,240,31,81,3,15,15,18,10,21,19,9,3,13,22,away,loss,80.0,DENVER NUGGETS,88.0
+DENVER NUGGETS,240,33,64,2,7,20,23,2,30,24,3,10,19,22,home,win,88.0,MIAMI HEAT,80.0
+PORTLAND TRAIL BLAZERS,240,34,79,7,18,17,23,9,25,18,14,6,21,17,away,loss,92.0,PHOENIX SUNS,96.0
+PHOENIX SUNS,240,36,84,7,17,17,21,13,30,20,15,3,21,21,home,win,96.0,PORTLAND TRAIL BLAZERS,92.0

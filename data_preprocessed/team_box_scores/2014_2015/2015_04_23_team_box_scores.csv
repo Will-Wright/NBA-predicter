@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,38,84,12,29,15,24,11,34,17,9,7,11,18,away,win,103.0,BOSTON CELTICS,95.0
+BOSTON CELTICS,240,36,82,5,19,18,21,9,36,20,6,5,15,23,home,loss,95.0,CLEVELAND CAVALIERS,103.0
+CHICAGO BULLS,290,40,89,14,33,19,24,12,38,25,11,6,16,20,away,win,113.0,MILWAUKEE BUCKS,106.0
+MILWAUKEE BUCKS,290,43,102,6,19,14,25,17,33,24,11,7,12,20,home,loss,106.0,CHICAGO BULLS,113.0
+GOLDEN STATE WARRIORS,265,42,104,14,41,25,30,22,29,24,4,6,10,22,away,win,123.0,NEW ORLEANS PELICANS,119.0
+NEW ORLEANS PELICANS,265,46,90,6,21,21,26,13,34,25,7,8,14,28,home,loss,119.0,GOLDEN STATE WARRIORS,123.0

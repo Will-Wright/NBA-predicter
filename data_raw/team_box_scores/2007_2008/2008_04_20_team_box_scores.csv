@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+ATLANTA HAWKS,240,29,76,3,14,20,28,16,25,16,4,8,15,18
+BOSTON CELTICS,240,38,81,9,16,19,24,13,27,22,6,7,10,21
+PHILADELPHIA 76ERS,240,35,81,1,5,19,27,18,27,16,6,4,12,24
+DETROIT PISTONS,240,32,82,4,12,18,23,20,23,16,7,10,12,24
+DENVER NUGGETS,240,43,96,5,12,23,37,19,28,20,7,5,12,24
+LOS ANGELES LAKERS,240,46,92,9,20,27,32,13,32,33,7,7,12,28
+TORONTO RAPTORS,240,32,85,9,20,27,28,8,27,24,7,1,7,18
+ORLANDO MAGIC,240,41,77,13,29,19,23,9,33,21,3,7,10,19

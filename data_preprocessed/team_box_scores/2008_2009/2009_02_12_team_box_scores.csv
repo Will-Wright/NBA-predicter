@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MIAMI HEAT,240,38,78,7,18,12,13,9,27,25,15,8,17,24,away,win,95.0,CHICAGO BULLS,93.0
+CHICAGO BULLS,240,31,70,1,8,30,35,8,29,20,10,5,19,14,home,loss,93.0,MIAMI HEAT,95.0
+BOSTON CELTICS,240,35,72,3,10,26,28,13,37,24,2,1,19,25,away,win,99.0,DALLAS MAVERICKS,92.0
+DALLAS MAVERICKS,240,32,81,7,17,21,24,8,23,16,8,6,8,26,home,loss,92.0,BOSTON CELTICS,99.0
+PORTLAND TRAIL BLAZERS,240,39,83,6,14,14,17,15,31,16,7,6,23,32,away,loss,98.0,GOLDEN STATE WARRIORS,105.0
+GOLDEN STATE WARRIORS,240,31,76,4,9,39,43,13,27,13,10,5,14,18,home,win,105.0,PORTLAND TRAIL BLAZERS,98.0

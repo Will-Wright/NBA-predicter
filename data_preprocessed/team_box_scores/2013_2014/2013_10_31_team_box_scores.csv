@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW YORK KNICKS,240,31,86,9,24,10,14,13,29,20,12,8,15,24,away,loss,81.0,CHICAGO BULLS,82.0
+CHICAGO BULLS,240,31,76,3,16,17,19,13,35,20,5,3,18,16,home,win,82.0,NEW YORK KNICKS,81.0
+GOLDEN STATE WARRIORS,240,40,76,12,21,23,33,10,23,26,7,2,24,35,away,loss,115.0,LOS ANGELES CLIPPERS,126.0
+LOS ANGELES CLIPPERS,240,42,85,9,28,33,50,16,28,27,15,4,18,30,home,win,126.0,GOLDEN STATE WARRIORS,115.0

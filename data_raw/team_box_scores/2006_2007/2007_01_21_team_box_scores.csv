@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+DALLAS MAVERICKS,240,41,88,4,16,13,17,14,34,19,5,2,11,21
+MIAMI HEAT,240,36,74,4,13,17,25,5,30,13,7,5,7,18
+SAN ANTONIO SPURS,240,38,83,11,23,12,17,12,33,24,4,7,7,13
+PHILADELPHIA 76ERS,240,35,88,1,8,14,19,16,30,14,6,8,9,16
+MINNESOTA TIMBERWOLVES,240,36,82,12,18,18,28,9,26,23,5,0,12,20
+PHOENIX SUNS,240,54,95,8,22,15,19,12,37,26,6,6,8,21
+MILWAUKEE BUCKS,240,32,77,6,22,25,33,12,26,14,5,1,9,22
+PORTLAND TRAIL BLAZERS,240,35,73,5,15,24,30,11,33,20,4,4,13,26

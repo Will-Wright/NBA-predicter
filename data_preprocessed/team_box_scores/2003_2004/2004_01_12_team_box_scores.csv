@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MEMPHIS GRIZZLIES,290,46,100,8,20,15,23,15,33,24,7,13,10,31,away,win,115.0,GOLDEN STATE WARRIORS,113.0
+GOLDEN STATE WARRIORS,290,44,103,4,15,21,33,27,39,17,7,8,16,27,home,loss,113.0,MEMPHIS GRIZZLIES,115.0
+CLEVELAND CAVALIERS,240,29,87,2,14,19,26,15,39,11,8,7,17,27,away,loss,79.0,LOS ANGELES LAKERS,89.0
+LOS ANGELES LAKERS,240,33,91,1,7,22,28,18,40,15,9,5,13,23,home,win,89.0,CLEVELAND CAVALIERS,79.0
+DALLAS MAVERICKS,265,50,101,12,29,15,19,11,33,30,9,2,8,19,away,win,127.0,NEW YORK KNICKS,121.0
+NEW YORK KNICKS,265,48,93,10,26,15,17,11,34,24,3,4,15,23,home,loss,121.0,DALLAS MAVERICKS,127.0
+PHILADELPHIA 76ERS,240,33,80,2,10,19,24,14,32,14,7,5,14,19,away,win,87.0,ORLANDO MAGIC,82.0
+ORLANDO MAGIC,240,31,86,2,18,18,23,13,30,15,8,3,13,20,home,loss,82.0,PHILADELPHIA 76ERS,87.0

@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+GOLDEN STATE WARRIORS,240,46,85,14,30,19,20,9,35,33,15,6,15,18,away,win,125.0,DENVER NUGGETS,101.0
+DENVER NUGGETS,240,38,94,13,36,12,17,17,27,26,7,3,18,18,home,loss,101.0,GOLDEN STATE WARRIORS,125.0
+CHICAGO BULLS,240,37,89,6,16,18,20,12,36,18,7,2,10,12,away,win,98.0,MIAMI HEAT,95.0
+MIAMI HEAT,240,36,88,13,29,10,15,14,32,22,8,5,13,19,home,loss,95.0,CHICAGO BULLS,98.0
+NEW ORLEANS PELICANS,240,39,89,9,25,25,27,11,36,22,9,7,10,19,away,win,112.0,MILWAUKEE BUCKS,106.0
+MILWAUKEE BUCKS,240,40,91,6,18,20,25,11,37,23,4,5,11,20,home,loss,106.0,NEW ORLEANS PELICANS,112.0
+LOS ANGELES LAKERS,240,38,74,9,27,16,22,4,38,18,8,2,21,19,away,win,101.0,SACRAMENTO KINGS,91.0
+SACRAMENTO KINGS,240,34,85,8,21,15,20,11,32,18,13,3,15,19,home,loss,91.0,LOS ANGELES LAKERS,101.0

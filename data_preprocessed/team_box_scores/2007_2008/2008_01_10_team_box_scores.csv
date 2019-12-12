@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MEMPHIS GRIZZLIES,240,38,74,13,28,24,32,4,30,23,9,5,15,22,away,loss,113.0,SACRAMENTO KINGS,116.0
+SACRAMENTO KINGS,240,43,89,5,17,25,28,14,29,18,9,5,12,27,home,win,116.0,MEMPHIS GRIZZLIES,113.0
+DETROIT PISTONS,240,36,77,3,11,15,19,7,31,17,10,4,9,19,away,win,90.0,SAN ANTONIO SPURS,80.0
+SAN ANTONIO SPURS,240,29,67,4,14,18,23,7,30,17,6,5,15,18,home,loss,80.0,DETROIT PISTONS,90.0
+PHOENIX SUNS,240,30,83,10,32,16,22,10,34,17,6,4,10,19,away,loss,86.0,UTAH JAZZ,108.0
+UTAH JAZZ,240,43,91,6,20,16,24,17,32,27,3,6,11,20,home,win,108.0,PHOENIX SUNS,86.0

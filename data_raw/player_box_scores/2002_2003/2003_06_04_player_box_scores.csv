@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+duncati01,Tim Duncan,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,2667,11,17,0,0,10,14,3,17,6,3,7,1,1,40.8
+robinda01,David Robinson,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,1651,6,8,0,0,2,3,2,4,1,0,4,0,2,15.7
+martike01,Kenyon Martin,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,1994,10,24,0,1,1,2,4,8,2,1,2,1,6,13.4
+parketo01,Tony Parker,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,2390,6,14,1,2,3,4,0,3,5,1,0,2,0,11.6
+jefferi01,Richard Jefferson,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,2181,5,10,0,0,5,6,0,4,1,2,0,3,3,9.3
+harrilu01,Lucious Harris,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,1412,4,10,1,2,6,7,0,1,0,0,0,0,1,9.1
+kiddja01,Jason Kidd,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,2631,4,17,1,5,1,2,0,8,10,2,1,3,1,8.0
+rosema01,Malik Rose,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,1421,5,11,0,0,2,2,3,3,2,1,0,2,5,7.7
+collija04,Jason Collins,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,1846,1,4,0,0,3,4,4,5,3,0,0,0,4,7.0
+rogerro01,Rodney Rogers,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,1231,5,10,1,2,0,0,1,1,1,0,0,0,3,6.5
+kittlke01,Kerry Kittles,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,1822,2,7,1,3,3,4,2,1,2,0,0,1,1,5.2
+jacksst02,Stephen Jackson,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,2492,5,15,0,4,2,5,1,2,5,2,0,3,3,4.9
+bowenbr01,Bruce Bowen,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,1588,2,3,2,2,0,0,0,2,1,0,0,1,4,3.4
+ginobma01,Manu Ginóbili,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,1680,3,8,1,2,0,0,1,6,3,0,0,3,3,3.0
+williaa01,Aaron Williams,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,666,2,5,0,0,0,0,2,2,0,0,1,0,4,2.4
+claxtsp01,Speedy Claxton,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,491,1,3,0,0,0,0,0,0,1,0,1,0,2,0.9
+ferryda01,Danny Ferry,SAN ANTONIO SPURS,HOME,NEW JERSEY NETS,WIN,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+mutomdi01,Dikembe Mutombo,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,368,0,1,0,0,0,0,0,2,0,0,1,0,2,-0.2
+johnsan02,Anthony Johnson,NEW JERSEY NETS,AWAY,SAN ANTONIO SPURS,LOSS,249,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1

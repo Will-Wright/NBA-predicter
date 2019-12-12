@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DALLAS MAVERICKS,240,32,85,12,37,10,13,10,28,20,4,2,15,26,away,loss,86.0,GOLDEN STATE WARRIORS,111.0
+GOLDEN STATE WARRIORS,240,37,79,14,30,23,30,16,37,24,11,3,13,16,home,win,111.0,DALLAS MAVERICKS,86.0
+HOUSTON ROCKETS,240,29,67,6,21,18,23,7,30,16,4,1,19,21,away,loss,82.0,UTAH JAZZ,94.0
+UTAH JAZZ,240,35,72,7,15,17,19,4,34,23,8,7,11,22,home,win,94.0,HOUSTON ROCKETS,82.0

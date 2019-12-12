@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MIAMI HEAT,240,35,74,6,14,15,23,8,27,23,1,6,8,14,away,loss,91.0,DETROIT PISTONS,108.0
+DETROIT PISTONS,240,42,88,9,20,15,18,14,31,27,7,5,6,17,home,win,108.0,MIAMI HEAT,91.0
+BOSTON CELTICS,240,42,77,6,24,18,23,11,28,23,6,0,15,11,away,win,108.0,NEW YORK KNICKS,97.0
+NEW YORK KNICKS,240,41,83,7,20,8,11,12,23,22,7,2,13,18,home,loss,97.0,BOSTON CELTICS,108.0
+DENVER NUGGETS,240,33,85,12,31,20,28,8,29,26,13,3,14,29,away,loss,98.0,PHILADELPHIA 76ERS,105.0
+PHILADELPHIA 76ERS,240,31,70,11,27,32,42,7,42,26,10,9,20,22,home,win,105.0,DENVER NUGGETS,98.0
+UTAH JAZZ,240,39,85,6,13,18,26,14,27,18,8,4,10,23,away,loss,102.0,PORTLAND TRAIL BLAZERS,103.0
+PORTLAND TRAIL BLAZERS,240,36,76,7,23,24,34,12,33,18,8,6,14,20,home,win,103.0,UTAH JAZZ,102.0
+GOLDEN STATE WARRIORS,240,46,91,10,23,19,26,14,35,33,13,5,11,23,away,win,121.0,SACRAMENTO KINGS,96.0
+SACRAMENTO KINGS,240,35,79,7,16,19,24,6,28,17,7,4,18,21,home,loss,96.0,GOLDEN STATE WARRIORS,121.0

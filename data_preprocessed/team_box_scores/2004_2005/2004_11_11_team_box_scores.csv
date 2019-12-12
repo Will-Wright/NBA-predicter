@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DETROIT PISTONS,240,40,70,4,10,25,37,10,27,26,8,5,23,29,away,loss,109.0,DENVER NUGGETS,117.0
+DENVER NUGGETS,240,40,79,7,11,30,37,8,20,23,14,4,12,26,home,win,117.0,DETROIT PISTONS,109.0
+MINNESOTA TIMBERWOLVES,240,33,72,4,13,26,33,11,30,22,7,2,14,21,away,win,96.0,HOUSTON ROCKETS,91.0
+HOUSTON ROCKETS,240,34,78,7,14,16,22,10,23,24,5,1,14,25,home,loss,91.0,MINNESOTA TIMBERWOLVES,96.0
+DALLAS MAVERICKS,240,41,79,10,17,21,26,10,32,17,5,7,14,28,away,win,113.0,MIAMI HEAT,93.0
+MIAMI HEAT,240,32,86,6,19,23,33,18,23,14,8,7,10,22,home,loss,93.0,DALLAS MAVERICKS,113.0

@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DENVER NUGGETS,240,33,78,2,15,24,32,10,22,26,12,6,20,22,away,loss,92.0,LOS ANGELES LAKERS,112.0
+LOS ANGELES LAKERS,240,42,82,3,12,25,31,15,31,23,9,5,19,20,home,win,112.0,DENVER NUGGETS,92.0
+GOLDEN STATE WARRIORS,240,29,73,10,30,15,32,7,33,16,6,6,14,27,away,win,83.0,NEW YORK KNICKS,81.0
+NEW YORK KNICKS,240,34,86,0,13,13,25,15,37,21,4,3,18,28,home,loss,81.0,GOLDEN STATE WARRIORS,83.0
+SACRAMENTO KINGS,240,44,99,7,16,23,29,20,26,28,9,2,9,18,away,win,118.0,PHOENIX SUNS,117.0
+PHOENIX SUNS,240,48,86,9,22,12,16,6,30,35,5,10,14,27,home,loss,117.0,SACRAMENTO KINGS,118.0

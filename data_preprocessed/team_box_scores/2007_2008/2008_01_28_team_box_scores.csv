@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHARLOTTE BOBCATS,240,38,67,7,16,24,32,4,27,33,7,4,16,19,away,win,107.0,LOS ANGELES CLIPPERS,100.0
+LOS ANGELES CLIPPERS,240,43,79,0,8,14,15,8,23,34,5,2,14,22,home,loss,100.0,CHARLOTTE BOBCATS,107.0
+DALLAS MAVERICKS,240,43,80,5,12,12,15,6,41,17,4,2,11,25,away,win,103.0,MEMPHIS GRIZZLIES,84.0
+MEMPHIS GRIZZLIES,240,30,72,3,11,21,34,5,28,14,6,5,6,17,home,loss,84.0,DALLAS MAVERICKS,103.0
+DENVER NUGGETS,240,35,82,8,26,15,18,8,25,18,10,2,19,21,away,loss,93.0,NEW ORLEANS HORNETS,117.0
+NEW ORLEANS HORNETS,240,45,89,7,21,20,23,17,35,32,9,4,15,24,home,win,117.0,DENVER NUGGETS,93.0
+SAN ANTONIO SPURS,240,31,74,4,16,25,28,9,28,11,7,3,19,23,away,loss,91.0,UTAH JAZZ,97.0
+UTAH JAZZ,240,38,76,5,14,16,21,6,28,28,15,2,16,22,home,win,97.0,SAN ANTONIO SPURS,91.0

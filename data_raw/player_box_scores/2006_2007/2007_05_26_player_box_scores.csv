@@ -1,0 +1,25 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+willide01,Deron Williams,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,2270,10,19,4,5,7,8,0,1,8,5,1,2,3,29.7
+boozeca01,Carlos Boozer,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,2014,12,19,0,0,3,4,4,8,2,2,0,1,4,24.1
+parketo01,Tony Parker,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1936,9,18,1,2,6,6,0,1,7,1,0,2,4,18.6
+duncati01,Tim Duncan,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1579,6,9,0,0,4,5,2,6,3,1,2,8,5,9.4
+ginobma01,Manu Ginóbili,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1825,4,12,2,5,4,6,0,1,4,1,0,1,1,9.1
+giricgo01,Gordan Giriček,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,1565,4,8,1,2,2,2,0,1,6,0,0,2,3,8.3
+millspa01,Paul Millsap,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,1316,4,7,0,0,0,0,0,2,2,3,1,1,3,8.2
+collija03,Jarron Collins,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,676,2,3,0,0,3,3,1,2,0,0,0,0,1,6.6
+obertfa01,Fabricio Oberto,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1559,2,2,0,0,1,2,0,4,1,1,0,0,4,5.3
+harprma01,Matt Harpring,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,1328,4,6,0,0,0,3,2,2,2,0,0,3,1,4.2
+horryro01,Robert Horry,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1264,1,3,1,2,2,2,1,2,0,0,1,1,1,3.9
+kirilan01,Andrei Kirilenko,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,1789,0,2,0,0,2,4,0,2,3,0,2,0,0,3.9
+bowenbr01,Bruce Bowen,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1687,2,3,1,2,0,0,0,3,1,0,0,0,4,3.7
+fishede01,Derek Fisher,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,1799,4,8,1,2,2,2,0,0,1,0,0,2,5,3.7
+araujra01,Rafael Araújo,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,126,0,0,0,0,2,2,1,1,0,0,0,0,1,2.6
+finlemi01,Michael Finley,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1042,1,4,1,3,0,0,0,3,0,1,0,0,1,2.1
+brewero02,Ronnie Brewer,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,126,1,2,0,0,0,4,0,0,0,1,0,0,0,0.4
+elsonfr01,Francisco Elson,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,805,0,1,0,0,2,2,0,4,0,1,1,2,5,0.2
+brownde03,Dee Brown,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+okurme01,Mehmet Okur,UTAH JAZZ,HOME,SAN ANTONIO SPURS,WIN,1265,0,3,0,0,0,0,2,2,2,1,1,1,5,0.0
+vaughja01,Jacque Vaughn,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1089,1,4,0,0,1,2,0,0,0,0,0,0,1,-0.2
+barrybr01,Brent Barry,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,1075,2,7,1,6,0,0,0,0,1,0,0,2,1,-0.8
+udrihbe01,Beno Udrih,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,294,0,0,0,0,0,0,0,0,0,0,0,2,1,-2.4
+bonnema01,Matt Bonner,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,LOSS,245,0,1,0,1,0,0,0,0,0,0,0,1,2,-2.5

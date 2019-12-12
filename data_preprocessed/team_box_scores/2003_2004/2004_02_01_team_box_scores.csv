@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHILADELPHIA 76ERS,240,32,78,4,16,33,39,12,30,17,5,1,14,20,away,loss,101.0,MINNESOTA TIMBERWOLVES,106.0
+MINNESOTA TIMBERWOLVES,240,40,81,4,16,22,22,7,30,28,7,7,11,28,home,win,106.0,PHILADELPHIA 76ERS,101.0
+LOS ANGELES LAKERS,240,30,76,2,13,22,28,9,33,20,10,3,14,30,away,win,84.0,TORONTO RAPTORS,83.0
+TORONTO RAPTORS,240,27,80,5,16,24,35,18,30,13,7,2,15,25,home,loss,83.0,LOS ANGELES LAKERS,84.0
+CLEVELAND CAVALIERS,240,38,74,2,8,26,30,9,35,23,6,9,24,22,away,win,104.0,WASHINGTON WIZARDS,100.0
+WASHINGTON WIZARDS,240,37,86,5,15,21,29,9,24,20,15,4,13,23,home,loss,100.0,CLEVELAND CAVALIERS,104.0

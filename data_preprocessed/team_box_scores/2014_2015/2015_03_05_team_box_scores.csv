@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+OKLAHOMA CITY THUNDER,240,41,88,8,20,15,19,8,33,20,8,4,9,18,away,loss,105.0,CHICAGO BULLS,108.0
+CHICAGO BULLS,240,40,87,7,25,21,26,12,36,26,4,3,10,15,home,win,108.0,OKLAHOMA CITY THUNDER,105.0
+DALLAS MAVERICKS,240,33,88,2,16,7,8,6,35,17,10,3,13,16,away,loss,75.0,PORTLAND TRAIL BLAZERS,94.0
+PORTLAND TRAIL BLAZERS,240,34,82,7,22,19,21,8,48,20,7,5,16,15,home,win,94.0,DALLAS MAVERICKS,75.0

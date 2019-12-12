@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHICAGO BULLS,240,40,80,9,20,26,29,8,28,20,7,14,11,18,away,loss,115.0,BOSTON CELTICS,118.0
+BOSTON CELTICS,240,47,96,7,16,17,25,21,29,26,9,4,12,21,home,win,118.0,CHICAGO BULLS,115.0
+DALLAS MAVERICKS,240,29,72,6,18,20,23,5,23,17,9,4,10,17,away,loss,84.0,SAN ANTONIO SPURS,105.0
+SAN ANTONIO SPURS,240,42,79,7,18,14,17,9,35,19,5,5,13,20,home,win,105.0,DALLAS MAVERICKS,84.0

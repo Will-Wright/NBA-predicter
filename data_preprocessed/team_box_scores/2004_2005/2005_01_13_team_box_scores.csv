@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW JERSEY NETS,265,33,85,5,18,14,18,6,36,27,10,2,13,25,away,loss,85.0,HOUSTON ROCKETS,94.0
+HOUSTON ROCKETS,265,33,77,9,18,19,25,4,39,21,7,5,18,21,home,win,94.0,NEW JERSEY NETS,85.0
+CLEVELAND CAVALIERS,240,39,81,5,13,11,16,11,33,22,7,5,18,25,away,loss,94.0,LOS ANGELES LAKERS,98.0
+LOS ANGELES LAKERS,240,33,85,4,22,28,35,17,27,18,12,2,13,19,home,win,98.0,CLEVELAND CAVALIERS,94.0
+UTAH JAZZ,240,38,76,6,10,11,18,10,23,21,3,3,16,26,away,loss,93.0,SACRAMENTO KINGS,107.0
+SACRAMENTO KINGS,240,39,76,6,15,23,27,11,28,22,7,4,11,16,home,win,107.0,UTAH JAZZ,93.0

@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+duncati01,Tim Duncan,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,2762,10,18,0,0,9,10,3,14,4,1,4,6,3,25.7
+kiddja01,Jason Kidd,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,2880,10,23,4,10,5,6,3,4,7,2,0,2,2,23.9
+jefferi01,Richard Jefferson,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,2214,5,11,0,0,9,11,2,4,4,2,0,1,4,17.3
+rosema01,Malik Rose,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,1758,6,9,0,0,2,2,2,1,1,0,0,1,2,10.7
+ginobma01,Manu Ginóbili,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,1529,4,8,0,0,4,4,0,3,0,2,1,1,5,8.6
+williaa01,Aaron Williams,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,1374,4,9,0,0,2,3,4,3,0,0,1,0,4,7.7
+parketo01,Tony Parker,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,2002,5,13,1,2,3,5,0,2,4,1,0,2,3,7.3
+collija04,Jason Collins,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,1574,1,3,0,0,5,6,4,1,0,1,0,0,5,7.0
+kerrst01,Steve Kerr,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,535,2,2,1,1,1,2,1,0,0,1,0,0,0,6.7
+robinda01,David Robinson,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,1184,2,4,0,0,2,2,1,2,0,3,2,1,6,6.3
+kittlke01,Kerry Kittles,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,2024,3,9,0,3,2,2,1,3,1,1,1,1,3,4.7
+claxtsp01,Speedy Claxton,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,878,1,4,0,0,1,2,0,1,2,2,2,0,4,3.7
+bowenbr01,Bruce Bowen,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,1762,1,4,0,2,2,2,0,1,1,0,0,0,4,1.0
+jacksst02,Stephen Jackson,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,1934,2,7,1,4,0,0,1,6,3,0,0,4,2,0.7
+willike02,Kevin Willis,SAN ANTONIO SPURS,AWAY,NEW JERSEY NETS,WIN,56,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+harrilu01,Lucious Harris,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,1344,1,7,0,0,3,4,0,1,0,0,0,1,0,-0.6
+rogerro01,Rodney Rogers,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,320,0,3,0,2,1,2,1,0,0,0,0,1,0,-1.8
+martike01,Kenyon Martin,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,2256,2,8,0,1,0,0,1,8,3,1,3,8,5,-2.5
+mutomdi01,Dikembe Mutombo,NEW JERSEY NETS,HOME,SAN ANTONIO SPURS,LOSS,414,0,1,0,0,0,0,1,1,0,0,0,2,2,-2.5

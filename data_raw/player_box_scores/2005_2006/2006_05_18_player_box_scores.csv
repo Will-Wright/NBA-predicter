@@ -1,0 +1,16 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+mariosh01,Shawn Marion,PHOENIX SUNS,AWAY,LOS ANGELES CLIPPERS,LOSS,2566,13,22,4,7,4,4,4,5,1,6,1,1,2,33.7
+brandel01,Elton Brand,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,2554,14,21,0,0,2,3,2,10,3,1,5,2,2,28.7
+maggeco01,Corey Maggette,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,1622,7,8,2,3,9,9,0,8,4,0,0,1,3,25.2
+nashst01,Steve Nash,PHOENIX SUNS,AWAY,LOS ANGELES CLIPPERS,LOSS,2348,6,16,2,5,3,3,1,1,11,1,0,1,2,16.1
+diawbo01,Boris Diaw,PHOENIX SUNS,AWAY,LOS ANGELES CLIPPERS,LOSS,2363,6,12,1,1,1,3,3,6,7,2,1,3,5,13.7
+barbole01,Leandro Barbosa,PHOENIX SUNS,AWAY,LOS ANGELES CLIPPERS,LOSS,2122,10,20,4,8,1,3,0,0,2,1,0,1,5,13.6
+kamanch01,Chris Kaman,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,1785,7,8,0,0,1,1,1,9,1,0,1,4,3,11.8
+rossqu01,Quinton Ross,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,2373,9,14,0,0,0,0,0,5,1,0,0,2,4,10.4
+cassesa01,Sam Cassell,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,1847,5,11,0,0,5,6,1,2,8,0,0,6,5,7.8
+bellra01,Raja Bell,PHOENIX SUNS,AWAY,LOS ANGELES CLIPPERS,LOSS,2760,2,9,1,6,8,10,0,1,3,0,0,1,4,6.5
+moblecu01,Cuttino Mobley,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,2486,3,8,0,2,3,4,1,3,6,0,1,3,3,6.5
+livinsh01,Shaun Livingston,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,1143,2,7,0,0,0,0,2,3,4,0,1,1,1,4.3
+radmavl01,Vladimir Radmanović,LOS ANGELES CLIPPERS,HOME,PHOENIX SUNS,WIN,590,1,1,0,0,0,0,0,1,1,0,0,0,1,2.3
+thomati01,Tim Thomas,PHOENIX SUNS,AWAY,LOS ANGELES CLIPPERS,LOSS,1589,1,6,1,4,0,0,0,5,2,0,0,1,4,-0.5
+jonesja02,James Jones,PHOENIX SUNS,AWAY,LOS ANGELES CLIPPERS,LOSS,652,0,2,0,0,0,0,1,1,0,0,0,2,1,-2.8

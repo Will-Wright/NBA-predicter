@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MILWAUKEE BUCKS,240,33,85,2,6,9,14,11,25,18,9,4,12,22,away,loss,77.0,CHICAGO BULLS,85.0
+CHICAGO BULLS,240,34,69,3,15,14,22,10,34,19,5,10,14,18,home,win,85.0,MILWAUKEE BUCKS,77.0
+CLEVELAND CAVALIERS,240,27,78,2,10,13,17,13,28,12,6,6,11,21,away,loss,69.0,DETROIT PISTONS,81.0
+DETROIT PISTONS,240,29,71,3,7,20,24,11,29,16,5,5,10,17,home,win,81.0,CLEVELAND CAVALIERS,69.0
+LOS ANGELES LAKERS,240,46,83,12,26,11,14,8,33,26,4,3,11,19,away,win,115.0,SACRAMENTO KINGS,99.0
+SACRAMENTO KINGS,240,41,90,5,17,12,18,15,26,24,4,5,10,17,home,loss,99.0,LOS ANGELES LAKERS,115.0

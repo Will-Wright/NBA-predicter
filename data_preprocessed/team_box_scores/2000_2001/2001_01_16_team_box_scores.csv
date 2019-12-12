@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+TORONTO RAPTORS,240,39,86,2,10,19,30,9,26,24,7,1,3,24,away,loss,99.0,HOUSTON ROCKETS,114.0
+HOUSTON ROCKETS,240,41,77,10,18,22,32,10,34,25,2,1,12,23,home,win,114.0,TORONTO RAPTORS,99.0
+DETROIT PISTONS,240,35,85,2,8,13,24,9,32,18,7,6,8,26,away,loss,85.0,MIAMI HEAT,93.0
+MIAMI HEAT,240,31,73,4,14,27,35,7,44,19,5,1,11,21,home,win,93.0,DETROIT PISTONS,85.0
+LOS ANGELES CLIPPERS,240,36,85,6,20,13,20,12,31,19,7,1,15,13,away,loss,91.0,MILWAUKEE BUCKS,112.0
+MILWAUKEE BUCKS,240,47,85,8,17,10,13,7,36,31,10,3,12,20,home,win,112.0,LOS ANGELES CLIPPERS,91.0
+CLEVELAND CAVALIERS,240,31,76,2,5,19,21,11,24,23,6,2,13,21,away,loss,83.0,PORTLAND TRAIL BLAZERS,103.0
+PORTLAND TRAIL BLAZERS,240,39,75,7,18,18,25,9,29,27,7,6,11,17,home,win,103.0,CLEVELAND CAVALIERS,83.0

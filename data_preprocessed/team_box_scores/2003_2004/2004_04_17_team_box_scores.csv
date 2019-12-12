@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+BOSTON CELTICS,240,29,72,8,14,22,29,12,26,15,8,3,18,22,away,loss,88.0,INDIANA PACERS,104.0
+INDIANA PACERS,240,39,84,5,12,21,27,16,30,23,9,10,18,25,home,win,104.0,BOSTON CELTICS,88.0
+HOUSTON ROCKETS,240,29,76,2,12,11,16,12,39,13,8,5,20,22,away,loss,71.0,LOS ANGELES LAKERS,72.0
+LOS ANGELES LAKERS,240,25,76,6,15,16,28,13,28,21,11,4,15,20,home,win,72.0,HOUSTON ROCKETS,71.0
+NEW YORK KNICKS,240,29,77,2,9,23,28,13,23,18,9,6,16,32,away,loss,83.0,NEW JERSEY NETS,107.0
+NEW JERSEY NETS,240,36,72,5,17,30,38,9,29,25,10,5,16,24,home,win,107.0,NEW YORK KNICKS,83.0
+MEMPHIS GRIZZLIES,240,23,66,4,13,24,28,12,26,10,12,6,20,20,away,loss,74.0,SAN ANTONIO SPURS,98.0
+SAN ANTONIO SPURS,240,41,76,6,13,10,13,7,29,26,9,8,18,21,home,win,98.0,MEMPHIS GRIZZLIES,74.0

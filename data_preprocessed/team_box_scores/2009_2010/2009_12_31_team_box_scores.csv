@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHICAGO BULLS,240,33,69,2,7,30,35,13,36,19,9,8,24,20,away,win,98.0,DETROIT PISTONS,87.0
+DETROIT PISTONS,240,34,88,5,18,14,18,14,19,17,9,7,12,25,home,loss,87.0,CHICAGO BULLS,98.0
+DALLAS MAVERICKS,240,37,82,2,12,18,22,8,34,15,9,9,11,14,away,loss,94.0,HOUSTON ROCKETS,97.0
+HOUSTON ROCKETS,240,40,90,10,28,7,11,11,37,24,7,2,14,18,home,win,97.0,DALLAS MAVERICKS,94.0
+PHILADELPHIA 76ERS,240,32,85,4,16,20,22,11,24,25,11,10,11,16,away,loss,88.0,LOS ANGELES CLIPPERS,104.0
+LOS ANGELES CLIPPERS,240,41,75,10,16,12,19,9,34,29,3,8,20,18,home,win,104.0,PHILADELPHIA 76ERS,88.0
+UTAH JAZZ,240,37,90,0,9,12,17,17,27,20,8,5,14,22,away,loss,86.0,OKLAHOMA CITY THUNDER,87.0
+OKLAHOMA CITY THUNDER,240,35,74,3,11,14,28,10,33,24,5,5,19,19,home,win,87.0,UTAH JAZZ,86.0
+MIAMI HEAT,240,33,75,3,12,9,16,5,23,15,10,7,17,20,away,loss,78.0,SAN ANTONIO SPURS,108.0
+SAN ANTONIO SPURS,240,42,79,4,13,20,22,8,35,29,10,4,19,14,home,win,108.0,MIAMI HEAT,78.0

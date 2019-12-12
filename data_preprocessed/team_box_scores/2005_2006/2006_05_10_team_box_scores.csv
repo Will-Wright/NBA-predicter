@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW JERSEY NETS,240,28,70,5,16,28,35,9,21,15,8,4,13,27,away,loss,89.0,MIAMI HEAT,111.0
+MIAMI HEAT,240,39,74,11,20,22,31,9,29,22,5,0,12,25,home,win,111.0,NEW JERSEY NETS,89.0
+LOS ANGELES CLIPPERS,240,49,90,4,9,20,25,19,38,15,6,3,12,23,away,win,122.0,PHOENIX SUNS,97.0
+PHOENIX SUNS,240,36,79,9,26,16,23,5,21,24,4,9,10,21,home,loss,97.0,LOS ANGELES CLIPPERS,122.0

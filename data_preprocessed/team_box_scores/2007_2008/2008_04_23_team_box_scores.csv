@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ATLANTA HAWKS,240,23,60,0,5,31,40,5,30,10,4,5,21,22,away,loss,77.0,BOSTON CELTICS,96.0
+BOSTON CELTICS,240,35,84,7,18,19,26,13,32,23,15,3,12,33,home,win,96.0,ATLANTA HAWKS,77.0
+PHILADELPHIA 76ERS,240,32,81,1,6,23,35,19,15,12,5,3,10,16,away,loss,88.0,DETROIT PISTONS,105.0
+DETROIT PISTONS,240,45,82,4,12,11,15,14,28,26,3,6,14,22,home,win,105.0,PHILADELPHIA 76ERS,88.0
+DENVER NUGGETS,240,37,84,4,19,29,36,15,30,12,7,5,14,26,away,loss,107.0,LOS ANGELES LAKERS,122.0
+LOS ANGELES LAKERS,240,46,91,12,28,18,24,12,29,33,5,3,11,25,home,win,122.0,DENVER NUGGETS,107.0

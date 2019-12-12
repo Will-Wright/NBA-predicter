@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SACRAMENTO KINGS,240,35,81,1,17,34,38,14,27,20,11,2,19,25,away,loss,105.0,GOLDEN STATE WARRIORS,117.0
+GOLDEN STATE WARRIORS,240,45,78,8,20,19,28,8,31,29,8,6,20,27,home,win,117.0,SACRAMENTO KINGS,105.0
+CHICAGO BULLS,240,35,79,7,20,23,29,7,28,15,10,3,12,29,away,loss,100.0,HOUSTON ROCKETS,101.0
+HOUSTON ROCKETS,240,34,78,10,30,23,28,11,37,21,5,3,18,25,home,win,101.0,CHICAGO BULLS,100.0

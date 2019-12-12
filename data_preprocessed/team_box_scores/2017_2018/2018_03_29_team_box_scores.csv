@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,37,89,6,32,12,15,12,31,28,9,6,15,19,away,loss,92.0,DETROIT PISTONS,103.0
+DETROIT PISTONS,240,41,84,6,21,15,20,10,34,26,9,3,16,14,home,win,103.0,WASHINGTON WIZARDS,92.0
+MILWAUKEE BUCKS,240,48,87,11,20,9,10,7,29,30,16,3,15,17,away,win,116.0,GOLDEN STATE WARRIORS,107.0
+GOLDEN STATE WARRIORS,240,41,75,10,20,15,15,2,29,26,10,7,18,19,home,loss,107.0,MILWAUKEE BUCKS,116.0
+CHICAGO BULLS,240,33,90,6,26,20,26,14,36,19,10,5,18,19,away,loss,92.0,MIAMI HEAT,103.0
+MIAMI HEAT,240,37,82,7,27,22,24,7,37,20,7,7,17,23,home,win,103.0,CHICAGO BULLS,92.0
+INDIANA PACERS,240,40,80,8,26,18,20,7,27,23,9,4,10,17,away,win,106.0,SACRAMENTO KINGS,103.0
+SACRAMENTO KINGS,240,42,78,13,31,6,9,6,26,27,3,2,18,24,home,loss,103.0,INDIANA PACERS,106.0
+OKLAHOMA CITY THUNDER,240,37,85,11,30,14,21,10,33,19,11,3,15,23,away,loss,99.0,SAN ANTONIO SPURS,103.0
+SAN ANTONIO SPURS,240,34,81,13,31,22,30,14,34,22,13,6,16,18,home,win,103.0,OKLAHOMA CITY THUNDER,99.0

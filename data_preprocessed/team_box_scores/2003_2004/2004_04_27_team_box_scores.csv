@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MINNESOTA TIMBERWOLVES,240,30,66,3,7,21,30,5,35,15,9,7,17,22,away,win,84.0,DENVER NUGGETS,82.0
+DENVER NUGGETS,240,33,92,7,13,9,15,20,31,18,8,1,14,24,home,loss,82.0,MINNESOTA TIMBERWOLVES,84.0
+MIAMI HEAT,240,32,79,5,22,16,18,12,23,21,7,2,12,24,away,loss,85.0,NEW ORLEANS HORNETS,96.0
+NEW ORLEANS HORNETS,240,35,70,7,17,19,22,8,29,27,4,4,12,18,home,win,96.0,MIAMI HEAT,85.0

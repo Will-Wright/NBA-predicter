@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW YORK KNICKS,240,37,69,6,12,15,18,9,26,30,9,1,15,26,away,win,95.0,CLEVELAND CAVALIERS,90.0
+CLEVELAND CAVALIERS,240,32,70,9,24,17,20,11,22,22,5,2,19,15,home,loss,90.0,NEW YORK KNICKS,95.0
+UTAH JAZZ,240,36,83,14,35,16,18,15,25,22,6,0,16,21,away,loss,102.0,DALLAS MAVERICKS,120.0
+DALLAS MAVERICKS,240,47,85,8,21,18,23,13,31,25,8,5,9,15,home,win,120.0,UTAH JAZZ,102.0
+OKLAHOMA CITY THUNDER,240,28,65,6,21,28,34,8,39,23,5,2,22,27,away,loss,90.0,LOS ANGELES CLIPPERS,93.0
+LOS ANGELES CLIPPERS,240,34,87,7,30,18,25,14,19,17,10,4,11,27,home,win,93.0,OKLAHOMA CITY THUNDER,90.0
+DETROIT PISTONS,240,38,91,7,21,8,13,14,32,20,3,5,12,24,away,loss,91.0,MINNESOTA TIMBERWOLVES,97.0
+MINNESOTA TIMBERWOLVES,240,37,76,4,10,19,28,10,33,18,8,3,12,21,home,win,97.0,DETROIT PISTONS,91.0
+WASHINGTON WIZARDS,240,39,80,7,13,20,26,6,31,22,10,0,12,25,away,win,105.0,ORLANDO MAGIC,98.0
+ORLANDO MAGIC,240,37,72,6,15,18,24,3,30,20,4,1,18,23,home,loss,98.0,WASHINGTON WIZARDS,105.0

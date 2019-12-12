@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHILADELPHIA 76ERS,240,34,73,6,17,15,17,8,33,18,10,5,22,20,away,win,89.0,BOSTON CELTICS,80.0
+BOSTON CELTICS,240,30,74,7,29,13,17,3,28,13,7,5,19,20,home,loss,80.0,PHILADELPHIA 76ERS,89.0
+ORLANDO MAGIC,240,41,88,5,22,16,21,9,33,25,12,6,14,22,away,loss,103.0,CLEVELAND CAVALIERS,104.0
+CLEVELAND CAVALIERS,240,38,85,10,34,18,27,14,32,22,8,4,20,21,home,win,104.0,ORLANDO MAGIC,103.0
+MINNESOTA TIMBERWOLVES,240,38,81,8,24,14,21,8,32,24,8,8,11,16,away,loss,98.0,HOUSTON ROCKETS,116.0
+HOUSTON ROCKETS,240,42,88,17,39,15,17,11,34,24,11,5,9,15,home,win,116.0,MINNESOTA TIMBERWOLVES,98.0
+INDIANA PACERS,240,36,91,7,26,7,13,10,36,17,4,4,8,16,away,loss,86.0,PORTLAND TRAIL BLAZERS,100.0
+PORTLAND TRAIL BLAZERS,240,37,94,10,32,16,16,14,43,17,6,7,11,11,home,win,100.0,INDIANA PACERS,86.0

@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,39,79,5,13,25,38,14,26,21,7,7,14,24,away,loss,108.0,CHARLOTTE BOBCATS,119.0
+CHARLOTTE BOBCATS,240,42,75,14,22,21,25,4,23,39,9,6,13,25,home,win,119.0,ORLANDO MAGIC,108.0
+DALLAS MAVERICKS,240,33,78,7,20,27,35,20,30,21,8,3,23,25,away,loss,100.0,GOLDEN STATE WARRIORS,117.0
+GOLDEN STATE WARRIORS,240,44,77,8,21,21,30,5,23,31,13,6,14,26,home,win,117.0,DALLAS MAVERICKS,100.0
+NEW JERSEY NETS,240,42,86,7,19,22,31,13,31,23,10,2,10,23,away,win,113.0,MEMPHIS GRIZZLIES,102.0
+MEMPHIS GRIZZLIES,240,38,80,2,11,24,29,9,30,16,6,8,13,21,home,loss,102.0,NEW JERSEY NETS,113.0
+TORONTO RAPTORS,240,42,85,8,22,16,20,13,26,22,9,3,15,21,away,win,108.0,MILWAUKEE BUCKS,93.0
+MILWAUKEE BUCKS,240,35,70,1,11,22,28,8,26,20,6,0,20,25,home,loss,93.0,TORONTO RAPTORS,108.0
+HOUSTON ROCKETS,240,32,83,5,19,13,18,8,28,13,4,1,9,12,away,loss,82.0,PHOENIX SUNS,103.0
+PHOENIX SUNS,240,43,86,9,15,8,11,10,40,18,3,6,10,13,home,win,103.0,HOUSTON ROCKETS,82.0

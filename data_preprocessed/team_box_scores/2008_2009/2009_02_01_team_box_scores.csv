@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MINNESOTA TIMBERWOLVES,240,38,78,5,18,20,23,7,30,27,6,6,14,25,away,loss,101.0,BOSTON CELTICS,109.0
+BOSTON CELTICS,240,40,83,5,15,24,30,15,26,25,11,4,11,20,home,win,109.0,MINNESOTA TIMBERWOLVES,101.0
+CLEVELAND CAVALIERS,240,35,74,7,15,13,21,11,31,16,4,4,12,17,away,win,90.0,DETROIT PISTONS,80.0
+DETROIT PISTONS,240,32,76,2,9,14,18,9,26,13,5,3,9,18,home,loss,80.0,CLEVELAND CAVALIERS,90.0
+OKLAHOMA CITY THUNDER,265,41,90,3,14,33,39,21,30,21,6,3,18,29,away,loss,118.0,SACRAMENTO KINGS,122.0
+SACRAMENTO KINGS,265,44,97,7,22,27,34,17,26,25,9,8,14,28,home,win,122.0,OKLAHOMA CITY THUNDER,118.0
+ORLANDO MAGIC,240,39,87,13,30,22,29,10,39,21,7,5,9,17,away,win,113.0,TORONTO RAPTORS,90.0
+TORONTO RAPTORS,240,35,87,2,11,18,19,7,38,16,5,6,10,19,home,loss,90.0,ORLANDO MAGIC,113.0

@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MILWAUKEE BUCKS,240,25,79,4,28,25,27,8,32,9,8,1,15,23,away,loss,79.0,MIAMI HEAT,97.0
+MIAMI HEAT,240,35,76,11,29,16,20,3,46,23,8,8,13,18,home,win,97.0,MILWAUKEE BUCKS,79.0
+PORTLAND TRAIL BLAZERS,240,39,79,11,25,14,17,8,30,19,6,3,17,27,away,loss,103.0,MINNESOTA TIMBERWOLVES,120.0
+MINNESOTA TIMBERWOLVES,240,43,80,7,19,27,33,7,31,21,12,3,11,17,home,win,120.0,PORTLAND TRAIL BLAZERS,103.0
+NEW ORLEANS PELICANS,265,45,95,9,32,24,34,12,34,19,17,7,19,17,away,win,123.0,NEW YORK KNICKS,118.0
+NEW YORK KNICKS,265,46,97,12,34,14,18,10,34,28,12,7,22,27,home,loss,118.0,NEW ORLEANS PELICANS,123.0
+INDIANA PACERS,240,48,88,11,23,13,14,8,34,20,9,1,6,22,away,win,120.0,PHOENIX SUNS,97.0
+PHOENIX SUNS,240,35,85,9,37,18,24,14,31,20,2,1,12,16,home,loss,97.0,INDIANA PACERS,120.0

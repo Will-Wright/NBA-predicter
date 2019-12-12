@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES LAKERS,240,37,86,6,22,23,28,17,35,29,7,6,11,19,away,win,103.0,CHICAGO BULLS,91.0
+CHICAGO BULLS,240,38,79,3,12,12,17,7,34,27,6,7,18,22,home,loss,91.0,LOS ANGELES LAKERS,103.0
+TORONTO RAPTORS,240,30,80,3,15,17,26,11,32,19,7,9,6,17,away,win,80.0,LOS ANGELES CLIPPERS,77.0
+LOS ANGELES CLIPPERS,240,30,77,5,14,12,14,11,39,23,2,4,15,20,home,loss,77.0,TORONTO RAPTORS,80.0
+SACRAMENTO KINGS,240,35,77,13,21,23,28,7,24,23,9,5,14,20,away,win,106.0,NEW JERSEY NETS,101.0
+NEW JERSEY NETS,240,39,77,4,15,19,26,13,32,27,7,9,20,20,home,loss,101.0,SACRAMENTO KINGS,106.0

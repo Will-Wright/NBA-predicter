@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PORTLAND TRAIL BLAZERS,240,36,81,6,22,15,21,13,26,18,10,0,15,14,away,win,93.0,ATLANTA HAWKS,85.0
+ATLANTA HAWKS,240,36,80,4,15,9,14,13,28,23,9,5,17,20,home,loss,85.0,PORTLAND TRAIL BLAZERS,93.0
+NEW JERSEY NETS,240,40,85,3,12,6,9,8,29,26,11,4,8,24,away,win,89.0,ORLANDO MAGIC,79.0
+ORLANDO MAGIC,240,28,71,4,10,19,29,9,35,15,4,4,18,15,home,loss,79.0,NEW JERSEY NETS,89.0
+SACRAMENTO KINGS,240,37,74,9,14,13,16,7,31,26,8,1,12,13,away,win,96.0,SAN ANTONIO SPURS,91.0
+SAN ANTONIO SPURS,240,39,82,7,11,6,10,12,29,17,6,5,15,17,home,loss,91.0,SACRAMENTO KINGS,96.0

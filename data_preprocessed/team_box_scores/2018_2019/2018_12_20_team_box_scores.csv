@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DALLAS MAVERICKS,240,43,92,10,28,25,33,16,29,24,8,0,11,30,away,loss,121.0,LOS ANGELES CLIPPERS,125.0
+LOS ANGELES CLIPPERS,240,47,83,6,20,25,31,11,29,26,5,5,12,25,home,win,125.0,DALLAS MAVERICKS,121.0
+HOUSTON ROCKETS,240,29,82,18,54,23,30,8,33,20,6,3,8,23,away,loss,99.0,MIAMI HEAT,101.0
+MIAMI HEAT,240,36,93,9,39,20,34,20,41,22,6,4,9,18,home,win,101.0,HOUSTON ROCKETS,99.0

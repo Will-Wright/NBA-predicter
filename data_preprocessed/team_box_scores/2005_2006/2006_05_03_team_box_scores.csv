@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,265,44,84,9,20,23,29,11,23,23,6,1,11,31,away,loss,120.0,CLEVELAND CAVALIERS,121.0
+CLEVELAND CAVALIERS,265,44,81,1,5,32,43,15,31,15,5,3,12,26,home,win,121.0,WASHINGTON WIZARDS,120.0
+MILWAUKEE BUCKS,240,36,82,1,10,20,23,10,19,18,9,1,11,27,away,loss,93.0,DETROIT PISTONS,122.0
+DETROIT PISTONS,240,40,74,10,17,32,39,13,35,30,4,2,14,21,home,win,122.0,MILWAUKEE BUCKS,93.0

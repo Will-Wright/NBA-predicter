@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MIAMI HEAT,240,34,74,10,21,14,23,4,31,20,7,4,18,20,away,loss,92.0,CHICAGO BULLS,99.0
+CHICAGO BULLS,240,38,85,3,13,20,25,13,40,19,7,4,14,17,home,win,99.0,MIAMI HEAT,92.0
+DALLAS MAVERICKS,240,36,90,7,17,18,25,20,25,8,5,4,13,24,away,loss,97.0,PHOENIX SUNS,109.0
+PHOENIX SUNS,240,41,72,5,14,22,26,8,29,24,5,7,11,24,home,win,109.0,DALLAS MAVERICKS,97.0

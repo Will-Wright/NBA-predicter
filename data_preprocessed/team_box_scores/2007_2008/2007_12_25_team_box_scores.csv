@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MIAMI HEAT,240,31,72,1,8,19,35,12,32,16,5,2,18,27,away,loss,82.0,CLEVELAND CAVALIERS,96.0
+CLEVELAND CAVALIERS,240,34,77,4,13,24,34,11,31,23,10,3,13,28,home,win,96.0,MIAMI HEAT,82.0
+PHOENIX SUNS,240,42,89,10,24,21,32,11,27,31,7,7,10,23,away,loss,115.0,LOS ANGELES LAKERS,122.0
+LOS ANGELES LAKERS,240,46,88,3,12,27,32,13,34,26,8,5,14,27,home,win,122.0,PHOENIX SUNS,115.0
+SEATTLE SUPERSONICS,240,31,76,5,13,12,18,12,38,22,3,3,13,15,away,loss,79.0,PORTLAND TRAIL BLAZERS,89.0
+PORTLAND TRAIL BLAZERS,240,36,93,7,19,10,14,19,34,27,5,0,6,19,home,win,89.0,SEATTLE SUPERSONICS,79.0

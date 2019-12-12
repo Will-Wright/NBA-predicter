@@ -1,0 +1,3 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DALLAS MAVERICKS,240,38,74,7,16,23,26,8,24,26,8,5,12,21,away,win,106.0,BOSTON CELTICS,98.0
+BOSTON CELTICS,240,36,81,5,18,21,25,16,28,24,9,4,12,24,home,loss,98.0,DALLAS MAVERICKS,106.0

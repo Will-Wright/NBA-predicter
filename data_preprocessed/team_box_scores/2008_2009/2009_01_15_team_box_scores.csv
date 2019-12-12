@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,265,33,79,10,26,17,25,8,36,16,5,4,16,23,away,loss,93.0,CHICAGO BULLS,102.0
+CHICAGO BULLS,265,38,85,7,13,19,26,10,33,22,8,7,14,20,home,win,102.0,CLEVELAND CAVALIERS,93.0
+PHOENIX SUNS,265,39,88,7,27,28,31,11,36,27,9,6,23,30,away,loss,113.0,DENVER NUGGETS,119.0
+DENVER NUGGETS,265,41,94,6,24,31,43,15,33,27,15,3,17,28,home,win,119.0,PHOENIX SUNS,113.0
+PORTLAND TRAIL BLAZERS,240,37,77,5,14,26,33,12,33,18,6,3,8,17,away,win,105.0,NEW JERSEY NETS,99.0
+NEW JERSEY NETS,240,39,76,9,23,12,17,6,28,22,5,5,10,27,home,loss,99.0,PORTLAND TRAIL BLAZERS,105.0

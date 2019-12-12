@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ATLANTA HAWKS,240,39,79,9,23,11,20,11,30,25,7,4,14,24,away,loss,98.0,INDIANA PACERS,113.0
+INDIANA PACERS,240,41,87,10,25,21,29,15,32,22,10,5,10,19,home,win,113.0,ATLANTA HAWKS,98.0
+HOUSTON ROCKETS,240,36,91,10,35,20,25,18,39,16,4,3,16,23,away,loss,102.0,OKLAHOMA CITY THUNDER,105.0
+OKLAHOMA CITY THUNDER,240,37,85,11,35,20,24,10,30,20,8,9,12,22,home,win,105.0,HOUSTON ROCKETS,102.0
+LOS ANGELES LAKERS,240,37,82,8,22,9,13,12,28,18,5,9,13,20,away,loss,91.0,SAN ANTONIO SPURS,102.0
+SAN ANTONIO SPURS,240,42,82,7,14,11,14,9,28,21,7,7,8,17,home,win,102.0,LOS ANGELES LAKERS,91.0

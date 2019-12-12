@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,34,82,3,10,15,18,16,21,14,3,3,10,17,away,loss,86.0,DETROIT PISTONS,113.0
+DETROIT PISTONS,240,42,81,15,22,14,18,12,28,23,4,9,10,19,home,win,113.0,CLEVELAND CAVALIERS,86.0
+DALLAS MAVERICKS,240,32,77,2,7,19,28,13,34,8,9,7,12,24,away,loss,85.0,SAN ANTONIO SPURS,87.0
+SAN ANTONIO SPURS,240,31,75,3,13,22,30,11,29,11,8,4,12,20,home,win,87.0,DALLAS MAVERICKS,85.0

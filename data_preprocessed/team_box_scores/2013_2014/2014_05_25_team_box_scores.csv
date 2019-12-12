@@ -1,0 +1,3 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SAN ANTONIO SPURS,240,36,91,10,26,15,16,11,25,22,6,2,16,20,away,loss,97.0,OKLAHOMA CITY THUNDER,106.0
+OKLAHOMA CITY THUNDER,240,37,81,6,22,26,31,15,37,17,7,10,18,24,home,win,106.0,SAN ANTONIO SPURS,97.0

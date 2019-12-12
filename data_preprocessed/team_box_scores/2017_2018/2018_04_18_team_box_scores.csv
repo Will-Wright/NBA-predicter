@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+INDIANA PACERS,240,41,78,6,22,9,12,5,31,22,8,3,17,23,away,loss,97.0,CLEVELAND CAVALIERS,100.0
+CLEVELAND CAVALIERS,240,37,73,11,28,15,22,6,24,15,8,2,15,19,home,win,100.0,INDIANA PACERS,97.0
+MINNESOTA TIMBERWOLVES,240,31,80,5,18,15,21,9,43,15,7,7,16,16,away,loss,82.0,HOUSTON ROCKETS,102.0
+HOUSTON ROCKETS,240,35,96,16,52,16,21,12,42,22,8,9,9,17,home,win,102.0,MINNESOTA TIMBERWOLVES,82.0
+UTAH JAZZ,240,35,84,9,29,23,33,15,41,22,9,3,14,19,away,win,102.0,OKLAHOMA CITY THUNDER,95.0
+OKLAHOMA CITY THUNDER,240,36,90,11,35,12,18,10,36,22,11,4,13,25,home,loss,95.0,UTAH JAZZ,102.0

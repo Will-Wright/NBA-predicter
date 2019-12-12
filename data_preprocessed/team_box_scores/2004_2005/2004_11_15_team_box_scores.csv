@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+GOLDEN STATE WARRIORS,240,35,83,4,14,14,20,10,26,25,3,1,9,23,away,loss,88.0,CLEVELAND CAVALIERS,99.0
+CLEVELAND CAVALIERS,240,36,73,6,11,21,28,12,34,21,5,7,12,18,home,win,99.0,GOLDEN STATE WARRIORS,88.0
+HOUSTON ROCKETS,240,32,73,5,10,11,16,5,29,22,10,6,12,26,away,win,80.0,NEW JERSEY NETS,69.0
+NEW JERSEY NETS,240,23,75,2,10,21,25,18,35,12,4,8,19,24,home,loss,69.0,HOUSTON ROCKETS,80.0

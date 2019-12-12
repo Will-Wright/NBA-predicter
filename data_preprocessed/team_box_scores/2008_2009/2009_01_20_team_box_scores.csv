@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ATLANTA HAWKS,240,37,85,9,25,22,28,12,22,21,9,1,9,21,away,win,105.0,CHICAGO BULLS,102.0
+CHICAGO BULLS,240,40,83,4,16,18,25,20,28,25,7,9,17,22,home,loss,102.0,ATLANTA HAWKS,105.0
+SACRAMENTO KINGS,240,35,82,11,22,18,22,7,26,23,6,2,18,32,away,loss,99.0,DENVER NUGGETS,118.0
+DENVER NUGGETS,240,40,71,3,14,35,46,7,34,28,12,6,17,17,home,win,118.0,SACRAMENTO KINGS,99.0
+INDIANA PACERS,240,30,81,7,16,14,16,4,32,16,7,3,14,21,away,loss,81.0,SAN ANTONIO SPURS,99.0
+SAN ANTONIO SPURS,240,37,85,6,15,19,25,16,41,21,9,6,13,17,home,win,99.0,INDIANA PACERS,81.0
+MINNESOTA TIMBERWOLVES,240,44,86,8,20,11,16,12,28,21,6,4,18,25,away,loss,107.0,UTAH JAZZ,112.0
+UTAH JAZZ,240,40,88,5,15,27,29,14,26,27,11,4,12,15,home,win,112.0,MINNESOTA TIMBERWOLVES,107.0

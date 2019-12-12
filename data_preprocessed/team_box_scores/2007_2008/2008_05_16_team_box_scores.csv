@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+BOSTON CELTICS,240,27,68,4,16,11,13,7,30,19,8,5,17,25,away,loss,69.0,CLEVELAND CAVALIERS,74.0
+CLEVELAND CAVALIERS,240,24,73,5,16,21,25,16,29,10,5,7,14,16,home,win,74.0,BOSTON CELTICS,69.0
+LOS ANGELES LAKERS,240,35,70,7,11,31,38,5,33,19,6,8,14,24,away,win,108.0,UTAH JAZZ,105.0
+UTAH JAZZ,240,37,97,9,24,22,25,20,32,22,8,6,11,26,home,loss,105.0,LOS ANGELES LAKERS,108.0

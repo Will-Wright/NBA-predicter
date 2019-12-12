@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,33,75,10,26,19,30,4,39,21,7,9,16,19,away,win,95.0,LOS ANGELES CLIPPERS,88.0
+LOS ANGELES CLIPPERS,240,37,96,5,15,9,13,16,35,19,7,6,13,23,home,loss,88.0,ORLANDO MAGIC,95.0
+HOUSTON ROCKETS,240,35,72,9,21,18,25,6,27,16,2,3,16,21,away,loss,97.0,MEMPHIS GRIZZLIES,109.0
+MEMPHIS GRIZZLIES,240,39,76,7,16,24,32,10,27,16,7,7,6,25,home,win,109.0,HOUSTON ROCKETS,97.0
+CHARLOTTE BOBCATS,240,34,78,10,20,18,26,11,26,22,6,2,9,29,away,loss,96.0,MIAMI HEAT,100.0
+MIAMI HEAT,240,32,75,6,15,30,41,14,32,12,4,4,10,20,home,win,100.0,CHARLOTTE BOBCATS,96.0
+GOLDEN STATE WARRIORS,240,41,81,4,13,26,33,11,36,17,13,7,22,19,away,win,112.0,OKLAHOMA CITY THUNDER,102.0
+OKLAHOMA CITY THUNDER,240,41,96,8,23,12,20,17,31,26,7,8,21,26,home,loss,102.0,GOLDEN STATE WARRIORS,112.0

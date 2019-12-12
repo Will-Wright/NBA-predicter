@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+MINNESOTA TIMBERWOLVES,240,33,76,7,16,14,18,11,29,18,8,3,21,22
+LOS ANGELES CLIPPERS,240,35,83,2,14,19,22,16,28,20,10,2,13,16
+SACRAMENTO KINGS,240,41,83,6,16,17,23,10,25,19,8,1,21,29
+MEMPHIS GRIZZLIES,240,41,76,3,9,31,42,11,27,21,7,7,16,24
+CHICAGO BULLS,240,37,80,6,13,18,22,8,19,23,4,4,6,28
+PORTLAND TRAIL BLAZERS,240,42,73,6,15,32,40,14,33,24,2,4,10,18
+MILWAUKEE BUCKS,240,41,83,7,16,9,14,9,20,24,9,5,9,21
+SAN ANTONIO SPURS,240,40,78,10,21,22,26,13,33,24,5,3,16,14

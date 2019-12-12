@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MIAMI HEAT,240,47,83,10,24,14,21,9,34,30,7,5,9,28,away,win,118.0,CLEVELAND CAVALIERS,90.0
+CLEVELAND CAVALIERS,240,27,76,7,19,29,37,9,26,21,6,0,13,19,home,loss,90.0,MIAMI HEAT,118.0
+PHOENIX SUNS,240,40,73,6,18,21,22,4,33,25,4,3,16,16,away,win,107.0,GOLDEN STATE WARRIORS,101.0
+GOLDEN STATE WARRIORS,240,41,82,9,18,10,17,7,24,27,11,3,15,21,home,loss,101.0,PHOENIX SUNS,107.0

@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+UTAH JAZZ,240,33,81,3,8,16,20,15,33,20,9,3,14,23,away,loss,85.0,LOS ANGELES CLIPPERS,94.0
+LOS ANGELES CLIPPERS,240,38,83,2,10,16,29,14,33,28,10,11,13,19,home,win,94.0,UTAH JAZZ,85.0
+TORONTO RAPTORS,240,37,75,7,17,24,28,4,29,17,10,5,14,24,away,win,105.0,NEW YORK KNICKS,93.0
+NEW YORK KNICKS,240,33,77,6,19,21,25,8,29,20,6,0,18,24,home,loss,93.0,TORONTO RAPTORS,105.0
+BOSTON CELTICS,240,31,68,3,14,40,49,10,34,20,11,3,19,26,away,win,105.0,PHILADELPHIA 76ERS,98.0
+PHILADELPHIA 76ERS,240,35,78,5,20,23,30,6,27,23,10,6,16,31,home,loss,98.0,BOSTON CELTICS,105.0
+NEW ORLEANS HORNETS,240,36,95,3,17,10,16,12,34,19,8,6,7,21,away,loss,85.0,PHOENIX SUNS,99.0
+PHOENIX SUNS,240,33,79,13,27,20,24,8,41,21,4,10,13,14,home,win,99.0,NEW ORLEANS HORNETS,85.0
+PORTLAND TRAIL BLAZERS,240,36,80,2,6,15,24,10,28,17,8,14,9,20,away,loss,89.0,SAN ANTONIO SPURS,95.0
+SAN ANTONIO SPURS,240,36,86,8,17,15,26,19,32,20,6,5,10,18,home,win,95.0,PORTLAND TRAIL BLAZERS,89.0

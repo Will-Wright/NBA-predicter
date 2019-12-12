@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,31,69,3,9,22,33,11,31,17,8,6,15,20,away,win,87.0,BOSTON CELTICS,83.0
+BOSTON CELTICS,240,33,77,2,12,15,19,11,32,19,5,4,18,23,home,loss,83.0,ORLANDO MAGIC,87.0
+NEW JERSEY NETS,240,34,74,8,22,25,35,8,31,26,7,2,16,27,away,win,101.0,DENVER NUGGETS,92.0
+DENVER NUGGETS,240,29,77,4,16,30,47,19,31,16,14,5,14,24,home,loss,92.0,NEW JERSEY NETS,101.0
+NEW ORLEANS/OKLAHOMA CITY HORNETS,240,31,74,2,11,19,26,11,31,19,6,2,17,21,away,loss,83.0,GOLDEN STATE WARRIORS,99.0
+GOLDEN STATE WARRIORS,240,39,88,7,22,14,17,18,29,21,10,3,13,26,home,win,99.0,NEW ORLEANS/OKLAHOMA CITY HORNETS,83.0
+NEW YORK KNICKS,240,39,82,6,10,10,18,10,25,19,3,2,12,26,away,loss,94.0,MIAMI HEAT,107.0
+MIAMI HEAT,240,35,74,7,18,30,34,11,30,19,7,13,10,16,home,win,107.0,NEW YORK KNICKS,94.0
+DALLAS MAVERICKS,240,39,88,7,20,8,13,15,28,23,7,6,8,19,away,win,93.0,TORONTO RAPTORS,91.0
+TORONTO RAPTORS,240,34,79,5,17,18,21,12,33,18,4,1,12,18,home,loss,91.0,DALLAS MAVERICKS,93.0

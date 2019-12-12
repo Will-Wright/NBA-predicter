@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES LAKERS,240,43,90,7,19,12,16,12,33,27,11,1,12,25,away,win,105.0,BOSTON CELTICS,97.0
+BOSTON CELTICS,240,34,80,5,21,24,30,12,32,22,7,9,15,18,home,loss,97.0,LOS ANGELES LAKERS,105.0
+ATLANTA HAWKS,240,37,80,6,17,4,12,14,26,20,8,4,17,24,away,loss,84.0,DETROIT PISTONS,91.0
+DETROIT PISTONS,240,36,79,7,24,12,16,10,27,22,10,8,13,14,home,win,91.0,ATLANTA HAWKS,84.0
+LOS ANGELES CLIPPERS,240,35,73,6,15,23,29,4,35,18,8,5,10,21,away,win,99.0,HOUSTON ROCKETS,91.0
+HOUSTON ROCKETS,240,36,84,3,16,16,22,12,33,24,6,1,11,22,home,loss,91.0,LOS ANGELES CLIPPERS,99.0
+MILWAUKEE BUCKS,240,37,72,6,14,20,30,11,30,20,5,3,10,21,away,win,100.0,PORTLAND TRAIL BLAZERS,93.0
+PORTLAND TRAIL BLAZERS,240,35,87,9,27,14,20,14,24,23,5,2,7,23,home,loss,93.0,MILWAUKEE BUCKS,100.0

@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW JERSEY NETS,240,30,87,1,16,16,22,10,34,19,8,1,7,26,away,loss,77.0,CHICAGO BULLS,86.0
+CHICAGO BULLS,240,29,72,4,9,24,34,8,41,24,4,10,13,22,home,win,86.0,NEW JERSEY NETS,77.0
+DETROIT PISTONS,240,35,83,4,12,22,31,9,23,16,7,9,15,39,away,loss,96.0,WASHINGTON WIZARDS,110.0
+WASHINGTON WIZARDS,240,34,75,5,9,37,47,14,36,18,5,3,17,32,home,win,110.0,DETROIT PISTONS,96.0

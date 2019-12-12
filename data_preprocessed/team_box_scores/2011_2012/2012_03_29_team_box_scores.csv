@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,33,78,7,22,16,25,15,30,17,5,10,17,22,away,loss,89.0,INDIANA PACERS,93.0
+INDIANA PACERS,240,31,79,6,16,25,32,10,30,19,9,6,7,23,home,win,93.0,WASHINGTON WIZARDS,89.0
+OKLAHOMA CITY THUNDER,240,42,91,5,12,13,17,19,29,18,5,12,10,21,away,win,102.0,LOS ANGELES LAKERS,93.0
+LOS ANGELES LAKERS,240,35,84,4,11,19,23,17,28,15,3,9,12,16,home,loss,93.0,OKLAHOMA CITY THUNDER,102.0
+DALLAS MAVERICKS,240,33,78,9,24,10,13,6,23,21,7,1,15,19,away,loss,85.0,MIAMI HEAT,106.0
+MIAMI HEAT,240,39,80,5,17,23,27,11,33,22,10,5,12,17,home,win,106.0,DALLAS MAVERICKS,85.0
+NEW ORLEANS HORNETS,240,33,71,7,13,20,21,10,24,12,6,5,14,22,away,loss,93.0,PORTLAND TRAIL BLAZERS,99.0
+PORTLAND TRAIL BLAZERS,240,39,80,12,28,9,13,10,23,26,8,8,9,19,home,win,99.0,NEW ORLEANS HORNETS,93.0

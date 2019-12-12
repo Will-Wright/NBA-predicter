@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+BROOKLYN NETS,240,32,72,5,15,16,23,8,26,19,12,4,21,20,away,loss,85.0,CHICAGO BULLS,96.0
+CHICAGO BULLS,240,38,73,6,15,14,14,6,28,25,11,7,19,24,home,win,96.0,BROOKLYN NETS,85.0
+TORONTO RAPTORS,265,46,100,8,22,14,18,13,29,28,9,3,16,26,away,loss,114.0,MILWAUKEE BUCKS,122.0
+MILWAUKEE BUCKS,265,46,92,5,14,25,30,13,35,32,8,7,14,20,home,win,122.0,TORONTO RAPTORS,114.0
+GOLDEN STATE WARRIORS,240,36,86,10,26,15,19,11,24,22,14,3,19,14,away,loss,97.0,PHILADELPHIA 76ERS,104.0
+PHILADELPHIA 76ERS,240,44,85,12,18,4,9,11,37,29,9,5,23,18,home,win,104.0,GOLDEN STATE WARRIORS,97.0
+MINNESOTA TIMBERWOLVES,240,34,87,1,12,25,36,14,33,19,8,5,8,17,away,loss,94.0,PORTLAND TRAIL BLAZERS,109.0
+PORTLAND TRAIL BLAZERS,240,44,90,7,20,14,22,17,38,32,4,7,13,30,home,win,109.0,MINNESOTA TIMBERWOLVES,94.0

@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,30,80,2,11,28,40,14,27,20,9,6,18,22,away,loss,90.0,CHICAGO BULLS,105.0
+CHICAGO BULLS,240,38,80,8,17,21,27,11,35,22,11,5,19,32,home,win,105.0,ORLANDO MAGIC,90.0
+CHARLOTTE BOBCATS,240,36,82,4,9,14,25,12,24,19,9,3,11,23,away,loss,90.0,MIAMI HEAT,113.0
+MIAMI HEAT,240,45,76,9,17,14,28,6,31,24,7,5,11,20,home,win,113.0,CHARLOTTE BOBCATS,90.0
+MEMPHIS GRIZZLIES,240,39,73,10,24,16,24,8,23,26,9,8,15,24,away,win,104.0,MINNESOTA TIMBERWOLVES,95.0
+MINNESOTA TIMBERWOLVES,240,37,73,5,16,16,21,8,24,28,8,4,17,23,home,loss,95.0,MEMPHIS GRIZZLIES,104.0
+NEW JERSEY NETS,240,36,73,6,13,15,23,6,29,20,8,8,12,21,away,win,93.0,NEW YORK KNICKS,87.0
+NEW YORK KNICKS,240,31,76,6,22,19,27,9,30,16,8,2,16,21,home,loss,87.0,NEW JERSEY NETS,93.0
+GOLDEN STATE WARRIORS,240,34,93,7,25,13,23,17,31,25,6,8,7,28,away,loss,88.0,PORTLAND TRAIL BLAZERS,97.0
+PORTLAND TRAIL BLAZERS,240,34,76,4,11,25,39,10,42,24,4,9,11,23,home,win,97.0,GOLDEN STATE WARRIORS,88.0

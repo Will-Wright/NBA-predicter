@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES LAKERS,265,39,91,8,20,22,29,14,31,21,7,4,13,27,away,loss,108.0,DENVER NUGGETS,110.0
+DENVER NUGGETS,265,38,91,5,14,29,35,18,32,26,7,7,14,27,home,win,110.0,LOS ANGELES LAKERS,108.0
+DETROIT PISTONS,240,36,73,5,12,18,27,9,33,19,5,4,10,15,away,win,95.0,MIAMI HEAT,82.0
+MIAMI HEAT,240,33,74,0,10,16,26,11,29,16,3,2,9,20,home,loss,82.0,DETROIT PISTONS,95.0
+CHARLOTTE BOBCATS,240,34,85,4,13,30,39,12,31,21,7,1,9,17,away,loss,102.0,NEW JERSEY NETS,113.0
+NEW JERSEY NETS,240,42,79,8,24,21,32,10,39,31,6,3,12,26,home,win,113.0,CHARLOTTE BOBCATS,102.0

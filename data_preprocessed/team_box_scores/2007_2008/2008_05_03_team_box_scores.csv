@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,30,74,2,15,10,20,9,31,15,5,5,13,23,away,loss,72.0,DETROIT PISTONS,91.0
+DETROIT PISTONS,240,36,84,3,8,16,18,11,36,21,5,8,6,17,home,win,91.0,ORLANDO MAGIC,72.0
+SAN ANTONIO SPURS,240,29,71,12,31,12,21,8,26,19,6,4,13,16,away,loss,82.0,NEW ORLEANS HORNETS,101.0
+NEW ORLEANS HORNETS,240,43,86,4,10,11,15,16,34,23,11,5,7,17,home,win,101.0,SAN ANTONIO SPURS,82.0

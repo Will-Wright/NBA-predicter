@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW JERSEY NETS,315,37,86,11,24,42,55,12,44,24,8,9,22,42,away,win,127.0,DETROIT PISTONS,120.0
+DETROIT PISTONS,315,42,111,6,25,30,42,19,34,28,16,8,15,41,home,loss,120.0,NEW JERSEY NETS,127.0
+SACRAMENTO KINGS,240,27,81,4,17,16,17,9,32,19,9,1,14,25,away,loss,74.0,MINNESOTA TIMBERWOLVES,86.0
+MINNESOTA TIMBERWOLVES,240,30,72,4,14,22,29,11,37,21,7,4,15,21,home,win,86.0,SACRAMENTO KINGS,74.0

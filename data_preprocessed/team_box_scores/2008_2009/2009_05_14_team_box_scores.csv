@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES LAKERS,240,30,84,5,23,15,20,15,30,11,6,5,10,23,away,loss,80.0,HOUSTON ROCKETS,95.0
+HOUSTON ROCKETS,240,36,71,7,18,16,22,7,32,19,6,2,10,19,home,win,95.0,LOS ANGELES LAKERS,80.0
+BOSTON CELTICS,240,32,77,3,18,8,13,12,36,18,7,4,19,28,away,loss,75.0,ORLANDO MAGIC,83.0
+ORLANDO MAGIC,240,30,82,6,26,17,31,16,26,13,9,7,9,15,home,win,83.0,BOSTON CELTICS,75.0

@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW ORLEANS HORNETS,240,33,82,5,15,9,12,10,26,12,11,5,13,17,away,loss,80.0,SAN ANTONIO SPURS,100.0
+SAN ANTONIO SPURS,240,39,76,8,26,14,20,8,37,27,8,6,13,18,home,win,100.0,NEW ORLEANS HORNETS,80.0
+LOS ANGELES LAKERS,265,46,97,9,26,14,25,12,29,20,8,6,12,33,away,loss,115.0,UTAH JAZZ,123.0
+UTAH JAZZ,265,40,76,6,17,37,45,7,34,32,7,10,13,27,home,win,123.0,LOS ANGELES LAKERS,115.0

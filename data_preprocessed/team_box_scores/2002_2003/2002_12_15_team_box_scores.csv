@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW JERSEY NETS,240,31,77,2,10,27,40,10,22,17,7,4,13,32,away,loss,91.0,DETROIT PISTONS,101.0
+DETROIT PISTONS,240,30,65,4,13,37,44,7,30,15,7,6,16,31,home,win,101.0,NEW JERSEY NETS,91.0
+PHILADELPHIA 76ERS,240,41,85,2,7,13,19,16,26,17,8,3,21,28,away,loss,97.0,INDIANA PACERS,107.0
+INDIANA PACERS,240,39,75,4,8,25,40,12,28,22,14,8,16,23,home,win,107.0,PHILADELPHIA 76ERS,97.0
+ORLANDO MAGIC,240,30,87,6,17,18,24,11,25,13,11,4,12,27,away,loss,84.0,LOS ANGELES LAKERS,107.0
+LOS ANGELES LAKERS,240,37,80,7,15,26,30,11,41,27,7,10,19,24,home,win,107.0,ORLANDO MAGIC,84.0
+NEW ORLEANS HORNETS,240,34,79,4,10,20,24,13,27,21,12,2,13,18,away,loss,92.0,SACRAMENTO KINGS,107.0
+SACRAMENTO KINGS,240,42,79,9,18,14,20,8,32,23,6,5,13,17,home,win,107.0,NEW ORLEANS HORNETS,92.0
+WASHINGTON WIZARDS,240,38,79,4,7,15,23,15,30,26,9,3,9,14,away,win,95.0,TORONTO RAPTORS,82.0
+TORONTO RAPTORS,240,33,75,8,21,8,11,9,25,22,6,5,13,20,home,loss,82.0,WASHINGTON WIZARDS,95.0

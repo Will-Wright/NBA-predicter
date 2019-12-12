@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHICAGO BULLS,240,23,70,5,17,18,28,11,27,13,7,2,21,19,away,loss,69.0,DETROIT PISTONS,95.0
+DETROIT PISTONS,240,36,82,8,18,15,18,14,32,24,12,4,15,25,home,win,95.0,CHICAGO BULLS,69.0
+UTAH JAZZ,240,40,78,5,11,18,24,10,30,28,4,2,10,25,away,win,103.0,HOUSTON ROCKETS,99.0
+HOUSTON ROCKETS,240,34,73,7,21,24,33,9,24,22,7,7,8,20,home,loss,99.0,UTAH JAZZ,103.0

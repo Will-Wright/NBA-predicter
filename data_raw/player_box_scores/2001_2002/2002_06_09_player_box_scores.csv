@@ -1,0 +1,21 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+onealsh01,Shaquille O'Neal,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,2507,12,19,0,0,11,17,5,6,2,0,4,2,1,31.2
+kiddja01,Jason Kidd,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,2576,13,23,1,5,3,5,1,4,10,3,1,2,3,27.7
+bryanko01,Kobe Bryant,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,2732,14,23,1,3,7,10,1,5,4,1,2,6,3,24.5
+martike01,Kenyon Martin,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,2576,11,17,0,1,4,6,1,3,4,2,2,5,3,19.3
+fishede01,Derek Fisher,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,1838,4,7,3,3,2,4,0,3,6,0,0,3,3,9.8
+kittlke01,Kerry Kittles,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,1711,3,6,0,2,1,2,1,2,3,3,0,0,1,9.6
+vanhoke01,Keith Van Horn,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,1874,6,14,2,4,0,0,0,5,3,0,1,0,5,8.9
+georgde01,Devean George,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,1436,2,4,0,0,2,2,1,7,0,1,2,1,3,7.0
+horryro01,Robert Horry,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,1841,2,4,2,3,0,0,0,7,3,3,1,3,5,6.9
+jefferi01,Richard Jefferson,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,1310,4,5,0,0,0,0,0,3,0,2,0,2,1,6.6
+foxri01,Rick Fox,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,2234,2,6,1,3,2,2,0,4,2,1,1,3,2,4.1
+harrilu01,Lucious Harris,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,1169,1,5,0,0,0,0,0,3,2,3,0,0,1,3.8
+maccuto01,Todd MacCulloch,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,827,4,8,0,0,2,2,0,1,0,0,1,2,3,3.8
+williaa01,Aaron Williams,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,432,1,1,0,0,2,2,0,0,0,0,0,0,6,1.3
+shawbr01,Brian Shaw,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,1042,1,4,1,4,0,0,0,1,0,1,0,1,0,0.9
+johnsan02,Anthony Johnson,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,304,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+hunteli01,Lindsey Hunter,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,148,0,0,0,0,0,0,0,0,0,0,0,0,2,-0.8
+medvest01,Stanislav Medvedenko,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,249,0,0,0,0,0,0,0,0,0,0,0,0,2,-0.8
+walkesa01,Samaki Walker,LOS ANGELES LAKERS,AWAY,NEW JERSEY NETS,WIN,373,0,1,0,0,0,0,0,0,0,0,0,0,1,-1.1
+collija04,Jason Collins,NEW JERSEY NETS,HOME,LOS ANGELES LAKERS,LOSS,1621,0,4,0,0,2,2,2,1,0,0,0,2,4,-2.7

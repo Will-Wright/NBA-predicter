@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PORTLAND TRAIL BLAZERS,240,32,72,3,15,10,17,10,28,14,6,7,13,19,away,win,77.0,ATLANTA HAWKS,75.0
+ATLANTA HAWKS,240,28,70,0,6,19,26,12,30,10,7,2,13,20,home,loss,75.0,PORTLAND TRAIL BLAZERS,77.0
+INDIANA PACERS,240,34,84,8,20,21,28,13,29,18,10,3,9,22,away,win,97.0,LOS ANGELES CLIPPERS,92.0
+LOS ANGELES CLIPPERS,240,32,70,3,7,25,27,5,39,16,6,6,17,22,home,loss,92.0,INDIANA PACERS,97.0
+NEW JERSEY NETS,265,34,77,1,7,33,43,10,39,24,7,5,19,39,away,win,102.0,LOS ANGELES LAKERS,96.0
+LOS ANGELES LAKERS,265,32,95,5,24,27,38,23,25,16,8,2,15,36,home,loss,96.0,NEW JERSEY NETS,102.0

@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MIAMI HEAT,240,29,75,4,16,21,28,15,31,14,7,4,19,20,away,loss,83.0,NEW ORLEANS HORNETS,89.0
+NEW ORLEANS HORNETS,240,37,83,4,15,11,15,12,32,23,7,6,14,23,home,win,89.0,MIAMI HEAT,83.0
+LOS ANGELES LAKERS,240,26,69,4,10,22,33,12,33,16,5,6,21,20,away,loss,78.0,SAN ANTONIO SPURS,88.0
+SAN ANTONIO SPURS,240,37,79,5,17,9,21,9,31,16,11,3,15,26,home,win,88.0,LOS ANGELES LAKERS,78.0

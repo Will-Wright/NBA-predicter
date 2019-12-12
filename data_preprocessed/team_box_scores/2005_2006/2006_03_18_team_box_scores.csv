@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DETROIT PISTONS,240,39,68,11,20,19,29,10,19,24,6,5,18,12,away,win,108.0,CHARLOTTE BOBCATS,103.0
+CHARLOTTE BOBCATS,240,45,89,4,14,9,13,14,19,20,8,3,12,23,home,loss,103.0,DETROIT PISTONS,108.0
+MIAMI HEAT,240,23,71,10,24,29,38,9,36,18,8,9,22,19,away,win,85.0,CHICAGO BULLS,84.0
+CHICAGO BULLS,240,35,82,5,16,9,17,9,31,23,10,5,19,27,home,loss,84.0,MIAMI HEAT,85.0
+SAN ANTONIO SPURS,240,37,76,6,16,12,18,9,28,19,8,3,11,23,away,win,92.0,HOUSTON ROCKETS,77.0
+HOUSTON ROCKETS,240,30,68,0,7,17,24,9,31,15,5,3,17,17,home,loss,77.0,SAN ANTONIO SPURS,92.0
+PORTLAND TRAIL BLAZERS,240,35,69,4,13,19,27,12,30,18,8,5,22,29,away,loss,93.0,MILWAUKEE BUCKS,97.0
+MILWAUKEE BUCKS,240,34,75,7,19,22,32,12,23,25,10,2,13,19,home,win,97.0,PORTLAND TRAIL BLAZERS,93.0
+DENVER NUGGETS,240,40,82,8,22,21,27,10,29,26,12,3,10,23,away,win,109.0,NEW ORLEANS/OKLAHOMA CITY HORNETS,94.0
+NEW ORLEANS/OKLAHOMA CITY HORNETS,240,34,82,5,21,21,26,14,29,23,6,5,16,21,home,loss,94.0,DENVER NUGGETS,109.0

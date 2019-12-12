@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,41,79,6,8,18,29,10,31,29,7,7,14,30,away,win,106.0,CHARLOTTE BOBCATS,89.0
+CHARLOTTE BOBCATS,240,33,82,1,6,22,34,16,23,22,10,5,13,20,home,loss,89.0,CLEVELAND CAVALIERS,106.0
+NEW YORK KNICKS,240,35,87,7,23,16,21,14,36,27,6,1,8,17,away,win,93.0,HOUSTON ROCKETS,92.0
+HOUSTON ROCKETS,240,38,82,4,15,12,19,8,33,26,6,4,7,17,home,loss,92.0,NEW YORK KNICKS,93.0
+SAN ANTONIO SPURS,240,31,76,4,15,22,32,18,32,26,8,5,18,22,away,win,88.0,PHILADELPHIA 76ERS,80.0
+PHILADELPHIA 76ERS,240,29,82,4,8,18,21,12,30,16,8,3,16,27,home,loss,80.0,SAN ANTONIO SPURS,88.0

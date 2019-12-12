@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,32,75,3,6,15,23,12,35,16,12,2,20,15,away,loss,82.0,BOSTON CELTICS,103.0
+BOSTON CELTICS,240,39,83,13,27,12,18,11,30,27,13,5,14,20,home,win,103.0,CLEVELAND CAVALIERS,82.0
+SACRAMENTO KINGS,240,40,99,3,15,11,15,15,25,17,13,0,10,20,away,loss,94.0,LOS ANGELES LAKERS,100.0
+LOS ANGELES LAKERS,240,36,82,6,17,22,24,15,35,22,5,4,19,20,home,win,100.0,SACRAMENTO KINGS,94.0
+NEW YORK KNICKS,265,35,74,10,17,23,26,8,32,20,11,5,17,28,away,win,103.0,MIAMI HEAT,100.0
+MIAMI HEAT,265,31,73,7,25,31,37,8,29,15,8,4,16,23,home,loss,100.0,NEW YORK KNICKS,103.0
+PHILADELPHIA 76ERS,240,34,81,6,16,15,23,9,27,20,8,8,9,24,away,loss,89.0,NEW JERSEY NETS,96.0
+NEW JERSEY NETS,240,34,83,5,15,23,28,17,36,17,4,10,17,26,home,win,96.0,PHILADELPHIA 76ERS,89.0
+CHARLOTTE HORNETS,240,31,76,4,13,16,25,7,35,13,8,5,14,21,away,loss,82.0,PHOENIX SUNS,85.0
+PHOENIX SUNS,240,31,85,1,6,22,30,19,33,22,9,2,14,21,home,win,85.0,CHARLOTTE HORNETS,82.0

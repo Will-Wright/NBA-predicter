@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SACRAMENTO KINGS,240,36,87,3,17,23,30,18,25,21,9,6,15,19,away,loss,98.0,DALLAS MAVERICKS,107.0
+DALLAS MAVERICKS,240,40,81,7,16,20,23,13,30,27,11,8,14,23,home,win,107.0,SACRAMENTO KINGS,98.0
+HOUSTON ROCKETS,240,28,71,6,13,17,22,9,27,8,4,5,16,24,away,loss,79.0,DETROIT PISTONS,87.0
+DETROIT PISTONS,240,32,72,6,18,17,25,13,29,20,9,5,12,22,home,win,87.0,HOUSTON ROCKETS,79.0
+DENVER NUGGETS,240,30,88,3,12,15,21,16,32,17,10,8,16,21,away,loss,78.0,LOS ANGELES LAKERS,89.0
+LOS ANGELES LAKERS,240,30,70,5,17,24,30,10,37,23,8,9,19,22,home,win,89.0,DENVER NUGGETS,78.0

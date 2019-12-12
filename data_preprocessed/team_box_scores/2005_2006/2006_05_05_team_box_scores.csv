@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SAN ANTONIO SPURS,240,39,77,9,19,18,24,9,29,20,8,4,11,21,away,win,105.0,SACRAMENTO KINGS,83.0
+SACRAMENTO KINGS,240,28,68,4,16,23,30,10,29,14,9,2,20,26,home,loss,83.0,SAN ANTONIO SPURS,105.0
+CLEVELAND CAVALIERS,265,43,85,7,19,21,26,9,35,24,11,3,14,30,away,win,114.0,WASHINGTON WIZARDS,113.0
+WASHINGTON WIZARDS,265,41,90,7,20,24,33,17,28,27,6,4,15,22,home,loss,113.0,CLEVELAND CAVALIERS,114.0

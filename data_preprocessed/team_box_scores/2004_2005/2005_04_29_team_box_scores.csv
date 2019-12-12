@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHOENIX SUNS,240,43,82,11,19,13,21,10,28,22,4,8,5,19,away,win,110.0,MEMPHIS GRIZZLIES,90.0
+MEMPHIS GRIZZLIES,240,37,80,3,16,13,18,11,28,18,2,8,10,21,home,loss,90.0,PHOENIX SUNS,110.0
+DETROIT PISTONS,240,37,73,9,22,21,25,11,25,27,3,2,14,20,away,loss,104.0,PHILADELPHIA 76ERS,115.0
+PHILADELPHIA 76ERS,240,43,78,11,20,18,25,10,20,24,10,4,7,23,home,win,115.0,DETROIT PISTONS,104.0
+SEATTLE SUPERSONICS,240,34,81,6,23,30,34,15,23,15,3,3,14,26,away,loss,104.0,SACRAMENTO KINGS,116.0
+SACRAMENTO KINGS,240,39,79,5,16,33,36,9,21,14,6,1,10,28,home,win,116.0,SEATTLE SUPERSONICS,104.0

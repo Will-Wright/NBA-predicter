@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES LAKERS,240,37,83,6,17,18,24,14,37,21,4,10,12,21,away,win,98.0,LOS ANGELES CLIPPERS,83.0
+LOS ANGELES CLIPPERS,240,35,91,0,8,13,18,17,28,13,5,3,9,22,home,loss,83.0,LOS ANGELES LAKERS,98.0
+VANCOUVER GRIZZLIES,240,28,80,3,10,13,18,10,27,17,4,3,13,16,away,loss,72.0,NEW YORK KNICKS,97.0
+NEW YORK KNICKS,240,33,75,10,16,21,22,11,41,24,4,7,15,23,home,win,97.0,VANCOUVER GRIZZLIES,72.0
+MILWAUKEE BUCKS,240,37,78,9,21,21,29,8,37,24,11,9,17,33,away,win,104.0,ORLANDO MAGIC,95.0
+ORLANDO MAGIC,240,27,81,8,23,33,42,11,32,20,9,6,17,26,home,loss,95.0,MILWAUKEE BUCKS,104.0

@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,36,86,7,19,21,38,17,28,18,4,2,14,24,away,loss,100.0,DENVER NUGGETS,122.0
+DENVER NUGGETS,240,44,80,12,22,22,33,7,39,24,7,4,13,24,home,win,122.0,CLEVELAND CAVALIERS,100.0
+NEW ORLEANS HORNETS,240,32,76,11,17,9,10,5,34,16,10,4,16,19,away,win,84.0,NEW JERSEY NETS,82.0
+NEW JERSEY NETS,240,31,76,4,14,16,21,9,36,21,8,6,14,11,home,loss,82.0,NEW ORLEANS HORNETS,84.0
+SACRAMENTO KINGS,240,35,78,9,19,14,19,10,22,16,5,1,18,26,away,loss,93.0,UTAH JAZZ,117.0
+UTAH JAZZ,240,41,82,4,11,31,37,15,26,29,8,6,15,19,home,win,117.0,SACRAMENTO KINGS,93.0

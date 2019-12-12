@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,28,76,4,16,26,36,11,30,9,11,5,17,23,away,loss,86.0,MIAMI HEAT,105.0
+MIAMI HEAT,240,43,82,7,20,12,23,9,36,23,8,6,15,28,home,win,105.0,WASHINGTON WIZARDS,86.0
+SEATTLE SUPERSONICS,240,33,77,2,10,13,18,10,21,10,9,4,13,27,away,loss,81.0,SAN ANTONIO SPURS,103.0
+SAN ANTONIO SPURS,240,35,69,4,13,29,35,11,35,17,4,7,18,19,home,win,103.0,SEATTLE SUPERSONICS,81.0

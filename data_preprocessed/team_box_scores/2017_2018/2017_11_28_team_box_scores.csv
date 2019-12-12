@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHOENIX SUNS,240,38,87,11,30,17,23,13,44,25,4,4,15,12,away,win,104.0,CHICAGO BULLS,99.0
+CHICAGO BULLS,240,38,94,16,40,7,10,9,32,27,11,7,9,20,home,loss,99.0,PHOENIX SUNS,104.0
+MIAMI HEAT,240,37,84,10,31,13,20,8,34,24,7,5,15,19,away,loss,97.0,CLEVELAND CAVALIERS,108.0
+CLEVELAND CAVALIERS,240,40,81,11,33,17,23,5,40,21,12,2,13,17,home,win,108.0,MIAMI HEAT,97.0
+WASHINGTON WIZARDS,240,36,83,10,28,10,17,9,35,23,5,4,7,16,away,win,92.0,MINNESOTA TIMBERWOLVES,89.0
+MINNESOTA TIMBERWOLVES,240,35,85,10,30,9,14,13,36,27,3,1,10,17,home,loss,89.0,WASHINGTON WIZARDS,92.0
+MILWAUKEE BUCKS,240,42,71,9,22,19,31,1,37,27,13,5,12,22,away,win,112.0,SACRAMENTO KINGS,87.0
+SACRAMENTO KINGS,240,31,77,5,17,20,29,9,31,15,5,2,16,21,home,loss,87.0,MILWAUKEE BUCKS,112.0
+DENVER NUGGETS,240,28,78,7,34,14,16,12,30,13,6,4,17,13,away,loss,77.0,UTAH JAZZ,106.0
+UTAH JAZZ,240,42,87,14,32,8,9,9,34,24,7,6,11,20,home,win,106.0,DENVER NUGGETS,77.0

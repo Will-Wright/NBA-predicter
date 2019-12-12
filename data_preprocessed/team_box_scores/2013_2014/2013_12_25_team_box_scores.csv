@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHICAGO BULLS,240,36,74,5,17,18,20,11,34,20,10,3,15,22,away,win,95.0,BROOKLYN NETS,78.0
+BROOKLYN NETS,240,25,71,5,17,23,31,13,26,11,7,5,16,19,home,loss,78.0,CHICAGO BULLS,95.0
+LOS ANGELES CLIPPERS,240,40,81,4,18,19,23,6,32,22,6,9,13,24,away,loss,103.0,GOLDEN STATE WARRIORS,105.0
+GOLDEN STATE WARRIORS,240,40,95,10,24,15,22,16,33,27,8,4,13,22,home,win,105.0,LOS ANGELES CLIPPERS,103.0
+MIAMI HEAT,240,41,80,9,27,10,17,7,36,29,9,2,12,20,away,win,101.0,LOS ANGELES LAKERS,95.0
+LOS ANGELES LAKERS,240,33,79,14,36,15,26,12,35,15,8,4,17,19,home,loss,95.0,MIAMI HEAT,101.0
+OKLAHOMA CITY THUNDER,240,45,84,13,24,20,26,8,38,32,8,3,10,21,away,win,123.0,NEW YORK KNICKS,94.0
+NEW YORK KNICKS,240,38,90,6,23,12,19,12,30,23,5,2,12,22,home,loss,94.0,OKLAHOMA CITY THUNDER,123.0
+HOUSTON ROCKETS,240,45,86,12,24,9,18,11,39,28,3,9,10,16,away,win,111.0,SAN ANTONIO SPURS,98.0
+SAN ANTONIO SPURS,240,37,91,5,20,19,23,14,32,18,6,9,9,13,home,loss,98.0,HOUSTON ROCKETS,111.0

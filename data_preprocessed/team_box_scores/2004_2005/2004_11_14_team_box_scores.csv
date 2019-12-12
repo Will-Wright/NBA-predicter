@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MILWAUKEE BUCKS,290,41,100,5,15,23,29,16,39,25,8,5,14,29,away,loss,110.0,MIAMI HEAT,112.0
+MIAMI HEAT,290,44,97,9,27,15,29,14,36,30,4,8,16,28,home,win,112.0,MILWAUKEE BUCKS,110.0
+ORLANDO MAGIC,240,27,84,4,16,29,37,15,36,15,12,6,16,20,away,loss,87.0,PHILADELPHIA 76ERS,96.0
+PHILADELPHIA 76ERS,240,39,88,5,14,13,16,11,39,23,10,8,18,26,home,win,96.0,ORLANDO MAGIC,87.0
+DENVER NUGGETS,240,33,86,7,14,16,26,14,31,19,11,4,14,23,away,loss,89.0,SACRAMENTO KINGS,101.0
+SACRAMENTO KINGS,240,34,78,9,22,24,30,8,38,21,6,5,15,20,home,win,101.0,DENVER NUGGETS,89.0
+MEMPHIS GRIZZLIES,240,40,75,8,16,25,29,6,21,30,7,3,11,31,away,loss,113.0,SEATTLE SUPERSONICS,118.0
+SEATTLE SUPERSONICS,240,39,68,6,13,34,39,6,27,16,7,6,12,25,home,win,118.0,MEMPHIS GRIZZLIES,113.0
+DALLAS MAVERICKS,240,43,82,12,19,24,29,11,27,29,13,2,16,23,away,win,122.0,WASHINGTON WIZARDS,113.0
+WASHINGTON WIZARDS,240,42,89,6,17,23,29,18,25,29,12,5,16,24,home,loss,113.0,DALLAS MAVERICKS,122.0

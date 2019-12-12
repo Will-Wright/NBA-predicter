@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW JERSEY NETS,265,42,91,2,15,10,13,15,35,31,7,10,17,21,away,loss,96.0,DENVER NUGGETS,99.0
+DENVER NUGGETS,265,39,90,8,15,13,21,14,26,27,12,5,10,21,home,win,99.0,NEW JERSEY NETS,96.0
+HOUSTON ROCKETS,240,26,73,3,17,22,27,7,29,15,4,0,16,12,away,loss,77.0,SACRAMENTO KINGS,113.0
+SACRAMENTO KINGS,240,48,92,7,14,10,13,12,39,28,10,4,10,22,home,win,113.0,HOUSTON ROCKETS,77.0

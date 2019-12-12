@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHICAGO BULLS,240,38,84,2,6,18,25,15,35,20,9,10,12,20,away,win,96.0,BOSTON CELTICS,83.0
+BOSTON CELTICS,240,32,71,4,17,15,28,9,30,17,6,5,15,21,home,loss,83.0,CHICAGO BULLS,96.0
+CLEVELAND CAVALIERS,240,31,68,9,19,25,35,7,32,16,9,6,21,28,away,loss,96.0,UTAH JAZZ,97.0
+UTAH JAZZ,240,32,79,6,19,27,38,10,28,25,13,4,14,31,home,win,97.0,CLEVELAND CAVALIERS,96.0

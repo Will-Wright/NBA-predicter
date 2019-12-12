@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+UTAH JAZZ,240,39,75,3,14,22,30,11,31,28,7,5,16,26,away,win,103.0,DETROIT PISTONS,93.0
+DETROIT PISTONS,240,34,86,6,13,19,28,17,25,22,9,6,12,20,home,loss,93.0,UTAH JAZZ,103.0
+CLEVELAND CAVALIERS,240,40,86,13,24,18,28,13,34,23,11,6,17,27,away,win,111.0,INDIANA PACERS,106.0
+INDIANA PACERS,240,35,81,5,15,31,41,10,32,17,7,4,16,20,home,loss,106.0,CLEVELAND CAVALIERS,111.0
+NEW JERSEY NETS,240,35,75,4,20,28,41,10,31,26,10,8,17,25,away,win,102.0,LOS ANGELES LAKERS,100.0
+LOS ANGELES LAKERS,240,33,74,6,19,28,38,7,30,19,12,4,18,25,home,loss,100.0,NEW JERSEY NETS,102.0
+SAN ANTONIO SPURS,240,41,80,11,19,23,24,12,27,23,3,3,9,18,away,win,116.0,SEATTLE SUPERSONICS,101.0
+SEATTLE SUPERSONICS,240,41,78,4,10,15,18,5,24,20,5,4,8,22,home,loss,101.0,SAN ANTONIO SPURS,116.0
+CHICAGO BULLS,240,30,79,6,17,12,20,10,34,22,5,5,12,15,away,loss,78.0,TORONTO RAPTORS,93.0
+TORONTO RAPTORS,240,37,86,7,17,12,13,11,34,22,9,10,9,21,home,win,93.0,CHICAGO BULLS,78.0

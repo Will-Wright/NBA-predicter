@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHILADELPHIA 76ERS,240,41,81,18,34,28,37,6,35,28,10,5,10,26,away,win,128.0,MIAMI HEAT,108.0
+MIAMI HEAT,240,33,73,16,33,26,35,5,30,26,7,9,15,30,home,loss,108.0,PHILADELPHIA 76ERS,128.0
+PORTLAND TRAIL BLAZERS,240,37,80,9,31,19,25,11,33,19,10,3,24,19,away,loss,102.0,NEW ORLEANS PELICANS,119.0
+NEW ORLEANS PELICANS,240,46,87,11,27,16,19,6,32,27,16,4,12,23,home,win,119.0,PORTLAND TRAIL BLAZERS,102.0
+GOLDEN STATE WARRIORS,240,42,82,10,32,16,18,4,35,26,8,7,10,16,away,win,110.0,SAN ANTONIO SPURS,97.0
+SAN ANTONIO SPURS,240,37,87,7,33,16,20,10,31,19,8,5,10,21,home,loss,97.0,GOLDEN STATE WARRIORS,110.0

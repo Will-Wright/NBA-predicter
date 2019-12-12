@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+HOUSTON ROCKETS,240,28,76,5,10,16,22,17,23,14,12,4,21,14,away,loss,77.0,DETROIT PISTONS,105.0
+DETROIT PISTONS,240,43,79,4,15,15,18,13,31,26,14,9,17,19,home,win,105.0,HOUSTON ROCKETS,77.0
+CHARLOTTE HORNETS,240,27,74,5,15,19,28,9,34,17,4,9,10,22,away,loss,78.0,LOS ANGELES CLIPPERS,89.0
+LOS ANGELES CLIPPERS,240,37,85,2,7,13,20,13,32,25,4,9,9,18,home,win,89.0,CHARLOTTE HORNETS,78.0
+MIAMI HEAT,240,37,83,1,5,13,19,12,32,24,7,4,13,23,away,loss,88.0,SACRAMENTO KINGS,95.0
+SACRAMENTO KINGS,240,30,67,5,11,30,36,7,29,19,6,6,14,21,home,win,95.0,MIAMI HEAT,88.0
+PHOENIX SUNS,240,36,79,3,10,16,17,6,29,22,10,8,11,15,away,win,91.0,TORONTO RAPTORS,90.0
+TORONTO RAPTORS,240,36,87,9,19,9,13,16,32,23,7,5,14,15,home,loss,90.0,PHOENIX SUNS,91.0

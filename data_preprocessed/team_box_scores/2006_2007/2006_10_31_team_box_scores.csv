@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHOENIX SUNS,240,40,77,13,30,13,17,4,25,29,7,5,21,25,away,loss,106.0,LOS ANGELES LAKERS,114.0
+LOS ANGELES LAKERS,240,46,83,6,12,16,24,12,31,30,11,1,20,19,home,win,114.0,PHOENIX SUNS,106.0
+CHICAGO BULLS,240,39,79,7,13,23,32,13,36,22,10,5,16,21,away,win,108.0,MIAMI HEAT,66.0
+MIAMI HEAT,240,25,65,3,17,13,22,4,25,13,6,3,21,24,home,loss,66.0,CHICAGO BULLS,108.0

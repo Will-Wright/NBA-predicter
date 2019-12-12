@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,34,88,4,17,24,26,14,24,18,5,6,11,23,away,loss,96.0,ATLANTA HAWKS,116.0
+ATLANTA HAWKS,240,42,88,7,18,25,27,16,33,23,6,6,14,24,home,win,116.0,WASHINGTON WIZARDS,96.0
+SACRAMENTO KINGS,240,29,71,4,11,20,32,9,26,21,7,4,12,26,away,loss,82.0,LOS ANGELES CLIPPERS,100.0
+LOS ANGELES CLIPPERS,240,35,69,2,13,28,36,10,35,19,5,4,17,25,home,win,100.0,SACRAMENTO KINGS,82.0

@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW ORLEANS HORNETS,240,33,77,2,8,12,15,11,33,16,5,4,19,23,away,loss,80.0,DENVER NUGGETS,93.0
+DENVER NUGGETS,240,38,95,2,14,15,21,20,29,21,12,6,10,15,home,win,93.0,NEW ORLEANS HORNETS,80.0
+ORLANDO MAGIC,265,40,88,11,31,17,25,13,36,22,5,7,11,20,away,win,108.0,MIAMI HEAT,102.0
+MIAMI HEAT,265,37,90,8,25,20,24,13,31,16,4,8,11,24,home,loss,102.0,ORLANDO MAGIC,108.0

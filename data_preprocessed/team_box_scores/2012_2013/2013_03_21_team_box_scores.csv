@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PORTLAND TRAIL BLAZERS,240,41,84,10,21,7,10,8,37,19,4,5,14,16,away,win,99.0,CHICAGO BULLS,89.0
+CHICAGO BULLS,240,39,89,4,14,7,11,9,32,30,8,4,8,16,home,loss,89.0,PORTLAND TRAIL BLAZERS,99.0
+PHILADELPHIA 76ERS,240,43,78,7,18,7,11,7,27,27,13,5,22,22,away,loss,100.0,DENVER NUGGETS,101.0
+DENVER NUGGETS,240,37,76,7,11,20,27,11,23,18,13,8,19,19,home,win,101.0,PHILADELPHIA 76ERS,100.0
+MINNESOTA TIMBERWOLVES,240,41,98,1,19,15,18,17,28,27,7,2,12,23,away,loss,98.0,SACRAMENTO KINGS,101.0
+SACRAMENTO KINGS,240,40,75,6,18,15,18,4,36,21,4,6,16,23,home,win,101.0,MINNESOTA TIMBERWOLVES,98.0

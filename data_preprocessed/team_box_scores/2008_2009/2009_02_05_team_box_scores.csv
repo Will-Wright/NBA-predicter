@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES LAKERS,265,42,88,9,22,17,29,12,30,21,12,3,11,24,away,win,110.0,BOSTON CELTICS,109.0
+BOSTON CELTICS,265,42,93,8,18,17,20,12,35,26,8,8,16,28,home,loss,109.0,LOS ANGELES LAKERS,110.0
+INDIANA PACERS,240,33,84,13,34,15,17,11,31,24,7,8,16,23,away,loss,94.0,PHILADELPHIA 76ERS,99.0
+PHILADELPHIA 76ERS,240,34,85,5,12,26,34,16,34,26,12,3,13,19,home,win,99.0,INDIANA PACERS,94.0
+DALLAS MAVERICKS,240,34,85,3,13,16,19,8,24,21,12,3,14,16,away,loss,87.0,UTAH JAZZ,115.0
+UTAH JAZZ,240,42,84,12,26,19,22,13,41,31,10,5,16,18,home,win,115.0,DALLAS MAVERICKS,87.0

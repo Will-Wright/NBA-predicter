@@ -1,0 +1,3 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DETROIT PISTONS,240,30,78,3,11,13,20,13,27,16,6,5,15,23,away,loss,76.0,MIAMI HEAT,88.0
+MIAMI HEAT,240,36,69,3,8,13,23,5,33,17,6,6,14,22,home,win,88.0,DETROIT PISTONS,76.0

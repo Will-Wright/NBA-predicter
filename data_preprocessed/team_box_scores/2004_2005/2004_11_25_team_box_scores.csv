@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MINNESOTA TIMBERWOLVES,240,37,72,5,14,23,31,7,29,19,5,5,15,22,away,loss,102.0,INDIANA PACERS,106.0
+INDIANA PACERS,240,37,73,13,25,19,27,7,27,26,9,2,17,19,home,win,106.0,MINNESOTA TIMBERWOLVES,102.0
+NEW JERSEY NETS,240,33,76,2,11,20,28,13,20,14,9,2,13,29,away,loss,88.0,LOS ANGELES CLIPPERS,101.0
+LOS ANGELES CLIPPERS,240,33,62,4,10,31,38,5,30,23,7,5,17,26,home,win,101.0,NEW JERSEY NETS,88.0

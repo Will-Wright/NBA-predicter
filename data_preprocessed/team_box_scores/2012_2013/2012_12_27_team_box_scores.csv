@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+BOSTON CELTICS,240,29,72,6,16,13,15,7,33,20,5,3,18,23,away,loss,77.0,LOS ANGELES CLIPPERS,106.0
+LOS ANGELES CLIPPERS,240,41,85,12,30,12,24,10,34,31,12,7,8,18,home,win,106.0,BOSTON CELTICS,77.0
+DALLAS MAVERICKS,265,40,95,11,24,14,16,10,36,22,9,5,13,19,away,loss,105.0,OKLAHOMA CITY THUNDER,111.0
+OKLAHOMA CITY THUNDER,265,39,93,10,25,23,28,17,39,23,8,13,12,18,home,win,111.0,DALLAS MAVERICKS,105.0

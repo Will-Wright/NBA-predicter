@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,41,90,8,20,11,13,16,36,21,10,6,14,25,away,win,101.0,LOS ANGELES CLIPPERS,80.0
+LOS ANGELES CLIPPERS,240,29,73,3,13,19,26,5,28,12,8,10,18,17,home,loss,80.0,ORLANDO MAGIC,101.0
+SAN ANTONIO SPURS,240,34,77,8,19,18,31,9,33,25,6,8,12,19,away,loss,94.0,PHILADELPHIA 76ERS,99.0
+PHILADELPHIA 76ERS,240,38,87,4,6,19,23,13,35,22,5,10,9,24,home,win,99.0,SAN ANTONIO SPURS,94.0
+UTAH JAZZ,240,36,73,4,10,26,30,11,27,23,5,4,18,32,away,loss,102.0,WASHINGTON WIZARDS,105.0
+WASHINGTON WIZARDS,240,32,71,5,12,36,39,7,22,16,7,3,16,25,home,win,105.0,UTAH JAZZ,102.0

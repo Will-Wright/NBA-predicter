@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES CLIPPERS,240,36,75,3,6,27,35,10,37,18,8,7,17,26,away,win,102.0,ATLANTA HAWKS,95.0
+ATLANTA HAWKS,240,37,91,1,9,20,27,17,25,19,4,6,12,23,home,loss,95.0,LOS ANGELES CLIPPERS,102.0
+HOUSTON ROCKETS,240,32,76,4,17,16,26,14,32,19,9,2,13,25,away,loss,84.0,MIAMI HEAT,88.0
+MIAMI HEAT,240,34,78,7,22,13,21,13,30,15,4,4,14,24,home,win,88.0,HOUSTON ROCKETS,84.0
+DETROIT PISTONS,240,43,80,7,12,18,25,14,28,25,7,3,13,18,away,win,111.0,PHOENIX SUNS,104.0
+PHOENIX SUNS,240,42,88,6,16,14,16,15,18,20,5,5,11,20,home,loss,104.0,DETROIT PISTONS,111.0

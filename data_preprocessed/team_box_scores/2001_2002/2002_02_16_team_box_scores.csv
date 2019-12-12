@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,41,83,7,14,25,29,17,32,29,3,4,10,24,away,win,114.0,CHICAGO BULLS,101.0
+CHICAGO BULLS,240,36,79,5,16,24,34,11,20,23,6,6,4,24,home,loss,101.0,CLEVELAND CAVALIERS,114.0
+ORLANDO MAGIC,240,40,78,11,19,18,28,8,32,22,8,6,13,22,away,win,109.0,HOUSTON ROCKETS,100.0
+HOUSTON ROCKETS,240,37,87,10,20,16,27,16,29,15,8,4,14,25,home,loss,100.0,ORLANDO MAGIC,109.0
+DALLAS MAVERICKS,240,41,96,8,18,20,24,14,27,20,5,3,6,23,away,loss,110.0,LOS ANGELES CLIPPERS,119.0
+LOS ANGELES CLIPPERS,240,41,80,10,16,27,35,11,35,31,2,6,12,22,home,win,119.0,DALLAS MAVERICKS,110.0
+BOSTON CELTICS,240,27,77,12,33,13,14,9,32,20,5,2,17,17,away,loss,79.0,SEATTLE SUPERSONICS,99.0
+SEATTLE SUPERSONICS,240,42,87,5,16,10,13,13,34,30,12,5,12,16,home,win,99.0,BOSTON CELTICS,79.0

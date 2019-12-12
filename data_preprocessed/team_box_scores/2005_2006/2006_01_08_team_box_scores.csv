@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DENVER NUGGETS,240,31,70,11,25,19,23,7,30,21,6,3,19,22,away,win,92.0,HOUSTON ROCKETS,90.0
+HOUSTON ROCKETS,240,36,80,7,22,11,16,10,26,24,9,3,14,21,home,loss,90.0,DENVER NUGGETS,92.0
+SEATTLE SUPERSONICS,240,42,93,14,35,18,27,19,22,22,5,2,12,28,away,loss,116.0,NEW YORK KNICKS,120.0
+NEW YORK KNICKS,240,42,81,4,11,32,38,14,26,23,5,2,12,25,home,win,120.0,SEATTLE SUPERSONICS,116.0
+MIAMI HEAT,240,47,80,10,17,14,22,7,42,28,10,1,13,26,away,win,118.0,PORTLAND TRAIL BLAZERS,89.0
+PORTLAND TRAIL BLAZERS,240,31,74,1,10,26,36,6,29,17,7,2,12,20,home,loss,89.0,MIAMI HEAT,118.0
+INDIANA PACERS,240,36,78,13,22,23,33,14,37,18,14,6,16,22,away,win,108.0,SACRAMENTO KINGS,83.0
+SACRAMENTO KINGS,240,30,76,3,12,20,22,8,29,14,7,3,17,19,home,loss,83.0,INDIANA PACERS,108.0
+NEW JERSEY NETS,240,42,91,9,19,12,21,13,28,30,8,1,6,27,away,win,105.0,TORONTO RAPTORS,104.0
+TORONTO RAPTORS,240,35,78,7,20,27,32,10,33,18,3,5,11,17,home,loss,104.0,NEW JERSEY NETS,105.0

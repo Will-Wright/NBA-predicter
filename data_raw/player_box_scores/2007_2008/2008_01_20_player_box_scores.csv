@@ -1,0 +1,23 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+stoudam01,Amar'e Stoudemire,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,1995,11,16,0,1,6,8,5,4,1,2,3,1,2,28.1
+jefferi01,Richard Jefferson,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,2336,8,16,0,0,8,8,1,3,2,2,0,2,1,18.6
+diawbo01,Boris Diaw,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,2209,7,15,0,1,0,0,4,6,6,2,0,0,0,17.1
+bellra01,Raja Bell,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,1968,7,15,5,10,1,1,1,2,2,0,0,1,2,13.2
+mariosh01,Shawn Marion,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,1767,7,18,2,7,0,0,3,8,2,5,0,2,5,13.1
+nashst01,Steve Nash,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,1959,5,11,2,3,1,1,0,3,9,0,0,3,2,10.7
+barbole01,Leandro Barbosa,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,1776,4,8,2,5,2,2,1,2,6,0,0,2,5,9.5
+nachbbo01,Boštjan Nachbar,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,997,4,6,2,3,2,2,0,2,0,0,0,1,1,8.6
+willise01,Sean Williams,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,1502,6,8,0,0,0,0,1,3,0,0,2,2,3,8.6
+boonejo01,Josh Boone,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,1677,4,8,0,0,1,4,1,8,0,0,2,1,0,7.3
+cartevi01,Vince Carter,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,2335,4,13,0,4,2,2,0,9,6,1,0,2,3,7.2
+strawdj01,D.J. Strawberry,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,1302,3,7,0,1,0,0,1,1,3,1,1,0,1,6.7
+kiddja01,Jason Kidd,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,2129,3,6,1,4,2,3,0,4,8,0,0,6,2,5.6
+wrighan01,Antoine Wright,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,1904,2,8,0,3,2,2,0,2,3,2,0,0,2,5.1
+willima03,Marcus Williams,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,858,1,6,1,4,3,4,2,2,1,1,0,0,2,4.7
+allenma01,Malik Allen,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,330,1,1,0,0,2,2,0,0,0,0,2,2,1,2.7
+skinnbr01,Brian Skinner,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,1007,1,4,0,0,0,2,2,4,1,0,2,0,2,2.7
+piatker01,Eric Piatkowski,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,139,1,2,1,1,2,2,0,0,0,0,0,1,1,2.6
+marksse01,Sean Marks,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,139,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+armstda01,Darrell Armstrong,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,241,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+banksma01,Marcus Banks,PHOENIX SUNS,HOME,NEW JERSEY NETS,WIN,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+collija04,Jason Collins,NEW JERSEY NETS,AWAY,PHOENIX SUNS,LOSS,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0

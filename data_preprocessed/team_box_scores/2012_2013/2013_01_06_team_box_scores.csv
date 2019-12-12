@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHARLOTTE BOBCATS,265,40,92,3,13,25,29,19,26,14,13,5,11,20,away,win,108.0,DETROIT PISTONS,101.0
+DETROIT PISTONS,265,40,80,8,26,13,19,14,30,22,5,11,22,27,home,loss,101.0,CHARLOTTE BOBCATS,108.0
+DENVER NUGGETS,240,44,101,9,24,15,23,17,27,33,10,6,8,21,away,win,112.0,LOS ANGELES LAKERS,105.0
+LOS ANGELES LAKERS,240,38,82,10,30,19,27,13,35,30,4,11,18,20,home,loss,105.0,DENVER NUGGETS,112.0
+WASHINGTON WIZARDS,240,29,81,6,21,7,14,10,29,20,7,2,8,15,away,loss,71.0,MIAMI HEAT,99.0
+MIAMI HEAT,240,38,82,8,21,15,16,10,40,20,6,8,9,12,home,win,99.0,WASHINGTON WIZARDS,71.0
+MEMPHIS GRIZZLIES,240,37,69,2,8,16,20,7,35,22,12,4,17,19,away,win,92.0,PHOENIX SUNS,81.0
+PHOENIX SUNS,240,31,79,5,14,14,18,11,21,18,10,5,14,21,home,loss,81.0,MEMPHIS GRIZZLIES,92.0
+OKLAHOMA CITY THUNDER,240,38,77,6,22,22,24,12,29,24,8,4,16,20,away,win,104.0,TORONTO RAPTORS,92.0
+TORONTO RAPTORS,240,34,76,8,23,16,21,7,24,28,7,3,16,18,home,loss,92.0,OKLAHOMA CITY THUNDER,104.0

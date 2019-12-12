@@ -1,0 +1,3 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+HOUSTON ROCKETS,240,40,86,8,22,18,28,14,33,27,8,6,15,19,away,loss,106.0,GOLDEN STATE WARRIORS,110.0
+GOLDEN STATE WARRIORS,240,43,92,10,29,14,22,14,29,27,9,3,12,23,home,win,110.0,HOUSTON ROCKETS,106.0

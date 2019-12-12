@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MEMPHIS GRIZZLIES,240,40,77,7,19,10,14,5,28,23,10,3,13,21,away,loss,97.0,MIAMI HEAT,100.0
+MIAMI HEAT,240,37,77,7,22,19,23,7,28,18,9,1,10,15,home,win,100.0,MEMPHIS GRIZZLIES,97.0
+UTAH JAZZ,265,39,94,8,22,12,20,16,28,14,6,2,11,24,away,loss,98.0,OKLAHOMA CITY THUNDER,104.0
+OKLAHOMA CITY THUNDER,265,35,79,7,21,27,30,8,34,18,7,13,10,18,home,win,104.0,UTAH JAZZ,98.0
+MINNESOTA TIMBERWOLVES,240,33,73,8,19,27,34,9,29,22,7,4,24,26,away,loss,101.0,PHOENIX SUNS,108.0
+PHOENIX SUNS,240,39,87,10,30,20,24,12,26,28,16,8,14,26,home,win,108.0,MINNESOTA TIMBERWOLVES,101.0
+PHILADELPHIA 76ERS,240,28,84,10,28,10,14,15,37,18,1,9,22,20,away,loss,76.0,TORONTO RAPTORS,96.0
+TORONTO RAPTORS,240,32,78,7,22,25,34,8,33,14,11,9,8,15,home,win,96.0,PHILADELPHIA 76ERS,76.0

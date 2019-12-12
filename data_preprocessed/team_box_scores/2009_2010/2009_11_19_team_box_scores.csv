@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CHICAGO BULLS,240,38,84,5,15,12,17,10,34,24,9,2,15,19,away,loss,93.0,LOS ANGELES LAKERS,108.0
+LOS ANGELES LAKERS,240,42,92,6,19,18,22,14,37,20,8,4,12,17,home,win,108.0,CHICAGO BULLS,93.0
+PHOENIX SUNS,240,38,83,11,28,16,22,14,24,26,11,7,11,23,away,loss,103.0,NEW ORLEANS HORNETS,110.0
+NEW ORLEANS HORNETS,240,39,97,13,25,19,23,25,31,24,8,2,16,18,home,win,110.0,PHOENIX SUNS,103.0
+UTAH JAZZ,240,36,78,4,9,14,20,8,27,26,6,4,9,24,away,win,90.0,SAN ANTONIO SPURS,83.0
+SAN ANTONIO SPURS,240,32,75,4,20,15,23,10,31,20,1,6,11,25,home,loss,83.0,UTAH JAZZ,90.0

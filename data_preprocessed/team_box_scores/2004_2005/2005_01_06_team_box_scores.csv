@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MEMPHIS GRIZZLIES,240,40,79,12,21,9,16,11,27,32,15,8,16,29,away,win,101.0,DETROIT PISTONS,79.0
+DETROIT PISTONS,240,21,67,5,15,32,38,15,25,13,6,8,23,15,home,loss,79.0,MEMPHIS GRIZZLIES,101.0
+INDIANA PACERS,240,37,73,5,13,19,27,6,17,21,5,1,9,29,away,loss,98.0,SAN ANTONIO SPURS,111.0
+SAN ANTONIO SPURS,240,37,73,8,15,29,38,16,27,15,6,7,13,24,home,win,111.0,INDIANA PACERS,98.0
+SEATTLE SUPERSONICS,240,39,87,8,28,10,14,13,35,20,5,5,18,30,away,loss,96.0,WASHINGTON WIZARDS,107.0
+WASHINGTON WIZARDS,240,34,83,8,19,31,35,12,31,14,8,1,9,21,home,win,107.0,SEATTLE SUPERSONICS,96.0

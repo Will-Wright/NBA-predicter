@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+BOSTON CELTICS,240,27,67,5,18,31,38,5,33,17,7,5,15,21
+INDIANA PACERS,240,41,92,9,23,12,19,15,34,23,9,5,11,27
+NEW YORK KNICKS,240,30,88,4,16,17,21,18,24,20,13,4,18,24
+NEW JERSEY NETS,240,38,71,7,18,16,24,7,37,28,12,8,23,20
+DALLAS MAVERICKS,240,30,93,2,19,17,20,23,34,16,5,7,13,20
+SACRAMENTO KINGS,240,30,81,6,23,17,24,13,35,23,11,4,12,21

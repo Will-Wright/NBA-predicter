@@ -1,0 +1,3 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHOENIX SUNS,265,48,97,13,27,21,30,15,40,18,4,6,14,31,away,win,130.0,DALLAS MAVERICKS,126.0
+DALLAS MAVERICKS,265,42,97,7,20,35,43,11,36,13,8,5,9,26,home,loss,126.0,PHOENIX SUNS,130.0

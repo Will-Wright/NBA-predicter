@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+TORONTO RAPTORS,240,31,86,7,20,16,24,16,25,23,7,13,11,17,away,loss,85.0,DENVER NUGGETS,96.0
+DENVER NUGGETS,240,38,95,5,14,15,17,17,35,24,5,7,11,19,home,win,96.0,TORONTO RAPTORS,85.0
+PORTLAND TRAIL BLAZERS,240,39,81,6,13,16,19,15,34,22,5,2,20,17,away,win,100.0,DETROIT PISTONS,98.0
+DETROIT PISTONS,240,39,76,13,25,7,10,3,25,27,9,7,17,22,home,loss,98.0,PORTLAND TRAIL BLAZERS,100.0
+ORLANDO MAGIC,240,29,85,7,22,30,39,15,31,20,6,5,11,31,away,loss,95.0,LOS ANGELES LAKERS,108.0
+LOS ANGELES LAKERS,240,37,82,4,17,30,47,17,38,23,8,9,14,29,home,win,108.0,ORLANDO MAGIC,95.0
+SEATTLE SUPERSONICS,240,38,81,11,21,12,18,10,30,25,9,4,18,24,away,win,99.0,WASHINGTON WIZARDS,84.0
+WASHINGTON WIZARDS,240,29,78,3,8,23,30,14,30,15,6,7,17,20,home,loss,84.0,SEATTLE SUPERSONICS,99.0

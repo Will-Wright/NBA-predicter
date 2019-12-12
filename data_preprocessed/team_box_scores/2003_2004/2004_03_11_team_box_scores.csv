@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW ORLEANS HORNETS,240,33,84,10,26,10,14,10,31,20,7,1,11,25,away,loss,86.0,HOUSTON ROCKETS,97.0
+HOUSTON ROCKETS,240,34,71,7,19,22,31,8,37,19,6,6,11,19,home,win,97.0,NEW ORLEANS HORNETS,86.0
+DALLAS MAVERICKS,240,43,105,6,16,10,14,17,28,24,11,6,11,13,away,loss,102.0,SACRAMENTO KINGS,120.0
+SACRAMENTO KINGS,240,48,85,9,20,15,18,4,39,39,7,3,18,13,home,win,120.0,DALLAS MAVERICKS,102.0

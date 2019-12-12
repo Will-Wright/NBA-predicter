@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+TORONTO RAPTORS,240,30,72,7,12,15,21,9,31,18,4,4,17,26,away,loss,82.0,DETROIT PISTONS,85.0
+DETROIT PISTONS,240,31,70,4,15,19,32,10,26,22,9,4,12,20,home,win,85.0,TORONTO RAPTORS,82.0
+INDIANA PACERS,290,42,87,7,19,18,21,9,37,22,6,2,21,36,away,loss,109.0,NEW JERSEY NETS,120.0
+NEW JERSEY NETS,290,45,102,5,15,25,34,18,33,18,9,5,11,22,home,win,120.0,INDIANA PACERS,109.0

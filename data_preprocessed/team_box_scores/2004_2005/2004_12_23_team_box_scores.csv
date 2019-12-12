@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MEMPHIS GRIZZLIES,240,42,81,10,21,8,13,4,31,28,6,6,15,18,away,loss,102.0,PHOENIX SUNS,109.0
+PHOENIX SUNS,240,40,87,11,28,18,22,14,27,28,9,7,12,14,home,win,109.0,MEMPHIS GRIZZLIES,102.0
+MIAMI HEAT,240,43,87,7,18,16,30,15,29,25,5,5,11,24,away,win,109.0,SACRAMENTO KINGS,107.0
+SACRAMENTO KINGS,240,40,95,4,11,23,29,21,31,30,7,3,7,22,home,loss,107.0,MIAMI HEAT,109.0
+MINNESOTA TIMBERWOLVES,240,29,71,5,13,19,23,12,31,16,5,4,19,19,away,loss,82.0,SAN ANTONIO SPURS,96.0
+SAN ANTONIO SPURS,240,37,81,6,10,16,19,11,28,22,11,5,10,19,home,win,96.0,MINNESOTA TIMBERWOLVES,82.0

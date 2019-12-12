@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHOENIX SUNS,240,31,76,4,22,23,30,6,28,23,13,1,13,23,away,win,89.0,ATLANTA HAWKS,85.0
+ATLANTA HAWKS,240,30,73,4,12,21,25,9,36,20,6,4,22,24,home,loss,85.0,PHOENIX SUNS,89.0
+CHICAGO BULLS,240,39,88,6,15,8,12,12,22,32,9,3,13,20,away,loss,92.0,LOS ANGELES CLIPPERS,102.0
+LOS ANGELES CLIPPERS,240,40,75,4,10,18,23,10,33,25,6,6,16,17,home,win,102.0,CHICAGO BULLS,92.0
+SAN ANTONIO SPURS,240,27,71,2,10,21,28,15,38,12,8,5,23,19,away,win,77.0,NEW YORK KNICKS,67.0
+NEW YORK KNICKS,240,27,75,1,9,12,17,10,27,16,9,3,18,27,home,loss,67.0,SAN ANTONIO SPURS,77.0
+NEW JERSEY NETS,240,33,80,9,25,19,21,9,26,29,9,4,7,27,away,win,94.0,PHILADELPHIA 76ERS,76.0
+PHILADELPHIA 76ERS,240,22,63,2,11,30,36,7,36,14,3,3,20,20,home,loss,76.0,NEW JERSEY NETS,94.0
+DALLAS MAVERICKS,240,43,89,11,26,21,27,19,25,27,6,4,12,20,away,win,118.0,SEATTLE SUPERSONICS,116.0
+SEATTLE SUPERSONICS,240,43,79,11,24,19,28,9,23,25,8,1,8,20,home,loss,116.0,DALLAS MAVERICKS,118.0

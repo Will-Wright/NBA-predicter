@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,46,82,2,12,18,30,11,38,24,9,8,16,26,away,win,112.0,CHICAGO BULLS,110.0
+CHICAGO BULLS,240,40,85,13,23,17,30,13,23,24,5,5,15,27,home,loss,110.0,WASHINGTON WIZARDS,112.0
+DENVER NUGGETS,240,36,82,1,10,16,20,10,25,17,6,4,11,25,away,loss,89.0,SAN ANTONIO SPURS,99.0
+SAN ANTONIO SPURS,240,33,73,9,24,24,33,12,33,23,5,9,16,22,home,win,99.0,DENVER NUGGETS,89.0

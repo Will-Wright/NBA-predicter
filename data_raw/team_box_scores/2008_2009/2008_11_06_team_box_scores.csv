@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+PHILADELPHIA 76ERS,240,36,95,5,17,11,13,17,37,18,5,4,14,20
+ORLANDO MAGIC,240,37,82,9,25,15,26,11,35,21,7,7,10,15
+HOUSTON ROCKETS,265,37,78,6,12,19,23,5,31,21,6,2,8,23
+PORTLAND TRAIL BLAZERS,265,41,89,6,18,13,17,16,32,25,2,6,12,26

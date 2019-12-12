@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+nowitdi01,Dirk Nowitzki,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,2462,8,16,0,2,10,11,1,15,4,0,2,1,2,25.2
+wadedw01,Dwyane Wade,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,2399,6,19,0,0,11,14,4,4,3,2,1,4,4,14.1
+stackje01,Jerry Stackhouse,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,1807,6,11,4,5,3,3,1,2,3,0,0,3,1,13.7
+walkean02,Antoine Walker,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,2574,8,16,4,7,0,0,0,4,2,0,1,2,3,12.1
+terryja01,Jason Terry,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,2477,6,15,1,6,3,5,0,1,9,2,0,3,2,11.9
+dampier01,Erick Dampier,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,1729,2,3,0,0,2,3,4,9,1,1,1,2,2,9.4
+mournal01,Alonzo Mourning,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,1204,4,4,0,0,3,5,1,3,0,0,1,1,3,9.1
+willija02,Jason Williams,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,1859,3,10,1,4,4,5,0,2,4,1,0,0,2,8.4
+harride01,Devin Harris,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,1391,4,10,0,1,3,3,0,1,4,1,0,1,4,7.1
+howarjo01,Josh Howard,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,1713,6,12,2,3,1,1,1,2,1,0,2,4,5,6.4
+paytoga01,Gary Payton,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,1680,1,4,0,2,0,0,0,1,4,2,0,0,2,3.9
+poseyja01,James Posey,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,1707,2,6,2,4,1,1,2,3,1,0,0,1,6,3.2
+vanhoke01,Keith Van Horn,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,619,2,3,1,2,0,0,0,0,0,0,0,1,1,2.3
+onealsh01,Shaquille O'Neal,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,1676,2,5,0,0,1,7,1,5,2,0,0,2,1,1.1
+hasleud01,Udonis Haslem,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,1207,3,6,0,0,0,0,0,1,0,0,0,2,2,0.5
+diopde01,DeSagana Diop,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,737,0,0,0,0,1,2,1,3,0,1,0,1,5,0.2
+daniema01,Marquis Daniels,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,369,0,0,0,0,0,0,0,1,1,0,0,1,1,-0.4
+andersh01,Shandon Anderson,MIAMI HEAT,AWAY,DALLAS MAVERICKS,LOSS,94,0,0,0,0,0,0,0,1,0,0,0,1,0,-0.7
+griffad01,Adrian Griffin,DALLAS MAVERICKS,HOME,MIAMI HEAT,WIN,1096,0,0,0,0,0,0,1,3,0,0,0,1,4,-1.0

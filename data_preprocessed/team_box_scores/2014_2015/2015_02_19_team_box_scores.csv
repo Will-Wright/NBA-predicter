@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SAN ANTONIO SPURS,240,43,84,10,28,19,23,5,33,34,6,2,16,32,away,loss,115.0,LOS ANGELES CLIPPERS,119.0
+LOS ANGELES CLIPPERS,240,42,77,8,19,27,52,10,33,26,10,4,12,22,home,win,119.0,SAN ANTONIO SPURS,115.0
+DALLAS MAVERICKS,240,33,91,9,27,14,17,14,25,16,14,3,17,20,away,loss,89.0,OKLAHOMA CITY THUNDER,104.0
+OKLAHOMA CITY THUNDER,240,38,91,7,22,21,26,21,41,20,8,0,22,20,home,win,104.0,DALLAS MAVERICKS,89.0

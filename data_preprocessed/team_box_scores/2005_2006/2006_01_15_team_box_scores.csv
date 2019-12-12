@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,32,75,6,23,17,24,9,23,19,7,5,8,24,away,loss,87.0,PORTLAND TRAIL BLAZERS,89.0
+PORTLAND TRAIL BLAZERS,240,34,78,3,9,18,26,14,29,16,3,4,11,21,home,win,89.0,CLEVELAND CAVALIERS,87.0
+ORLANDO MAGIC,240,41,90,5,10,13,20,16,26,16,7,6,10,25,away,loss,100.0,SACRAMENTO KINGS,104.0
+SACRAMENTO KINGS,240,31,65,8,17,34,40,7,33,22,3,5,12,17,home,win,104.0,ORLANDO MAGIC,100.0
+NEW YORK KNICKS,240,34,71,4,14,31,47,9,24,20,6,4,14,31,away,loss,103.0,TORONTO RAPTORS,129.0
+TORONTO RAPTORS,240,49,83,6,15,25,30,8,29,29,6,3,11,35,home,win,129.0,NEW YORK KNICKS,103.0

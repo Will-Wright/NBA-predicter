@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MILWAUKEE BUCKS,240,34,76,0,2,19,26,5,26,22,7,5,13,19,away,loss,87.0,CLEVELAND CAVALIERS,104.0
+CLEVELAND CAVALIERS,240,37,86,4,13,26,27,14,34,28,9,6,14,19,home,win,104.0,MILWAUKEE BUCKS,87.0
+CHARLOTTE BOBCATS,240,38,91,5,13,9,17,14,35,25,8,9,10,23,away,loss,90.0,LOS ANGELES LAKERS,101.0
+LOS ANGELES LAKERS,240,35,76,8,17,23,30,5,38,19,3,6,12,15,home,win,101.0,CHARLOTTE BOBCATS,90.0
+HOUSTON ROCKETS,240,35,81,5,22,20,21,11,27,23,5,0,12,26,away,loss,95.0,MIAMI HEAT,104.0
+MIAMI HEAT,240,37,74,6,14,24,29,7,28,18,2,3,11,19,home,win,104.0,HOUSTON ROCKETS,95.0
+SACRAMENTO KINGS,240,40,92,5,14,9,18,13,32,25,10,2,7,14,away,win,94.0,MINNESOTA TIMBERWOLVES,84.0
+MINNESOTA TIMBERWOLVES,240,35,82,3,9,11,14,7,37,24,4,7,14,14,home,loss,84.0,SACRAMENTO KINGS,94.0
+PHOENIX SUNS,240,45,86,10,23,23,29,11,38,22,3,4,13,24,away,win,123.0,TORONTO RAPTORS,105.0
+TORONTO RAPTORS,240,38,90,7,14,22,27,11,30,21,5,0,10,23,home,loss,105.0,PHOENIX SUNS,123.0

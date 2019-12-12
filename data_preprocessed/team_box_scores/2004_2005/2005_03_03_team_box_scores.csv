@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+INDIANA PACERS,240,28,82,4,27,27,36,9,34,17,7,5,14,25,away,loss,87.0,DENVER NUGGETS,96.0
+DENVER NUGGETS,240,31,72,4,7,30,37,10,35,27,7,9,20,30,home,win,96.0,INDIANA PACERS,87.0
+MIAMI HEAT,240,37,73,4,12,28,38,10,37,24,4,9,11,25,away,win,106.0,NEW JERSEY NETS,90.0
+NEW JERSEY NETS,240,30,80,7,21,23,31,8,23,22,7,2,5,23,home,loss,90.0,MIAMI HEAT,106.0
+DETROIT PISTONS,240,41,92,4,17,11,17,21,35,20,6,7,14,15,away,loss,97.0,PHOENIX SUNS,100.0
+PHOENIX SUNS,240,40,87,11,20,9,14,9,28,23,7,4,10,11,home,win,100.0,DETROIT PISTONS,97.0

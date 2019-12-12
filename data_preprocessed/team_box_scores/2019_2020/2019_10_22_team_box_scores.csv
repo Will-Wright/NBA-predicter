@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES LAKERS,240,37,85,13,33,15,21,9,32,20,4,7,14,24,away,loss,102.0,LOS ANGELES CLIPPERS,112.0
+LOS ANGELES CLIPPERS,240,42,81,11,31,17,24,11,34,24,8,5,14,25,home,win,112.0,LOS ANGELES LAKERS,102.0
+NEW ORLEANS PELICANS,265,43,102,19,45,17,20,16,37,30,4,9,19,34,away,loss,122.0,TORONTO RAPTORS,130.0
+TORONTO RAPTORS,265,42,103,14,40,32,38,16,41,23,7,3,16,24,home,win,130.0,NEW ORLEANS PELICANS,122.0

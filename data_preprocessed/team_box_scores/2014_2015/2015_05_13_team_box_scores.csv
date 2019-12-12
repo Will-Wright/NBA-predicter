@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,33,88,4,17,11,16,13,33,20,15,5,19,17,away,loss,81.0,ATLANTA HAWKS,82.0
+ATLANTA HAWKS,240,34,83,5,22,9,11,13,37,21,11,13,23,17,home,win,82.0,WASHINGTON WIZARDS,81.0
+MEMPHIS GRIZZLIES,240,33,83,4,15,8,10,13,30,21,8,1,16,17,away,loss,78.0,GOLDEN STATE WARRIORS,98.0
+GOLDEN STATE WARRIORS,240,38,81,14,30,8,10,14,30,28,9,6,16,13,home,win,98.0,MEMPHIS GRIZZLIES,78.0

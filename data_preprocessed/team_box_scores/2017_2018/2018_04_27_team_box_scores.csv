@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,33,79,12,38,9,16,7,26,16,4,2,14,17,away,loss,87.0,INDIANA PACERS,121.0
+INDIANA PACERS,240,49,87,15,30,8,14,9,36,27,9,1,7,18,home,win,121.0,CLEVELAND CAVALIERS,87.0
+OKLAHOMA CITY THUNDER,240,37,93,10,34,7,13,15,34,20,6,4,13,21,away,loss,91.0,UTAH JAZZ,96.0
+UTAH JAZZ,240,37,82,10,26,12,23,11,29,16,9,5,13,17,home,win,96.0,OKLAHOMA CITY THUNDER,91.0
+TORONTO RAPTORS,240,40,90,7,25,15,19,16,31,18,8,6,6,20,away,win,102.0,WASHINGTON WIZARDS,92.0
+WASHINGTON WIZARDS,240,32,79,8,22,20,21,11,31,12,3,5,14,19,home,loss,92.0,TORONTO RAPTORS,102.0

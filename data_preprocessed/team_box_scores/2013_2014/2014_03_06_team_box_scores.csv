@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES CLIPPERS,240,57,103,12,26,16,22,16,48,34,16,5,17,21,away,win,142.0,LOS ANGELES LAKERS,94.0
+LOS ANGELES LAKERS,240,34,86,8,30,18,26,4,29,26,9,2,22,16,home,loss,94.0,LOS ANGELES CLIPPERS,142.0
+OKLAHOMA CITY THUNDER,240,45,90,13,33,19,19,7,26,21,7,4,9,27,away,loss,122.0,PHOENIX SUNS,128.0
+PHOENIX SUNS,240,42,80,15,27,29,39,11,33,21,6,2,14,24,home,win,128.0,OKLAHOMA CITY THUNDER,122.0
+MIAMI HEAT,240,34,79,4,13,15,18,8,28,25,10,4,20,22,away,loss,87.0,SAN ANTONIO SPURS,111.0
+SAN ANTONIO SPURS,240,40,79,9,23,22,26,8,37,30,9,5,17,17,home,win,111.0,MIAMI HEAT,87.0

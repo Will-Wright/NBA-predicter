@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+OKLAHOMA CITY THUNDER,240,44,79,6,17,24,28,10,34,26,1,6,14,23,away,win,118.0,LOS ANGELES CLIPPERS,112.0
+LOS ANGELES CLIPPERS,240,42,93,7,26,21,25,14,19,25,5,7,6,26,home,loss,112.0,OKLAHOMA CITY THUNDER,118.0
+INDIANA PACERS,240,31,74,7,15,16,21,4,38,20,9,6,9,20,away,win,85.0,WASHINGTON WIZARDS,63.0
+WASHINGTON WIZARDS,240,24,73,4,16,11,21,10,35,10,6,5,17,22,home,loss,63.0,INDIANA PACERS,85.0

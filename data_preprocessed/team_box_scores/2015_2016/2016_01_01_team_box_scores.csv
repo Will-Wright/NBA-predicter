@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW YORK KNICKS,240,31,84,6,19,13,17,11,31,16,3,7,11,25,away,loss,81.0,CHICAGO BULLS,108.0
+CHICAGO BULLS,240,39,85,10,16,20,25,14,40,27,4,9,7,19,home,win,108.0,NEW YORK KNICKS,81.0
+PHILADELPHIA 76ERS,240,31,84,4,24,18,25,13,37,21,6,10,16,21,away,loss,84.0,LOS ANGELES LAKERS,93.0
+LOS ANGELES LAKERS,240,33,87,5,16,22,29,13,37,17,11,6,10,17,home,win,93.0,PHILADELPHIA 76ERS,84.0
+DALLAS MAVERICKS,240,32,88,7,31,11,14,13,27,22,6,3,9,11,away,loss,82.0,MIAMI HEAT,106.0
+MIAMI HEAT,240,46,82,8,18,6,9,8,42,24,4,1,12,16,home,win,106.0,DALLAS MAVERICKS,82.0
+CHARLOTTE HORNETS,240,34,85,10,32,16,18,14,29,15,7,7,10,16,away,loss,94.0,TORONTO RAPTORS,104.0
+TORONTO RAPTORS,240,36,91,15,33,17,18,20,34,21,6,4,13,19,home,win,104.0,CHARLOTTE HORNETS,94.0
+ORLANDO MAGIC,240,40,85,5,20,6,8,7,32,29,6,4,15,13,away,loss,91.0,WASHINGTON WIZARDS,103.0
+WASHINGTON WIZARDS,240,43,92,8,26,9,10,12,34,25,11,5,9,11,home,win,103.0,ORLANDO MAGIC,91.0

@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,29,71,3,22,25,36,9,27,15,7,8,10,21,away,loss,86.0,CLEVELAND CAVALIERS,97.0
+CLEVELAND CAVALIERS,240,38,87,5,14,16,22,20,32,21,6,4,10,25,home,win,97.0,WASHINGTON WIZARDS,86.0
+DENVER NUGGETS,240,35,91,1,6,16,22,19,23,16,9,5,7,21,away,loss,87.0,LOS ANGELES CLIPPERS,89.0
+LOS ANGELES CLIPPERS,240,30,68,6,12,23,30,12,31,22,3,4,15,22,home,win,89.0,DENVER NUGGETS,87.0
+CHICAGO BULLS,240,40,88,13,26,13,17,10,30,20,5,4,16,30,away,loss,106.0,MIAMI HEAT,111.0
+MIAMI HEAT,240,37,77,5,19,32,39,9,37,18,11,8,17,20,home,win,111.0,CHICAGO BULLS,106.0
+SACRAMENTO KINGS,240,33,84,5,14,17,20,13,19,14,7,0,9,25,away,loss,88.0,SAN ANTONIO SPURS,122.0
+SAN ANTONIO SPURS,240,42,73,11,17,27,32,12,39,25,5,6,12,20,home,win,122.0,SACRAMENTO KINGS,88.0

@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DETROIT PISTONS,240,33,81,5,7,27,32,19,30,15,6,5,14,19,away,win,98.0,INDIANA PACERS,93.0
+INDIANA PACERS,240,35,76,6,17,17,24,10,29,23,9,7,12,27,home,loss,93.0,DETROIT PISTONS,98.0
+MIAMI HEAT,265,40,90,7,14,17,25,9,33,20,9,5,7,18,away,win,104.0,LOS ANGELES LAKERS,102.0
+LOS ANGELES LAKERS,265,36,82,14,36,16,19,8,36,21,3,2,15,24,home,loss,102.0,MIAMI HEAT,104.0

@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+WASHINGTON WIZARDS,240,38,90,6,22,20,28,13,25,20,7,5,5,23,away,loss,102.0,CLEVELAND CAVALIERS,109.0
+CLEVELAND CAVALIERS,240,40,84,3,12,26,33,16,40,20,2,5,14,21,home,win,109.0,WASHINGTON WIZARDS,102.0
+GOLDEN STATE WARRIORS,240,36,76,4,20,23,27,8,26,9,7,5,24,29,away,loss,99.0,DALLAS MAVERICKS,112.0
+DALLAS MAVERICKS,240,37,76,1,16,37,43,12,29,15,14,9,15,23,home,win,112.0,GOLDEN STATE WARRIORS,99.0
+DENVER NUGGETS,240,34,88,7,16,13,17,14,30,17,7,4,12,19,away,loss,88.0,SAN ANTONIO SPURS,97.0
+SAN ANTONIO SPURS,240,35,80,6,14,21,23,10,34,20,5,6,12,16,home,win,97.0,DENVER NUGGETS,88.0

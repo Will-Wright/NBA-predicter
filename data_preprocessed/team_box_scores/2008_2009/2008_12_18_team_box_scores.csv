@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SAN ANTONIO SPURS,240,30,80,8,20,10,13,7,32,15,6,3,15,13,away,loss,78.0,ORLANDO MAGIC,90.0
+ORLANDO MAGIC,240,38,85,6,25,8,10,6,38,16,9,6,12,14,home,win,90.0,SAN ANTONIO SPURS,78.0
+PHOENIX SUNS,240,41,72,12,18,25,29,7,25,28,3,4,16,24,away,loss,119.0,PORTLAND TRAIL BLAZERS,124.0
+PORTLAND TRAIL BLAZERS,240,45,87,11,23,23,30,15,20,23,9,5,6,22,home,win,124.0,PHOENIX SUNS,119.0

@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,27,80,6,17,14,16,14,27,10,7,8,10,16,away,loss,74.0,HOUSTON ROCKETS,93.0
+HOUSTON ROCKETS,240,35,71,8,19,15,18,5,34,25,4,6,12,20,home,win,93.0,CLEVELAND CAVALIERS,74.0
+PHOENIX SUNS,240,39,91,8,25,20,25,17,25,23,11,6,19,16,away,loss,106.0,LOS ANGELES LAKERS,132.0
+LOS ANGELES LAKERS,240,54,94,9,20,15,20,14,35,38,13,7,16,22,home,win,132.0,PHOENIX SUNS,106.0

@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,39,92,5,18,13,22,15,29,28,5,4,8,22,away,loss,96.0,BOSTON CELTICS,117.0
+BOSTON CELTICS,240,45,91,9,23,18,27,17,42,30,5,5,9,18,home,win,117.0,ORLANDO MAGIC,96.0
+CLEVELAND CAVALIERS,240,30,83,1,12,20,26,21,29,17,9,5,16,19,away,loss,81.0,CHICAGO BULLS,92.0
+CHICAGO BULLS,240,31,82,7,19,23,29,22,28,22,6,7,14,19,home,win,92.0,CLEVELAND CAVALIERS,81.0
+MEMPHIS GRIZZLIES,240,31,80,4,9,15,22,11,27,15,11,5,12,17,away,win,81.0,SAN ANTONIO SPURS,80.0
+SAN ANTONIO SPURS,240,30,72,8,22,12,20,8,38,19,10,8,18,25,home,loss,80.0,MEMPHIS GRIZZLIES,81.0
+DETROIT PISTONS,240,26,70,3,15,31,38,11,29,13,7,10,14,22,away,loss,86.0,UTAH JAZZ,94.0
+UTAH JAZZ,240,34,76,6,11,20,22,10,29,22,10,8,15,29,home,win,94.0,DETROIT PISTONS,86.0
+NEW ORLEANS HORNETS,265,42,97,5,27,17,18,17,28,20,14,3,16,25,away,loss,106.0,WASHINGTON WIZARDS,111.0
+WASHINGTON WIZARDS,265,43,83,10,21,15,26,9,35,27,9,3,20,24,home,win,111.0,NEW ORLEANS HORNETS,106.0

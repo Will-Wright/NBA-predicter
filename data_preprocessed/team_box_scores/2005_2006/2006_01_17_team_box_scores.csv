@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+PHOENIX SUNS,240,33,88,6,23,18,23,10,32,20,10,2,13,21,away,loss,90.0,SACRAMENTO KINGS,119.0
+SACRAMENTO KINGS,240,45,88,12,24,17,21,11,44,26,9,1,17,19,home,win,119.0,PHOENIX SUNS,90.0
+TORONTO RAPTORS,240,31,68,5,16,31,38,10,22,13,5,4,15,21,away,loss,98.0,UTAH JAZZ,111.0
+UTAH JAZZ,240,44,80,1,9,22,26,15,29,27,9,5,12,30,home,win,111.0,TORONTO RAPTORS,98.0

@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MINNESOTA TIMBERWOLVES,240,47,94,6,14,9,14,14,34,28,2,3,9,18,away,loss,109.0,DALLAS MAVERICKS,112.0
+DALLAS MAVERICKS,240,44,91,8,19,16,23,15,29,25,6,7,5,15,home,win,112.0,MINNESOTA TIMBERWOLVES,109.0
+WASHINGTON WIZARDS,240,36,82,3,11,15,24,17,29,21,6,1,12,21,away,loss,90.0,MILWAUKEE BUCKS,97.0
+MILWAUKEE BUCKS,240,36,76,10,21,15,16,9,25,23,6,4,8,19,home,win,97.0,WASHINGTON WIZARDS,90.0
+SACRAMENTO KINGS,240,38,86,7,22,12,14,6,41,25,5,6,5,15,away,win,95.0,SEATTLE SUPERSONICS,77.0
+SEATTLE SUPERSONICS,240,30,83,5,9,12,17,7,40,15,5,5,11,16,home,loss,77.0,SACRAMENTO KINGS,95.0

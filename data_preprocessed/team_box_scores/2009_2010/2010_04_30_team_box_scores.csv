@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ATLANTA HAWKS,240,31,81,5,16,16,22,15,36,15,5,6,11,15,away,win,83.0,MILWAUKEE BUCKS,69.0
+MILWAUKEE BUCKS,240,25,76,7,26,12,12,8,34,14,4,3,12,24,home,loss,69.0,ATLANTA HAWKS,83.0
+LOS ANGELES LAKERS,240,37,79,12,24,9,14,10,33,23,4,8,15,21,away,win,95.0,OKLAHOMA CITY THUNDER,94.0
+OKLAHOMA CITY THUNDER,240,31,85,5,19,27,31,13,29,21,7,4,6,19,home,loss,94.0,LOS ANGELES LAKERS,95.0
+DENVER NUGGETS,240,36,83,5,17,27,40,11,28,19,8,4,10,39,away,loss,104.0,UTAH JAZZ,112.0
+UTAH JAZZ,240,36,69,6,15,34,51,8,37,26,2,4,18,31,home,win,112.0,DENVER NUGGETS,104.0

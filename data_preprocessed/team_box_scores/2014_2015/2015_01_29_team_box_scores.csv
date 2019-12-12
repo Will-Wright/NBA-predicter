@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW YORK KNICKS,240,34,81,5,16,9,13,6,27,22,3,6,10,18,away,loss,82.0,INDIANA PACERS,103.0
+INDIANA PACERS,240,42,79,6,18,13,18,8,41,25,4,4,11,16,home,win,103.0,NEW YORK KNICKS,82.0
+CHICAGO BULLS,290,43,104,6,25,26,32,17,32,26,9,6,11,21,away,loss,118.0,LOS ANGELES LAKERS,123.0
+LOS ANGELES LAKERS,290,50,106,3,9,20,25,18,36,26,5,8,13,27,home,win,123.0,CHICAGO BULLS,118.0
+DENVER NUGGETS,240,29,87,2,26,9,10,10,37,19,6,5,16,19,away,loss,69.0,MEMPHIS GRIZZLIES,99.0
+MEMPHIS GRIZZLIES,240,39,88,3,16,18,27,13,44,17,8,4,9,11,home,win,99.0,DENVER NUGGETS,69.0
+MILWAUKEE BUCKS,240,45,87,12,25,13,18,7,31,29,16,8,15,24,away,win,115.0,ORLANDO MAGIC,100.0
+ORLANDO MAGIC,240,37,82,5,18,21,30,14,35,14,8,4,23,18,home,loss,100.0,MILWAUKEE BUCKS,115.0

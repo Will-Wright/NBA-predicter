@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DETROIT PISTONS,240,35,80,2,8,15,20,13,37,18,5,5,10,16,away,win,87.0,CLEVELAND CAVALIERS,71.0
+CLEVELAND CAVALIERS,240,27,79,2,11,15,22,13,30,15,6,4,9,17,home,loss,71.0,DETROIT PISTONS,87.0
+WASHINGTON WIZARDS,240,44,89,11,22,27,39,20,31,20,10,2,17,23,away,win,126.0,SACRAMENTO KINGS,119.0
+SACRAMENTO KINGS,240,45,91,8,22,21,26,12,29,28,9,2,15,28,home,loss,119.0,WASHINGTON WIZARDS,126.0

@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+CLEVELAND CAVALIERS,240,33,84,9,22,21,27,14,34,16,3,11,12,25,away,loss,96.0,CHICAGO BULLS,107.0
+CHICAGO BULLS,240,40,91,7,16,20,31,21,35,22,6,5,7,24,home,win,107.0,CLEVELAND CAVALIERS,96.0
+HOUSTON ROCKETS,240,45,83,7,16,16,23,8,30,23,8,3,5,17,away,win,113.0,DALLAS MAVERICKS,98.0
+DALLAS MAVERICKS,240,37,83,7,12,17,23,13,28,20,1,4,12,20,home,loss,98.0,HOUSTON ROCKETS,113.0
+INDIANA PACERS,240,39,81,3,18,16,26,9,26,9,17,6,16,27,away,loss,97.0,SAN ANTONIO SPURS,108.0
+SAN ANTONIO SPURS,240,38,79,6,14,26,33,12,35,24,8,3,22,17,home,win,108.0,INDIANA PACERS,97.0

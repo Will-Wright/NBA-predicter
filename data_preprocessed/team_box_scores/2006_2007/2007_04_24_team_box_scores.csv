@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+MIAMI HEAT,240,34,73,5,16,16,20,6,24,21,9,4,20,14,away,loss,89.0,CHICAGO BULLS,107.0
+CHICAGO BULLS,240,43,78,11,17,10,12,10,28,28,11,5,18,19,home,win,107.0,MIAMI HEAT,89.0
+LOS ANGELES LAKERS,240,36,87,9,24,17,24,17,26,16,6,3,15,20,away,loss,98.0,PHOENIX SUNS,126.0
+PHOENIX SUNS,240,50,92,11,26,15,19,12,33,30,8,6,8,21,home,win,126.0,LOS ANGELES LAKERS,98.0
+NEW JERSEY NETS,240,31,76,10,23,11,14,11,34,18,5,2,16,22,away,loss,83.0,TORONTO RAPTORS,89.0
+TORONTO RAPTORS,240,31,76,6,15,21,25,11,33,12,9,3,10,17,home,win,89.0,NEW JERSEY NETS,83.0

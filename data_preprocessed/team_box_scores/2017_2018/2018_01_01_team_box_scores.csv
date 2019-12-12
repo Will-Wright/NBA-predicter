@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,35,96,6,31,19,25,19,33,16,5,5,12,18,away,loss,95.0,BROOKLYN NETS,98.0
+BROOKLYN NETS,240,36,82,9,25,17,23,10,42,17,7,10,13,22,home,win,98.0,ORLANDO MAGIC,95.0
+PORTLAND TRAIL BLAZERS,265,47,108,14,33,16,18,12,38,25,7,5,8,16,away,win,124.0,CHICAGO BULLS,120.0
+CHICAGO BULLS,265,45,104,11,27,19,23,15,43,28,5,7,12,21,home,loss,120.0,PORTLAND TRAIL BLAZERS,124.0
+LOS ANGELES LAKERS,240,34,76,8,26,20,29,9,28,18,12,4,24,25,away,loss,96.0,MINNESOTA TIMBERWOLVES,114.0
+MINNESOTA TIMBERWOLVES,240,40,81,7,20,27,30,7,34,26,14,5,17,24,home,win,114.0,LOS ANGELES LAKERS,96.0
+MILWAUKEE BUCKS,265,44,93,13,27,26,28,10,33,27,9,3,14,23,away,loss,127.0,TORONTO RAPTORS,131.0
+TORONTO RAPTORS,265,45,91,14,33,27,33,6,34,25,8,8,12,20,home,win,131.0,MILWAUKEE BUCKS,127.0

@@ -1,0 +1,11 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+ORLANDO MAGIC,240,30,68,8,18,23,36,8,26,20,5,4,14,22,away,loss,91.0,BOSTON CELTICS,103.0
+BOSTON CELTICS,240,38,73,8,19,19,24,6,32,24,7,5,14,24,home,win,103.0,ORLANDO MAGIC,91.0
+GOLDEN STATE WARRIORS,240,38,73,7,16,22,25,5,35,18,7,2,17,16,away,win,105.0,CLEVELAND CAVALIERS,96.0
+CLEVELAND CAVALIERS,240,37,90,4,19,18,28,19,28,21,10,5,12,20,home,loss,96.0,GOLDEN STATE WARRIORS,105.0
+HOUSTON ROCKETS,240,29,72,8,20,16,23,8,29,17,8,6,17,23,away,loss,82.0,DETROIT PISTONS,94.0
+DETROIT PISTONS,240,32,77,7,13,23,29,11,31,23,8,4,14,23,home,win,94.0,HOUSTON ROCKETS,82.0
+LOS ANGELES LAKERS,240,37,85,8,26,13,20,8,30,18,9,5,8,27,away,win,95.0,NEW YORK KNICKS,90.0
+NEW YORK KNICKS,240,30,76,3,19,27,38,17,35,7,2,0,17,22,home,loss,90.0,LOS ANGELES LAKERS,95.0
+DENVER NUGGETS,240,39,91,9,28,19,22,12,41,18,7,10,19,23,away,win,106.0,SACRAMENTO KINGS,105.0
+SACRAMENTO KINGS,240,39,90,8,23,19,31,10,36,23,12,6,13,24,home,loss,105.0,DENVER NUGGETS,106.0

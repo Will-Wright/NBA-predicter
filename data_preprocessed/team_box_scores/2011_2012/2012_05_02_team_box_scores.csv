@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+LOS ANGELES CLIPPERS,240,38,67,9,16,13,18,4,24,15,8,6,20,29,away,loss,98.0,MEMPHIS GRIZZLIES,105.0
+MEMPHIS GRIZZLIES,240,36,75,2,12,31,39,16,21,12,13,7,12,17,home,win,105.0,LOS ANGELES CLIPPERS,98.0
+INDIANA PACERS,240,37,79,8,20,15,20,13,33,16,9,5,12,17,away,win,97.0,ORLANDO MAGIC,74.0
+ORLANDO MAGIC,240,30,71,5,15,9,18,5,28,14,6,1,17,18,home,loss,74.0,INDIANA PACERS,97.0
+UTAH JAZZ,240,31,90,1,6,20,23,18,25,16,7,3,15,16,away,loss,83.0,SAN ANTONIO SPURS,114.0
+SAN ANTONIO SPURS,240,47,82,10,22,10,10,5,39,28,10,5,12,18,home,win,114.0,UTAH JAZZ,83.0

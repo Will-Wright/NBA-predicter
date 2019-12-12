@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SAN ANTONIO SPURS,240,36,81,8,20,6,6,5,31,25,7,8,14,15,away,win,86.0,LOS ANGELES CLIPPERS,83.0
+LOS ANGELES CLIPPERS,240,36,87,3,16,8,10,14,33,22,8,13,13,9,home,loss,83.0,SAN ANTONIO SPURS,86.0
+HOUSTON ROCKETS,240,42,83,1,8,15,16,14,34,18,8,4,16,20,away,win,100.0,OKLAHOMA CITY THUNDER,89.0
+OKLAHOMA CITY THUNDER,240,34,84,3,8,18,27,14,25,16,10,4,12,18,home,loss,89.0,HOUSTON ROCKETS,100.0
+PHOENIX SUNS,240,36,74,5,16,20,27,5,21,19,3,5,12,28,away,loss,97.0,UTAH JAZZ,109.0
+UTAH JAZZ,240,40,85,3,8,26,36,17,30,28,7,4,10,24,home,win,109.0,PHOENIX SUNS,97.0

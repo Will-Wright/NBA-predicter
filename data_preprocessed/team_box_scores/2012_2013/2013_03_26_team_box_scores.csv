@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+NEW YORK KNICKS,240,39,90,8,28,14,18,15,26,11,12,3,8,24,away,win,100.0,BOSTON CELTICS,85.0
+BOSTON CELTICS,240,31,69,6,20,17,22,7,33,20,6,6,19,16,home,loss,85.0,NEW YORK KNICKS,100.0
+LOS ANGELES CLIPPERS,265,38,85,10,33,16,25,11,33,19,6,4,17,24,away,loss,102.0,DALLAS MAVERICKS,109.0
+DALLAS MAVERICKS,265,40,82,6,23,23,27,8,34,23,12,7,15,21,home,win,109.0,LOS ANGELES CLIPPERS,102.0
+MINNESOTA TIMBERWOLVES,240,42,79,14,26,7,8,8,33,26,10,3,13,14,away,win,105.0,DETROIT PISTONS,82.0
+DETROIT PISTONS,240,32,79,7,20,11,13,11,26,18,8,4,15,12,home,loss,82.0,MINNESOTA TIMBERWOLVES,105.0

@@ -1,0 +1,7 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+SACRAMENTO KINGS,240,36,80,8,16,15,26,11,38,26,6,5,12,15,away,win,95.0,CLEVELAND CAVALIERS,89.0
+CLEVELAND CAVALIERS,240,33,85,6,15,17,22,13,32,20,10,4,10,21,home,loss,89.0,SACRAMENTO KINGS,95.0
+LOS ANGELES LAKERS,240,29,72,5,17,24,29,6,30,13,7,3,10,21,away,loss,87.0,DALLAS MAVERICKS,106.0
+DALLAS MAVERICKS,240,40,82,7,13,19,26,16,35,28,5,2,9,22,home,win,106.0,LOS ANGELES LAKERS,87.0
+GOLDEN STATE WARRIORS,240,28,78,4,17,27,31,7,32,15,11,2,14,23,away,loss,87.0,SEATTLE SUPERSONICS,103.0
+SEATTLE SUPERSONICS,240,39,83,7,17,18,25,9,39,25,10,10,17,24,home,win,103.0,GOLDEN STATE WARRIORS,87.0

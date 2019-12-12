@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
+DETROIT PISTONS,240,26,81,5,23,15,21,10,39,17,4,7,8,27,away,loss,72.0,LOS ANGELES CLIPPERS,74.0
+LOS ANGELES CLIPPERS,240,22,69,3,8,27,35,9,45,13,5,4,12,22,home,win,74.0,DETROIT PISTONS,72.0
+PORTLAND TRAIL BLAZERS,265,35,77,4,11,21,25,9,27,24,7,3,18,28,away,loss,95.0,LOS ANGELES LAKERS,98.0
+LOS ANGELES LAKERS,265,36,85,7,24,19,26,18,26,24,10,3,15,20,home,win,98.0,PORTLAND TRAIL BLAZERS,95.0
+SACRAMENTO KINGS,240,27,76,2,14,22,29,11,35,17,4,8,15,16,away,loss,78.0,MIAMI HEAT,88.0
+MIAMI HEAT,240,35,89,5,17,13,15,14,37,21,5,4,9,23,home,win,88.0,SACRAMENTO KINGS,78.0
+UTAH JAZZ,240,29,70,1,5,18,26,11,25,18,2,4,17,18,away,loss,77.0,SEATTLE SUPERSONICS,91.0
+SEATTLE SUPERSONICS,240,40,88,3,16,8,12,16,32,25,10,2,11,20,home,win,91.0,UTAH JAZZ,77.0
