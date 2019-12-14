@@ -1,0 +1,17 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+nowitdi01,Dirk Nowitzki,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,2644,12,21,0,0,6,8,2,12,6,1,0,1,0,28.5
+diawbo01,Boris Diaw,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2582,10,17,0,0,5,6,2,8,6,1,1,2,2,23.6
+howarjo01,Josh Howard,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,2388,10,19,3,5,6,10,2,5,0,1,2,2,4,19.8
+mariosh01,Shawn Marion,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2526,9,20,1,3,0,0,4,15,2,3,0,1,3,18.1
+nashst01,Steve Nash,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2350,6,10,2,2,2,3,0,2,11,0,0,4,4,13.7
+terryja01,Jason Terry,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,2527,6,15,0,1,6,7,0,4,4,0,0,1,1,12.1
+thomati01,Tim Thomas,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2416,8,18,4,10,0,0,0,1,0,1,0,1,6,8.5
+stackje01,Jerry Stackhouse,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,1724,3,7,1,2,4,5,2,5,2,0,0,3,0,8.2
+diopde01,DeSagana Diop,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,1908,2,3,0,0,0,0,2,9,0,1,2,0,5,7.2
+harride01,Devin Harris,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,1460,4,7,0,1,1,4,0,1,2,1,0,1,0,6.2
+jonesja02,James Jones,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,1363,1,2,0,0,1,2,1,2,0,0,6,0,3,5.9
+houseed01,Eddie House,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,849,3,7,1,2,0,0,0,2,0,0,0,0,1,3.5
+griffad01,Adrian Griffin,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,718,0,2,0,0,2,2,2,0,1,0,0,0,2,1.9
+vanhoke01,Keith Van Horn,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,942,1,4,0,2,0,0,0,1,2,0,0,0,0,1.3
+barbole01,Leandro Barbosa,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2314,3,15,2,6,0,0,0,2,4,1,0,1,5,0.1
+daniema01,Marquis Daniels,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,88,0,2,0,0,0,0,1,0,0,0,0,0,0,-0.7

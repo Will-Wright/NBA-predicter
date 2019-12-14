@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+DALLAS MAVERICKS,240,31,86,7,26,14,17,14,29,14,9,6,11,23
+HOUSTON ROCKETS,240,36,74,9,17,20,25,9,34,21,5,7,16,17
+BOSTON CELTICS,265,37,90,3,16,15,19,17,37,16,10,7,16,27
+INDIANA PACERS,265,27,75,6,25,29,37,11,33,15,6,6,16,19

@@ -1,0 +1,21 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+croshau01,Austin Croshere,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,1722,7,10,4,5,4,4,1,3,0,0,1,2,2,17.3
+sprewla01,Latrell Sprewell,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,2474,8,19,1,3,5,6,0,5,3,2,0,1,0,16.1
+davisda01,Dale Davis,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,2579,7,13,0,0,0,0,4,12,1,1,2,0,3,16.0
+jacksma01,Mark Jackson,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,1965,3,7,3,4,2,2,0,4,13,2,0,2,5,15.6
+millere01,Reggie Miller,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,2470,8,20,1,2,2,2,1,1,7,0,2,0,2,14.7
+wardch01,Charlie Ward,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,2102,5,7,2,3,2,2,0,4,2,1,1,0,2,14.6
+ewingpa01,Patrick Ewing,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,2028,8,18,0,0,5,9,3,5,2,0,1,3,3,11.5
+smitsri01,Rik Smits,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,1146,7,10,0,0,2,2,1,4,1,0,1,2,4,11.5
+roseja01,Jalen Rose,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,2503,7,19,1,2,2,2,0,6,6,0,2,1,4,11.3
+houstal01,Allan Houston,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,2445,8,16,2,3,0,0,0,2,4,0,0,2,3,10.2
+childch01,Chris Childs,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,754,2,2,0,0,0,0,0,0,3,0,0,0,3,4.3
+perkisa01,Sam Perkins,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,464,1,1,1,1,0,0,0,3,0,0,0,0,1,3.2
+mckeyde01,Derrick McKey,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,584,0,1,0,1,0,0,1,2,2,0,1,0,0,2.7
+cambyma01,Marcus Camby,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,1844,2,9,0,1,0,0,2,6,0,0,1,0,2,1.6
+johnsla02,Larry Johnson,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,1877,1,5,1,1,0,0,0,5,2,0,0,1,1,1.4
+thomaku01,Kurt Thomas,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,773,1,3,0,0,0,0,2,1,0,0,0,1,2,0.2
+bendejo01,Jonathan Bender,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+tabakza01,Žan Tabak,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+brunsri01,Rick Brunson,NEW YORK KNICKS,AWAY,INDIANA PACERS,LOSS,103,0,1,0,0,0,0,0,0,1,0,0,0,2,-0.8
+besttr01,Travis Best,INDIANA PACERS,HOME,NEW YORK KNICKS,WIN,915,0,2,0,0,0,0,0,0,2,1,0,2,1,-1.4

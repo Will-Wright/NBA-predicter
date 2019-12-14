@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+PHOENIX SUNS,240,43,90,15,27,20,25,18,26,26,5,8,13,19
+PORTLAND TRAIL BLAZERS,240,37,89,0,9,25,30,19,27,18,9,4,15,22
+BOSTON CELTICS,240,38,85,1,6,28,33,15,32,12,10,3,17,18
+SACRAMENTO KINGS,240,46,96,9,18,18,23,17,28,35,9,2,12,24

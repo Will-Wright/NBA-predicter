@@ -1,0 +1,20 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+nowitdi01,Dirk Nowitzki,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,2609,14,26,5,6,17,18,1,11,3,1,0,1,2,42.3
+thomati01,Tim Thomas,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2488,9,14,6,8,2,2,0,3,1,0,0,1,5,18.4
+howarjo01,Josh Howard,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,1867,9,15,2,5,3,4,1,6,2,2,1,3,5,17.3
+nashst01,Steve Nash,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2347,5,17,1,6,9,9,0,6,11,1,1,3,3,17.1
+mariosh01,Shawn Marion,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2302,9,13,1,3,1,1,0,10,0,1,0,1,5,15.5
+diopde01,DeSagana Diop,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,1784,3,5,0,0,1,1,5,4,1,1,2,0,2,11.7
+diawbo01,Boris Diaw,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,2332,6,14,1,1,3,4,4,5,1,1,2,3,4,11.0
+terryja01,Jason Terry,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,2013,6,13,1,2,1,2,2,1,9,0,1,3,5,10.6
+stackje01,Jerry Stackhouse,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,2337,7,18,1,3,1,2,2,1,5,0,0,2,2,8.2
+barbole01,Leandro Barbosa,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,1754,5,12,0,0,4,4,0,1,3,0,0,1,3,7.8
+harride01,Devin Harris,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,1107,1,3,0,0,1,1,3,2,1,0,0,0,3,3.5
+griffad01,Adrian Griffin,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,1404,0,3,0,0,0,0,1,6,3,1,1,0,2,3.4
+vanhoke01,Keith Van Horn,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,919,2,4,0,0,0,0,1,2,0,0,0,0,1,2.9
+jonesja02,James Jones,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,830,1,1,0,0,0,0,0,3,1,0,1,1,1,2.6
+bellra01,Raja Bell,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,1736,1,5,1,4,0,0,2,0,3,0,0,0,4,1.8
+daniema01,Marquis Daniels,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+poweljo01,Josh Powell,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,55,0,1,0,0,0,0,0,0,0,0,0,0,0,-0.7
+armstda01,Darrell Armstrong,DALLAS MAVERICKS,HOME,PHOENIX SUNS,WIN,251,0,1,0,1,0,0,0,0,0,0,0,0,1,-1.1
+houseed01,Eddie House,PHOENIX SUNS,AWAY,DALLAS MAVERICKS,LOSS,611,0,3,0,2,0,0,0,1,1,0,0,0,0,-1.1

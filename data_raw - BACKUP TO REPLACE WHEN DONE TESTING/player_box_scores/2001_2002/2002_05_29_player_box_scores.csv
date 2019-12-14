@@ -1,0 +1,22 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+piercpa01,Paul Pierce,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,2573,5,13,2,9,12,12,2,10,5,1,3,3,5,22.9
+kittlke01,Kerry Kittles,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,1932,8,14,2,4,3,4,1,1,3,2,0,0,2,18.3
+vanhoke01,Keith Van Horn,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,2198,6,15,4,7,3,3,1,3,3,4,0,0,1,18.2
+kiddja01,Jason Kidd,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,2349,8,14,0,3,2,5,4,8,7,0,0,3,2,16.5
+rogerro01,Rodney Rogers,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,1326,6,9,4,5,4,4,2,2,0,1,0,2,3,15.9
+martike01,Kenyon Martin,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,2015,7,18,0,0,5,7,2,4,1,3,0,2,3,11.5
+battito01,Tony Battie,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,1838,3,5,0,0,2,4,6,5,1,0,3,3,5,8.4
+delkto01,Tony Delk,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,932,2,7,2,4,0,0,2,4,3,1,0,0,2,6.8
+stricer01,Erick Strickland,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,1490,4,10,0,5,5,5,1,0,1,1,0,3,2,6.2
+harrilu01,Lucious Harris,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,1154,2,5,0,1,4,6,0,5,2,1,0,2,3,5.2
+maccuto01,Todd MacCulloch,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,1200,2,5,0,0,0,0,4,4,1,0,2,2,2,4.6
+collija04,Jason Collins,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,720,0,1,0,0,7,10,0,0,0,0,0,0,2,4.3
+williaa01,Aaron Williams,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,960,2,2,0,0,0,0,0,1,3,1,0,1,5,3.8
+anderke01,Kenny Anderson,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,2024,4,13,0,0,0,0,1,1,6,1,0,1,5,3.7
+walkean02,Antoine Walker,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,2596,5,20,2,6,1,2,2,11,3,1,0,4,4,2.8
+jefferi01,Richard Jefferson,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,1265,1,2,0,0,1,2,1,6,1,0,0,1,3,2.6
+scalabr01,Brian Scalabrine,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+willier01,Eric Williams,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,1013,0,1,0,0,0,0,0,0,0,1,1,1,2,-0.8
+marshdo02,Donny Marshall,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,141,0,2,0,2,0,0,0,0,0,0,0,0,0,-1.4
+mccarwa01,Walter McCarty,BOSTON CELTICS,AWAY,NEW JERSEY NETS,LOSS,608,0,3,0,3,0,0,0,1,0,0,0,0,1,-2.2
+johnsan02,Anthony Johnson,NEW JERSEY NETS,HOME,BOSTON CELTICS,WIN,325,0,1,0,0,0,0,0,0,0,0,0,2,0,-2.7

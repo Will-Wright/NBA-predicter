@@ -1,0 +1,21 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+willide01,Deron Williams,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,2297,11,21,0,3,5,7,0,3,10,3,1,5,0,22.5
+ginobma01,Manu Ginóbili,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,2097,4,10,2,4,12,15,1,5,1,3,0,1,3,19.1
+duncati01,Tim Duncan,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,2276,6,13,0,0,7,12,2,7,1,0,5,5,2,12.2
+obertfa01,Fabricio Oberto,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,2229,4,8,0,1,3,4,6,5,0,0,0,0,3,11.1
+boozeca01,Carlos Boozer,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,2314,9,16,0,0,0,0,1,8,1,0,1,3,4,10.3
+finlemi01,Michael Finley,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,1755,4,10,2,6,3,3,0,1,2,0,1,0,2,9.2
+kirilan01,Andrei Kirilenko,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,2175,3,7,0,1,3,4,3,5,1,1,4,3,2,9.2
+fishede01,Derek Fisher,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,2300,2,5,0,0,5,5,0,2,2,4,0,2,6,7.9
+bowenbr01,Bruce Bowen,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,1913,3,7,1,4,0,0,2,3,1,2,0,0,2,7.5
+parketo01,Tony Parker,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,2212,6,19,0,0,5,7,1,2,2,2,0,3,2,6.2
+okurme01,Mehmet Okur,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,2149,3,7,1,2,0,0,2,3,1,1,0,1,6,3.9
+millspa01,Paul Millsap,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,1039,1,4,0,0,0,0,2,4,1,0,2,1,2,2.5
+giricgo01,Gordan Giriček,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,624,2,4,0,0,0,0,0,0,1,0,0,0,3,1.5
+vaughja01,Jacque Vaughn,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,668,0,1,0,0,0,0,0,0,4,1,0,1,2,1.3
+horryro01,Robert Horry,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,1223,1,1,0,0,0,0,0,3,0,0,0,1,1,1.2
+elsonfr01,Francisco Elson,SAN ANTONIO SPURS,AWAY,UTAH JAZZ,WIN,27,0,0,0,0,0,0,0,1,0,0,0,0,0,0.3
+brewero02,Ronnie Brewer,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0
+brownde03,Dee Brown,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,120,0,1,0,1,0,0,0,0,1,0,0,0,0,0.0
+collija03,Jarron Collins,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,254,0,0,0,0,1,4,0,1,0,0,0,0,1,-0.3
+harprma01,Matt Harpring,UTAH JAZZ,HOME,SAN ANTONIO SPURS,LOSS,1124,1,3,0,0,0,0,0,4,0,1,0,2,3,-0.7

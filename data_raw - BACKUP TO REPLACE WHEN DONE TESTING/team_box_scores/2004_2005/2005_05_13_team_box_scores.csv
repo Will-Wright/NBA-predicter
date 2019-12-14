@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+PHOENIX SUNS,240,46,89,11,22,16,22,12,32,25,8,9,14,21
+DALLAS MAVERICKS,240,39,100,1,18,23,27,24,28,18,11,8,13,17
+DETROIT PISTONS,240,24,65,3,16,23,28,9,33,17,7,7,17,23
+INDIANA PACERS,240,26,72,4,17,23,27,10,30,15,8,3,14,25

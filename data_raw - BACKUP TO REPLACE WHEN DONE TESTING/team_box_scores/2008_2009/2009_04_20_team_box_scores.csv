@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+CHICAGO BULLS,240,40,80,9,20,26,29,8,28,20,7,14,11,18
+BOSTON CELTICS,240,47,96,7,16,17,25,21,29,26,9,4,12,21
+DALLAS MAVERICKS,240,29,72,6,18,20,23,5,23,17,9,4,10,17
+SAN ANTONIO SPURS,240,42,79,7,18,14,17,9,35,19,5,5,13,20

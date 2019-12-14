@@ -1,0 +1,5 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+CLEVELAND CAVALIERS,240,36,85,3,10,13,18,11,26,25,3,3,8,17
+MINNESOTA TIMBERWOLVES,240,37,80,4,10,16,20,10,37,27,3,14,10,21
+DALLAS MAVERICKS,240,45,84,8,15,21,23,8,36,19,7,8,13,19
+PHOENIX SUNS,240,43,95,9,29,18,22,14,27,22,6,5,13,18

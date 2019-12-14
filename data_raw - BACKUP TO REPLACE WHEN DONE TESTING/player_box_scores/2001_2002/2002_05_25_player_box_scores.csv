@@ -1,0 +1,19 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+piercpa01,Paul Pierce,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,2732,8,21,0,5,12,15,0,5,4,1,1,3,2,17.5
+walkean02,Antoine Walker,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,2800,8,18,2,3,5,6,4,8,4,2,1,6,5,15.9
+kittlke01,Kerry Kittles,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,2173,8,20,0,7,3,4,1,7,4,3,1,2,2,14.3
+rogerro01,Rodney Rogers,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,1219,2,4,0,0,6,6,2,3,2,2,1,2,4,10.8
+anderke01,Kenny Anderson,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,2272,6,13,0,0,3,4,1,1,3,2,0,2,2,10.2
+williaa01,Aaron Williams,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,1555,6,8,0,0,6,7,3,3,0,0,0,5,6,10.0
+maccuto01,Todd MacCulloch,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,1307,2,3,0,0,1,2,3,8,1,1,1,2,1,7.8
+kiddja01,Jason Kidd,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,2597,6,16,0,7,0,1,2,2,11,1,0,5,3,7.3
+martike01,Kenyon Martin,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,2128,5,12,1,1,1,2,2,2,3,2,0,2,6,6.9
+willier01,Eric Williams,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,1489,1,5,0,3,3,4,1,4,1,3,0,0,3,5.9
+battito01,Tony Battie,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,1715,2,8,0,0,2,2,3,6,0,1,1,0,3,5.6
+harrilu01,Lucious Harris,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,1544,4,9,2,3,0,0,1,4,1,0,0,1,4,5.3
+delkto01,Tony Delk,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,1610,2,7,1,3,2,2,1,4,1,1,1,3,1,3.8
+vanhoke01,Keith Van Horn,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,1110,3,6,0,1,0,0,1,3,1,0,0,0,4,3.7
+jefferi01,Richard Jefferson,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,1296,4,10,0,0,0,2,0,7,4,1,0,3,5,2.7
+johnsan02,Anthony Johnson,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,283,0,2,0,1,0,0,0,1,1,0,0,0,1,-0.8
+mccarwa01,Walter McCarty,BOSTON CELTICS,HOME,NEW JERSEY NETS,WIN,563,0,2,0,2,0,0,0,4,0,0,0,1,1,-1.6
+collija04,Jason Collins,NEW JERSEY NETS,AWAY,BOSTON CELTICS,LOSS,407,0,0,0,0,0,0,0,0,0,0,0,1,2,-1.8

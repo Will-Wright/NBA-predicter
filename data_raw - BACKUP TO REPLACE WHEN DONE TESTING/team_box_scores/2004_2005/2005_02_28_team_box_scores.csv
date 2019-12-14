@@ -1,0 +1,9 @@
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
+SAN ANTONIO SPURS,240,37,80,4,13,16,28,14,30,22,4,7,15,23
+CLEVELAND CAVALIERS,240,37,85,3,8,15,19,11,28,23,8,6,12,26
+NEW ORLEANS HORNETS,240,33,70,6,17,14,23,11,34,15,8,6,22,31
+DALLAS MAVERICKS,240,30,67,4,15,26,34,6,25,18,8,7,16,20
+LOS ANGELES LAKERS,265,36,82,12,24,31,38,14,36,21,5,8,18,24
+NEW YORK KNICKS,265,44,88,7,14,22,31,10,32,28,14,5,10,26
+LOS ANGELES CLIPPERS,240,30,70,2,2,24,27,14,20,16,6,7,15,25
+UTAH JAZZ,240,31,71,2,6,23,25,12,27,20,7,5,14,25
