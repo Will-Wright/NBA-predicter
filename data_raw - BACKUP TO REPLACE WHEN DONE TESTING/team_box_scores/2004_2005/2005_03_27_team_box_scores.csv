@@ -1,9 +1,0 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
-PHILADELPHIA 76ERS,240,36,91,5,22,19,25,14,31,27,15,5,12,22
-LOS ANGELES LAKERS,240,31,73,8,20,19,24,8,39,16,6,3,27,22
-LOS ANGELES CLIPPERS,240,32,74,2,11,19,24,8,36,22,4,3,16,19
-MINNESOTA TIMBERWOLVES,240,34,81,5,14,16,25,10,29,19,6,5,11,24
-HOUSTON ROCKETS,240,29,68,1,8,11,12,4,33,13,4,3,16,22
-SAN ANTONIO SPURS,240,29,80,7,20,18,22,13,29,20,10,5,8,18
-WASHINGTON WIZARDS,240,36,82,8,19,15,21,12,28,23,9,3,14,28
-SEATTLE SUPERSONICS,240,30,77,6,21,28,33,9,30,16,9,6,14,25
