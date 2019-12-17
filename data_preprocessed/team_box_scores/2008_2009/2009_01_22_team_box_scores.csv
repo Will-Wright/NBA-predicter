@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-WASHINGTON WIZARDS,240,37,83,5,15,18,20,14,22,24,9,4,13,17,away,loss,97.0,LOS ANGELES LAKERS,117.0
-LOS ANGELES LAKERS,240,45,84,8,19,19,23,13,28,35,8,4,13,18,home,win,117.0,WASHINGTON WIZARDS,97.0
-BOSTON CELTICS,240,35,75,0,6,20,25,14,26,9,7,3,11,27,away,win,90.0,ORLANDO MAGIC,80.0
-ORLANDO MAGIC,240,26,68,7,22,21,29,12,24,11,4,3,14,22,home,loss,80.0,BOSTON CELTICS,90.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+WASHINGTON WIZARDS,240,37,83,5,15,18,20,14,22,24,9,4,13,17,2009-01-22,away,loss,97.0,LOS ANGELES LAKERS,117.0,0.30833333333333335,0.25,36
+LOS ANGELES LAKERS,240,45,84,8,19,19,23,13,28,35,8,4,13,18,2009-01-22,home,win,117.0,WASHINGTON WIZARDS,97.0,0.3488372093023256,0.2962962962962963,41
+BOSTON CELTICS,240,35,75,0,6,20,25,14,26,9,7,3,11,27,2009-01-22,away,win,90.0,ORLANDO MAGIC,80.0,0.3181818181818182,0.0,40
+ORLANDO MAGIC,240,26,68,7,22,21,29,12,24,11,4,3,14,22,2009-01-22,home,loss,80.0,BOSTON CELTICS,90.0,0.2765957446808511,0.2413793103448276,36

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,31,89,4,20,10,13,19,32,14,2,7,12,18,away,loss,76.0,INDIANA PACERS,81.0
-INDIANA PACERS,240,31,79,5,21,14,16,12,36,16,8,5,10,19,home,win,81.0,NEW YORK KNICKS,76.0
-MIAMI HEAT,240,35,77,6,19,14,20,8,37,20,9,6,17,21,away,loss,90.0,PORTLAND TRAIL BLAZERS,92.0
-PORTLAND TRAIL BLAZERS,240,30,80,9,27,23,30,11,34,18,10,2,14,15,home,win,92.0,MIAMI HEAT,90.0
-DALLAS MAVERICKS,265,41,96,5,21,30,35,15,37,20,6,6,12,24,away,win,117.0,SACRAMENTO KINGS,112.0
-SACRAMENTO KINGS,265,40,81,7,27,25,32,7,34,23,8,7,20,29,home,loss,112.0,DALLAS MAVERICKS,117.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,31,89,4,20,10,13,19,32,14,2,7,12,18,2013-01-10,away,loss,76.0,INDIANA PACERS,81.0,0.25833333333333336,0.16666666666666666,51
+INDIANA PACERS,240,31,79,5,21,14,16,12,36,16,8,5,10,19,2013-01-10,home,win,81.0,NEW YORK KNICKS,76.0,0.2818181818181818,0.19230769230769232,48
+MIAMI HEAT,240,35,77,6,19,14,20,8,37,20,9,6,17,21,2013-01-10,away,loss,90.0,PORTLAND TRAIL BLAZERS,92.0,0.3125,0.24,45
+PORTLAND TRAIL BLAZERS,240,30,80,9,27,23,30,11,34,18,10,2,14,15,2013-01-10,home,win,92.0,MIAMI HEAT,90.0,0.2727272727272727,0.25,45
+DALLAS MAVERICKS,265,41,96,5,21,30,35,15,37,20,6,6,12,24,2013-01-10,away,win,117.0,SACRAMENTO KINGS,112.0,0.29927007299270075,0.19230769230769232,52
+SACRAMENTO KINGS,265,40,81,7,27,25,32,7,34,23,8,7,20,29,2013-01-10,home,loss,112.0,DALLAS MAVERICKS,117.0,0.3305785123966942,0.20588235294117646,41

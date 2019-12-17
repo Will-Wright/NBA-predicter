@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,34,81,7,19,6,12,8,29,23,11,6,13,24,away,loss,81.0,LOS ANGELES LAKERS,101.0
-LOS ANGELES LAKERS,240,36,81,8,24,21,33,19,38,23,8,8,16,16,home,win,101.0,DALLAS MAVERICKS,81.0
-NEW YORK KNICKS,240,37,71,14,27,14,20,6,18,17,8,3,13,25,away,win,102.0,MIAMI HEAT,90.0
-MIAMI HEAT,240,30,60,8,20,22,27,7,25,18,7,3,19,19,home,loss,90.0,NEW YORK KNICKS,102.0
-CHICAGO BULLS,240,35,89,5,23,11,16,12,33,21,6,2,7,20,away,loss,86.0,WASHINGTON WIZARDS,90.0
-WASHINGTON WIZARDS,240,33,78,6,13,18,26,10,41,22,3,4,10,14,home,win,90.0,CHICAGO BULLS,86.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,34,81,7,19,6,12,8,29,23,11,6,13,24,2013-04-02,away,loss,81.0,LOS ANGELES LAKERS,101.0,0.2956521739130435,0.2692307692307692,37
+LOS ANGELES LAKERS,240,36,81,8,24,21,33,19,38,23,8,8,16,16,2013-04-02,home,win,101.0,DALLAS MAVERICKS,81.0,0.3076923076923077,0.25,57
+NEW YORK KNICKS,240,37,71,14,27,14,20,6,18,17,8,3,13,25,2013-04-02,away,win,102.0,MIAMI HEAT,90.0,0.3425925925925926,0.34146341463414637,24
+MIAMI HEAT,240,30,60,8,20,22,27,7,25,18,7,3,19,19,2013-04-02,home,loss,90.0,NEW YORK KNICKS,102.0,0.3333333333333333,0.2857142857142857,32
+CHICAGO BULLS,240,35,89,5,23,11,16,12,33,21,6,2,7,20,2013-04-02,away,loss,86.0,WASHINGTON WIZARDS,90.0,0.28225806451612906,0.17857142857142858,45
+WASHINGTON WIZARDS,240,33,78,6,13,18,26,10,41,22,3,4,10,14,2013-04-02,home,win,90.0,CHICAGO BULLS,86.0,0.2972972972972973,0.3157894736842105,51

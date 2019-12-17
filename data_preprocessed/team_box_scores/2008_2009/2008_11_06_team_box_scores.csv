@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,36,95,5,17,11,13,17,37,18,5,4,14,20,away,loss,88.0,ORLANDO MAGIC,98.0
-ORLANDO MAGIC,240,37,82,9,25,15,26,11,35,21,7,7,10,15,home,win,98.0,PHILADELPHIA 76ERS,88.0
-HOUSTON ROCKETS,265,37,78,6,12,19,23,5,31,21,6,2,8,23,away,loss,99.0,PORTLAND TRAIL BLAZERS,101.0
-PORTLAND TRAIL BLAZERS,265,41,89,6,18,13,17,16,32,25,2,6,12,26,home,win,101.0,HOUSTON ROCKETS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,36,95,5,17,11,13,17,37,18,5,4,14,20,2008-11-06,away,loss,88.0,ORLANDO MAGIC,98.0,0.2748091603053435,0.22727272727272727,54
+ORLANDO MAGIC,240,37,82,9,25,15,26,11,35,21,7,7,10,15,2008-11-06,home,win,98.0,PHILADELPHIA 76ERS,88.0,0.31092436974789917,0.2647058823529412,46
+HOUSTON ROCKETS,265,37,78,6,12,19,23,5,31,21,6,2,8,23,2008-11-06,away,loss,99.0,PORTLAND TRAIL BLAZERS,101.0,0.3217391304347826,0.3333333333333333,36
+PORTLAND TRAIL BLAZERS,265,41,89,6,18,13,17,16,32,25,2,6,12,26,2008-11-06,home,win,101.0,HOUSTON ROCKETS,99.0,0.3153846153846154,0.25,48

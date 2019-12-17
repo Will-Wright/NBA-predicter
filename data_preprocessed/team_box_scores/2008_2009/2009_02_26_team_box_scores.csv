@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,27,80,6,17,14,16,14,27,10,7,8,10,16,away,loss,74.0,HOUSTON ROCKETS,93.0
-HOUSTON ROCKETS,240,35,71,8,19,15,18,5,34,25,4,6,12,20,home,win,93.0,CLEVELAND CAVALIERS,74.0
-PHOENIX SUNS,240,39,91,8,25,20,25,17,25,23,11,6,19,16,away,loss,106.0,LOS ANGELES LAKERS,132.0
-LOS ANGELES LAKERS,240,54,94,9,20,15,20,14,35,38,13,7,16,22,home,win,132.0,PHOENIX SUNS,106.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,27,80,6,17,14,16,14,27,10,7,8,10,16,2009-02-26,away,loss,74.0,HOUSTON ROCKETS,93.0,0.2523364485981308,0.2608695652173913,41
+HOUSTON ROCKETS,240,35,71,8,19,15,18,5,34,25,4,6,12,20,2009-02-26,home,win,93.0,CLEVELAND CAVALIERS,74.0,0.330188679245283,0.2962962962962963,39
+PHOENIX SUNS,240,39,91,8,25,20,25,17,25,23,11,6,19,16,2009-02-26,away,loss,106.0,LOS ANGELES LAKERS,132.0,0.3,0.24242424242424243,42
+LOS ANGELES LAKERS,240,54,94,9,20,15,20,14,35,38,13,7,16,22,2009-02-26,home,win,132.0,PHOENIX SUNS,106.0,0.36486486486486486,0.3103448275862069,49

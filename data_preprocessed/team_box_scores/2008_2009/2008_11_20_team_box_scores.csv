@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,29,68,5,13,17,24,9,28,17,7,4,16,21,away,loss,80.0,BOSTON CELTICS,98.0
-BOSTON CELTICS,240,36,73,7,14,19,28,11,31,22,11,4,12,18,home,win,98.0,DETROIT PISTONS,80.0
-LOS ANGELES LAKERS,240,42,90,10,21,11,14,9,32,25,6,5,7,19,away,win,105.0,PHOENIX SUNS,92.0
-PHOENIX SUNS,240,38,86,6,18,10,15,12,34,22,4,4,15,16,home,loss,92.0,LOS ANGELES LAKERS,105.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,29,68,5,13,17,24,9,28,17,7,4,16,21,2008-11-20,away,loss,80.0,BOSTON CELTICS,98.0,0.29896907216494845,0.2777777777777778,37
+BOSTON CELTICS,240,36,73,7,14,19,28,11,31,22,11,4,12,18,2008-11-20,home,win,98.0,DETROIT PISTONS,80.0,0.3302752293577982,0.3333333333333333,42
+LOS ANGELES LAKERS,240,42,90,10,21,11,14,9,32,25,6,5,7,19,2008-11-20,away,win,105.0,PHOENIX SUNS,92.0,0.3181818181818182,0.3225806451612903,41
+PHOENIX SUNS,240,38,86,6,18,10,15,12,34,22,4,4,15,16,2008-11-20,home,loss,92.0,LOS ANGELES LAKERS,105.0,0.3064516129032258,0.25,46

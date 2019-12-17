@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,36,78,8,19,14,18,7,28,20,6,1,10,19,away,loss,94.0,OKLAHOMA CITY THUNDER,105.0
-OKLAHOMA CITY THUNDER,240,40,77,5,17,20,27,10,33,22,5,3,10,16,home,win,105.0,MIAMI HEAT,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,36,78,8,19,14,18,7,28,20,6,1,10,19,2012-06-12,away,loss,94.0,OKLAHOMA CITY THUNDER,105.0,0.3157894736842105,0.2962962962962963,35
+OKLAHOMA CITY THUNDER,240,40,77,5,17,20,27,10,33,22,5,3,10,16,2012-06-12,home,win,105.0,MIAMI HEAT,94.0,0.3418803418803419,0.22727272727272727,43

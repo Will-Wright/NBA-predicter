@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,35,74,12,23,17,26,7,33,21,7,8,14,22,away,win,99.0,PORTLAND TRAIL BLAZERS,90.0
-PORTLAND TRAIL BLAZERS,240,30,79,11,23,19,24,9,26,22,7,5,10,21,home,loss,90.0,PHOENIX SUNS,99.0
-DALLAS MAVERICKS,240,35,80,5,20,12,15,11,29,15,4,4,11,27,away,loss,87.0,SAN ANTONIO SPURS,97.0
-SAN ANTONIO SPURS,240,37,78,4,12,19,31,12,31,23,7,4,8,17,home,win,97.0,DALLAS MAVERICKS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,35,74,12,23,17,26,7,33,21,7,8,14,22,2010-04-29,away,win,99.0,PORTLAND TRAIL BLAZERS,90.0,0.3211009174311927,0.34285714285714286,40
+PORTLAND TRAIL BLAZERS,240,30,79,11,23,19,24,9,26,22,7,5,10,21,2010-04-29,home,loss,90.0,PHOENIX SUNS,99.0,0.27522935779816515,0.3235294117647059,35
+DALLAS MAVERICKS,240,35,80,5,20,12,15,11,29,15,4,4,11,27,2010-04-29,away,loss,87.0,SAN ANTONIO SPURS,97.0,0.30434782608695654,0.2,40
+SAN ANTONIO SPURS,240,37,78,4,12,19,31,12,31,23,7,4,8,17,2010-04-29,home,win,97.0,DALLAS MAVERICKS,87.0,0.3217391304347826,0.25,43

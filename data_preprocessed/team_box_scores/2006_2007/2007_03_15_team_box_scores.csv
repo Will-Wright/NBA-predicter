@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,34,83,3,22,15,23,13,23,24,4,5,13,24,away,loss,86.0,DENVER NUGGETS,113.0
-DENVER NUGGETS,240,41,76,10,15,21,28,10,31,28,9,1,14,25,home,win,113.0,LOS ANGELES LAKERS,86.0
-SAN ANTONIO SPURS,240,31,72,10,26,18,28,7,19,21,8,4,9,20,away,loss,90.0,MILWAUKEE BUCKS,101.0
-MILWAUKEE BUCKS,240,39,73,8,18,15,18,11,35,25,6,2,18,19,home,win,101.0,SAN ANTONIO SPURS,90.0
-MIAMI HEAT,240,34,76,7,23,18,29,6,42,28,5,3,8,22,away,win,93.0,NEW JERSEY NETS,86.0
-NEW JERSEY NETS,240,31,80,12,30,12,19,6,37,25,1,3,10,26,home,loss,86.0,MIAMI HEAT,93.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,34,83,3,22,15,23,13,23,24,4,5,13,24,2007-03-15,away,loss,86.0,DENVER NUGGETS,113.0,0.2905982905982906,0.12,36
+DENVER NUGGETS,240,41,76,10,15,21,28,10,31,28,9,1,14,25,2007-03-15,home,win,113.0,LOS ANGELES LAKERS,86.0,0.3504273504273504,0.4,41
+SAN ANTONIO SPURS,240,31,72,10,26,18,28,7,19,21,8,4,9,20,2007-03-15,away,loss,90.0,MILWAUKEE BUCKS,101.0,0.30097087378640774,0.2777777777777778,26
+MILWAUKEE BUCKS,240,39,73,8,18,15,18,11,35,25,6,2,18,19,2007-03-15,home,win,101.0,SAN ANTONIO SPURS,90.0,0.3482142857142857,0.3076923076923077,46
+MIAMI HEAT,240,34,76,7,23,18,29,6,42,28,5,3,8,22,2007-03-15,away,win,93.0,NEW JERSEY NETS,86.0,0.3090909090909091,0.23333333333333334,48
+NEW JERSEY NETS,240,31,80,12,30,12,19,6,37,25,1,3,10,26,2007-03-15,home,loss,86.0,MIAMI HEAT,93.0,0.27927927927927926,0.2857142857142857,43

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,31,87,8,28,12,14,11,25,14,7,9,9,29,away,loss,82.0,INDIANA PACERS,93.0
-INDIANA PACERS,240,31,76,8,25,23,30,16,38,17,4,8,12,18,home,win,93.0,NEW YORK KNICKS,82.0
-GOLDEN STATE WARRIORS,240,35,75,6,16,15,23,7,29,18,8,5,14,20,away,loss,91.0,SAN ANTONIO SPURS,109.0
-SAN ANTONIO SPURS,240,40,77,10,21,19,25,8,30,30,12,3,10,20,home,win,109.0,GOLDEN STATE WARRIORS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,31,87,8,28,12,14,11,25,14,7,9,9,29,2013-05-14,away,loss,82.0,INDIANA PACERS,93.0,0.2627118644067797,0.2222222222222222,36
+INDIANA PACERS,240,31,76,8,25,23,30,16,38,17,4,8,12,18,2013-05-14,home,win,93.0,NEW YORK KNICKS,82.0,0.2897196261682243,0.24242424242424243,54
+GOLDEN STATE WARRIORS,240,35,75,6,16,15,23,7,29,18,8,5,14,20,2013-05-14,away,loss,91.0,SAN ANTONIO SPURS,109.0,0.3181818181818182,0.2727272727272727,36
+SAN ANTONIO SPURS,240,40,77,10,21,19,25,8,30,30,12,3,10,20,2013-05-14,home,win,109.0,GOLDEN STATE WARRIORS,91.0,0.3418803418803419,0.3225806451612903,38

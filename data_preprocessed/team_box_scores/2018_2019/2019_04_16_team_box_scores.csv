@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,39,86,5,18,22,25,11,39,20,3,3,10,20,away,loss,105.0,DENVER NUGGETS,114.0
-DENVER NUGGETS,240,43,89,10,24,18,26,7,34,29,5,2,5,21,home,win,114.0,SAN ANTONIO SPURS,105.0
-OKLAHOMA CITY THUNDER,240,35,86,5,28,19,28,13,34,21,6,6,16,27,away,loss,94.0,PORTLAND TRAIL BLAZERS,114.0
-PORTLAND TRAIL BLAZERS,240,42,90,13,32,17,21,7,37,17,9,6,12,27,home,win,114.0,OKLAHOMA CITY THUNDER,94.0
-ORLANDO MAGIC,240,30,81,9,34,13,24,12,33,17,2,4,17,18,away,loss,82.0,TORONTO RAPTORS,111.0
-TORONTO RAPTORS,240,42,87,11,35,16,17,6,36,25,10,5,7,23,home,win,111.0,ORLANDO MAGIC,82.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,39,86,5,18,22,25,11,39,20,3,3,10,20,2019-04-16,away,loss,105.0,DENVER NUGGETS,114.0,0.312,0.21739130434782608,50
+DENVER NUGGETS,240,43,89,10,24,18,26,7,34,29,5,2,5,21,2019-04-16,home,win,114.0,SAN ANTONIO SPURS,105.0,0.32575757575757575,0.29411764705882354,41
+OKLAHOMA CITY THUNDER,240,35,86,5,28,19,28,13,34,21,6,6,16,27,2019-04-16,away,loss,94.0,PORTLAND TRAIL BLAZERS,114.0,0.2892561983471074,0.15151515151515152,47
+PORTLAND TRAIL BLAZERS,240,42,90,13,32,17,21,7,37,17,9,6,12,27,2019-04-16,home,win,114.0,OKLAHOMA CITY THUNDER,94.0,0.3181818181818182,0.28888888888888886,44
+ORLANDO MAGIC,240,30,81,9,34,13,24,12,33,17,2,4,17,18,2019-04-16,away,loss,82.0,TORONTO RAPTORS,111.0,0.2702702702702703,0.20930232558139536,45
+TORONTO RAPTORS,240,42,87,11,35,16,17,6,36,25,10,5,7,23,2019-04-16,home,win,111.0,ORLANDO MAGIC,82.0,0.32558139534883723,0.2391304347826087,42

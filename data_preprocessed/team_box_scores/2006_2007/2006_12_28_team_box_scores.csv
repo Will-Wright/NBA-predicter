@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,37,72,9,14,16,21,5,32,24,3,2,21,27,away,loss,99.0,DALLAS MAVERICKS,101.0
-DALLAS MAVERICKS,240,35,85,8,19,23,29,15,26,21,12,2,18,22,home,win,101.0,PHOENIX SUNS,99.0
-SEATTLE SUPERSONICS,240,38,82,4,14,18,25,7,26,23,12,10,19,24,away,loss,98.0,DENVER NUGGETS,112.0
-DENVER NUGGETS,240,41,84,4,14,26,32,15,31,16,7,1,22,22,home,win,112.0,SEATTLE SUPERSONICS,98.0
-UTAH JAZZ,240,30,71,4,12,19,32,9,30,18,10,4,17,27,away,loss,83.0,SAN ANTONIO SPURS,106.0
-SAN ANTONIO SPURS,240,40,80,6,18,20,28,12,35,19,9,8,13,25,home,win,106.0,UTAH JAZZ,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,37,72,9,14,16,21,5,32,24,3,2,21,27,2006-12-28,away,loss,99.0,DALLAS MAVERICKS,101.0,0.3394495412844037,0.391304347826087,37
+DALLAS MAVERICKS,240,35,85,8,19,23,29,15,26,21,12,2,18,22,2006-12-28,home,win,101.0,PHOENIX SUNS,99.0,0.2916666666666667,0.2962962962962963,41
+SEATTLE SUPERSONICS,240,38,82,4,14,18,25,7,26,23,12,10,19,24,2006-12-28,away,loss,98.0,DENVER NUGGETS,112.0,0.31666666666666665,0.2222222222222222,33
+DENVER NUGGETS,240,41,84,4,14,26,32,15,31,16,7,1,22,22,2006-12-28,home,win,112.0,SEATTLE SUPERSONICS,98.0,0.328,0.2222222222222222,46
+UTAH JAZZ,240,30,71,4,12,19,32,9,30,18,10,4,17,27,2006-12-28,away,loss,83.0,SAN ANTONIO SPURS,106.0,0.297029702970297,0.25,39
+SAN ANTONIO SPURS,240,40,80,6,18,20,28,12,35,19,9,8,13,25,2006-12-28,home,win,106.0,UTAH JAZZ,83.0,0.3333333333333333,0.25,47

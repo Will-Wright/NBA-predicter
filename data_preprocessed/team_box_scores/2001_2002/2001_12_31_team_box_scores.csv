@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MILWAUKEE BUCKS,240,32,70,6,18,13,20,4,26,22,7,2,14,22,away,loss,83.0,CHICAGO BULLS,90.0
-CHICAGO BULLS,240,36,78,4,13,14,20,10,31,27,9,3,13,23,home,win,90.0,MILWAUKEE BUCKS,83.0
-MIAMI HEAT,240,33,69,1,3,22,29,10,36,22,5,6,21,23,away,win,89.0,INDIANA PACERS,87.0
-INDIANA PACERS,240,31,83,7,14,18,24,8,26,22,15,8,12,28,home,loss,87.0,MIAMI HEAT,89.0
-NEW JERSEY NETS,240,29,75,1,11,17,27,8,22,22,8,2,8,16,away,loss,76.0,WASHINGTON WIZARDS,98.0
-WASHINGTON WIZARDS,240,37,88,7,17,17,19,20,42,17,3,3,13,19,home,win,98.0,NEW JERSEY NETS,76.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MILWAUKEE BUCKS,240,32,70,6,18,13,20,4,26,22,7,2,14,22,2001-12-31,away,loss,83.0,CHICAGO BULLS,90.0,0.3137254901960784,0.25,30
+CHICAGO BULLS,240,36,78,4,13,14,20,10,31,27,9,3,13,23,2001-12-31,home,win,90.0,MILWAUKEE BUCKS,83.0,0.3157894736842105,0.23529411764705882,41
+MIAMI HEAT,240,33,69,1,3,22,29,10,36,22,5,6,21,23,2001-12-31,away,win,89.0,INDIANA PACERS,87.0,0.3235294117647059,0.25,46
+INDIANA PACERS,240,31,83,7,14,18,24,8,26,22,15,8,12,28,2001-12-31,home,loss,87.0,MIAMI HEAT,89.0,0.2719298245614035,0.3333333333333333,34
+NEW JERSEY NETS,240,29,75,1,11,17,27,8,22,22,8,2,8,16,2001-12-31,away,loss,76.0,WASHINGTON WIZARDS,98.0,0.27884615384615385,0.08333333333333333,30
+WASHINGTON WIZARDS,240,37,88,7,17,17,19,20,42,17,3,3,13,19,2001-12-31,home,win,98.0,NEW JERSEY NETS,76.0,0.296,0.2916666666666667,62

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,28,73,9,20,18,23,11,25,16,6,4,14,24,away,loss,83.0,TORONTO RAPTORS,89.0
-TORONTO RAPTORS,240,35,82,3,11,16,22,13,30,22,6,6,13,22,home,win,89.0,DETROIT PISTONS,83.0
-SACRAMENTO KINGS,240,33,72,7,15,18,24,11,25,16,12,5,17,17,away,win,91.0,UTAH JAZZ,86.0
-UTAH JAZZ,240,35,89,4,12,12,16,24,25,23,10,7,19,18,home,loss,86.0,SACRAMENTO KINGS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,28,73,9,20,18,23,11,25,16,6,4,14,24,2002-04-29,away,loss,83.0,TORONTO RAPTORS,89.0,0.27722772277227725,0.3103448275862069,36
+TORONTO RAPTORS,240,35,82,3,11,16,22,13,30,22,6,6,13,22,2002-04-29,home,win,89.0,DETROIT PISTONS,83.0,0.29914529914529914,0.21428571428571427,43
+SACRAMENTO KINGS,240,33,72,7,15,18,24,11,25,16,12,5,17,17,2002-04-29,away,win,91.0,UTAH JAZZ,86.0,0.3142857142857143,0.3181818181818182,36
+UTAH JAZZ,240,35,89,4,12,12,16,24,25,23,10,7,19,18,2002-04-29,home,loss,86.0,SACRAMENTO KINGS,91.0,0.28225806451612906,0.25,49

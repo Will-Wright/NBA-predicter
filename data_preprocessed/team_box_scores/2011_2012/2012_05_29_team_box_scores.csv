@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-OKLAHOMA CITY THUNDER,240,37,88,8,17,29,36,16,24,19,10,8,10,28,away,loss,111.0,SAN ANTONIO SPURS,120.0
-SAN ANTONIO SPURS,240,43,78,11,26,23,35,8,33,27,3,8,13,26,home,win,120.0,OKLAHOMA CITY THUNDER,111.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+OKLAHOMA CITY THUNDER,240,37,88,8,17,29,36,16,24,19,10,8,10,28,2012-05-29,away,loss,111.0,SAN ANTONIO SPURS,120.0,0.296,0.32,40
+SAN ANTONIO SPURS,240,43,78,11,26,23,35,8,33,27,3,8,13,26,2012-05-29,home,win,120.0,OKLAHOMA CITY THUNDER,111.0,0.35537190082644626,0.2972972972972973,41

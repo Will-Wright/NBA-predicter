@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,36,75,10,26,24,31,8,28,18,4,4,13,20,away,loss,106.0,CLEVELAND CAVALIERS,115.0
-CLEVELAND CAVALIERS,240,44,84,9,20,18,25,11,29,28,6,2,6,23,home,win,115.0,ORLANDO MAGIC,106.0
-SAN ANTONIO SPURS,240,41,77,9,19,20,30,12,33,24,8,3,17,29,away,win,111.0,DENVER NUGGETS,92.0
-DENVER NUGGETS,240,31,79,3,19,27,36,10,22,19,6,6,15,23,home,loss,92.0,SAN ANTONIO SPURS,111.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,36,75,10,26,24,31,8,28,18,4,4,13,20,2010-02-11,away,loss,106.0,CLEVELAND CAVALIERS,115.0,0.32432432432432434,0.2777777777777778,36
+CLEVELAND CAVALIERS,240,44,84,9,20,18,25,11,29,28,6,2,6,23,2010-02-11,home,win,115.0,ORLANDO MAGIC,106.0,0.34375,0.3103448275862069,40
+SAN ANTONIO SPURS,240,41,77,9,19,20,30,12,33,24,8,3,17,29,2010-02-11,away,win,111.0,DENVER NUGGETS,92.0,0.3474576271186441,0.32142857142857145,45
+DENVER NUGGETS,240,31,79,3,19,27,36,10,22,19,6,6,15,23,2010-02-11,home,loss,92.0,SAN ANTONIO SPURS,111.0,0.2818181818181818,0.13636363636363635,32

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PORTLAND TRAIL BLAZERS,240,36,81,13,30,14,21,6,33,22,5,5,17,25,away,loss,99.0,GOLDEN STATE WARRIORS,110.0
-GOLDEN STATE WARRIORS,240,42,91,8,24,18,20,10,38,21,4,9,10,23,home,win,110.0,PORTLAND TRAIL BLAZERS,99.0
-MIAMI HEAT,265,40,89,8,11,14,21,11,41,12,12,4,17,17,away,win,102.0,TORONTO RAPTORS,96.0
-TORONTO RAPTORS,265,40,89,5,21,11,15,4,37,19,10,6,15,25,home,loss,96.0,MIAMI HEAT,102.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PORTLAND TRAIL BLAZERS,240,36,81,13,30,14,21,6,33,22,5,5,17,25,2016-05-03,away,loss,99.0,GOLDEN STATE WARRIORS,110.0,0.3076923076923077,0.3023255813953488,39
+GOLDEN STATE WARRIORS,240,42,91,8,24,18,20,10,38,21,4,9,10,23,2016-05-03,home,win,110.0,PORTLAND TRAIL BLAZERS,99.0,0.3157894736842105,0.25,48
+MIAMI HEAT,265,40,89,8,11,14,21,11,41,12,12,4,17,17,2016-05-03,away,win,102.0,TORONTO RAPTORS,96.0,0.31007751937984496,0.42105263157894735,52
+TORONTO RAPTORS,265,40,89,5,21,11,15,4,37,19,10,6,15,25,2016-05-03,home,loss,96.0,MIAMI HEAT,102.0,0.31007751937984496,0.19230769230769232,41

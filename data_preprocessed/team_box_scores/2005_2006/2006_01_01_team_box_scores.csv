@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,34,72,6,12,24,26,7,29,27,6,6,9,24,away,win,98.0,LOS ANGELES LAKERS,94.0
-LOS ANGELES LAKERS,240,38,76,3,12,15,25,10,30,21,6,7,10,21,home,loss,94.0,UTAH JAZZ,98.0
-MINNESOTA TIMBERWOLVES,240,25,77,6,16,14,19,14,23,19,8,7,13,20,away,loss,70.0,MIAMI HEAT,97.0
-MIAMI HEAT,240,39,75,8,15,11,17,10,35,23,8,1,14,19,home,win,97.0,MINNESOTA TIMBERWOLVES,70.0
-LOS ANGELES CLIPPERS,240,39,79,2,7,20,23,14,33,21,7,7,12,17,away,win,100.0,PORTLAND TRAIL BLAZERS,94.0
-PORTLAND TRAIL BLAZERS,240,42,91,7,16,3,10,16,26,30,4,3,12,25,home,loss,94.0,LOS ANGELES CLIPPERS,100.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,34,72,6,12,24,26,7,29,27,6,6,9,24,2006-01-01,away,win,98.0,LOS ANGELES LAKERS,94.0,0.32075471698113206,0.3333333333333333,36
+LOS ANGELES LAKERS,240,38,76,3,12,15,25,10,30,21,6,7,10,21,2006-01-01,home,loss,94.0,UTAH JAZZ,98.0,0.3333333333333333,0.2,40
+MINNESOTA TIMBERWOLVES,240,25,77,6,16,14,19,14,23,19,8,7,13,20,2006-01-01,away,loss,70.0,MIAMI HEAT,97.0,0.24509803921568626,0.2727272727272727,37
+MIAMI HEAT,240,39,75,8,15,11,17,10,35,23,8,1,14,19,2006-01-01,home,win,97.0,MINNESOTA TIMBERWOLVES,70.0,0.34210526315789475,0.34782608695652173,45
+LOS ANGELES CLIPPERS,240,39,79,2,7,20,23,14,33,21,7,7,12,17,2006-01-01,away,win,100.0,PORTLAND TRAIL BLAZERS,94.0,0.3305084745762712,0.2222222222222222,47
+PORTLAND TRAIL BLAZERS,240,42,91,7,16,3,10,16,26,30,4,3,12,25,2006-01-01,home,loss,94.0,LOS ANGELES CLIPPERS,100.0,0.3157894736842105,0.30434782608695654,42

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-INDIANA PACERS,240,32,67,6,12,17,21,8,26,20,12,7,24,25,away,win,87.0,NEW JERSEY NETS,81.0
-NEW JERSEY NETS,240,31,76,5,7,14,17,17,24,21,13,3,24,23,home,loss,81.0,INDIANA PACERS,87.0
-LOS ANGELES LAKERS,290,47,108,3,14,23,37,22,44,19,7,5,17,32,away,win,120.0,SAN ANTONIO SPURS,117.0
-SAN ANTONIO SPURS,290,37,91,7,15,36,44,9,38,19,8,4,12,33,home,loss,117.0,LOS ANGELES LAKERS,120.0
-DALLAS MAVERICKS,240,29,82,4,12,9,11,17,27,20,6,8,18,19,away,loss,71.0,TORONTO RAPTORS,77.0
-TORONTO RAPTORS,240,29,73,4,9,15,20,12,32,22,14,6,16,19,home,win,77.0,DALLAS MAVERICKS,71.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+INDIANA PACERS,240,32,67,6,12,17,21,8,26,20,12,7,24,25,2003-11-06,away,win,87.0,NEW JERSEY NETS,81.0,0.32323232323232326,0.3333333333333333,34
+NEW JERSEY NETS,240,31,76,5,7,14,17,17,24,21,13,3,24,23,2003-11-06,home,loss,81.0,INDIANA PACERS,87.0,0.2897196261682243,0.4166666666666667,41
+LOS ANGELES LAKERS,290,47,108,3,14,23,37,22,44,19,7,5,17,32,2003-11-06,away,win,120.0,SAN ANTONIO SPURS,117.0,0.3032258064516129,0.17647058823529413,66
+SAN ANTONIO SPURS,290,37,91,7,15,36,44,9,38,19,8,4,12,33,2003-11-06,home,loss,117.0,LOS ANGELES LAKERS,120.0,0.2890625,0.3181818181818182,47
+DALLAS MAVERICKS,240,29,82,4,12,9,11,17,27,20,6,8,18,19,2003-11-06,away,loss,71.0,TORONTO RAPTORS,77.0,0.26126126126126126,0.25,44
+TORONTO RAPTORS,240,29,73,4,9,15,20,12,32,22,14,6,16,19,2003-11-06,home,win,77.0,DALLAS MAVERICKS,71.0,0.28431372549019607,0.3076923076923077,44

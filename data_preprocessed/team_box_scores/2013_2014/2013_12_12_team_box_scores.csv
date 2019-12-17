@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,240,26,70,6,24,35,52,9,34,15,6,1,14,20,away,loss,93.0,BROOKLYN NETS,102.0
-BROOKLYN NETS,240,33,74,8,20,28,30,5,37,18,5,0,13,31,home,win,102.0,LOS ANGELES CLIPPERS,93.0
-HOUSTON ROCKETS,240,40,94,5,20,19,24,15,33,16,11,6,8,23,away,loss,104.0,PORTLAND TRAIL BLAZERS,111.0
-PORTLAND TRAIL BLAZERS,240,39,89,8,27,25,30,15,37,22,4,7,14,20,home,win,111.0,HOUSTON ROCKETS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,240,26,70,6,24,35,52,9,34,15,6,1,14,20,2013-12-12,away,loss,93.0,BROOKLYN NETS,102.0,0.2708333333333333,0.2,43
+BROOKLYN NETS,240,33,74,8,20,28,30,5,37,18,5,0,13,31,2013-12-12,home,win,102.0,LOS ANGELES CLIPPERS,93.0,0.308411214953271,0.2857142857142857,42
+HOUSTON ROCKETS,240,40,94,5,20,19,24,15,33,16,11,6,8,23,2013-12-12,away,loss,104.0,PORTLAND TRAIL BLAZERS,111.0,0.29850746268656714,0.2,48
+PORTLAND TRAIL BLAZERS,240,39,89,8,27,25,30,15,37,22,4,7,14,20,2013-12-12,home,win,111.0,HOUSTON ROCKETS,104.0,0.3046875,0.22857142857142856,52

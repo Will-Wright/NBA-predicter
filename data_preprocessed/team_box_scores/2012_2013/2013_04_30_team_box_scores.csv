@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,35,81,11,28,19,25,9,33,20,5,9,17,23,away,loss,100.0,DENVER NUGGETS,107.0
-DENVER NUGGETS,240,38,89,10,27,21,27,15,31,26,12,6,12,25,home,win,107.0,GOLDEN STATE WARRIORS,100.0
-MEMPHIS GRIZZLIES,240,37,85,3,10,26,33,14,28,19,7,7,7,25,away,win,103.0,LOS ANGELES CLIPPERS,93.0
-LOS ANGELES CLIPPERS,240,34,77,6,17,19,25,12,28,19,6,5,13,23,home,loss,93.0,MEMPHIS GRIZZLIES,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,35,81,11,28,19,25,9,33,20,5,9,17,23,2013-04-30,away,loss,100.0,DENVER NUGGETS,107.0,0.3017241379310345,0.28205128205128205,42
+DENVER NUGGETS,240,38,89,10,27,21,27,15,31,26,12,6,12,25,2013-04-30,home,win,107.0,GOLDEN STATE WARRIORS,100.0,0.2992125984251969,0.2702702702702703,46
+MEMPHIS GRIZZLIES,240,37,85,3,10,26,33,14,28,19,7,7,7,25,2013-04-30,away,win,103.0,LOS ANGELES CLIPPERS,93.0,0.30327868852459017,0.23076923076923078,42
+LOS ANGELES CLIPPERS,240,34,77,6,17,19,25,12,28,19,6,5,13,23,2013-04-30,home,loss,93.0,MEMPHIS GRIZZLIES,103.0,0.3063063063063063,0.2608695652173913,40

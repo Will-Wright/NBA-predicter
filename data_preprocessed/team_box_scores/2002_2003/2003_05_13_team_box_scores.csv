@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,33,92,7,18,20,27,17,36,19,2,3,13,32,away,loss,93.0,DALLAS MAVERICKS,112.0
-DALLAS MAVERICKS,240,38,86,7,23,29,36,15,43,23,8,11,11,25,home,win,112.0,SACRAMENTO KINGS,93.0
-LOS ANGELES LAKERS,240,38,81,6,22,12,17,11,30,15,6,4,13,21,away,loss,94.0,SAN ANTONIO SPURS,96.0
-SAN ANTONIO SPURS,240,38,79,3,8,17,26,11,30,18,9,5,9,15,home,win,96.0,LOS ANGELES LAKERS,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,33,92,7,18,20,27,17,36,19,2,3,13,32,2003-05-13,away,loss,93.0,DALLAS MAVERICKS,112.0,0.264,0.28,53
+DALLAS MAVERICKS,240,38,86,7,23,29,36,15,43,23,8,11,11,25,2003-05-13,home,win,112.0,SACRAMENTO KINGS,93.0,0.3064516129032258,0.23333333333333334,58
+LOS ANGELES LAKERS,240,38,81,6,22,12,17,11,30,15,6,4,13,21,2003-05-13,away,loss,94.0,SAN ANTONIO SPURS,96.0,0.31932773109243695,0.21428571428571427,41
+SAN ANTONIO SPURS,240,38,79,3,8,17,26,11,30,18,9,5,9,15,2003-05-13,home,win,96.0,LOS ANGELES LAKERS,94.0,0.3247863247863248,0.2727272727272727,41

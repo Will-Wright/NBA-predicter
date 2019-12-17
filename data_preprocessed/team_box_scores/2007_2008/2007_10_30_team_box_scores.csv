@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,41,90,5,11,30,36,16,40,24,9,7,19,26,away,win,117.0,GOLDEN STATE WARRIORS,96.0
-GOLDEN STATE WARRIORS,240,32,77,6,23,26,38,7,30,19,8,9,20,28,home,loss,96.0,UTAH JAZZ,117.0
-HOUSTON ROCKETS,240,34,74,6,22,21,31,12,37,23,10,5,18,30,away,win,95.0,LOS ANGELES LAKERS,93.0
-LOS ANGELES LAKERS,240,32,76,2,8,27,45,11,26,18,16,3,12,22,home,loss,93.0,HOUSTON ROCKETS,95.0
-PORTLAND TRAIL BLAZERS,240,39,78,6,13,13,17,8,32,15,1,4,16,19,away,loss,97.0,SAN ANTONIO SPURS,106.0
-SAN ANTONIO SPURS,240,41,87,6,24,18,26,12,28,21,8,4,8,19,home,win,106.0,PORTLAND TRAIL BLAZERS,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,41,90,5,11,30,36,16,40,24,9,7,19,26,2007-10-30,away,win,117.0,GOLDEN STATE WARRIORS,96.0,0.31297709923664124,0.3125,56
+GOLDEN STATE WARRIORS,240,32,77,6,23,26,38,7,30,19,8,9,20,28,2007-10-30,home,loss,96.0,UTAH JAZZ,117.0,0.29357798165137616,0.20689655172413793,37
+HOUSTON ROCKETS,240,34,74,6,22,21,31,12,37,23,10,5,18,30,2007-10-30,away,win,95.0,LOS ANGELES LAKERS,93.0,0.3148148148148148,0.21428571428571427,49
+LOS ANGELES LAKERS,240,32,76,2,8,27,45,11,26,18,16,3,12,22,2007-10-30,home,loss,93.0,HOUSTON ROCKETS,95.0,0.2962962962962963,0.2,37
+PORTLAND TRAIL BLAZERS,240,39,78,6,13,13,17,8,32,15,1,4,16,19,2007-10-30,away,loss,97.0,SAN ANTONIO SPURS,106.0,0.3333333333333333,0.3157894736842105,40
+SAN ANTONIO SPURS,240,41,87,6,24,18,26,12,28,21,8,4,8,19,2007-10-30,home,win,106.0,PORTLAND TRAIL BLAZERS,97.0,0.3203125,0.2,40

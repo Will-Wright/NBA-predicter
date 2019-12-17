@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,31,73,12,29,34,50,14,33,22,7,3,13,30,away,win,108.0,LOS ANGELES LAKERS,90.0
-LOS ANGELES LAKERS,240,28,79,3,10,31,39,11,25,16,7,3,11,32,home,loss,90.0,HOUSTON ROCKETS,108.0
-ORLANDO MAGIC,240,32,84,4,11,16,21,16,40,17,5,9,18,25,away,loss,84.0,NEW ORLEANS PELICANS,101.0
-NEW ORLEANS PELICANS,240,41,101,4,17,15,31,26,36,20,10,17,9,17,home,win,101.0,ORLANDO MAGIC,84.0
-DALLAS MAVERICKS,240,38,78,8,21,16,19,9,24,17,9,3,10,20,away,loss,100.0,SAN ANTONIO SPURS,101.0
-SAN ANTONIO SPURS,240,37,70,14,28,13,16,9,29,23,5,3,20,20,home,win,101.0,DALLAS MAVERICKS,100.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,31,73,12,29,34,50,14,33,22,7,3,13,30,2014-10-28,away,win,108.0,LOS ANGELES LAKERS,90.0,0.2980769230769231,0.2926829268292683,47
+LOS ANGELES LAKERS,240,28,79,3,10,31,39,11,25,16,7,3,11,32,2014-10-28,home,loss,90.0,HOUSTON ROCKETS,108.0,0.2616822429906542,0.23076923076923078,36
+ORLANDO MAGIC,240,32,84,4,11,16,21,16,40,17,5,9,18,25,2014-10-28,away,loss,84.0,NEW ORLEANS PELICANS,101.0,0.27586206896551724,0.26666666666666666,56
+NEW ORLEANS PELICANS,240,41,101,4,17,15,31,26,36,20,10,17,9,17,2014-10-28,home,win,101.0,ORLANDO MAGIC,84.0,0.2887323943661972,0.19047619047619047,62
+DALLAS MAVERICKS,240,38,78,8,21,16,19,9,24,17,9,3,10,20,2014-10-28,away,loss,100.0,SAN ANTONIO SPURS,101.0,0.3275862068965517,0.27586206896551724,33
+SAN ANTONIO SPURS,240,37,70,14,28,13,16,9,29,23,5,3,20,20,2014-10-28,home,win,101.0,DALLAS MAVERICKS,100.0,0.34579439252336447,0.3333333333333333,38

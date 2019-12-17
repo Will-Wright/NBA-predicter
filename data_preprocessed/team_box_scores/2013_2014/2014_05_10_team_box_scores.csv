@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,31,68,8,24,20,25,5,22,13,8,6,10,20,away,loss,90.0,BROOKLYN NETS,104.0
-BROOKLYN NETS,240,38,72,15,25,13,17,9,34,26,6,1,14,23,home,win,104.0,MIAMI HEAT,90.0
-SAN ANTONIO SPURS,240,43,89,7,21,25,25,8,33,23,10,0,7,25,away,win,118.0,PORTLAND TRAIL BLAZERS,103.0
-PORTLAND TRAIL BLAZERS,240,36,84,8,23,23,31,7,34,23,5,0,14,20,home,loss,103.0,SAN ANTONIO SPURS,118.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,31,68,8,24,20,25,5,22,13,8,6,10,20,2014-05-10,away,loss,90.0,BROOKLYN NETS,104.0,0.31313131313131315,0.25,27
+BROOKLYN NETS,240,38,72,15,25,13,17,9,34,26,6,1,14,23,2014-05-10,home,win,104.0,MIAMI HEAT,90.0,0.34545454545454546,0.375,43
+SAN ANTONIO SPURS,240,43,89,7,21,25,25,8,33,23,10,0,7,25,2014-05-10,away,win,118.0,PORTLAND TRAIL BLAZERS,103.0,0.32575757575757575,0.25,41
+PORTLAND TRAIL BLAZERS,240,36,84,8,23,23,31,7,34,23,5,0,14,20,2014-05-10,home,loss,103.0,SAN ANTONIO SPURS,118.0,0.3,0.25806451612903225,41

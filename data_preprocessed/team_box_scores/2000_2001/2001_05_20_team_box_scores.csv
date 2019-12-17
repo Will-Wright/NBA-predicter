@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHARLOTTE HORNETS,240,36,82,6,14,17,28,14,23,23,4,7,7,30,away,loss,95.0,MILWAUKEE BUCKS,104.0
-MILWAUKEE BUCKS,240,32,68,7,17,33,35,8,34,26,2,13,13,23,home,win,104.0,CHARLOTTE HORNETS,95.0
-TORONTO RAPTORS,240,35,73,4,14,13,17,8,27,23,9,7,10,21,away,loss,87.0,PHILADELPHIA 76ERS,88.0
-PHILADELPHIA 76ERS,240,32,75,2,8,22,32,15,26,22,6,3,11,18,home,win,88.0,TORONTO RAPTORS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHARLOTTE HORNETS,240,36,82,6,14,17,28,14,23,23,4,7,7,30,2001-05-20,away,loss,95.0,MILWAUKEE BUCKS,104.0,0.3050847457627119,0.3,37
+MILWAUKEE BUCKS,240,32,68,7,17,33,35,8,34,26,2,13,13,23,2001-05-20,home,win,104.0,CHARLOTTE HORNETS,95.0,0.32,0.2916666666666667,42
+TORONTO RAPTORS,240,35,73,4,14,13,17,8,27,23,9,7,10,21,2001-05-20,away,loss,87.0,PHILADELPHIA 76ERS,88.0,0.32407407407407407,0.2222222222222222,35
+PHILADELPHIA 76ERS,240,32,75,2,8,22,32,15,26,22,6,3,11,18,2001-05-20,home,win,88.0,TORONTO RAPTORS,87.0,0.29906542056074764,0.2,41

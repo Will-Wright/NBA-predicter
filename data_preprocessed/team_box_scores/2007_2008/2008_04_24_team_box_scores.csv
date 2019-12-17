@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,34,73,6,27,20,27,10,24,15,5,1,14,21,away,loss,94.0,TORONTO RAPTORS,108.0
-TORONTO RAPTORS,240,42,85,12,34,12,14,13,29,31,7,5,12,24,home,win,108.0,ORLANDO MAGIC,94.0
-HOUSTON ROCKETS,240,36,81,6,16,16,22,16,27,20,7,7,9,26,away,win,94.0,UTAH JAZZ,92.0
-UTAH JAZZ,240,32,70,8,17,20,33,13,26,20,3,7,12,24,home,loss,92.0,HOUSTON ROCKETS,94.0
-CLEVELAND CAVALIERS,240,29,73,2,16,12,23,15,26,17,4,3,23,30,away,loss,72.0,WASHINGTON WIZARDS,108.0
-WASHINGTON WIZARDS,240,38,73,8,19,24,33,5,31,20,13,5,11,17,home,win,108.0,CLEVELAND CAVALIERS,72.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,34,73,6,27,20,27,10,24,15,5,1,14,21,2008-04-24,away,loss,94.0,TORONTO RAPTORS,108.0,0.3177570093457944,0.18181818181818182,34
+TORONTO RAPTORS,240,42,85,12,34,12,14,13,29,31,7,5,12,24,2008-04-24,home,win,108.0,ORLANDO MAGIC,94.0,0.33070866141732286,0.2608695652173913,42
+HOUSTON ROCKETS,240,36,81,6,16,16,22,16,27,20,7,7,9,26,2008-04-24,away,win,94.0,UTAH JAZZ,92.0,0.3076923076923077,0.2727272727272727,43
+UTAH JAZZ,240,32,70,8,17,20,33,13,26,20,3,7,12,24,2008-04-24,home,loss,92.0,HOUSTON ROCKETS,94.0,0.3137254901960784,0.32,39
+CLEVELAND CAVALIERS,240,29,73,2,16,12,23,15,26,17,4,3,23,30,2008-04-24,away,loss,72.0,WASHINGTON WIZARDS,108.0,0.28431372549019607,0.1111111111111111,41
+WASHINGTON WIZARDS,240,38,73,8,19,24,33,5,31,20,13,5,11,17,2008-04-24,home,win,108.0,CLEVELAND CAVALIERS,72.0,0.34234234234234234,0.2962962962962963,36

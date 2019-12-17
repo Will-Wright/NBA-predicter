@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,265,39,87,6,22,30,36,7,33,17,10,3,12,25,away,loss,114.0,ORLANDO MAGIC,116.0
-ORLANDO MAGIC,265,40,80,17,38,19,27,4,34,21,5,4,15,25,home,win,116.0,CLEVELAND CAVALIERS,114.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,265,39,87,6,22,30,36,7,33,17,10,3,12,25,2009-05-26,away,loss,114.0,ORLANDO MAGIC,116.0,0.30952380952380953,0.21428571428571427,40
+ORLANDO MAGIC,265,40,80,17,38,19,27,4,34,21,5,4,15,25,2009-05-26,home,win,116.0,CLEVELAND CAVALIERS,114.0,0.3333333333333333,0.3090909090909091,38

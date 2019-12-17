@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DENVER NUGGETS,240,38,77,10,20,23,26,12,29,22,11,2,20,21,away,win,109.0,PORTLAND TRAIL BLAZERS,93.0
-PORTLAND TRAIL BLAZERS,240,35,81,9,23,14,21,13,22,22,9,7,17,23,home,loss,93.0,DENVER NUGGETS,109.0
-DALLAS MAVERICKS,240,35,87,10,23,17,19,14,27,20,10,4,11,17,away,win,97.0,TORONTO RAPTORS,96.0
-TORONTO RAPTORS,240,34,70,7,13,21,24,4,30,19,6,5,14,11,home,loss,96.0,DALLAS MAVERICKS,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DENVER NUGGETS,240,38,77,10,20,23,26,12,29,22,11,2,20,21,2007-01-14,away,win,109.0,PORTLAND TRAIL BLAZERS,93.0,0.33043478260869563,0.3333333333333333,41
+PORTLAND TRAIL BLAZERS,240,35,81,9,23,14,21,13,22,22,9,7,17,23,2007-01-14,home,loss,93.0,DENVER NUGGETS,109.0,0.3017241379310345,0.28125,35
+DALLAS MAVERICKS,240,35,87,10,23,17,19,14,27,20,10,4,11,17,2007-01-14,away,win,97.0,TORONTO RAPTORS,96.0,0.28688524590163933,0.30303030303030304,41
+TORONTO RAPTORS,240,34,70,7,13,21,24,4,30,19,6,5,14,11,2007-01-14,home,loss,96.0,DALLAS MAVERICKS,97.0,0.3269230769230769,0.35,34

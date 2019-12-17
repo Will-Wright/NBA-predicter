@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BROOKLYN NETS,240,26,67,5,17,19,28,4,23,12,8,5,15,21,away,loss,76.0,CHICAGO BULLS,92.0
-CHICAGO BULLS,240,35,70,4,14,18,21,9,36,26,7,8,15,23,home,win,92.0,BROOKLYN NETS,76.0
-OKLAHOMA CITY THUNDER,240,39,88,8,28,21,24,9,35,23,14,8,14,23,away,win,107.0,LOS ANGELES LAKERS,103.0
-LOS ANGELES LAKERS,240,40,83,10,28,13,22,7,35,29,6,4,22,18,home,loss,103.0,OKLAHOMA CITY THUNDER,107.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BROOKLYN NETS,240,26,67,5,17,19,28,4,23,12,8,5,15,21,2014-02-13,away,loss,76.0,CHICAGO BULLS,92.0,0.27956989247311825,0.22727272727272727,27
+CHICAGO BULLS,240,35,70,4,14,18,21,9,36,26,7,8,15,23,2014-02-13,home,win,92.0,BROOKLYN NETS,76.0,0.3333333333333333,0.2222222222222222,45
+OKLAHOMA CITY THUNDER,240,39,88,8,28,21,24,9,35,23,14,8,14,23,2014-02-13,away,win,107.0,LOS ANGELES LAKERS,103.0,0.30708661417322836,0.2222222222222222,44
+LOS ANGELES LAKERS,240,40,83,10,28,13,22,7,35,29,6,4,22,18,2014-02-13,home,loss,103.0,OKLAHOMA CITY THUNDER,107.0,0.3252032520325203,0.2631578947368421,42

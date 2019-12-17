@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,36,88,8,32,19,25,9,37,24,11,4,10,24,away,loss,99.0,CLEVELAND CAVALIERS,102.0
-CLEVELAND CAVALIERS,240,38,83,5,22,21,25,9,41,19,3,4,17,25,home,win,102.0,BOSTON CELTICS,99.0
-HOUSTON ROCKETS,240,47,97,15,41,13,19,10,33,28,9,5,12,16,away,win,122.0,GOLDEN STATE WARRIORS,121.0
-GOLDEN STATE WARRIORS,240,43,80,16,30,19,21,6,35,34,5,9,17,25,home,loss,121.0,HOUSTON ROCKETS,122.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,36,88,8,32,19,25,9,37,24,11,4,10,24,2017-10-17,away,loss,99.0,CLEVELAND CAVALIERS,102.0,0.2903225806451613,0.2,46
+CLEVELAND CAVALIERS,240,38,83,5,22,21,25,9,41,19,3,4,17,25,2017-10-17,home,win,102.0,BOSTON CELTICS,99.0,0.3140495867768595,0.18518518518518517,50
+HOUSTON ROCKETS,240,47,97,15,41,13,19,10,33,28,9,5,12,16,2017-10-17,away,win,122.0,GOLDEN STATE WARRIORS,121.0,0.3263888888888889,0.26785714285714285,43
+GOLDEN STATE WARRIORS,240,43,80,16,30,19,21,6,35,34,5,9,17,25,2017-10-17,home,loss,121.0,HOUSTON ROCKETS,122.0,0.34959349593495936,0.34782608695652173,41

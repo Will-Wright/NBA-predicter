@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,40,82,5,18,7,14,9,29,19,9,3,13,19,away,loss,92.0,DALLAS MAVERICKS,95.0
-DALLAS MAVERICKS,240,38,80,4,12,15,19,12,32,22,4,7,14,17,home,win,95.0,CLEVELAND CAVALIERS,92.0
-CHARLOTTE BOBCATS,240,34,81,6,12,16,21,10,21,13,5,2,15,23,away,loss,90.0,PORTLAND TRAIL BLAZERS,127.0
-PORTLAND TRAIL BLAZERS,240,49,84,11,20,18,23,11,34,34,8,5,11,22,home,win,127.0,CHARLOTTE BOBCATS,90.0
-LOS ANGELES CLIPPERS,240,27,67,4,14,17,26,9,27,23,9,3,14,23,away,loss,75.0,SEATTLE SUPERSONICS,77.0
-SEATTLE SUPERSONICS,240,27,70,2,9,21,27,13,28,11,6,3,14,21,home,win,77.0,LOS ANGELES CLIPPERS,75.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,40,82,5,18,7,14,9,29,19,9,3,13,19,2007-03-01,away,loss,92.0,DALLAS MAVERICKS,95.0,0.32786885245901637,0.21739130434782608,38
+DALLAS MAVERICKS,240,38,80,4,12,15,19,12,32,22,4,7,14,17,2007-03-01,home,win,95.0,CLEVELAND CAVALIERS,92.0,0.3220338983050847,0.25,44
+CHARLOTTE BOBCATS,240,34,81,6,12,16,21,10,21,13,5,2,15,23,2007-03-01,away,loss,90.0,PORTLAND TRAIL BLAZERS,127.0,0.2956521739130435,0.3333333333333333,31
+PORTLAND TRAIL BLAZERS,240,49,84,11,20,18,23,11,34,34,8,5,11,22,2007-03-01,home,win,127.0,CHARLOTTE BOBCATS,90.0,0.3684210526315789,0.3548387096774194,45
+LOS ANGELES CLIPPERS,240,27,67,4,14,17,26,9,27,23,9,3,14,23,2007-03-01,away,loss,75.0,SEATTLE SUPERSONICS,77.0,0.2872340425531915,0.2222222222222222,36
+SEATTLE SUPERSONICS,240,27,70,2,9,21,27,13,28,11,6,3,14,21,2007-03-01,home,win,77.0,LOS ANGELES CLIPPERS,75.0,0.27835051546391754,0.18181818181818182,41

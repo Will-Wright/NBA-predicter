@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,28,92,11,44,13,16,15,23,16,9,4,10,24,away,loss,80.0,INDIANA PACERS,92.0
-INDIANA PACERS,240,33,70,3,18,23,29,10,45,17,6,13,17,19,home,win,92.0,ATLANTA HAWKS,80.0
-GOLDEN STATE WARRIORS,240,39,79,14,25,29,35,9,28,25,9,6,18,21,away,loss,121.0,LOS ANGELES CLIPPERS,126.0
-LOS ANGELES CLIPPERS,240,46,83,8,24,26,33,7,31,26,14,7,13,21,home,win,126.0,GOLDEN STATE WARRIORS,121.0
-MEMPHIS GRIZZLIES,240,37,83,5,17,30,34,10,19,22,13,1,14,22,away,loss,109.0,OKLAHOMA CITY THUNDER,120.0
-OKLAHOMA CITY THUNDER,240,42,69,11,19,25,30,9,24,22,7,2,20,28,home,win,120.0,MEMPHIS GRIZZLIES,109.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,28,92,11,44,13,16,15,23,16,9,4,10,24,2014-05-03,away,loss,80.0,INDIANA PACERS,92.0,0.23333333333333334,0.2,38
+INDIANA PACERS,240,33,70,3,18,23,29,10,45,17,6,13,17,19,2014-05-03,home,win,92.0,ATLANTA HAWKS,80.0,0.32038834951456313,0.14285714285714285,55
+GOLDEN STATE WARRIORS,240,39,79,14,25,29,35,9,28,25,9,6,18,21,2014-05-03,away,loss,121.0,LOS ANGELES CLIPPERS,126.0,0.3305084745762712,0.358974358974359,37
+LOS ANGELES CLIPPERS,240,46,83,8,24,26,33,7,31,26,14,7,13,21,2014-05-03,home,win,126.0,GOLDEN STATE WARRIORS,121.0,0.35658914728682173,0.25,38
+MEMPHIS GRIZZLIES,240,37,83,5,17,30,34,10,19,22,13,1,14,22,2014-05-03,away,loss,109.0,OKLAHOMA CITY THUNDER,120.0,0.30833333333333335,0.22727272727272727,29
+OKLAHOMA CITY THUNDER,240,42,69,11,19,25,30,9,24,22,7,2,20,28,2014-05-03,home,win,120.0,MEMPHIS GRIZZLIES,109.0,0.3783783783783784,0.36666666666666664,33

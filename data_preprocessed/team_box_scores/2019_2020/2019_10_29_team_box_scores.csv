@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,41,84,13,37,14,24,10,32,29,6,5,8,14,away,win,109.0,DENVER NUGGETS,106.0
-DENVER NUGGETS,240,43,91,11,32,9,13,14,36,24,6,1,10,24,home,loss,106.0,DALLAS MAVERICKS,109.0
-MEMPHIS GRIZZLIES,240,31,95,7,34,22,23,13,33,20,10,3,21,27,away,loss,91.0,LOS ANGELES LAKERS,120.0
-LOS ANGELES LAKERS,240,40,86,7,26,33,39,10,44,25,9,8,18,19,home,win,120.0,MEMPHIS GRIZZLIES,91.0
-ATLANTA HAWKS,240,35,83,11,39,16,24,9,24,28,14,7,20,29,away,loss,97.0,MIAMI HEAT,112.0
-MIAMI HEAT,240,33,73,13,31,33,45,13,36,19,11,6,26,22,home,win,112.0,ATLANTA HAWKS,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,41,84,13,37,14,24,10,32,29,6,5,8,14,2019-10-29,away,win,109.0,DENVER NUGGETS,106.0,0.328,0.26,42
+DENVER NUGGETS,240,43,91,11,32,9,13,14,36,24,6,1,10,24,2019-10-29,home,loss,106.0,DALLAS MAVERICKS,109.0,0.3208955223880597,0.2558139534883721,50
+MEMPHIS GRIZZLIES,240,31,95,7,34,22,23,13,33,20,10,3,21,27,2019-10-29,away,loss,91.0,LOS ANGELES LAKERS,120.0,0.24603174603174602,0.17073170731707318,46
+LOS ANGELES LAKERS,240,40,86,7,26,33,39,10,44,25,9,8,18,19,2019-10-29,home,win,120.0,MEMPHIS GRIZZLIES,91.0,0.31746031746031744,0.21212121212121213,54
+ATLANTA HAWKS,240,35,83,11,39,16,24,9,24,28,14,7,20,29,2019-10-29,away,loss,97.0,MIAMI HEAT,112.0,0.2966101694915254,0.22,33
+MIAMI HEAT,240,33,73,13,31,33,45,13,36,19,11,6,26,22,2019-10-29,home,win,112.0,ATLANTA HAWKS,97.0,0.3113207547169811,0.29545454545454547,49

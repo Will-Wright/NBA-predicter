@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,30,72,5,13,15,24,9,34,11,8,3,13,24,away,win,80.0,HOUSTON ROCKETS,77.0
-HOUSTON ROCKETS,240,26,67,5,13,20,31,6,31,9,7,3,13,24,home,loss,77.0,DALLAS MAVERICKS,80.0
-CLEVELAND CAVALIERS,240,35,74,3,12,41,55,13,32,13,8,4,15,28,away,win,114.0,LOS ANGELES LAKERS,108.0
-LOS ANGELES LAKERS,240,36,86,7,21,29,42,18,29,21,9,4,15,33,home,loss,108.0,CLEVELAND CAVALIERS,114.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,30,72,5,13,15,24,9,34,11,8,3,13,24,2007-02-15,away,win,80.0,HOUSTON ROCKETS,77.0,0.29411764705882354,0.2777777777777778,43
+HOUSTON ROCKETS,240,26,67,5,13,20,31,6,31,9,7,3,13,24,2007-02-15,home,loss,77.0,DALLAS MAVERICKS,80.0,0.27956989247311825,0.2777777777777778,37
+CLEVELAND CAVALIERS,240,35,74,3,12,41,55,13,32,13,8,4,15,28,2007-02-15,away,win,114.0,LOS ANGELES LAKERS,108.0,0.3211009174311927,0.2,45
+LOS ANGELES LAKERS,240,36,86,7,21,29,42,18,29,21,9,4,15,33,2007-02-15,home,loss,108.0,CLEVELAND CAVALIERS,114.0,0.29508196721311475,0.25,47

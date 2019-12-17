@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PORTLAND TRAIL BLAZERS,240,35,82,6,19,18,20,10,32,20,4,7,17,27,away,loss,94.0,DALLAS MAVERICKS,98.0
-DALLAS MAVERICKS,240,35,85,3,13,25,37,17,31,20,9,12,10,19,home,win,98.0,PORTLAND TRAIL BLAZERS,94.0
-SACRAMENTO KINGS,240,39,91,13,24,6,8,14,29,24,8,7,11,15,away,loss,97.0,GOLDEN STATE WARRIORS,100.0
-GOLDEN STATE WARRIORS,240,40,90,9,25,11,12,17,34,25,7,9,13,12,home,win,100.0,SACRAMENTO KINGS,97.0
-LOS ANGELES LAKERS,240,33,87,10,24,13,17,14,30,19,10,2,15,26,away,loss,89.0,MIAMI HEAT,102.0
-MIAMI HEAT,240,38,80,5,19,21,29,12,30,18,10,6,11,16,home,win,102.0,LOS ANGELES LAKERS,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PORTLAND TRAIL BLAZERS,240,35,82,6,19,18,20,10,32,20,4,7,17,27,2005-03-17,away,loss,94.0,DALLAS MAVERICKS,98.0,0.29914529914529914,0.24,42
+DALLAS MAVERICKS,240,35,85,3,13,25,37,17,31,20,9,12,10,19,2005-03-17,home,win,98.0,PORTLAND TRAIL BLAZERS,94.0,0.2916666666666667,0.1875,48
+SACRAMENTO KINGS,240,39,91,13,24,6,8,14,29,24,8,7,11,15,2005-03-17,away,loss,97.0,GOLDEN STATE WARRIORS,100.0,0.3,0.35135135135135137,43
+GOLDEN STATE WARRIORS,240,40,90,9,25,11,12,17,34,25,7,9,13,12,2005-03-17,home,win,100.0,SACRAMENTO KINGS,97.0,0.3076923076923077,0.2647058823529412,51
+LOS ANGELES LAKERS,240,33,87,10,24,13,17,14,30,19,10,2,15,26,2005-03-17,away,loss,89.0,MIAMI HEAT,102.0,0.275,0.29411764705882354,44
+MIAMI HEAT,240,38,80,5,19,21,29,12,30,18,10,6,11,16,2005-03-17,home,win,102.0,LOS ANGELES LAKERS,89.0,0.3220338983050847,0.20833333333333334,42

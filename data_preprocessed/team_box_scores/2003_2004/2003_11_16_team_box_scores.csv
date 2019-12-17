@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,29,80,0,12,19,34,12,33,10,10,3,19,34,away,loss,77.0,LOS ANGELES LAKERS,99.0
-LOS ANGELES LAKERS,240,33,74,0,9,33,46,8,35,22,10,4,17,26,home,win,99.0,MIAMI HEAT,77.0
-GOLDEN STATE WARRIORS,240,43,82,7,14,11,19,10,25,21,10,4,12,24,away,loss,104.0,SACRAMENTO KINGS,106.0
-SACRAMENTO KINGS,240,36,85,10,16,24,28,21,26,24,6,3,13,19,home,win,106.0,GOLDEN STATE WARRIORS,104.0
-HOUSTON ROCKETS,290,31,84,4,16,31,36,14,30,11,10,3,19,32,away,loss,97.0,TORONTO RAPTORS,101.0
-TORONTO RAPTORS,290,33,79,2,11,33,38,11,31,22,10,1,18,28,home,win,101.0,HOUSTON ROCKETS,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,29,80,0,12,19,34,12,33,10,10,3,19,34,2003-11-16,away,loss,77.0,LOS ANGELES LAKERS,99.0,0.26605504587155965,0.0,45
+LOS ANGELES LAKERS,240,33,74,0,9,33,46,8,35,22,10,4,17,26,2003-11-16,home,win,99.0,MIAMI HEAT,77.0,0.308411214953271,0.0,43
+GOLDEN STATE WARRIORS,240,43,82,7,14,11,19,10,25,21,10,4,12,24,2003-11-16,away,loss,104.0,SACRAMENTO KINGS,106.0,0.344,0.3333333333333333,35
+SACRAMENTO KINGS,240,36,85,10,16,24,28,21,26,24,6,3,13,19,2003-11-16,home,win,106.0,GOLDEN STATE WARRIORS,104.0,0.2975206611570248,0.38461538461538464,47
+HOUSTON ROCKETS,290,31,84,4,16,31,36,14,30,11,10,3,19,32,2003-11-16,away,loss,97.0,TORONTO RAPTORS,101.0,0.26956521739130435,0.2,44
+TORONTO RAPTORS,290,33,79,2,11,33,38,11,31,22,10,1,18,28,2003-11-16,home,win,101.0,HOUSTON ROCKETS,97.0,0.29464285714285715,0.15384615384615385,42

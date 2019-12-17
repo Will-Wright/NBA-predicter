@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,32,78,7,15,9,10,7,29,22,6,4,13,20,away,loss,80.0,BOSTON CELTICS,83.0
-BOSTON CELTICS,240,31,74,2,10,19,24,11,29,19,8,11,12,14,home,win,83.0,ATLANTA HAWKS,80.0
-LOS ANGELES LAKERS,240,35,83,4,14,22,30,13,29,23,6,7,11,17,away,loss,96.0,DENVER NUGGETS,113.0
-DENVER NUGGETS,240,47,91,10,20,9,17,10,37,26,6,8,11,22,home,win,113.0,LOS ANGELES LAKERS,96.0
-CHICAGO BULLS,240,30,80,2,13,16,21,15,41,19,4,6,12,19,away,loss,78.0,PHILADELPHIA 76ERS,79.0
-PHILADELPHIA 76ERS,240,29,73,6,16,15,20,5,28,19,7,6,7,18,home,win,79.0,CHICAGO BULLS,78.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,32,78,7,15,9,10,7,29,22,6,4,13,20,2012-05-10,away,loss,80.0,BOSTON CELTICS,83.0,0.2909090909090909,0.3181818181818182,36
+BOSTON CELTICS,240,31,74,2,10,19,24,11,29,19,8,11,12,14,2012-05-10,home,win,83.0,ATLANTA HAWKS,80.0,0.29523809523809524,0.16666666666666666,40
+LOS ANGELES LAKERS,240,35,83,4,14,22,30,13,29,23,6,7,11,17,2012-05-10,away,loss,96.0,DENVER NUGGETS,113.0,0.2966101694915254,0.2222222222222222,42
+DENVER NUGGETS,240,47,91,10,20,9,17,10,37,26,6,8,11,22,2012-05-10,home,win,113.0,LOS ANGELES LAKERS,96.0,0.34057971014492755,0.3333333333333333,47
+CHICAGO BULLS,240,30,80,2,13,16,21,15,41,19,4,6,12,19,2012-05-10,away,loss,78.0,PHILADELPHIA 76ERS,79.0,0.2727272727272727,0.13333333333333333,56
+PHILADELPHIA 76ERS,240,29,73,6,16,15,20,5,28,19,7,6,7,18,2012-05-10,home,win,79.0,CHICAGO BULLS,78.0,0.28431372549019607,0.2727272727272727,33

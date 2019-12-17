@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,34,90,8,28,22,28,12,24,18,10,7,11,24,away,loss,98.0,INDIANA PACERS,110.0
-INDIANA PACERS,240,44,83,4,13,18,22,11,43,29,5,5,17,24,home,win,110.0,DALLAS MAVERICKS,98.0
-NEW JERSEY NETS,265,44,94,15,29,15,21,18,33,29,6,7,16,23,away,loss,118.0,LOS ANGELES CLIPPERS,126.0
-LOS ANGELES CLIPPERS,265,46,92,11,25,23,26,9,30,29,6,10,8,22,home,win,126.0,NEW JERSEY NETS,118.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,34,90,8,28,22,28,12,24,18,10,7,11,24,2002-11-28,away,loss,98.0,INDIANA PACERS,110.0,0.27419354838709675,0.2222222222222222,36
+INDIANA PACERS,240,44,83,4,13,18,22,11,43,29,5,5,17,24,2002-11-28,home,win,110.0,DALLAS MAVERICKS,98.0,0.3464566929133858,0.23529411764705882,54
+NEW JERSEY NETS,265,44,94,15,29,15,21,18,33,29,6,7,16,23,2002-11-28,away,loss,118.0,LOS ANGELES CLIPPERS,126.0,0.3188405797101449,0.3409090909090909,51
+LOS ANGELES CLIPPERS,265,46,92,11,25,23,26,9,30,29,6,10,8,22,2002-11-28,home,win,126.0,NEW JERSEY NETS,118.0,0.3333333333333333,0.3055555555555556,39

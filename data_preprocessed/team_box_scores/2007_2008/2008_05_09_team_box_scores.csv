@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,32,66,5,23,30,37,10,22,14,8,6,18,23,away,loss,99.0,UTAH JAZZ,104.0
-UTAH JAZZ,240,39,78,6,16,20,28,12,23,21,7,2,12,28,home,win,104.0,LOS ANGELES LAKERS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,32,66,5,23,30,37,10,22,14,8,6,18,23,2008-05-09,away,loss,99.0,UTAH JAZZ,104.0,0.32653061224489793,0.17857142857142858,32
+UTAH JAZZ,240,39,78,6,16,20,28,12,23,21,7,2,12,28,2008-05-09,home,win,104.0,LOS ANGELES LAKERS,99.0,0.3333333333333333,0.2727272727272727,35

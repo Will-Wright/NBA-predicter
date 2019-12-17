@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,32,82,14,34,18,19,9,30,23,6,9,11,24,away,loss,96.0,CHICAGO BULLS,99.0
-CHICAGO BULLS,240,34,90,6,21,25,29,18,36,17,9,10,7,18,home,win,99.0,CLEVELAND CAVALIERS,96.0
-HOUSTON ROCKETS,240,35,88,11,33,18,31,16,27,21,8,5,15,18,away,loss,99.0,LOS ANGELES CLIPPERS,124.0
-LOS ANGELES CLIPPERS,240,46,83,13,29,19,23,12,38,26,12,6,18,27,home,win,124.0,HOUSTON ROCKETS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,32,82,14,34,18,19,9,30,23,6,9,11,24,2015-05-08,away,loss,96.0,CHICAGO BULLS,99.0,0.2807017543859649,0.2916666666666667,39
+CHICAGO BULLS,240,34,90,6,21,25,29,18,36,17,9,10,7,18,2015-05-08,home,win,99.0,CLEVELAND CAVALIERS,96.0,0.27419354838709675,0.2222222222222222,54
+HOUSTON ROCKETS,240,35,88,11,33,18,31,16,27,21,8,5,15,18,2015-05-08,away,loss,99.0,LOS ANGELES CLIPPERS,124.0,0.2845528455284553,0.25,43
+LOS ANGELES CLIPPERS,240,46,83,13,29,19,23,12,38,26,12,6,18,27,2015-05-08,home,win,124.0,HOUSTON ROCKETS,99.0,0.35658914728682173,0.30952380952380953,50

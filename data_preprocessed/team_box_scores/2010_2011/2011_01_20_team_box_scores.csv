@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,39,85,3,14,16,22,12,33,22,6,4,9,21,away,loss,97.0,CHARLOTTE BOBCATS,100.0
-CHARLOTTE BOBCATS,240,38,79,4,11,20,26,9,31,21,6,3,8,17,home,win,100.0,PHILADELPHIA 76ERS,97.0
-DALLAS MAVERICKS,240,26,73,7,22,18,22,9,32,16,5,9,14,17,away,loss,77.0,CHICAGO BULLS,82.0
-CHICAGO BULLS,240,31,84,7,16,13,16,17,34,15,8,7,13,22,home,win,82.0,DALLAS MAVERICKS,77.0
-LOS ANGELES CLIPPERS,240,35,81,9,26,14,21,15,27,18,4,3,15,17,away,loss,93.0,PORTLAND TRAIL BLAZERS,108.0
-PORTLAND TRAIL BLAZERS,240,44,78,7,16,13,19,8,29,21,8,5,7,20,home,win,108.0,LOS ANGELES CLIPPERS,93.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,39,85,3,14,16,22,12,33,22,6,4,9,21,2011-01-20,away,loss,97.0,CHARLOTTE BOBCATS,100.0,0.31451612903225806,0.17647058823529413,45
+CHARLOTTE BOBCATS,240,38,79,4,11,20,26,9,31,21,6,3,8,17,2011-01-20,home,win,100.0,PHILADELPHIA 76ERS,97.0,0.3247863247863248,0.26666666666666666,40
+DALLAS MAVERICKS,240,26,73,7,22,18,22,9,32,16,5,9,14,17,2011-01-20,away,loss,77.0,CHICAGO BULLS,82.0,0.26262626262626265,0.2413793103448276,41
+CHICAGO BULLS,240,31,84,7,16,13,16,17,34,15,8,7,13,22,2011-01-20,home,win,82.0,DALLAS MAVERICKS,77.0,0.26956521739130435,0.30434782608695654,51
+LOS ANGELES CLIPPERS,240,35,81,9,26,14,21,15,27,18,4,3,15,17,2011-01-20,away,loss,93.0,PORTLAND TRAIL BLAZERS,108.0,0.3017241379310345,0.2571428571428571,42
+PORTLAND TRAIL BLAZERS,240,44,78,7,16,13,19,8,29,21,8,5,7,20,2011-01-20,home,win,108.0,LOS ANGELES CLIPPERS,93.0,0.36065573770491804,0.30434782608695654,37

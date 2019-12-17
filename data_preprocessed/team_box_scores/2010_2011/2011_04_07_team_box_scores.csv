@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,28,73,2,10,23,26,8,27,14,3,3,11,12,away,loss,81.0,CHICAGO BULLS,97.0
-CHICAGO BULLS,240,37,78,9,22,14,15,9,35,21,9,5,12,21,home,win,97.0,BOSTON CELTICS,81.0
-PORTLAND TRAIL BLAZERS,240,36,79,8,18,18,19,13,28,24,6,3,10,19,away,win,98.0,UTAH JAZZ,87.0
-UTAH JAZZ,240,31,74,6,20,19,22,14,27,19,4,6,12,19,home,loss,87.0,PORTLAND TRAIL BLAZERS,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,28,73,2,10,23,26,8,27,14,3,3,11,12,2011-04-07,away,loss,81.0,CHICAGO BULLS,97.0,0.27722772277227725,0.16666666666666666,35
+CHICAGO BULLS,240,37,78,9,22,14,15,9,35,21,9,5,12,21,2011-04-07,home,win,97.0,BOSTON CELTICS,81.0,0.3217391304347826,0.2903225806451613,44
+PORTLAND TRAIL BLAZERS,240,36,79,8,18,18,19,13,28,24,6,3,10,19,2011-04-07,away,win,98.0,UTAH JAZZ,87.0,0.3130434782608696,0.3076923076923077,41
+UTAH JAZZ,240,31,74,6,20,19,22,14,27,19,4,6,12,19,2011-04-07,home,loss,87.0,PORTLAND TRAIL BLAZERS,98.0,0.29523809523809524,0.23076923076923078,41

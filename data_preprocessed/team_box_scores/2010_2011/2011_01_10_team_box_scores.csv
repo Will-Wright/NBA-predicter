@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,39,74,10,20,20,26,12,26,25,5,4,15,19,away,win,108.0,BOSTON CELTICS,102.0
-BOSTON CELTICS,240,38,75,5,13,21,23,9,22,23,13,2,13,23,home,loss,102.0,HOUSTON ROCKETS,108.0
-MEMPHIS GRIZZLIES,240,34,87,2,10,12,22,17,29,14,12,4,16,21,away,loss,82.0,CHARLOTTE BOBCATS,96.0
-CHARLOTTE BOBCATS,240,37,72,7,20,15,21,9,31,24,9,10,18,15,home,win,96.0,MEMPHIS GRIZZLIES,82.0
-DETROIT PISTONS,240,31,80,5,18,15,22,15,28,19,8,4,14,20,away,loss,82.0,CHICAGO BULLS,95.0
-CHICAGO BULLS,240,35,77,2,11,23,25,9,31,20,8,5,10,15,home,win,95.0,DETROIT PISTONS,82.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,39,74,10,20,20,26,12,26,25,5,4,15,19,2011-01-10,away,win,108.0,BOSTON CELTICS,102.0,0.34513274336283184,0.3333333333333333,38
+BOSTON CELTICS,240,38,75,5,13,21,23,9,22,23,13,2,13,23,2011-01-10,home,loss,102.0,HOUSTON ROCKETS,108.0,0.336283185840708,0.2777777777777778,31
+MEMPHIS GRIZZLIES,240,34,87,2,10,12,22,17,29,14,12,4,16,21,2011-01-10,away,loss,82.0,CHARLOTTE BOBCATS,96.0,0.2809917355371901,0.16666666666666666,46
+CHARLOTTE BOBCATS,240,37,72,7,20,15,21,9,31,24,9,10,18,15,2011-01-10,home,win,96.0,MEMPHIS GRIZZLIES,82.0,0.3394495412844037,0.25925925925925924,40
+DETROIT PISTONS,240,31,80,5,18,15,22,15,28,19,8,4,14,20,2011-01-10,away,loss,82.0,CHICAGO BULLS,95.0,0.27927927927927926,0.21739130434782608,43
+CHICAGO BULLS,240,35,77,2,11,23,25,9,31,20,8,5,10,15,2011-01-10,home,win,95.0,DETROIT PISTONS,82.0,0.3125,0.15384615384615385,40

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MEMPHIS GRIZZLIES,240,34,78,7,17,12,14,11,25,14,6,6,10,20,away,loss,87.0,DALLAS MAVERICKS,97.0
-DALLAS MAVERICKS,240,38,77,6,10,15,21,12,29,19,7,10,8,17,home,win,97.0,MEMPHIS GRIZZLIES,87.0
-INDIANA PACERS,240,32,80,9,18,10,14,15,31,16,10,1,21,20,away,loss,83.0,DETROIT PISTONS,88.0
-DETROIT PISTONS,240,34,79,6,15,14,15,8,27,23,12,11,11,16,home,win,88.0,INDIANA PACERS,83.0
-SACRAMENTO KINGS,240,34,82,6,25,11,15,10,25,23,2,6,15,18,away,loss,85.0,LOS ANGELES LAKERS,106.0
-LOS ANGELES LAKERS,240,41,78,10,16,14,19,9,27,30,10,5,12,20,home,win,106.0,SACRAMENTO KINGS,85.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MEMPHIS GRIZZLIES,240,34,78,7,17,12,14,11,25,14,6,6,10,20,2006-02-23,away,loss,87.0,DALLAS MAVERICKS,97.0,0.30357142857142855,0.2916666666666667,36
+DALLAS MAVERICKS,240,38,77,6,10,15,21,12,29,19,7,10,8,17,2006-02-23,home,win,97.0,MEMPHIS GRIZZLIES,87.0,0.33043478260869563,0.375,41
+INDIANA PACERS,240,32,80,9,18,10,14,15,31,16,10,1,21,20,2006-02-23,away,loss,83.0,DETROIT PISTONS,88.0,0.2857142857142857,0.3333333333333333,46
+DETROIT PISTONS,240,34,79,6,15,14,15,8,27,23,12,11,11,16,2006-02-23,home,win,88.0,INDIANA PACERS,83.0,0.3008849557522124,0.2857142857142857,35
+SACRAMENTO KINGS,240,34,82,6,25,11,15,10,25,23,2,6,15,18,2006-02-23,away,loss,85.0,LOS ANGELES LAKERS,106.0,0.29310344827586204,0.1935483870967742,35
+LOS ANGELES LAKERS,240,41,78,10,16,14,19,9,27,30,10,5,12,20,2006-02-23,home,win,106.0,SACRAMENTO KINGS,85.0,0.3445378151260504,0.38461538461538464,36

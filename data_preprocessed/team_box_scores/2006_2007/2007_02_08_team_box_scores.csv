@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,28,74,6,20,16,25,17,28,19,4,4,17,19,away,loss,78.0,DETROIT PISTONS,93.0
-DETROIT PISTONS,240,35,78,6,17,17,26,13,31,28,12,6,7,20,home,win,93.0,LOS ANGELES LAKERS,78.0
-MILWAUKEE BUCKS,290,40,95,2,18,19,26,16,33,18,12,1,15,28,away,loss,101.0,NEW ORLEANS/OKLAHOMA CITY HORNETS,109.0
-NEW ORLEANS/OKLAHOMA CITY HORNETS,290,39,105,5,20,26,35,31,40,22,8,6,22,22,home,win,109.0,MILWAUKEE BUCKS,101.0
-CHICAGO BULLS,240,34,102,4,18,5,11,21,35,16,8,4,16,28,away,loss,77.0,SACRAMENTO KINGS,86.0
-SACRAMENTO KINGS,240,31,72,6,19,18,26,4,40,18,5,4,19,16,home,win,86.0,CHICAGO BULLS,77.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,28,74,6,20,16,25,17,28,19,4,4,17,19,2007-02-08,away,loss,78.0,DETROIT PISTONS,93.0,0.27450980392156865,0.23076923076923078,45
+DETROIT PISTONS,240,35,78,6,17,17,26,13,31,28,12,6,7,20,2007-02-08,home,win,93.0,LOS ANGELES LAKERS,78.0,0.30973451327433627,0.2608695652173913,44
+MILWAUKEE BUCKS,290,40,95,2,18,19,26,16,33,18,12,1,15,28,2007-02-08,away,loss,101.0,NEW ORLEANS/OKLAHOMA CITY HORNETS,109.0,0.2962962962962963,0.1,49
+NEW ORLEANS/OKLAHOMA CITY HORNETS,290,39,105,5,20,26,35,31,40,22,8,6,22,22,2007-02-08,home,win,109.0,MILWAUKEE BUCKS,101.0,0.2708333333333333,0.2,71
+CHICAGO BULLS,240,34,102,4,18,5,11,21,35,16,8,4,16,28,2007-02-08,away,loss,77.0,SACRAMENTO KINGS,86.0,0.25,0.18181818181818182,56
+SACRAMENTO KINGS,240,31,72,6,19,18,26,4,40,18,5,4,19,16,2007-02-08,home,win,86.0,CHICAGO BULLS,77.0,0.30097087378640774,0.24,44

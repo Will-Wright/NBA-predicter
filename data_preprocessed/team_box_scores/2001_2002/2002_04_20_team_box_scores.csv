@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,30,67,1,6,18,24,3,29,19,7,4,10,21,away,loss,79.0,CHARLOTTE HORNETS,80.0
-CHARLOTTE HORNETS,240,29,83,5,10,17,23,20,31,18,6,9,13,21,home,win,80.0,ORLANDO MAGIC,79.0
-INDIANA PACERS,240,35,77,4,9,15,20,9,32,16,9,2,16,19,away,win,89.0,NEW JERSEY NETS,83.0
-NEW JERSEY NETS,240,35,79,2,11,11,17,12,27,12,7,8,15,22,home,loss,83.0,INDIANA PACERS,89.0
-UTAH JAZZ,240,33,83,1,9,19,27,17,28,24,9,2,14,26,away,loss,86.0,SACRAMENTO KINGS,89.0
-SACRAMENTO KINGS,240,29,64,6,19,25,31,7,31,20,4,6,17,21,home,win,89.0,UTAH JAZZ,86.0
-SEATTLE SUPERSONICS,240,38,75,2,8,11,14,8,21,14,4,4,12,20,away,loss,89.0,SAN ANTONIO SPURS,110.0
-SAN ANTONIO SPURS,240,43,73,9,15,15,20,8,28,28,7,9,10,18,home,win,110.0,SEATTLE SUPERSONICS,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,30,67,1,6,18,24,3,29,19,7,4,10,21,2002-04-20,away,loss,79.0,CHARLOTTE HORNETS,80.0,0.30927835051546393,0.14285714285714285,32
+CHARLOTTE HORNETS,240,29,83,5,10,17,23,20,31,18,6,9,13,21,2002-04-20,home,win,80.0,ORLANDO MAGIC,79.0,0.25892857142857145,0.3333333333333333,51
+INDIANA PACERS,240,35,77,4,9,15,20,9,32,16,9,2,16,19,2002-04-20,away,win,89.0,NEW JERSEY NETS,83.0,0.3125,0.3076923076923077,41
+NEW JERSEY NETS,240,35,79,2,11,11,17,12,27,12,7,8,15,22,2002-04-20,home,loss,83.0,INDIANA PACERS,89.0,0.30701754385964913,0.15384615384615385,39
+UTAH JAZZ,240,33,83,1,9,19,27,17,28,24,9,2,14,26,2002-04-20,away,loss,86.0,SACRAMENTO KINGS,89.0,0.28448275862068967,0.1,45
+SACRAMENTO KINGS,240,29,64,6,19,25,31,7,31,20,4,6,17,21,2002-04-20,home,win,89.0,UTAH JAZZ,86.0,0.3118279569892473,0.24,38
+SEATTLE SUPERSONICS,240,38,75,2,8,11,14,8,21,14,4,4,12,20,2002-04-20,away,loss,89.0,SAN ANTONIO SPURS,110.0,0.336283185840708,0.2,29
+SAN ANTONIO SPURS,240,43,73,9,15,15,20,8,28,28,7,9,10,18,2002-04-20,home,win,110.0,SEATTLE SUPERSONICS,89.0,0.3706896551724138,0.375,36

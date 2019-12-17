@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,36,82,7,25,11,17,11,29,20,10,2,12,21,away,loss,90.0,PORTLAND TRAIL BLAZERS,105.0
-PORTLAND TRAIL BLAZERS,240,40,78,10,28,15,21,9,35,24,8,6,14,16,home,win,105.0,NEW YORK KNICKS,90.0
-DALLAS MAVERICKS,240,37,83,8,19,9,10,6,29,21,10,10,11,23,away,loss,91.0,SAN ANTONIO SPURS,92.0
-SAN ANTONIO SPURS,240,37,84,5,13,13,17,11,38,31,7,4,15,10,home,win,92.0,DALLAS MAVERICKS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,36,82,7,25,11,17,11,29,20,10,2,12,21,2013-03-14,away,loss,90.0,PORTLAND TRAIL BLAZERS,105.0,0.3050847457627119,0.21875,40
+PORTLAND TRAIL BLAZERS,240,40,78,10,28,15,21,9,35,24,8,6,14,16,2013-03-14,home,win,105.0,NEW YORK KNICKS,90.0,0.3389830508474576,0.2631578947368421,44
+DALLAS MAVERICKS,240,37,83,8,19,9,10,6,29,21,10,10,11,23,2013-03-14,away,loss,91.0,SAN ANTONIO SPURS,92.0,0.30833333333333335,0.2962962962962963,35
+SAN ANTONIO SPURS,240,37,84,5,13,13,17,11,38,31,7,4,15,10,2013-03-14,home,win,92.0,DALLAS MAVERICKS,91.0,0.30578512396694213,0.2777777777777778,49

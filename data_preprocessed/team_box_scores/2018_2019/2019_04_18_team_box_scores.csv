@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,45,94,11,27,30,35,15,39,26,9,5,16,29,away,win,131.0,BROOKLYN NETS,115.0
-BROOKLYN NETS,240,39,96,8,39,29,35,13,30,12,6,2,15,24,home,loss,115.0,PHILADELPHIA 76ERS,131.0
-GOLDEN STATE WARRIORS,240,51,93,15,35,15,18,10,40,35,4,11,12,28,away,win,132.0,LOS ANGELES CLIPPERS,105.0
-LOS ANGELES CLIPPERS,240,35,94,7,32,28,34,16,27,21,6,2,12,25,home,loss,105.0,GOLDEN STATE WARRIORS,132.0
-DENVER NUGGETS,240,42,81,15,29,9,17,10,27,31,3,1,13,21,away,loss,108.0,SAN ANTONIO SPURS,118.0
-SAN ANTONIO SPURS,240,44,89,7,18,23,32,15,30,24,9,2,6,20,home,win,118.0,DENVER NUGGETS,108.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,45,94,11,27,30,35,15,39,26,9,5,16,29,2019-04-18,away,win,131.0,BROOKLYN NETS,115.0,0.3237410071942446,0.2894736842105263,54
+BROOKLYN NETS,240,39,96,8,39,29,35,13,30,12,6,2,15,24,2019-04-18,home,loss,115.0,PHILADELPHIA 76ERS,131.0,0.28888888888888886,0.1702127659574468,43
+GOLDEN STATE WARRIORS,240,51,93,15,35,15,18,10,40,35,4,11,12,28,2019-04-18,away,win,132.0,LOS ANGELES CLIPPERS,105.0,0.3541666666666667,0.3,50
+LOS ANGELES CLIPPERS,240,35,94,7,32,28,34,16,27,21,6,2,12,25,2019-04-18,home,loss,105.0,GOLDEN STATE WARRIORS,132.0,0.2713178294573643,0.1794871794871795,43
+DENVER NUGGETS,240,42,81,15,29,9,17,10,27,31,3,1,13,21,2019-04-18,away,loss,108.0,SAN ANTONIO SPURS,118.0,0.34146341463414637,0.3409090909090909,37
+SAN ANTONIO SPURS,240,44,89,7,18,23,32,15,30,24,9,2,6,20,2019-04-18,home,win,118.0,DENVER NUGGETS,108.0,0.3308270676691729,0.28,45

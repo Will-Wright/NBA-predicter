@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,33,72,4,18,22,27,5,33,20,6,6,16,15,away,loss,92.0,PHOENIX SUNS,116.0
-PHOENIX SUNS,240,46,96,12,29,12,16,17,31,30,10,6,10,20,home,win,116.0,NEW JERSEY NETS,92.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,33,72,4,18,22,27,5,33,20,6,6,16,15,2008-01-20,away,loss,92.0,PHOENIX SUNS,116.0,0.3142857142857143,0.18181818181818182,38
+PHOENIX SUNS,240,46,96,12,29,12,16,17,31,30,10,6,10,20,2008-01-20,home,win,116.0,NEW JERSEY NETS,92.0,0.323943661971831,0.2926829268292683,48

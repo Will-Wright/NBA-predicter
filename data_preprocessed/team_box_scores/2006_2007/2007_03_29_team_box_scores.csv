@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,31,75,6,20,13,18,11,26,19,5,7,12,23,away,loss,81.0,CHICAGO BULLS,83.0
-CHICAGO BULLS,240,30,84,3,11,20,28,22,29,19,7,4,10,14,home,win,83.0,DETROIT PISTONS,81.0
-PHOENIX SUNS,240,45,87,9,22,20,29,9,32,32,10,4,14,18,away,loss,119.0,GOLDEN STATE WARRIORS,124.0
-GOLDEN STATE WARRIORS,240,51,98,13,31,9,14,11,33,29,8,4,14,23,home,win,124.0,PHOENIX SUNS,119.0
-MEMPHIS GRIZZLIES,240,29,73,3,7,35,36,10,34,15,9,6,14,23,away,win,96.0,PORTLAND TRAIL BLAZERS,92.0
-PORTLAND TRAIL BLAZERS,240,36,82,0,11,20,29,11,28,25,5,6,11,26,home,loss,92.0,MEMPHIS GRIZZLIES,96.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,31,75,6,20,13,18,11,26,19,5,7,12,23,2007-03-29,away,loss,81.0,CHICAGO BULLS,83.0,0.29245283018867924,0.23076923076923078,37
+CHICAGO BULLS,240,30,84,3,11,20,28,22,29,19,7,4,10,14,2007-03-29,home,win,83.0,DETROIT PISTONS,81.0,0.2631578947368421,0.21428571428571427,51
+PHOENIX SUNS,240,45,87,9,22,20,29,9,32,32,10,4,14,18,2007-03-29,away,loss,119.0,GOLDEN STATE WARRIORS,124.0,0.3409090909090909,0.2903225806451613,41
+GOLDEN STATE WARRIORS,240,51,98,13,31,9,14,11,33,29,8,4,14,23,2007-03-29,home,win,124.0,PHOENIX SUNS,119.0,0.3422818791946309,0.29545454545454547,44
+MEMPHIS GRIZZLIES,240,29,73,3,7,35,36,10,34,15,9,6,14,23,2007-03-29,away,win,96.0,PORTLAND TRAIL BLAZERS,92.0,0.28431372549019607,0.3,44
+PORTLAND TRAIL BLAZERS,240,36,82,0,11,20,29,11,28,25,5,6,11,26,2007-03-29,home,loss,92.0,MEMPHIS GRIZZLIES,96.0,0.3050847457627119,0.0,39

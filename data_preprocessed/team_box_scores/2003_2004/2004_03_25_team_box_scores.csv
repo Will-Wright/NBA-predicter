@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW ORLEANS HORNETS,240,29,81,4,24,14,17,13,25,19,7,6,6,12,away,loss,76.0,ATLANTA HAWKS,84.0
-ATLANTA HAWKS,240,35,76,4,11,10,12,12,32,19,5,6,10,18,home,win,84.0,NEW ORLEANS HORNETS,76.0
-WASHINGTON WIZARDS,240,35,82,11,26,22,30,13,34,24,8,8,11,29,away,win,103.0,LOS ANGELES CLIPPERS,94.0
-LOS ANGELES CLIPPERS,240,31,82,4,13,28,36,15,31,17,6,4,10,21,home,loss,94.0,WASHINGTON WIZARDS,103.0
-DETROIT PISTONS,240,33,73,3,10,6,13,7,24,24,11,4,16,23,away,loss,75.0,SAN ANTONIO SPURS,84.0
-SAN ANTONIO SPURS,240,29,74,4,15,22,29,14,29,18,7,7,15,15,home,win,84.0,DETROIT PISTONS,75.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW ORLEANS HORNETS,240,29,81,4,24,14,17,13,25,19,7,6,6,12,2004-03-25,away,loss,76.0,ATLANTA HAWKS,84.0,0.2636363636363636,0.14285714285714285,38
+ATLANTA HAWKS,240,35,76,4,11,10,12,12,32,19,5,6,10,18,2004-03-25,home,win,84.0,NEW ORLEANS HORNETS,76.0,0.3153153153153153,0.26666666666666666,44
+WASHINGTON WIZARDS,240,35,82,11,26,22,30,13,34,24,8,8,11,29,2004-03-25,away,win,103.0,LOS ANGELES CLIPPERS,94.0,0.29914529914529914,0.2972972972972973,47
+LOS ANGELES CLIPPERS,240,31,82,4,13,28,36,15,31,17,6,4,10,21,2004-03-25,home,loss,94.0,WASHINGTON WIZARDS,103.0,0.2743362831858407,0.23529411764705882,46
+DETROIT PISTONS,240,33,73,3,10,6,13,7,24,24,11,4,16,23,2004-03-25,away,loss,75.0,SAN ANTONIO SPURS,84.0,0.3113207547169811,0.23076923076923078,31
+SAN ANTONIO SPURS,240,29,74,4,15,22,29,14,29,18,7,7,15,15,2004-03-25,home,win,84.0,DETROIT PISTONS,75.0,0.2815533980582524,0.21052631578947367,43

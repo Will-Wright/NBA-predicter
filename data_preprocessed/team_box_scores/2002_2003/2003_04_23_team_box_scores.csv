@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PORTLAND TRAIL BLAZERS,240,33,70,7,16,26,37,12,26,15,9,2,13,20,away,loss,99.0,DALLAS MAVERICKS,103.0
-DALLAS MAVERICKS,240,38,78,12,25,15,18,10,28,20,8,0,14,25,home,win,103.0,PORTLAND TRAIL BLAZERS,99.0
-ORLANDO MAGIC,240,27,68,4,17,19,21,5,25,15,7,1,15,29,away,loss,77.0,DETROIT PISTONS,89.0
-DETROIT PISTONS,240,31,73,4,14,23,32,12,35,20,7,8,16,24,home,win,89.0,ORLANDO MAGIC,77.0
-NEW ORLEANS HORNETS,240,33,70,4,14,15,19,6,25,20,6,2,13,26,away,loss,85.0,PHILADELPHIA 76ERS,90.0
-PHILADELPHIA 76ERS,240,33,74,2,6,22,30,14,26,17,10,3,13,23,home,win,90.0,NEW ORLEANS HORNETS,85.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PORTLAND TRAIL BLAZERS,240,33,70,7,16,26,37,12,26,15,9,2,13,20,2003-04-23,away,loss,99.0,DALLAS MAVERICKS,103.0,0.32038834951456313,0.30434782608695654,38
+DALLAS MAVERICKS,240,38,78,12,25,15,18,10,28,20,8,0,14,25,2003-04-23,home,win,103.0,PORTLAND TRAIL BLAZERS,99.0,0.3275862068965517,0.32432432432432434,38
+ORLANDO MAGIC,240,27,68,4,17,19,21,5,25,15,7,1,15,29,2003-04-23,away,loss,77.0,DETROIT PISTONS,89.0,0.28421052631578947,0.19047619047619047,30
+DETROIT PISTONS,240,31,73,4,14,23,32,12,35,20,7,8,16,24,2003-04-23,home,win,89.0,ORLANDO MAGIC,77.0,0.2980769230769231,0.2222222222222222,47
+NEW ORLEANS HORNETS,240,33,70,4,14,15,19,6,25,20,6,2,13,26,2003-04-23,away,loss,85.0,PHILADELPHIA 76ERS,90.0,0.32038834951456313,0.2222222222222222,31
+PHILADELPHIA 76ERS,240,33,74,2,6,22,30,14,26,17,10,3,13,23,2003-04-23,home,win,90.0,NEW ORLEANS HORNETS,85.0,0.308411214953271,0.25,40

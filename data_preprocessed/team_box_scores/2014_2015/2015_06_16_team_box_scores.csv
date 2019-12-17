@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,37,85,13,34,18,29,7,32,28,11,4,9,27,away,win,105.0,CLEVELAND CAVALIERS,97.0
-CLEVELAND CAVALIERS,240,32,82,6,26,27,39,16,40,14,3,7,16,26,home,loss,97.0,GOLDEN STATE WARRIORS,105.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,37,85,13,34,18,29,7,32,28,11,4,9,27,2015-06-16,away,win,105.0,CLEVELAND CAVALIERS,97.0,0.30327868852459017,0.2765957446808511,39
+CLEVELAND CAVALIERS,240,32,82,6,26,27,39,16,40,14,3,7,16,26,2015-06-16,home,loss,97.0,GOLDEN STATE WARRIORS,105.0,0.2807017543859649,0.1875,56

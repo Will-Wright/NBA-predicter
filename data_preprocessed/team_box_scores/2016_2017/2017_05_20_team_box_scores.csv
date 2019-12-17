@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,46,84,11,27,17,22,9,33,23,12,6,21,23,away,win,120.0,SAN ANTONIO SPURS,108.0
-SAN ANTONIO SPURS,240,44,93,5,21,15,25,15,31,22,10,3,15,21,home,loss,108.0,GOLDEN STATE WARRIORS,120.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,46,84,11,27,17,22,9,33,23,12,6,21,23,2017-05-20,away,win,120.0,SAN ANTONIO SPURS,108.0,0.35384615384615387,0.2894736842105263,42
+SAN ANTONIO SPURS,240,44,93,5,21,15,25,15,31,22,10,3,15,21,2017-05-20,home,loss,108.0,GOLDEN STATE WARRIORS,120.0,0.32116788321167883,0.19230769230769232,46

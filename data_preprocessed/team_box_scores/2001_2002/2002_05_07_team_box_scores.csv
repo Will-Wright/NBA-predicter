@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,34,74,5,14,15,22,13,28,24,7,5,16,15,away,win,88.0,LOS ANGELES LAKERS,85.0
-LOS ANGELES LAKERS,240,34,75,7,14,10,16,7,29,18,10,3,16,24,home,loss,85.0,SAN ANTONIO SPURS,88.0
-CHARLOTTE HORNETS,240,34,82,5,13,15,26,17,27,14,5,9,14,27,away,loss,88.0,NEW JERSEY NETS,102.0
-NEW JERSEY NETS,240,41,91,4,11,16,20,14,28,27,5,9,10,27,home,win,102.0,CHARLOTTE HORNETS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,34,74,5,14,15,22,13,28,24,7,5,16,15,2002-05-07,away,win,88.0,LOS ANGELES LAKERS,85.0,0.3148148148148148,0.2631578947368421,41
+LOS ANGELES LAKERS,240,34,75,7,14,10,16,7,29,18,10,3,16,24,2002-05-07,home,loss,85.0,SAN ANTONIO SPURS,88.0,0.3119266055045872,0.3333333333333333,36
+CHARLOTTE HORNETS,240,34,82,5,13,15,26,17,27,14,5,9,14,27,2002-05-07,away,loss,88.0,NEW JERSEY NETS,102.0,0.29310344827586204,0.2777777777777778,44
+NEW JERSEY NETS,240,41,91,4,11,16,20,14,28,27,5,9,10,27,2002-05-07,home,win,102.0,CHARLOTTE HORNETS,88.0,0.3106060606060606,0.26666666666666666,42

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,40,89,11,27,13,19,9,30,21,10,2,19,11,away,win,104.0,GOLDEN STATE WARRIORS,102.0
-GOLDEN STATE WARRIORS,240,42,90,8,31,10,11,13,34,26,14,4,24,21,home,loss,102.0,SAN ANTONIO SPURS,104.0
-CHICAGO BULLS,240,29,77,8,29,29,39,11,29,20,8,6,16,16,away,loss,95.0,OKLAHOMA CITY THUNDER,107.0
-OKLAHOMA CITY THUNDER,240,43,84,9,15,12,14,8,35,26,12,7,16,27,home,win,107.0,CHICAGO BULLS,95.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,40,89,11,27,13,19,9,30,21,10,2,19,11,2013-12-19,away,win,104.0,GOLDEN STATE WARRIORS,102.0,0.31007751937984496,0.2894736842105263,39
+GOLDEN STATE WARRIORS,240,42,90,8,31,10,11,13,34,26,14,4,24,21,2013-12-19,home,loss,102.0,SAN ANTONIO SPURS,104.0,0.3181818181818182,0.20512820512820512,47
+CHICAGO BULLS,240,29,77,8,29,29,39,11,29,20,8,6,16,16,2013-12-19,away,loss,95.0,OKLAHOMA CITY THUNDER,107.0,0.27358490566037735,0.21621621621621623,40
+OKLAHOMA CITY THUNDER,240,43,84,9,15,12,14,8,35,26,12,7,16,27,2013-12-19,home,win,107.0,CHICAGO BULLS,95.0,0.33858267716535434,0.375,43

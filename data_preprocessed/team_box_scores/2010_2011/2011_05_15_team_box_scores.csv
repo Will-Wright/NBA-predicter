@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,32,68,3,8,15,15,6,27,11,7,6,16,15,away,loss,82.0,CHICAGO BULLS,103.0
-CHICAGO BULLS,240,38,87,10,21,17,20,19,26,23,11,5,9,13,home,win,103.0,MIAMI HEAT,82.0
-MEMPHIS GRIZZLIES,240,35,88,5,15,15,19,16,23,13,6,5,10,20,away,loss,90.0,OKLAHOMA CITY THUNDER,105.0
-OKLAHOMA CITY THUNDER,240,37,77,11,28,20,23,14,30,25,7,11,13,19,home,win,105.0,MEMPHIS GRIZZLIES,90.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,32,68,3,8,15,15,6,27,11,7,6,16,15,2011-05-15,away,loss,82.0,CHICAGO BULLS,103.0,0.32,0.2727272727272727,33
+CHICAGO BULLS,240,38,87,10,21,17,20,19,26,23,11,5,9,13,2011-05-15,home,win,103.0,MIAMI HEAT,82.0,0.304,0.3225806451612903,45
+MEMPHIS GRIZZLIES,240,35,88,5,15,15,19,16,23,13,6,5,10,20,2011-05-15,away,loss,90.0,OKLAHOMA CITY THUNDER,105.0,0.2845528455284553,0.25,39
+OKLAHOMA CITY THUNDER,240,37,77,11,28,20,23,14,30,25,7,11,13,19,2011-05-15,home,win,105.0,MEMPHIS GRIZZLIES,90.0,0.32456140350877194,0.28205128205128205,44

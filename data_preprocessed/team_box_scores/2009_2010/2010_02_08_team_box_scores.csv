@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,37,71,12,22,41,46,6,33,33,8,1,16,19,away,win,127.0,GOLDEN STATE WARRIORS,117.0
-GOLDEN STATE WARRIORS,240,42,85,8,20,25,29,11,29,28,7,3,15,25,home,loss,117.0,DALLAS MAVERICKS,127.0
-SAN ANTONIO SPURS,240,35,82,4,12,15,18,10,32,17,4,6,13,24,away,loss,89.0,LOS ANGELES LAKERS,101.0
-LOS ANGELES LAKERS,240,38,87,6,14,19,26,12,33,20,4,7,9,13,home,win,101.0,SAN ANTONIO SPURS,89.0
-NEW ORLEANS HORNETS,240,46,89,9,18,16,19,7,26,21,8,1,10,21,away,loss,117.0,ORLANDO MAGIC,123.0
-ORLANDO MAGIC,240,45,83,12,26,21,28,6,35,21,6,5,14,18,home,win,123.0,NEW ORLEANS HORNETS,117.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,37,71,12,22,41,46,6,33,33,8,1,16,19,2010-02-08,away,win,127.0,GOLDEN STATE WARRIORS,117.0,0.3425925925925926,0.35294117647058826,39
+GOLDEN STATE WARRIORS,240,42,85,8,20,25,29,11,29,28,7,3,15,25,2010-02-08,home,loss,117.0,DALLAS MAVERICKS,127.0,0.33070866141732286,0.2857142857142857,40
+SAN ANTONIO SPURS,240,35,82,4,12,15,18,10,32,17,4,6,13,24,2010-02-08,away,loss,89.0,LOS ANGELES LAKERS,101.0,0.29914529914529914,0.25,42
+LOS ANGELES LAKERS,240,38,87,6,14,19,26,12,33,20,4,7,9,13,2010-02-08,home,win,101.0,SAN ANTONIO SPURS,89.0,0.304,0.3,45
+NEW ORLEANS HORNETS,240,46,89,9,18,16,19,7,26,21,8,1,10,21,2010-02-08,away,loss,117.0,ORLANDO MAGIC,123.0,0.34074074074074073,0.3333333333333333,33
+ORLANDO MAGIC,240,45,83,12,26,21,28,6,35,21,6,5,14,18,2010-02-08,home,win,123.0,NEW ORLEANS HORNETS,117.0,0.3515625,0.3157894736842105,41

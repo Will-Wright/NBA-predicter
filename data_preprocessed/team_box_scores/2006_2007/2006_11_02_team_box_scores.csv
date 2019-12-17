@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,34,69,4,11,25,37,7,32,20,6,5,12,16,away,win,97.0,DALLAS MAVERICKS,91.0
-DALLAS MAVERICKS,240,38,88,5,16,10,16,13,26,15,5,7,11,28,home,loss,91.0,SAN ANTONIO SPURS,97.0
-DENVER NUGGETS,240,34,88,4,23,23,30,13,43,24,9,6,19,27,away,loss,95.0,LOS ANGELES CLIPPERS,96.0
-LOS ANGELES CLIPPERS,240,35,82,7,19,19,26,5,33,20,5,6,18,26,home,win,96.0,DENVER NUGGETS,95.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,34,69,4,11,25,37,7,32,20,6,5,12,16,2006-11-02,away,win,97.0,DALLAS MAVERICKS,91.0,0.3300970873786408,0.26666666666666666,39
+DALLAS MAVERICKS,240,38,88,5,16,10,16,13,26,15,5,7,11,28,2006-11-02,home,loss,91.0,SAN ANTONIO SPURS,97.0,0.30158730158730157,0.23809523809523808,39
+DENVER NUGGETS,240,34,88,4,23,23,30,13,43,24,9,6,19,27,2006-11-02,away,loss,95.0,LOS ANGELES CLIPPERS,96.0,0.2786885245901639,0.14814814814814814,56
+LOS ANGELES CLIPPERS,240,35,82,7,19,19,26,5,33,20,5,6,18,26,2006-11-02,home,win,96.0,DENVER NUGGETS,95.0,0.29914529914529914,0.2692307692307692,38

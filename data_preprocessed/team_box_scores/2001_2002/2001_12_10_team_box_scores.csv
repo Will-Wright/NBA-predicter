@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,35,87,5,17,17,21,14,28,17,5,5,9,22,away,loss,92.0,LOS ANGELES CLIPPERS,100.0
-LOS ANGELES CLIPPERS,240,36,76,6,16,22,24,8,31,23,5,6,10,20,home,win,100.0,ORLANDO MAGIC,92.0
-DALLAS MAVERICKS,240,35,75,7,23,21,24,8,29,20,4,3,14,33,away,loss,98.0,UTAH JAZZ,107.0
-UTAH JAZZ,240,34,78,4,13,35,42,14,27,25,9,5,8,22,home,win,107.0,DALLAS MAVERICKS,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,35,87,5,17,17,21,14,28,17,5,5,9,22,2001-12-10,away,loss,92.0,LOS ANGELES CLIPPERS,100.0,0.28688524590163933,0.22727272727272727,42
+LOS ANGELES CLIPPERS,240,36,76,6,16,22,24,8,31,23,5,6,10,20,2001-12-10,home,win,100.0,ORLANDO MAGIC,92.0,0.32142857142857145,0.2727272727272727,39
+DALLAS MAVERICKS,240,35,75,7,23,21,24,8,29,20,4,3,14,33,2001-12-10,away,loss,98.0,UTAH JAZZ,107.0,0.3181818181818182,0.23333333333333334,37
+UTAH JAZZ,240,34,78,4,13,35,42,14,27,25,9,5,8,22,2001-12-10,home,win,107.0,DALLAS MAVERICKS,98.0,0.30357142857142855,0.23529411764705882,41

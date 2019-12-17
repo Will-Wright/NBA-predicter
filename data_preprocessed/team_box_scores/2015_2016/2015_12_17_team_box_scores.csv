@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-TORONTO RAPTORS,265,35,97,9,39,20,28,9,37,18,7,10,8,22,away,loss,99.0,CHARLOTTE HORNETS,109.0
-CHARLOTTE HORNETS,265,37,85,10,29,25,31,6,45,23,5,9,13,23,home,win,109.0,TORONTO RAPTORS,99.0
-OKLAHOMA CITY THUNDER,240,35,74,6,20,24,28,9,27,23,7,7,12,20,away,loss,100.0,CLEVELAND CAVALIERS,104.0
-CLEVELAND CAVALIERS,240,41,88,12,29,10,13,16,26,29,6,1,16,22,home,win,104.0,OKLAHOMA CITY THUNDER,100.0
-HOUSTON ROCKETS,240,34,88,12,31,27,42,23,31,22,9,8,13,17,away,win,107.0,LOS ANGELES LAKERS,87.0
-LOS ANGELES LAKERS,240,36,84,5,24,10,18,13,33,22,5,5,14,27,home,loss,87.0,HOUSTON ROCKETS,107.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+TORONTO RAPTORS,265,35,97,9,39,20,28,9,37,18,7,10,8,22,2015-12-17,away,loss,99.0,CHARLOTTE HORNETS,109.0,0.26515151515151514,0.1875,46
+CHARLOTTE HORNETS,265,37,85,10,29,25,31,6,45,23,5,9,13,23,2015-12-17,home,win,109.0,TORONTO RAPTORS,99.0,0.30327868852459017,0.2564102564102564,51
+OKLAHOMA CITY THUNDER,240,35,74,6,20,24,28,9,27,23,7,7,12,20,2015-12-17,away,loss,100.0,CLEVELAND CAVALIERS,104.0,0.3211009174311927,0.23076923076923078,36
+CLEVELAND CAVALIERS,240,41,88,12,29,10,13,16,26,29,6,1,16,22,2015-12-17,home,win,104.0,OKLAHOMA CITY THUNDER,100.0,0.3178294573643411,0.2926829268292683,42
+HOUSTON ROCKETS,240,34,88,12,31,27,42,23,31,22,9,8,13,17,2015-12-17,away,win,107.0,LOS ANGELES LAKERS,87.0,0.2786885245901639,0.27906976744186046,54
+LOS ANGELES LAKERS,240,36,84,5,24,10,18,13,33,22,5,5,14,27,2015-12-17,home,loss,87.0,HOUSTON ROCKETS,107.0,0.3,0.1724137931034483,46

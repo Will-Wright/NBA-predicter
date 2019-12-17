@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MINNESOTA TIMBERWOLVES,240,37,72,5,14,23,31,7,29,19,5,5,15,22,away,loss,102.0,INDIANA PACERS,106.0
-INDIANA PACERS,240,37,73,13,25,19,27,7,27,26,9,2,17,19,home,win,106.0,MINNESOTA TIMBERWOLVES,102.0
-NEW JERSEY NETS,240,33,76,2,11,20,28,13,20,14,9,2,13,29,away,loss,88.0,LOS ANGELES CLIPPERS,101.0
-LOS ANGELES CLIPPERS,240,33,62,4,10,31,38,5,30,23,7,5,17,26,home,win,101.0,NEW JERSEY NETS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MINNESOTA TIMBERWOLVES,240,37,72,5,14,23,31,7,29,19,5,5,15,22,2004-11-25,away,loss,102.0,INDIANA PACERS,106.0,0.3394495412844037,0.2631578947368421,36
+INDIANA PACERS,240,37,73,13,25,19,27,7,27,26,9,2,17,19,2004-11-25,home,win,106.0,MINNESOTA TIMBERWOLVES,102.0,0.33636363636363636,0.34210526315789475,34
+NEW JERSEY NETS,240,33,76,2,11,20,28,13,20,14,9,2,13,29,2004-11-25,away,loss,88.0,LOS ANGELES CLIPPERS,101.0,0.30275229357798167,0.15384615384615385,33
+LOS ANGELES CLIPPERS,240,33,62,4,10,31,38,5,30,23,7,5,17,26,2004-11-25,home,win,101.0,NEW JERSEY NETS,88.0,0.3473684210526316,0.2857142857142857,35

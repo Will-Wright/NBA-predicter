@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,39,83,16,35,18,26,11,27,23,8,1,15,28,away,loss,112.0,DALLAS MAVERICKS,118.0
-DALLAS MAVERICKS,240,40,79,10,21,28,36,11,33,22,7,2,14,23,home,win,118.0,GOLDEN STATE WARRIORS,112.0
-NEW JERSEY NETS,240,32,72,9,26,23,29,9,27,21,5,3,12,26,away,loss,96.0,TORONTO RAPTORS,98.0
-TORONTO RAPTORS,240,34,69,5,12,25,29,5,31,12,3,6,10,25,home,win,98.0,NEW JERSEY NETS,96.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,39,83,16,35,18,26,11,27,23,8,1,15,28,2007-05-01,away,loss,112.0,DALLAS MAVERICKS,118.0,0.319672131147541,0.3137254901960784,38
+DALLAS MAVERICKS,240,40,79,10,21,28,36,11,33,22,7,2,14,23,2007-05-01,home,win,118.0,GOLDEN STATE WARRIORS,112.0,0.33613445378151263,0.3225806451612903,44
+NEW JERSEY NETS,240,32,72,9,26,23,29,9,27,21,5,3,12,26,2007-05-01,away,loss,96.0,TORONTO RAPTORS,98.0,0.3076923076923077,0.2571428571428571,36
+TORONTO RAPTORS,240,34,69,5,12,25,29,5,31,12,3,6,10,25,2007-05-01,home,win,98.0,NEW JERSEY NETS,96.0,0.3300970873786408,0.29411764705882354,36

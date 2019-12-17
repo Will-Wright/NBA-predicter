@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,36,75,6,17,17,21,11,30,18,8,2,18,20,away,win,95.0,MIAMI HEAT,93.0
-MIAMI HEAT,240,34,73,9,30,16,24,6,24,13,15,6,12,17,home,loss,93.0,DALLAS MAVERICKS,95.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,36,75,6,17,17,21,11,30,18,8,2,18,20,2011-06-02,away,win,95.0,MIAMI HEAT,93.0,0.32432432432432434,0.2608695652173913,41
+MIAMI HEAT,240,34,73,9,30,16,24,6,24,13,15,6,12,17,2011-06-02,home,loss,93.0,DALLAS MAVERICKS,95.0,0.3177570093457944,0.23076923076923078,30

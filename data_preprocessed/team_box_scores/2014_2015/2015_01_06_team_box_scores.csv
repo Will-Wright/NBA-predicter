@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,37,81,7,25,21,27,12,34,19,7,6,19,16,away,win,102.0,MILWAUKEE BUCKS,96.0
-MILWAUKEE BUCKS,240,37,88,3,20,19,22,13,31,22,9,5,17,21,home,loss,96.0,PHOENIX SUNS,102.0
-DETROIT PISTONS,240,41,87,3,19,20,28,15,30,19,10,3,14,28,away,win,105.0,SAN ANTONIO SPURS,104.0
-SAN ANTONIO SPURS,240,36,79,9,21,23,34,13,28,24,6,6,17,21,home,loss,104.0,DETROIT PISTONS,105.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,37,81,7,25,21,27,12,34,19,7,6,19,16,2015-01-06,away,win,102.0,MILWAUKEE BUCKS,96.0,0.3135593220338983,0.21875,46
+MILWAUKEE BUCKS,240,37,88,3,20,19,22,13,31,22,9,5,17,21,2015-01-06,home,loss,96.0,PHOENIX SUNS,102.0,0.296,0.13043478260869565,44
+DETROIT PISTONS,240,41,87,3,19,20,28,15,30,19,10,3,14,28,2015-01-06,away,win,105.0,SAN ANTONIO SPURS,104.0,0.3203125,0.13636363636363635,45
+SAN ANTONIO SPURS,240,36,79,9,21,23,34,13,28,24,6,6,17,21,2015-01-06,home,loss,104.0,DETROIT PISTONS,105.0,0.3130434782608696,0.3,41

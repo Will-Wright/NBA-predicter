@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MILWAUKEE BUCKS,240,43,79,10,28,31,41,10,44,27,6,10,17,21,away,win,127.0,DETROIT PISTONS,104.0
-DETROIT PISTONS,240,41,100,13,34,9,12,10,26,26,8,1,10,31,home,loss,104.0,MILWAUKEE BUCKS,127.0
-HOUSTON ROCKETS,240,28,79,17,46,18,24,9,26,14,9,4,15,23,away,loss,91.0,UTAH JAZZ,107.0
-UTAH JAZZ,240,37,86,11,35,22,26,16,36,24,7,7,14,19,home,win,107.0,HOUSTON ROCKETS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MILWAUKEE BUCKS,240,43,79,10,28,31,41,10,44,27,6,10,17,21,2019-04-22,away,win,127.0,DETROIT PISTONS,104.0,0.3524590163934426,0.2631578947368421,54
+DETROIT PISTONS,240,41,100,13,34,9,12,10,26,26,8,1,10,31,2019-04-22,home,loss,104.0,MILWAUKEE BUCKS,127.0,0.2907801418439716,0.2765957446808511,36
+HOUSTON ROCKETS,240,28,79,17,46,18,24,9,26,14,9,4,15,23,2019-04-22,away,loss,91.0,UTAH JAZZ,107.0,0.2616822429906542,0.2698412698412698,35
+UTAH JAZZ,240,37,86,11,35,22,26,16,36,24,7,7,14,19,2019-04-22,home,win,107.0,HOUSTON ROCKETS,91.0,0.3008130081300813,0.2391304347826087,52

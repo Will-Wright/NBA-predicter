@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,32,78,10,21,20,29,11,32,21,4,7,15,21,away,win,94.0,BOSTON CELTICS,92.0
-BOSTON CELTICS,240,32,78,5,20,23,34,11,32,23,10,4,14,25,home,loss,92.0,NEW JERSEY NETS,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,32,78,10,21,20,29,11,32,21,4,7,15,21,2002-05-27,away,win,94.0,BOSTON CELTICS,92.0,0.2909090909090909,0.3225806451612903,43
+BOSTON CELTICS,240,32,78,5,20,23,34,11,32,23,10,4,14,25,2002-05-27,home,loss,92.0,NEW JERSEY NETS,94.0,0.2909090909090909,0.2,43

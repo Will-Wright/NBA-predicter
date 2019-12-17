@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,34,73,2,10,19,26,8,32,24,4,5,14,22,away,win,89.0,GOLDEN STATE WARRIORS,86.0
-GOLDEN STATE WARRIORS,240,32,74,4,11,18,27,10,30,17,6,3,15,24,home,loss,86.0,SAN ANTONIO SPURS,89.0
-CLEVELAND CAVALIERS,240,29,86,6,20,9,19,10,29,14,5,4,13,15,away,loss,73.0,MIAMI HEAT,101.0
-MIAMI HEAT,240,43,83,6,15,9,17,7,46,20,6,8,14,21,home,win,101.0,CLEVELAND CAVALIERS,73.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,34,73,2,10,19,26,8,32,24,4,5,14,22,2006-02-02,away,win,89.0,GOLDEN STATE WARRIORS,86.0,0.3177570093457944,0.16666666666666666,40
+GOLDEN STATE WARRIORS,240,32,74,4,11,18,27,10,30,17,6,3,15,24,2006-02-02,home,loss,86.0,SAN ANTONIO SPURS,89.0,0.3018867924528302,0.26666666666666666,40
+CLEVELAND CAVALIERS,240,29,86,6,20,9,19,10,29,14,5,4,13,15,2006-02-02,away,loss,73.0,MIAMI HEAT,101.0,0.25217391304347825,0.23076923076923078,39
+MIAMI HEAT,240,43,83,6,15,9,17,7,46,20,6,8,14,21,2006-02-02,home,win,101.0,CLEVELAND CAVALIERS,73.0,0.3412698412698413,0.2857142857142857,53

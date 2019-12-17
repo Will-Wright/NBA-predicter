@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,25,75,4,15,18,23,11,25,12,9,5,14,19,away,loss,72.0,CLEVELAND CAVALIERS,74.0
-CLEVELAND CAVALIERS,240,29,68,5,11,11,17,7,29,13,7,5,18,22,home,win,74.0,DETROIT PISTONS,72.0
-SAN ANTONIO SPURS,265,42,79,8,14,26,32,7,30,16,10,4,14,29,away,loss,118.0,DALLAS MAVERICKS,123.0
-DALLAS MAVERICKS,265,45,90,5,12,28,32,13,26,18,2,7,12,26,home,win,123.0,SAN ANTONIO SPURS,118.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,25,75,4,15,18,23,11,25,12,9,5,14,19,2006-05-15,away,loss,72.0,CLEVELAND CAVALIERS,74.0,0.25,0.21052631578947367,36
+CLEVELAND CAVALIERS,240,29,68,5,11,11,17,7,29,13,7,5,18,22,2006-05-15,home,win,74.0,DETROIT PISTONS,72.0,0.29896907216494845,0.3125,36
+SAN ANTONIO SPURS,265,42,79,8,14,26,32,7,30,16,10,4,14,29,2006-05-15,away,loss,118.0,DALLAS MAVERICKS,123.0,0.34710743801652894,0.36363636363636365,37
+DALLAS MAVERICKS,265,45,90,5,12,28,32,13,26,18,2,7,12,26,2006-05-15,home,win,123.0,SAN ANTONIO SPURS,118.0,0.3333333333333333,0.29411764705882354,39

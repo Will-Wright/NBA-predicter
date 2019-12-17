@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,28,67,6,16,14,19,5,24,19,9,2,20,20,away,loss,76.0,CLEVELAND CAVALIERS,94.0
-CLEVELAND CAVALIERS,240,38,73,4,12,14,23,9,33,20,12,1,16,20,home,win,94.0,NEW JERSEY NETS,76.0
-LOS ANGELES CLIPPERS,240,40,83,4,11,34,44,13,35,25,11,5,13,23,away,win,118.0,LOS ANGELES LAKERS,110.0
-LOS ANGELES LAKERS,240,40,84,8,20,22,29,8,33,26,8,3,12,29,home,loss,110.0,LOS ANGELES CLIPPERS,118.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,28,67,6,16,14,19,5,24,19,9,2,20,20,2007-04-12,away,loss,76.0,CLEVELAND CAVALIERS,94.0,0.29473684210526313,0.2727272727272727,29
+CLEVELAND CAVALIERS,240,38,73,4,12,14,23,9,33,20,12,1,16,20,2007-04-12,home,win,94.0,NEW JERSEY NETS,76.0,0.34234234234234234,0.25,42
+LOS ANGELES CLIPPERS,240,40,83,4,11,34,44,13,35,25,11,5,13,23,2007-04-12,away,win,118.0,LOS ANGELES LAKERS,110.0,0.3252032520325203,0.26666666666666666,48
+LOS ANGELES LAKERS,240,40,84,8,20,22,29,8,33,26,8,3,12,29,2007-04-12,home,loss,110.0,LOS ANGELES CLIPPERS,118.0,0.3225806451612903,0.2857142857142857,41

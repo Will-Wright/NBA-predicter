@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-OKLAHOMA CITY THUNDER,240,31,74,4,25,17,24,6,35,15,4,6,16,21,away,loss,83.0,MEMPHIS GRIZZLIES,95.0
-MEMPHIS GRIZZLIES,240,36,83,5,16,18,22,7,34,20,10,5,11,22,home,win,95.0,OKLAHOMA CITY THUNDER,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+OKLAHOMA CITY THUNDER,240,31,74,4,25,17,24,6,35,15,4,6,16,21,2011-05-13,away,loss,83.0,MEMPHIS GRIZZLIES,95.0,0.29523809523809524,0.13793103448275862,41
+MEMPHIS GRIZZLIES,240,36,83,5,16,18,22,7,34,20,10,5,11,22,2011-05-13,home,win,95.0,OKLAHOMA CITY THUNDER,83.0,0.3025210084033613,0.23809523809523808,41

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHARLOTTE HORNETS,240,33,95,8,41,15,19,12,25,22,12,4,9,11,away,loss,89.0,CLEVELAND CAVALIERS,113.0
-CLEVELAND CAVALIERS,240,45,85,13,24,10,12,14,46,23,5,3,19,20,home,win,113.0,CHARLOTTE HORNETS,89.0
-HOUSTON ROCKETS,240,39,71,13,37,18,26,6,26,23,7,6,14,20,away,win,109.0,DENVER NUGGETS,99.0
-DENVER NUGGETS,240,38,76,11,25,12,16,7,24,27,11,2,16,20,home,loss,99.0,HOUSTON ROCKETS,109.0
-ATLANTA HAWKS,240,40,89,12,32,11,15,10,32,25,9,2,14,18,away,loss,103.0,GOLDEN STATE WARRIORS,110.0
-GOLDEN STATE WARRIORS,240,39,91,12,27,20,21,13,35,28,8,6,13,20,home,win,110.0,ATLANTA HAWKS,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHARLOTTE HORNETS,240,33,95,8,41,15,19,12,25,22,12,4,9,11,2018-11-13,away,loss,89.0,CLEVELAND CAVALIERS,113.0,0.2578125,0.16326530612244897,37
+CLEVELAND CAVALIERS,240,45,85,13,24,10,12,14,46,23,5,3,19,20,2018-11-13,home,win,113.0,CHARLOTTE HORNETS,89.0,0.34615384615384615,0.35135135135135137,60
+HOUSTON ROCKETS,240,39,71,13,37,18,26,6,26,23,7,6,14,20,2018-11-13,away,win,109.0,DENVER NUGGETS,99.0,0.35454545454545455,0.26,32
+DENVER NUGGETS,240,38,76,11,25,12,16,7,24,27,11,2,16,20,2018-11-13,home,loss,99.0,HOUSTON ROCKETS,109.0,0.3333333333333333,0.3055555555555556,31
+ATLANTA HAWKS,240,40,89,12,32,11,15,10,32,25,9,2,14,18,2018-11-13,away,loss,103.0,GOLDEN STATE WARRIORS,110.0,0.31007751937984496,0.2727272727272727,42
+GOLDEN STATE WARRIORS,240,39,91,12,27,20,21,13,35,28,8,6,13,20,2018-11-13,home,win,110.0,ATLANTA HAWKS,103.0,0.3,0.3076923076923077,48

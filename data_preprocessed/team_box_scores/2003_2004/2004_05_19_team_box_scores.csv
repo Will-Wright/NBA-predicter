@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,32,81,8,19,8,17,11,33,23,9,1,13,20,away,loss,80.0,MINNESOTA TIMBERWOLVES,83.0
-MINNESOTA TIMBERWOLVES,240,30,71,3,10,20,27,9,41,17,10,8,18,20,home,win,83.0,SACRAMENTO KINGS,80.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,32,81,8,19,8,17,11,33,23,9,1,13,20,2004-05-19,away,loss,80.0,MINNESOTA TIMBERWOLVES,83.0,0.2831858407079646,0.2962962962962963,44
+MINNESOTA TIMBERWOLVES,240,30,71,3,10,20,27,9,41,17,10,8,18,20,2004-05-19,home,win,83.0,SACRAMENTO KINGS,80.0,0.297029702970297,0.23076923076923078,50

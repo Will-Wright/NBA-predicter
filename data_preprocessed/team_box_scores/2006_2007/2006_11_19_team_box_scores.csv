@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,27,80,7,18,11,19,16,26,17,10,6,17,26,away,loss,72.0,LOS ANGELES LAKERS,82.0
-LOS ANGELES LAKERS,240,28,70,6,16,20,29,12,39,14,5,6,22,24,home,win,82.0,CHICAGO BULLS,72.0
-SAN ANTONIO SPURS,240,38,86,8,23,24,28,13,27,22,4,2,9,24,away,win,108.0,SACRAMENTO KINGS,99.0
-SACRAMENTO KINGS,240,34,73,4,11,27,32,7,31,10,4,4,12,26,home,loss,99.0,SAN ANTONIO SPURS,108.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,27,80,7,18,11,19,16,26,17,10,6,17,26,2006-11-19,away,loss,72.0,LOS ANGELES LAKERS,82.0,0.2523364485981308,0.28,42
+LOS ANGELES LAKERS,240,28,70,6,16,20,29,12,39,14,5,6,22,24,2006-11-19,home,win,82.0,CHICAGO BULLS,72.0,0.2857142857142857,0.2727272727272727,51
+SAN ANTONIO SPURS,240,38,86,8,23,24,28,13,27,22,4,2,9,24,2006-11-19,away,win,108.0,SACRAMENTO KINGS,99.0,0.3064516129032258,0.25806451612903225,40
+SACRAMENTO KINGS,240,34,73,4,11,27,32,7,31,10,4,4,12,26,2006-11-19,home,loss,99.0,SAN ANTONIO SPURS,108.0,0.3177570093457944,0.26666666666666666,38

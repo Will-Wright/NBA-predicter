@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,30,79,6,19,15,19,12,23,14,3,4,13,16,away,loss,81.0,SEATTLE SUPERSONICS,85.0
-SEATTLE SUPERSONICS,240,36,77,5,14,8,10,8,33,27,8,1,15,22,home,win,85.0,DALLAS MAVERICKS,81.0
-ORLANDO MAGIC,240,40,89,7,12,14,18,17,33,19,7,5,13,25,away,win,101.0,TORONTO RAPTORS,93.0
-TORONTO RAPTORS,240,32,79,3,12,26,34,14,30,14,10,6,13,22,home,loss,93.0,ORLANDO MAGIC,101.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,30,79,6,19,15,19,12,23,14,3,4,13,16,2003-01-19,away,loss,81.0,SEATTLE SUPERSONICS,85.0,0.27522935779816515,0.24,35
+SEATTLE SUPERSONICS,240,36,77,5,14,8,10,8,33,27,8,1,15,22,2003-01-19,home,win,85.0,DALLAS MAVERICKS,81.0,0.3185840707964602,0.2631578947368421,41
+ORLANDO MAGIC,240,40,89,7,12,14,18,17,33,19,7,5,13,25,2003-01-19,away,win,101.0,TORONTO RAPTORS,93.0,0.31007751937984496,0.3684210526315789,50
+TORONTO RAPTORS,240,32,79,3,12,26,34,14,30,14,10,6,13,22,2003-01-19,home,loss,93.0,ORLANDO MAGIC,101.0,0.2882882882882883,0.2,44

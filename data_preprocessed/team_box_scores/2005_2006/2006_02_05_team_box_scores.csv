@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,32,76,3,12,26,35,9,34,22,8,6,9,18,away,win,93.0,NEW YORK KNICKS,89.0
-NEW YORK KNICKS,240,31,73,9,19,18,22,7,34,20,5,1,16,30,home,loss,89.0,HOUSTON ROCKETS,93.0
-UTAH JAZZ,240,29,74,2,11,18,26,13,24,19,3,10,14,20,away,loss,78.0,SACRAMENTO KINGS,96.0
-SACRAMENTO KINGS,240,31,73,10,17,24,28,14,23,18,9,10,12,21,home,win,96.0,UTAH JAZZ,78.0
-LOS ANGELES CLIPPERS,265,42,88,5,14,26,33,14,32,26,11,4,13,27,away,win,115.0,TORONTO RAPTORS,113.0
-TORONTO RAPTORS,265,40,92,8,21,25,31,16,32,21,2,1,16,21,home,loss,113.0,LOS ANGELES CLIPPERS,115.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,32,76,3,12,26,35,9,34,22,8,6,9,18,2006-02-05,away,win,93.0,NEW YORK KNICKS,89.0,0.2962962962962963,0.2,43
+NEW YORK KNICKS,240,31,73,9,19,18,22,7,34,20,5,1,16,30,2006-02-05,home,loss,89.0,HOUSTON ROCKETS,93.0,0.2980769230769231,0.32142857142857145,41
+UTAH JAZZ,240,29,74,2,11,18,26,13,24,19,3,10,14,20,2006-02-05,away,loss,78.0,SACRAMENTO KINGS,96.0,0.2815533980582524,0.15384615384615385,37
+SACRAMENTO KINGS,240,31,73,10,17,24,28,14,23,18,9,10,12,21,2006-02-05,home,win,96.0,UTAH JAZZ,78.0,0.2980769230769231,0.37037037037037035,37
+LOS ANGELES CLIPPERS,265,42,88,5,14,26,33,14,32,26,11,4,13,27,2006-02-05,away,win,115.0,TORONTO RAPTORS,113.0,0.3230769230769231,0.2631578947368421,46
+TORONTO RAPTORS,265,40,92,8,21,25,31,16,32,21,2,1,16,21,2006-02-05,home,loss,113.0,LOS ANGELES CLIPPERS,115.0,0.30303030303030304,0.27586206896551724,48

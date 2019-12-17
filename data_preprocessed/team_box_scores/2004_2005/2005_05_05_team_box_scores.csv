@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,31,86,7,26,14,17,14,29,14,9,6,11,23,away,loss,83.0,HOUSTON ROCKETS,101.0
-HOUSTON ROCKETS,240,36,74,9,17,20,25,9,34,21,5,7,16,17,home,win,101.0,DALLAS MAVERICKS,83.0
-BOSTON CELTICS,265,37,90,3,16,15,19,17,37,16,10,7,16,27,away,win,92.0,INDIANA PACERS,89.0
-INDIANA PACERS,265,27,75,6,25,29,37,11,33,15,6,6,16,19,home,loss,89.0,BOSTON CELTICS,92.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,31,86,7,26,14,17,14,29,14,9,6,11,23,2005-05-05,away,loss,83.0,HOUSTON ROCKETS,101.0,0.26495726495726496,0.21212121212121213,43
+HOUSTON ROCKETS,240,36,74,9,17,20,25,9,34,21,5,7,16,17,2005-05-05,home,win,101.0,DALLAS MAVERICKS,83.0,0.32727272727272727,0.34615384615384615,43
+BOSTON CELTICS,265,37,90,3,16,15,19,17,37,16,10,7,16,27,2005-05-05,away,win,92.0,INDIANA PACERS,89.0,0.29133858267716534,0.15789473684210525,54
+INDIANA PACERS,265,27,75,6,25,29,37,11,33,15,6,6,16,19,2005-05-05,home,loss,89.0,BOSTON CELTICS,92.0,0.2647058823529412,0.1935483870967742,44

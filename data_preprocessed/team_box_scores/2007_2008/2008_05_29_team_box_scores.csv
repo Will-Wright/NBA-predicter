@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,36,74,7,15,13,18,6,33,22,5,3,12,21,away,loss,92.0,LOS ANGELES LAKERS,100.0
-LOS ANGELES LAKERS,240,38,85,8,21,16,18,11,31,16,9,6,9,19,home,win,100.0,SAN ANTONIO SPURS,92.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,36,74,7,15,13,18,6,33,22,5,3,12,21,2008-05-29,away,loss,92.0,LOS ANGELES LAKERS,100.0,0.32727272727272727,0.3181818181818182,39
+LOS ANGELES LAKERS,240,38,85,8,21,16,18,11,31,16,9,6,9,19,2008-05-29,home,win,100.0,SAN ANTONIO SPURS,92.0,0.3089430894308943,0.27586206896551724,42

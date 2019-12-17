@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-INDIANA PACERS,240,28,68,4,11,19,24,9,28,16,7,6,18,28,away,loss,79.0,NEW JERSEY NETS,95.0
-NEW JERSEY NETS,240,33,77,3,12,26,30,10,31,21,8,6,13,24,home,win,95.0,INDIANA PACERS,79.0
-SEATTLE SUPERSONICS,240,39,84,3,7,17,25,19,30,14,5,3,12,27,away,win,98.0,SAN ANTONIO SPURS,90.0
-SAN ANTONIO SPURS,240,27,65,5,17,31,42,7,28,11,6,8,9,21,home,loss,90.0,SEATTLE SUPERSONICS,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+INDIANA PACERS,240,28,68,4,11,19,24,9,28,16,7,6,18,28,2002-04-22,away,loss,79.0,NEW JERSEY NETS,95.0,0.2916666666666667,0.26666666666666666,37
+NEW JERSEY NETS,240,33,77,3,12,26,30,10,31,21,8,6,13,24,2002-04-22,home,win,95.0,INDIANA PACERS,79.0,0.3,0.2,41
+SEATTLE SUPERSONICS,240,39,84,3,7,17,25,19,30,14,5,3,12,27,2002-04-22,away,win,98.0,SAN ANTONIO SPURS,90.0,0.3170731707317073,0.3,49
+SAN ANTONIO SPURS,240,27,65,5,17,31,42,7,28,11,6,8,9,21,2002-04-22,home,loss,90.0,SEATTLE SUPERSONICS,98.0,0.29347826086956524,0.22727272727272727,35

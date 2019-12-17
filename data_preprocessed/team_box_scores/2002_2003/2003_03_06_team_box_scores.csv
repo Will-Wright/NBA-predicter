@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,40,88,6,18,19,26,14,22,25,10,4,12,23,away,loss,105.0,CHICAGO BULLS,119.0
-CHICAGO BULLS,240,47,87,7,12,18,24,14,33,33,5,8,16,21,home,win,119.0,GOLDEN STATE WARRIORS,105.0
-PHILADELPHIA 76ERS,240,35,79,0,4,18,22,9,31,18,13,5,13,17,away,win,88.0,PORTLAND TRAIL BLAZERS,60.0
-PORTLAND TRAIL BLAZERS,240,26,72,0,10,8,17,9,33,15,8,5,21,22,home,loss,60.0,PHILADELPHIA 76ERS,88.0
-NEW JERSEY NETS,240,30,82,5,11,13,21,12,32,22,9,5,12,19,away,loss,78.0,SAN ANTONIO SPURS,92.0
-SAN ANTONIO SPURS,240,36,79,3,11,17,24,11,39,22,9,8,13,16,home,win,92.0,NEW JERSEY NETS,78.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,40,88,6,18,19,26,14,22,25,10,4,12,23,2003-03-06,away,loss,105.0,CHICAGO BULLS,119.0,0.3125,0.25,36
+CHICAGO BULLS,240,47,87,7,12,18,24,14,33,33,5,8,16,21,2003-03-06,home,win,119.0,GOLDEN STATE WARRIORS,105.0,0.35074626865671643,0.3684210526315789,47
+PHILADELPHIA 76ERS,240,35,79,0,4,18,22,9,31,18,13,5,13,17,2003-03-06,away,win,88.0,PORTLAND TRAIL BLAZERS,60.0,0.30701754385964913,0.0,40
+PORTLAND TRAIL BLAZERS,240,26,72,0,10,8,17,9,33,15,8,5,21,22,2003-03-06,home,loss,60.0,PHILADELPHIA 76ERS,88.0,0.2653061224489796,0.0,42
+NEW JERSEY NETS,240,30,82,5,11,13,21,12,32,22,9,5,12,19,2003-03-06,away,loss,78.0,SAN ANTONIO SPURS,92.0,0.26785714285714285,0.3125,44
+SAN ANTONIO SPURS,240,36,79,3,11,17,24,11,39,22,9,8,13,16,2003-03-06,home,win,92.0,NEW JERSEY NETS,78.0,0.3130434782608696,0.21428571428571427,50

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,38,90,7,18,14,19,18,25,25,8,2,10,23,away,loss,97.0,GOLDEN STATE WARRIORS,105.0
-GOLDEN STATE WARRIORS,240,37,72,6,11,25,31,12,35,21,4,6,14,21,home,win,105.0,NEW JERSEY NETS,97.0
-SACRAMENTO KINGS,240,45,90,1,7,13,16,10,41,31,6,7,18,27,away,win,104.0,MEMPHIS GRIZZLIES,98.0
-MEMPHIS GRIZZLIES,240,37,90,5,15,19,31,14,29,24,9,5,14,19,home,loss,98.0,SACRAMENTO KINGS,104.0
-DALLAS MAVERICKS,240,42,85,12,22,11,11,9,30,24,7,7,10,22,away,win,107.0,PHILADELPHIA 76ERS,94.0
-PHILADELPHIA 76ERS,240,32,71,1,7,29,35,9,31,19,9,3,13,18,home,loss,94.0,DALLAS MAVERICKS,107.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,38,90,7,18,14,19,18,25,25,8,2,10,23,2003-01-23,away,loss,97.0,GOLDEN STATE WARRIORS,105.0,0.296875,0.28,43
+GOLDEN STATE WARRIORS,240,37,72,6,11,25,31,12,35,21,4,6,14,21,2003-01-23,home,win,105.0,NEW JERSEY NETS,97.0,0.3394495412844037,0.35294117647058826,47
+SACRAMENTO KINGS,240,45,90,1,7,13,16,10,41,31,6,7,18,27,2003-01-23,away,win,104.0,MEMPHIS GRIZZLIES,98.0,0.3333333333333333,0.125,51
+MEMPHIS GRIZZLIES,240,37,90,5,15,19,31,14,29,24,9,5,14,19,2003-01-23,home,loss,98.0,SACRAMENTO KINGS,104.0,0.29133858267716534,0.25,43
+DALLAS MAVERICKS,240,42,85,12,22,11,11,9,30,24,7,7,10,22,2003-01-23,away,win,107.0,PHILADELPHIA 76ERS,94.0,0.33070866141732286,0.35294117647058826,39
+PHILADELPHIA 76ERS,240,32,71,1,7,29,35,9,31,19,9,3,13,18,2003-01-23,home,loss,94.0,DALLAS MAVERICKS,107.0,0.3106796116504854,0.125,40

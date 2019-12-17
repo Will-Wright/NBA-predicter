@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,46,90,15,30,13,16,10,40,31,7,2,12,14,away,win,120.0,MILWAUKEE BUCKS,66.0
-MILWAUKEE BUCKS,240,25,76,4,19,12,19,9,32,17,3,4,18,17,home,loss,66.0,CHICAGO BULLS,120.0
-LOS ANGELES CLIPPERS,240,38,80,4,18,22,31,10,33,22,7,7,10,18,away,win,102.0,SAN ANTONIO SPURS,96.0
-SAN ANTONIO SPURS,240,36,83,12,28,12,21,12,32,26,3,2,13,27,home,loss,96.0,LOS ANGELES CLIPPERS,102.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,46,90,15,30,13,16,10,40,31,7,2,12,14,2015-04-30,away,win,120.0,MILWAUKEE BUCKS,66.0,0.3382352941176471,0.3333333333333333,50
+MILWAUKEE BUCKS,240,25,76,4,19,12,19,9,32,17,3,4,18,17,2015-04-30,home,loss,66.0,CHICAGO BULLS,120.0,0.24752475247524752,0.17391304347826086,41
+LOS ANGELES CLIPPERS,240,38,80,4,18,22,31,10,33,22,7,7,10,18,2015-04-30,away,win,102.0,SAN ANTONIO SPURS,96.0,0.3220338983050847,0.18181818181818182,43
+SAN ANTONIO SPURS,240,36,83,12,28,12,21,12,32,26,3,2,13,27,2015-04-30,home,loss,96.0,LOS ANGELES CLIPPERS,102.0,0.3025210084033613,0.3,44

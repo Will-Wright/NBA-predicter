@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,35,78,13,24,32,35,9,31,18,8,2,13,30,away,win,115.0,MINNESOTA TIMBERWOLVES,102.0
-MINNESOTA TIMBERWOLVES,240,32,74,8,17,30,44,11,33,16,9,0,16,30,home,loss,102.0,DALLAS MAVERICKS,115.0
-BOSTON CELTICS,240,36,73,15,30,16,18,8,30,26,7,6,18,29,away,loss,103.0,PHILADELPHIA 76ERS,108.0
-PHILADELPHIA 76ERS,240,33,74,6,11,36,44,11,25,20,13,4,9,20,home,win,108.0,BOSTON CELTICS,103.0
-LOS ANGELES LAKERS,240,32,70,8,20,20,31,6,31,23,12,6,16,24,away,win,92.0,PORTLAND TRAIL BLAZERS,91.0
-PORTLAND TRAIL BLAZERS,240,32,84,6,17,21,26,17,36,23,11,3,19,25,home,loss,91.0,LOS ANGELES LAKERS,92.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,35,78,13,24,32,35,9,31,18,8,2,13,30,2002-04-28,away,win,115.0,MINNESOTA TIMBERWOLVES,102.0,0.30973451327433627,0.35135135135135137,40
+MINNESOTA TIMBERWOLVES,240,32,74,8,17,30,44,11,33,16,9,0,16,30,2002-04-28,home,loss,102.0,DALLAS MAVERICKS,115.0,0.3018867924528302,0.32,44
+BOSTON CELTICS,240,36,73,15,30,16,18,8,30,26,7,6,18,29,2002-04-28,away,loss,103.0,PHILADELPHIA 76ERS,108.0,0.3302752293577982,0.3333333333333333,38
+PHILADELPHIA 76ERS,240,33,74,6,11,36,44,11,25,20,13,4,9,20,2002-04-28,home,win,108.0,BOSTON CELTICS,103.0,0.308411214953271,0.35294117647058826,36
+LOS ANGELES LAKERS,240,32,70,8,20,20,31,6,31,23,12,6,16,24,2002-04-28,away,win,92.0,PORTLAND TRAIL BLAZERS,91.0,0.3137254901960784,0.2857142857142857,37
+PORTLAND TRAIL BLAZERS,240,32,84,6,17,21,26,17,36,23,11,3,19,25,2002-04-28,home,loss,91.0,LOS ANGELES LAKERS,92.0,0.27586206896551724,0.2608695652173913,53

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,35,92,5,26,19,25,10,37,21,14,2,18,29,away,loss,94.0,HOUSTON ROCKETS,103.0
-HOUSTON ROCKETS,240,37,82,10,31,19,36,11,42,22,9,6,21,26,home,win,103.0,DALLAS MAVERICKS,94.0
-SAN ANTONIO SPURS,240,36,81,11,23,28,37,12,35,21,4,2,16,32,away,win,111.0,LOS ANGELES CLIPPERS,107.0
-LOS ANGELES CLIPPERS,240,40,86,1,14,26,42,11,35,22,11,5,12,27,home,loss,107.0,SAN ANTONIO SPURS,111.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,35,92,5,26,19,25,10,37,21,14,2,18,29,2015-04-28,away,loss,94.0,HOUSTON ROCKETS,103.0,0.2755905511811024,0.16129032258064516,47
+HOUSTON ROCKETS,240,37,82,10,31,19,36,11,42,22,9,6,21,26,2015-04-28,home,win,103.0,DALLAS MAVERICKS,94.0,0.31092436974789917,0.24390243902439024,53
+SAN ANTONIO SPURS,240,36,81,11,23,28,37,12,35,21,4,2,16,32,2015-04-28,away,win,111.0,LOS ANGELES CLIPPERS,107.0,0.3076923076923077,0.3235294117647059,47
+LOS ANGELES CLIPPERS,240,40,86,1,14,26,42,11,35,22,11,5,12,27,2015-04-28,home,loss,107.0,SAN ANTONIO SPURS,111.0,0.31746031746031744,0.06666666666666667,46

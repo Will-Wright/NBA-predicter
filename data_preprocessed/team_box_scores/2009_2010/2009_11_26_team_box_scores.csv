@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,35,80,10,31,13,20,13,40,15,7,6,12,12,away,win,93.0,ATLANTA HAWKS,76.0
-ATLANTA HAWKS,240,33,85,7,19,3,7,11,30,18,8,3,13,20,home,loss,76.0,ORLANDO MAGIC,93.0
-CHICAGO BULLS,240,34,81,3,8,15,19,13,26,14,9,3,13,22,away,loss,86.0,UTAH JAZZ,105.0
-UTAH JAZZ,240,45,74,2,5,13,23,9,27,29,10,8,14,20,home,win,105.0,CHICAGO BULLS,86.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,35,80,10,31,13,20,13,40,15,7,6,12,12,2009-11-26,away,win,93.0,ATLANTA HAWKS,76.0,0.30434782608695654,0.24390243902439024,53
+ATLANTA HAWKS,240,33,85,7,19,3,7,11,30,18,8,3,13,20,2009-11-26,home,loss,76.0,ORLANDO MAGIC,93.0,0.2796610169491525,0.2692307692307692,41
+CHICAGO BULLS,240,34,81,3,8,15,19,13,26,14,9,3,13,22,2009-11-26,away,loss,86.0,UTAH JAZZ,105.0,0.2956521739130435,0.2727272727272727,39
+UTAH JAZZ,240,45,74,2,5,13,23,9,27,29,10,8,14,20,2009-11-26,home,win,105.0,CHICAGO BULLS,86.0,0.37815126050420167,0.2857142857142857,36

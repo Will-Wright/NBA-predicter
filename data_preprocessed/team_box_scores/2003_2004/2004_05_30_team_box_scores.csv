@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,29,70,4,10,21,23,10,36,18,6,13,14,22,away,win,83.0,INDIANA PACERS,65.0
-INDIANA PACERS,240,25,76,4,21,11,18,11,31,19,9,12,10,20,home,loss,65.0,DETROIT PISTONS,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,29,70,4,10,21,23,10,36,18,6,13,14,22,2004-05-30,away,win,83.0,INDIANA PACERS,65.0,0.29292929292929293,0.2857142857142857,46
+INDIANA PACERS,240,25,76,4,21,11,18,11,31,19,9,12,10,20,2004-05-30,home,loss,65.0,DETROIT PISTONS,83.0,0.24752475247524752,0.16,42

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,30,70,10,18,14,26,15,33,22,6,5,15,25,away,win,84.0,ATLANTA HAWKS,74.0
-ATLANTA HAWKS,240,23,73,2,13,26,30,9,24,13,7,2,8,19,home,loss,74.0,CLEVELAND CAVALIERS,84.0
-DENVER NUGGETS,240,38,79,9,21,32,44,6,28,16,9,5,11,29,away,loss,117.0,DALLAS MAVERICKS,119.0
-DALLAS MAVERICKS,240,40,79,3,14,36,43,9,41,17,9,3,14,29,home,win,119.0,DENVER NUGGETS,117.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,30,70,10,18,14,26,15,33,22,6,5,15,25,2009-05-11,away,win,84.0,ATLANTA HAWKS,74.0,0.3,0.35714285714285715,48
+ATLANTA HAWKS,240,23,73,2,13,26,30,9,24,13,7,2,8,19,2009-05-11,home,loss,74.0,CLEVELAND CAVALIERS,84.0,0.23958333333333334,0.13333333333333333,33
+DENVER NUGGETS,240,38,79,9,21,32,44,6,28,16,9,5,11,29,2009-05-11,away,loss,117.0,DALLAS MAVERICKS,119.0,0.3247863247863248,0.3,34
+DALLAS MAVERICKS,240,40,79,3,14,36,43,9,41,17,9,3,14,29,2009-05-11,home,win,119.0,DENVER NUGGETS,117.0,0.33613445378151263,0.17647058823529413,50

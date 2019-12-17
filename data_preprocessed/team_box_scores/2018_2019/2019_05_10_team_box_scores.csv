@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,42,85,16,38,18,23,10,25,25,9,7,17,19,away,win,118.0,HOUSTON ROCKETS,113.0
-HOUSTON ROCKETS,240,42,89,17,39,12,17,12,28,21,9,1,15,22,home,loss,113.0,GOLDEN STATE WARRIORS,118.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,42,85,16,38,18,23,10,25,25,9,7,17,19,2019-05-10,away,win,118.0,HOUSTON ROCKETS,113.0,0.33070866141732286,0.2962962962962963,35
+HOUSTON ROCKETS,240,42,89,17,39,12,17,12,28,21,9,1,15,22,2019-05-10,home,loss,113.0,GOLDEN STATE WARRIORS,118.0,0.32061068702290074,0.30357142857142855,40

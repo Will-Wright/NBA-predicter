@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,40,77,3,12,20,27,14,32,21,10,5,16,24,away,win,103.0,HOUSTON ROCKETS,99.0
-HOUSTON ROCKETS,240,34,87,7,24,24,28,15,26,19,9,1,11,24,home,loss,99.0,BOSTON CELTICS,103.0
-PHOENIX SUNS,240,43,68,12,18,16,23,4,36,31,7,9,19,19,away,win,114.0,NEW JERSEY NETS,86.0
-NEW JERSEY NETS,240,28,83,7,22,23,26,12,23,16,10,4,15,18,home,loss,86.0,PHOENIX SUNS,114.0
-DALLAS MAVERICKS,240,43,81,7,17,5,5,9,36,22,4,1,7,15,away,win,98.0,SAN ANTONIO SPURS,81.0
-SAN ANTONIO SPURS,240,30,72,7,20,14,20,8,26,12,5,2,7,12,home,loss,81.0,DALLAS MAVERICKS,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,40,77,3,12,20,27,14,32,21,10,5,16,24,2008-11-04,away,win,103.0,HOUSTON ROCKETS,99.0,0.3418803418803419,0.2,46
+HOUSTON ROCKETS,240,34,87,7,24,24,28,15,26,19,9,1,11,24,2008-11-04,home,loss,99.0,BOSTON CELTICS,103.0,0.2809917355371901,0.22580645161290322,41
+PHOENIX SUNS,240,43,68,12,18,16,23,4,36,31,7,9,19,19,2008-11-04,away,win,114.0,NEW JERSEY NETS,86.0,0.38738738738738737,0.4,40
+NEW JERSEY NETS,240,28,83,7,22,23,26,12,23,16,10,4,15,18,2008-11-04,home,loss,86.0,PHOENIX SUNS,114.0,0.25225225225225223,0.2413793103448276,35
+DALLAS MAVERICKS,240,43,81,7,17,5,5,9,36,22,4,1,7,15,2008-11-04,away,win,98.0,SAN ANTONIO SPURS,81.0,0.3467741935483871,0.2916666666666667,45
+SAN ANTONIO SPURS,240,30,72,7,20,14,20,8,26,12,5,2,7,12,2008-11-04,home,loss,81.0,DALLAS MAVERICKS,98.0,0.29411764705882354,0.25925925925925924,34

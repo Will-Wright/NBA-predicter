@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,38,84,5,14,22,27,14,21,21,11,6,11,24,away,win,103.0,CLEVELAND CAVALIERS,84.0
-CLEVELAND CAVALIERS,240,30,79,5,15,19,28,22,26,20,11,6,25,22,home,loss,84.0,PHOENIX SUNS,103.0
-NEW ORLEANS HORNETS,240,35,85,3,8,12,17,11,34,7,4,5,13,22,away,loss,85.0,HOUSTON ROCKETS,97.0
-HOUSTON ROCKETS,240,36,81,4,16,21,29,11,34,16,6,9,11,20,home,win,97.0,NEW ORLEANS HORNETS,85.0
-TORONTO RAPTORS,240,32,71,5,11,19,30,7,22,20,9,1,18,23,away,loss,88.0,LOS ANGELES LAKERS,104.0
-LOS ANGELES LAKERS,240,43,81,3,14,15,20,11,33,28,9,7,17,27,home,win,104.0,TORONTO RAPTORS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,38,84,5,14,22,27,14,21,21,11,6,11,24,2002-12-29,away,win,103.0,CLEVELAND CAVALIERS,84.0,0.3114754098360656,0.2631578947368421,35
+CLEVELAND CAVALIERS,240,30,79,5,15,19,28,22,26,20,11,6,25,22,2002-12-29,home,loss,84.0,PHOENIX SUNS,103.0,0.27522935779816515,0.25,48
+NEW ORLEANS HORNETS,240,35,85,3,8,12,17,11,34,7,4,5,13,22,2002-12-29,away,loss,85.0,HOUSTON ROCKETS,97.0,0.2916666666666667,0.2727272727272727,45
+HOUSTON ROCKETS,240,36,81,4,16,21,29,11,34,16,6,9,11,20,2002-12-29,home,win,97.0,NEW ORLEANS HORNETS,85.0,0.3076923076923077,0.2,45
+TORONTO RAPTORS,240,32,71,5,11,19,30,7,22,20,9,1,18,23,2002-12-29,away,loss,88.0,LOS ANGELES LAKERS,104.0,0.3106796116504854,0.3125,29
+LOS ANGELES LAKERS,240,43,81,3,14,15,20,11,33,28,9,7,17,27,2002-12-29,home,win,104.0,TORONTO RAPTORS,88.0,0.3467741935483871,0.17647058823529413,44

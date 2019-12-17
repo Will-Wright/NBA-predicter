@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,38,86,7,19,31,40,12,46,25,6,5,14,20,away,win,114.0,DALLAS MAVERICKS,103.0
-DALLAS MAVERICKS,240,37,99,9,24,20,24,12,33,16,5,4,10,29,home,loss,103.0,LOS ANGELES LAKERS,114.0
-CHICAGO BULLS,240,28,83,6,17,20,26,17,30,19,5,6,13,19,away,loss,82.0,PHILADELPHIA 76ERS,83.0
-PHILADELPHIA 76ERS,240,32,81,3,14,16,23,16,31,14,9,6,15,21,home,win,83.0,CHICAGO BULLS,82.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,38,86,7,19,31,40,12,46,25,6,5,14,20,2003-12-04,away,win,114.0,DALLAS MAVERICKS,103.0,0.3064516129032258,0.2692307692307692,58
+DALLAS MAVERICKS,240,37,99,9,24,20,24,12,33,16,5,4,10,29,2003-12-04,home,loss,103.0,LOS ANGELES LAKERS,114.0,0.27205882352941174,0.2727272727272727,45
+CHICAGO BULLS,240,28,83,6,17,20,26,17,30,19,5,6,13,19,2003-12-04,away,loss,82.0,PHILADELPHIA 76ERS,83.0,0.25225225225225223,0.2608695652173913,47
+PHILADELPHIA 76ERS,240,32,81,3,14,16,23,16,31,14,9,6,15,21,2003-12-04,home,win,83.0,CHICAGO BULLS,82.0,0.2831858407079646,0.17647058823529413,47

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,48,93,13,24,21,28,17,29,23,4,2,14,28,away,win,130.0,DALLAS MAVERICKS,128.0
-DALLAS MAVERICKS,240,45,86,11,29,27,35,14,29,27,9,6,10,28,home,loss,128.0,HOUSTON ROCKETS,130.0
-LOS ANGELES CLIPPERS,240,29,85,6,23,9,12,10,28,14,7,4,14,15,away,loss,73.0,SAN ANTONIO SPURS,100.0
-SAN ANTONIO SPURS,240,40,76,10,24,10,13,7,40,25,9,8,13,14,home,win,100.0,LOS ANGELES CLIPPERS,73.0
-TORONTO RAPTORS,240,37,99,10,28,15,19,10,31,21,12,2,9,28,away,loss,99.0,WASHINGTON WIZARDS,106.0
-WASHINGTON WIZARDS,240,36,76,12,29,22,31,7,38,27,4,13,17,22,home,win,106.0,TORONTO RAPTORS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,48,93,13,24,21,28,17,29,23,4,2,14,28,2015-04-24,away,win,130.0,DALLAS MAVERICKS,128.0,0.3404255319148936,0.35135135135135137,46
+DALLAS MAVERICKS,240,45,86,11,29,27,35,14,29,27,9,6,10,28,2015-04-24,home,loss,128.0,HOUSTON ROCKETS,130.0,0.3435114503816794,0.275,43
+LOS ANGELES CLIPPERS,240,29,85,6,23,9,12,10,28,14,7,4,14,15,2015-04-24,away,loss,73.0,SAN ANTONIO SPURS,100.0,0.2543859649122807,0.20689655172413793,38
+SAN ANTONIO SPURS,240,40,76,10,24,10,13,7,40,25,9,8,13,14,2015-04-24,home,win,100.0,LOS ANGELES CLIPPERS,73.0,0.3448275862068966,0.29411764705882354,47
+TORONTO RAPTORS,240,37,99,10,28,15,19,10,31,21,12,2,9,28,2015-04-24,away,loss,99.0,WASHINGTON WIZARDS,106.0,0.27205882352941174,0.2631578947368421,41
+WASHINGTON WIZARDS,240,36,76,12,29,22,31,7,38,27,4,13,17,22,2015-04-24,home,win,106.0,TORONTO RAPTORS,99.0,0.32142857142857145,0.2926829268292683,45

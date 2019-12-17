@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,33,67,5,13,29,40,10,29,15,8,6,14,25,away,loss,100.0,DALLAS MAVERICKS,103.0
-DALLAS MAVERICKS,240,37,79,6,15,23,34,13,29,17,8,3,11,26,home,win,103.0,HOUSTON ROCKETS,100.0
-SAN ANTONIO SPURS,265,40,83,7,19,39,45,8,32,19,4,5,11,36,away,win,126.0,DENVER NUGGETS,115.0
-DENVER NUGGETS,265,38,83,1,8,38,46,9,31,19,4,6,10,37,home,loss,115.0,SAN ANTONIO SPURS,126.0
-CHICAGO BULLS,240,29,86,10,33,31,42,16,27,18,9,1,14,33,away,loss,99.0,WASHINGTON WIZARDS,106.0
-WASHINGTON WIZARDS,240,34,76,5,13,33,39,14,35,18,8,6,17,31,home,win,106.0,CHICAGO BULLS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,33,67,5,13,29,40,10,29,15,8,6,14,25,2005-05-02,away,loss,100.0,DALLAS MAVERICKS,103.0,0.33,0.2777777777777778,39
+DALLAS MAVERICKS,240,37,79,6,15,23,34,13,29,17,8,3,11,26,2005-05-02,home,win,103.0,HOUSTON ROCKETS,100.0,0.31896551724137934,0.2857142857142857,42
+SAN ANTONIO SPURS,265,40,83,7,19,39,45,8,32,19,4,5,11,36,2005-05-02,away,win,126.0,DENVER NUGGETS,115.0,0.3252032520325203,0.2692307692307692,40
+DENVER NUGGETS,265,38,83,1,8,38,46,9,31,19,4,6,10,37,2005-05-02,home,loss,115.0,SAN ANTONIO SPURS,126.0,0.3140495867768595,0.1111111111111111,40
+CHICAGO BULLS,240,29,86,10,33,31,42,16,27,18,9,1,14,33,2005-05-02,away,loss,99.0,WASHINGTON WIZARDS,106.0,0.25217391304347825,0.23255813953488372,43
+WASHINGTON WIZARDS,240,34,76,5,13,33,39,14,35,18,8,6,17,31,2005-05-02,home,win,106.0,CHICAGO BULLS,99.0,0.3090909090909091,0.2777777777777778,49

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,36,86,8,19,13,17,11,32,23,4,5,11,22,away,loss,93.0,CHICAGO BULLS,99.0
-CHICAGO BULLS,240,40,84,2,6,17,24,9,34,27,7,7,9,12,home,win,99.0,ORLANDO MAGIC,93.0
-DETROIT PISTONS,240,35,78,6,12,21,25,8,27,26,6,9,13,19,away,loss,97.0,DENVER NUGGETS,109.0
-DENVER NUGGETS,240,41,92,10,30,17,22,21,31,23,9,11,15,21,home,win,109.0,DETROIT PISTONS,97.0
-TORONTO RAPTORS,240,30,84,7,30,21,25,8,29,16,11,2,17,24,away,loss,88.0,OKLAHOMA CITY THUNDER,108.0
-OKLAHOMA CITY THUNDER,240,35,74,9,25,29,34,7,39,24,10,9,17,22,home,win,108.0,TORONTO RAPTORS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,36,86,8,19,13,17,11,32,23,4,5,11,22,2012-11-06,away,loss,93.0,CHICAGO BULLS,99.0,0.29508196721311475,0.2962962962962963,43
+CHICAGO BULLS,240,40,84,2,6,17,24,9,34,27,7,7,9,12,2012-11-06,home,win,99.0,ORLANDO MAGIC,93.0,0.3225806451612903,0.25,43
+DETROIT PISTONS,240,35,78,6,12,21,25,8,27,26,6,9,13,19,2012-11-06,away,loss,97.0,DENVER NUGGETS,109.0,0.30973451327433627,0.3333333333333333,35
+DENVER NUGGETS,240,41,92,10,30,17,22,21,31,23,9,11,15,21,2012-11-06,home,win,109.0,DETROIT PISTONS,97.0,0.3082706766917293,0.25,52
+TORONTO RAPTORS,240,30,84,7,30,21,25,8,29,16,11,2,17,24,2012-11-06,away,loss,88.0,OKLAHOMA CITY THUNDER,108.0,0.2631578947368421,0.1891891891891892,37
+OKLAHOMA CITY THUNDER,240,35,74,9,25,29,34,7,39,24,10,9,17,22,2012-11-06,home,win,108.0,TORONTO RAPTORS,88.0,0.3211009174311927,0.2647058823529412,46

@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,36,82,7,21,14,18,9,28,21,11,4,12,24,away,win,93.0,OKLAHOMA CITY THUNDER,87.0
-OKLAHOMA CITY THUNDER,240,27,74,1,17,32,36,12,33,11,8,9,14,17,home,loss,87.0,DALLAS MAVERICKS,93.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,36,82,7,21,14,18,9,28,21,11,4,12,24,2011-05-21,away,win,93.0,OKLAHOMA CITY THUNDER,87.0,0.3050847457627119,0.25,37
+OKLAHOMA CITY THUNDER,240,27,74,1,17,32,36,12,33,11,8,9,14,17,2011-05-21,home,loss,87.0,DALLAS MAVERICKS,93.0,0.26732673267326734,0.05555555555555555,45

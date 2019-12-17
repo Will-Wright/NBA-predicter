@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,29,96,3,13,10,14,20,33,13,7,7,14,20,away,loss,71.0,NEW JERSEY NETS,98.0
-NEW JERSEY NETS,240,40,88,2,8,16,20,14,41,21,10,3,13,20,home,win,98.0,LOS ANGELES LAKERS,71.0
-SAN ANTONIO SPURS,240,31,75,1,11,20,23,10,39,15,3,9,17,17,away,win,83.0,SACRAMENTO KINGS,81.0
-SACRAMENTO KINGS,240,34,98,5,18,8,13,21,29,22,7,7,10,19,home,loss,81.0,SAN ANTONIO SPURS,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,29,96,3,13,10,14,20,33,13,7,7,14,20,2002-12-19,away,loss,71.0,NEW JERSEY NETS,98.0,0.232,0.1875,53
+NEW JERSEY NETS,240,40,88,2,8,16,20,14,41,21,10,3,13,20,2002-12-19,home,win,98.0,LOS ANGELES LAKERS,71.0,0.3125,0.2,55
+SAN ANTONIO SPURS,240,31,75,1,11,20,23,10,39,15,3,9,17,17,2002-12-19,away,win,83.0,SACRAMENTO KINGS,81.0,0.29245283018867924,0.08333333333333333,49
+SACRAMENTO KINGS,240,34,98,5,18,8,13,21,29,22,7,7,10,19,2002-12-19,home,loss,81.0,SAN ANTONIO SPURS,83.0,0.25757575757575757,0.21739130434782608,50

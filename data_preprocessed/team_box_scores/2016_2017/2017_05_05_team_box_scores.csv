@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,39,86,9,25,16,20,12,37,23,7,8,20,17,away,win,103.0,HOUSTON ROCKETS,92.0
-HOUSTON ROCKETS,240,32,88,12,39,16,18,14,25,17,12,7,14,18,home,loss,92.0,SAN ANTONIO SPURS,103.0
-CLEVELAND CAVALIERS,240,39,76,13,23,24,28,8,41,15,2,7,16,20,away,win,115.0,TORONTO RAPTORS,94.0
-TORONTO RAPTORS,240,38,87,2,18,16,17,1,24,17,9,4,4,21,home,loss,94.0,CLEVELAND CAVALIERS,115.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,39,86,9,25,16,20,12,37,23,7,8,20,17,2017-05-05,away,win,103.0,HOUSTON ROCKETS,92.0,0.312,0.2647058823529412,49
+HOUSTON ROCKETS,240,32,88,12,39,16,18,14,25,17,12,7,14,18,2017-05-05,home,loss,92.0,SAN ANTONIO SPURS,103.0,0.26666666666666666,0.23529411764705882,39
+CLEVELAND CAVALIERS,240,39,76,13,23,24,28,8,41,15,2,7,16,20,2017-05-05,away,win,115.0,TORONTO RAPTORS,94.0,0.3391304347826087,0.3611111111111111,49
+TORONTO RAPTORS,240,38,87,2,18,16,17,1,24,17,9,4,4,21,2017-05-05,home,loss,94.0,CLEVELAND CAVALIERS,115.0,0.304,0.1,25

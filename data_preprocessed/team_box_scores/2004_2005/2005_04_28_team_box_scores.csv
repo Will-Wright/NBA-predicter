@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,33,68,8,17,32,37,8,27,21,7,2,11,28,away,win,106.0,HOUSTON ROCKETS,102.0
-HOUSTON ROCKETS,240,36,80,13,25,17,25,15,29,22,2,3,15,27,home,loss,102.0,DALLAS MAVERICKS,106.0
-BOSTON CELTICS,240,31,78,3,12,11,17,15,24,13,8,4,13,31,away,loss,76.0,INDIANA PACERS,99.0
-INDIANA PACERS,240,32,68,6,16,29,38,12,32,23,6,9,14,23,home,win,99.0,BOSTON CELTICS,76.0
-MIAMI HEAT,290,38,84,10,22,22,38,9,42,22,9,3,18,25,away,win,108.0,NEW JERSEY NETS,105.0
-NEW JERSEY NETS,290,42,107,3,23,18,27,18,39,27,10,1,14,32,home,loss,105.0,MIAMI HEAT,108.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,33,68,8,17,32,37,8,27,21,7,2,11,28,2005-04-28,away,win,106.0,HOUSTON ROCKETS,102.0,0.32673267326732675,0.32,35
+HOUSTON ROCKETS,240,36,80,13,25,17,25,15,29,22,2,3,15,27,2005-04-28,home,loss,102.0,DALLAS MAVERICKS,106.0,0.3103448275862069,0.34210526315789475,44
+BOSTON CELTICS,240,31,78,3,12,11,17,15,24,13,8,4,13,31,2005-04-28,away,loss,76.0,INDIANA PACERS,99.0,0.28440366972477066,0.2,39
+INDIANA PACERS,240,32,68,6,16,29,38,12,32,23,6,9,14,23,2005-04-28,home,win,99.0,BOSTON CELTICS,76.0,0.32,0.2727272727272727,44
+MIAMI HEAT,290,38,84,10,22,22,38,9,42,22,9,3,18,25,2005-04-28,away,win,108.0,NEW JERSEY NETS,105.0,0.3114754098360656,0.3125,51
+NEW JERSEY NETS,290,42,107,3,23,18,27,18,39,27,10,1,14,32,2005-04-28,home,loss,105.0,MIAMI HEAT,108.0,0.28187919463087246,0.11538461538461539,57

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MEMPHIS GRIZZLIES,240,30,84,6,18,25,31,14,28,18,9,4,17,25,away,loss,91.0,LOS ANGELES CLIPPERS,98.0
-LOS ANGELES CLIPPERS,240,35,72,9,22,19,27,7,30,24,10,5,16,22,home,win,98.0,MEMPHIS GRIZZLIES,91.0
-BOSTON CELTICS,240,34,73,10,21,13,19,9,28,23,6,11,16,27,away,win,91.0,ORLANDO MAGIC,83.0
-ORLANDO MAGIC,240,30,79,5,17,18,31,16,30,16,10,3,12,23,home,loss,83.0,BOSTON CELTICS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MEMPHIS GRIZZLIES,240,30,84,6,18,25,31,14,28,18,9,4,17,25,2012-01-26,away,loss,91.0,LOS ANGELES CLIPPERS,98.0,0.2631578947368421,0.25,42
+LOS ANGELES CLIPPERS,240,35,72,9,22,19,27,7,30,24,10,5,16,22,2012-01-26,home,win,98.0,MEMPHIS GRIZZLIES,91.0,0.32710280373831774,0.2903225806451613,37
+BOSTON CELTICS,240,34,73,10,21,13,19,9,28,23,6,11,16,27,2012-01-26,away,win,91.0,ORLANDO MAGIC,83.0,0.3177570093457944,0.3225806451612903,37
+ORLANDO MAGIC,240,30,79,5,17,18,31,16,30,16,10,3,12,23,2012-01-26,home,loss,83.0,BOSTON CELTICS,91.0,0.27522935779816515,0.22727272727272727,46

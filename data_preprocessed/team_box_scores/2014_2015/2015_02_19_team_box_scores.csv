@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,43,84,10,28,19,23,5,33,34,6,2,16,32,away,loss,115.0,LOS ANGELES CLIPPERS,119.0
-LOS ANGELES CLIPPERS,240,42,77,8,19,27,52,10,33,26,10,4,12,22,home,win,119.0,SAN ANTONIO SPURS,115.0
-DALLAS MAVERICKS,240,33,91,9,27,14,17,14,25,16,14,3,17,20,away,loss,89.0,OKLAHOMA CITY THUNDER,104.0
-OKLAHOMA CITY THUNDER,240,38,91,7,22,21,26,21,41,20,8,0,22,20,home,win,104.0,DALLAS MAVERICKS,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,43,84,10,28,19,23,5,33,34,6,2,16,32,2015-02-19,away,loss,115.0,LOS ANGELES CLIPPERS,119.0,0.33858267716535434,0.2631578947368421,38
+LOS ANGELES CLIPPERS,240,42,77,8,19,27,52,10,33,26,10,4,12,22,2015-02-19,home,win,119.0,SAN ANTONIO SPURS,115.0,0.35294117647058826,0.2962962962962963,43
+DALLAS MAVERICKS,240,33,91,9,27,14,17,14,25,16,14,3,17,20,2015-02-19,away,loss,89.0,OKLAHOMA CITY THUNDER,104.0,0.2661290322580645,0.25,39
+OKLAHOMA CITY THUNDER,240,38,91,7,22,21,26,21,41,20,8,0,22,20,2015-02-19,home,win,104.0,DALLAS MAVERICKS,89.0,0.29457364341085274,0.2413793103448276,62

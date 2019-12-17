@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MINNESOTA TIMBERWOLVES,265,38,84,4,15,12,17,8,36,24,9,3,16,25,away,win,92.0,CHICAGO BULLS,89.0
-CHICAGO BULLS,265,31,74,8,15,19,28,8,33,24,10,1,21,30,home,loss,89.0,MINNESOTA TIMBERWOLVES,92.0
-HOUSTON ROCKETS,240,33,82,8,23,12,12,11,31,23,6,3,13,22,away,loss,86.0,DALLAS MAVERICKS,97.0
-DALLAS MAVERICKS,240,36,80,2,19,23,28,11,33,19,8,7,7,17,home,win,97.0,HOUSTON ROCKETS,86.0
-SACRAMENTO KINGS,265,44,91,11,24,11,12,10,28,31,10,4,18,21,away,loss,110.0,PORTLAND TRAIL BLAZERS,112.0
-PORTLAND TRAIL BLAZERS,265,47,90,2,7,16,18,12,32,28,12,5,17,17,home,win,112.0,SACRAMENTO KINGS,110.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MINNESOTA TIMBERWOLVES,265,38,84,4,15,12,17,8,36,24,9,3,16,25,2003-11-13,away,win,92.0,CHICAGO BULLS,89.0,0.3114754098360656,0.21052631578947367,44
+CHICAGO BULLS,265,31,74,8,15,19,28,8,33,24,10,1,21,30,2003-11-13,home,loss,89.0,MINNESOTA TIMBERWOLVES,92.0,0.29523809523809524,0.34782608695652173,41
+HOUSTON ROCKETS,240,33,82,8,23,12,12,11,31,23,6,3,13,22,2003-11-13,away,loss,86.0,DALLAS MAVERICKS,97.0,0.28695652173913044,0.25806451612903225,42
+DALLAS MAVERICKS,240,36,80,2,19,23,28,11,33,19,8,7,7,17,2003-11-13,home,win,97.0,HOUSTON ROCKETS,86.0,0.3103448275862069,0.09523809523809523,44
+SACRAMENTO KINGS,265,44,91,11,24,11,12,10,28,31,10,4,18,21,2003-11-13,away,loss,110.0,PORTLAND TRAIL BLAZERS,112.0,0.32592592592592595,0.3142857142857143,38
+PORTLAND TRAIL BLAZERS,265,47,90,2,7,16,18,12,32,28,12,5,17,17,2003-11-13,home,win,112.0,SACRAMENTO KINGS,110.0,0.34306569343065696,0.2222222222222222,44

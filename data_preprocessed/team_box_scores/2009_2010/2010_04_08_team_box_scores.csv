@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,41,86,9,25,17,24,9,27,23,6,6,11,19,away,loss,108.0,CHICAGO BULLS,109.0
-CHICAGO BULLS,240,44,85,5,11,16,25,8,36,25,5,9,11,21,home,win,109.0,CLEVELAND CAVALIERS,108.0
-LOS ANGELES LAKERS,240,30,82,8,21,28,33,17,35,16,5,6,10,20,away,loss,96.0,DENVER NUGGETS,98.0
-DENVER NUGGETS,240,34,78,11,25,19,28,9,30,23,5,7,9,23,home,win,98.0,LOS ANGELES LAKERS,96.0
-LOS ANGELES CLIPPERS,240,39,82,7,19,9,11,7,25,18,5,4,12,14,away,loss,94.0,SACRAMENTO KINGS,116.0
-SACRAMENTO KINGS,240,50,92,4,11,12,15,14,33,20,6,3,8,13,home,win,116.0,LOS ANGELES CLIPPERS,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,41,86,9,25,17,24,9,27,23,6,6,11,19,2010-04-08,away,loss,108.0,CHICAGO BULLS,109.0,0.3228346456692913,0.2647058823529412,36
+CHICAGO BULLS,240,44,85,5,11,16,25,8,36,25,5,9,11,21,2010-04-08,home,win,109.0,CLEVELAND CAVALIERS,108.0,0.34108527131782945,0.3125,44
+LOS ANGELES LAKERS,240,30,82,8,21,28,33,17,35,16,5,6,10,20,2010-04-08,away,loss,96.0,DENVER NUGGETS,98.0,0.26785714285714285,0.27586206896551724,52
+DENVER NUGGETS,240,34,78,11,25,19,28,9,30,23,5,7,9,23,2010-04-08,home,win,98.0,LOS ANGELES LAKERS,96.0,0.30357142857142855,0.3055555555555556,39
+LOS ANGELES CLIPPERS,240,39,82,7,19,9,11,7,25,18,5,4,12,14,2010-04-08,away,loss,94.0,SACRAMENTO KINGS,116.0,0.32231404958677684,0.2692307692307692,32
+SACRAMENTO KINGS,240,50,92,4,11,12,15,14,33,20,6,3,8,13,2010-04-08,home,win,116.0,LOS ANGELES CLIPPERS,94.0,0.352112676056338,0.26666666666666666,47

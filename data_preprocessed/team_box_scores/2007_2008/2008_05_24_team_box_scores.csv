@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,32,69,5,14,25,30,14,30,20,6,3,15,24,away,win,94.0,DETROIT PISTONS,80.0
-DETROIT PISTONS,240,28,73,1,13,23,26,10,18,15,11,9,10,25,home,loss,80.0,BOSTON CELTICS,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,32,69,5,14,25,30,14,30,20,6,3,15,24,2008-05-24,away,win,94.0,DETROIT PISTONS,80.0,0.31683168316831684,0.2631578947368421,44
+DETROIT PISTONS,240,28,73,1,13,23,26,10,18,15,11,9,10,25,2008-05-24,home,loss,80.0,BOSTON CELTICS,94.0,0.27722772277227725,0.07142857142857142,28

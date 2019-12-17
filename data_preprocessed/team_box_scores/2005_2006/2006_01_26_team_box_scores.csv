@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,37,82,13,24,20,21,9,34,24,4,4,14,21,away,win,107.0,MIAMI HEAT,98.0
-MIAMI HEAT,240,40,90,6,21,12,22,15,35,21,8,3,14,21,home,loss,98.0,PHOENIX SUNS,107.0
-ORLANDO MAGIC,265,43,73,7,13,26,41,9,28,27,6,3,16,27,away,win,119.0,PHILADELPHIA 76ERS,115.0
-PHILADELPHIA 76ERS,265,44,90,5,14,22,27,13,25,21,6,4,13,30,home,loss,115.0,ORLANDO MAGIC,119.0
-DALLAS MAVERICKS,240,35,81,9,25,25,30,17,27,20,6,8,8,21,away,win,104.0,SEATTLE SUPERSONICS,97.0
-SEATTLE SUPERSONICS,240,33,77,6,21,25,29,13,29,16,4,4,9,20,home,loss,97.0,DALLAS MAVERICKS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,37,82,13,24,20,21,9,34,24,4,4,14,21,2006-01-26,away,win,107.0,MIAMI HEAT,98.0,0.31092436974789917,0.35135135135135137,43
+MIAMI HEAT,240,40,90,6,21,12,22,15,35,21,8,3,14,21,2006-01-26,home,loss,98.0,PHOENIX SUNS,107.0,0.3076923076923077,0.2222222222222222,50
+ORLANDO MAGIC,265,43,73,7,13,26,41,9,28,27,6,3,16,27,2006-01-26,away,win,119.0,PHILADELPHIA 76ERS,115.0,0.3706896551724138,0.35,37
+PHILADELPHIA 76ERS,265,44,90,5,14,22,27,13,25,21,6,4,13,30,2006-01-26,home,loss,115.0,ORLANDO MAGIC,119.0,0.3283582089552239,0.2631578947368421,38
+DALLAS MAVERICKS,240,35,81,9,25,25,30,17,27,20,6,8,8,21,2006-01-26,away,win,104.0,SEATTLE SUPERSONICS,97.0,0.3017241379310345,0.2647058823529412,44
+SEATTLE SUPERSONICS,240,33,77,6,21,25,29,13,29,16,4,4,9,20,2006-01-26,home,loss,97.0,DALLAS MAVERICKS,104.0,0.3,0.2222222222222222,42

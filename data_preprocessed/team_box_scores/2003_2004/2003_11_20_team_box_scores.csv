@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,35,79,2,14,20,28,9,38,25,7,3,13,25,away,loss,92.0,DALLAS MAVERICKS,95.0
-DALLAS MAVERICKS,240,31,84,5,22,28,34,12,37,18,11,6,9,24,home,win,95.0,SAN ANTONIO SPURS,92.0
-ORLANDO MAGIC,240,36,86,5,19,12,16,20,30,20,5,2,18,19,away,loss,89.0,PHOENIX SUNS,96.0
-PHOENIX SUNS,240,40,78,6,12,10,14,8,26,28,11,7,12,19,home,win,96.0,ORLANDO MAGIC,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,35,79,2,14,20,28,9,38,25,7,3,13,25,2003-11-20,away,loss,92.0,DALLAS MAVERICKS,95.0,0.30701754385964913,0.125,47
+DALLAS MAVERICKS,240,31,84,5,22,28,34,12,37,18,11,6,9,24,2003-11-20,home,win,95.0,SAN ANTONIO SPURS,92.0,0.26956521739130435,0.18518518518518517,49
+ORLANDO MAGIC,240,36,86,5,19,12,16,20,30,20,5,2,18,19,2003-11-20,away,loss,89.0,PHOENIX SUNS,96.0,0.29508196721311475,0.20833333333333334,50
+PHOENIX SUNS,240,40,78,6,12,10,14,8,26,28,11,7,12,19,2003-11-20,home,win,96.0,ORLANDO MAGIC,89.0,0.3389830508474576,0.3333333333333333,34

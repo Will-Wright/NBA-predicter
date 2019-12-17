@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-OKLAHOMA CITY THUNDER,240,45,92,14,35,25,34,11,31,25,12,5,11,18,away,loss,129.0,BOSTON CELTICS,134.0
-BOSTON CELTICS,240,54,91,13,34,13,17,5,33,36,8,6,14,22,home,win,134.0,OKLAHOMA CITY THUNDER,129.0
-MEMPHIS GRIZZLIES,240,37,91,9,26,13,18,10,39,25,8,4,7,20,away,win,96.0,NEW YORK KNICKS,84.0
-NEW YORK KNICKS,240,28,74,12,40,16,22,6,39,20,4,6,15,16,home,loss,84.0,MEMPHIS GRIZZLIES,96.0
-LOS ANGELES CLIPPERS,240,38,89,2,12,25,29,7,29,15,7,7,13,24,away,loss,103.0,TORONTO RAPTORS,121.0
-TORONTO RAPTORS,240,43,94,9,33,26,31,16,40,21,10,5,14,28,home,win,121.0,LOS ANGELES CLIPPERS,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+OKLAHOMA CITY THUNDER,240,45,92,14,35,25,34,11,31,25,12,5,11,18,2019-02-03,away,loss,129.0,BOSTON CELTICS,134.0,0.3284671532846715,0.2857142857142857,42
+BOSTON CELTICS,240,54,91,13,34,13,17,5,33,36,8,6,14,22,2019-02-03,home,win,134.0,OKLAHOMA CITY THUNDER,129.0,0.3724137931034483,0.2765957446808511,38
+MEMPHIS GRIZZLIES,240,37,91,9,26,13,18,10,39,25,8,4,7,20,2019-02-03,away,win,96.0,NEW YORK KNICKS,84.0,0.2890625,0.2571428571428571,49
+NEW YORK KNICKS,240,28,74,12,40,16,22,6,39,20,4,6,15,16,2019-02-03,home,loss,84.0,MEMPHIS GRIZZLIES,96.0,0.27450980392156865,0.23076923076923078,45
+LOS ANGELES CLIPPERS,240,38,89,2,12,25,29,7,29,15,7,7,13,24,2019-02-03,away,loss,103.0,TORONTO RAPTORS,121.0,0.2992125984251969,0.14285714285714285,36
+TORONTO RAPTORS,240,43,94,9,33,26,31,16,40,21,10,5,14,28,2019-02-03,home,win,121.0,LOS ANGELES CLIPPERS,103.0,0.31386861313868614,0.21428571428571427,56

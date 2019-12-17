@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,240,34,79,2,11,16,25,10,26,15,11,1,14,27,away,loss,86.0,ATLANTA HAWKS,95.0
-ATLANTA HAWKS,240,30,69,3,11,32,39,13,31,18,7,6,17,20,home,win,95.0,LOS ANGELES CLIPPERS,86.0
-MINNESOTA TIMBERWOLVES,240,35,73,4,15,18,23,7,34,26,5,12,9,18,away,win,92.0,DALLAS MAVERICKS,83.0
-DALLAS MAVERICKS,240,33,103,5,25,12,16,30,30,22,5,1,10,18,home,loss,83.0,MINNESOTA TIMBERWOLVES,92.0
-UTAH JAZZ,240,28,63,0,2,27,36,10,33,15,9,4,18,23,away,win,83.0,MIAMI HEAT,73.0
-MIAMI HEAT,240,27,82,4,24,15,23,19,22,14,5,2,19,28,home,loss,73.0,UTAH JAZZ,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,240,34,79,2,11,16,25,10,26,15,11,1,14,27,2003-03-10,away,loss,86.0,ATLANTA HAWKS,95.0,0.3008849557522124,0.15384615384615385,36
+ATLANTA HAWKS,240,30,69,3,11,32,39,13,31,18,7,6,17,20,2003-03-10,home,win,95.0,LOS ANGELES CLIPPERS,86.0,0.30303030303030304,0.21428571428571427,44
+MINNESOTA TIMBERWOLVES,240,35,73,4,15,18,23,7,34,26,5,12,9,18,2003-03-10,away,win,92.0,DALLAS MAVERICKS,83.0,0.32407407407407407,0.21052631578947367,41
+DALLAS MAVERICKS,240,33,103,5,25,12,16,30,30,22,5,1,10,18,2003-03-10,home,loss,83.0,MINNESOTA TIMBERWOLVES,92.0,0.2426470588235294,0.16666666666666666,60
+UTAH JAZZ,240,28,63,0,2,27,36,10,33,15,9,4,18,23,2003-03-10,away,win,83.0,MIAMI HEAT,73.0,0.3076923076923077,0.0,43
+MIAMI HEAT,240,27,82,4,24,15,23,19,22,14,5,2,19,28,2003-03-10,home,loss,73.0,UTAH JAZZ,83.0,0.24770642201834864,0.14285714285714285,41

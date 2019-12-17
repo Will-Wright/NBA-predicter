@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,51,79,14,25,15,20,6,30,26,7,4,17,32,away,win,131.0,DENVER NUGGETS,117.0
-DENVER NUGGETS,240,40,80,9,26,28,37,6,20,27,6,1,15,22,home,loss,117.0,GOLDEN STATE WARRIORS,131.0
-MILWAUKEE BUCKS,240,36,72,4,18,10,17,4,29,23,9,2,16,21,away,loss,86.0,MIAMI HEAT,98.0
-MIAMI HEAT,240,35,78,6,19,22,26,12,31,17,10,3,14,17,home,win,98.0,MILWAUKEE BUCKS,86.0
-BOSTON CELTICS,240,26,70,5,19,14,18,3,34,14,3,4,11,20,away,loss,71.0,NEW YORK KNICKS,87.0
-NEW YORK KNICKS,240,32,76,7,19,16,22,7,35,14,5,6,10,17,home,win,87.0,BOSTON CELTICS,71.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,51,79,14,25,15,20,6,30,26,7,4,17,32,2013-04-23,away,win,131.0,DENVER NUGGETS,117.0,0.3923076923076923,0.358974358974359,36
+DENVER NUGGETS,240,40,80,9,26,28,37,6,20,27,6,1,15,22,2013-04-23,home,loss,117.0,GOLDEN STATE WARRIORS,131.0,0.3333333333333333,0.2571428571428571,26
+MILWAUKEE BUCKS,240,36,72,4,18,10,17,4,29,23,9,2,16,21,2013-04-23,away,loss,86.0,MIAMI HEAT,98.0,0.3333333333333333,0.18181818181818182,33
+MIAMI HEAT,240,35,78,6,19,22,26,12,31,17,10,3,14,17,2013-04-23,home,win,98.0,MILWAUKEE BUCKS,86.0,0.30973451327433627,0.24,43
+BOSTON CELTICS,240,26,70,5,19,14,18,3,34,14,3,4,11,20,2013-04-23,away,loss,71.0,NEW YORK KNICKS,87.0,0.2708333333333333,0.20833333333333334,37
+NEW YORK KNICKS,240,32,76,7,19,16,22,7,35,14,5,6,10,17,2013-04-23,home,win,87.0,BOSTON CELTICS,71.0,0.2962962962962963,0.2692307692307692,42

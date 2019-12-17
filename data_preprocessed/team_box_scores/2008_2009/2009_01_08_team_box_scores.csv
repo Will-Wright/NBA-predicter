@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,37,89,10,31,10,13,12,32,15,9,1,19,16,away,loss,94.0,DALLAS MAVERICKS,99.0
-DALLAS MAVERICKS,240,38,81,10,27,13,19,11,32,24,14,8,17,14,home,win,99.0,NEW YORK KNICKS,94.0
-LOS ANGELES CLIPPERS,240,35,79,6,13,8,12,11,23,16,6,7,15,12,away,loss,84.0,SAN ANTONIO SPURS,106.0
-SAN ANTONIO SPURS,240,44,86,11,29,7,8,8,31,29,8,8,9,14,home,win,106.0,LOS ANGELES CLIPPERS,84.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,37,89,10,31,10,13,12,32,15,9,1,19,16,2009-01-08,away,loss,94.0,DALLAS MAVERICKS,99.0,0.29365079365079366,0.24390243902439024,44
+DALLAS MAVERICKS,240,38,81,10,27,13,19,11,32,24,14,8,17,14,2009-01-08,home,win,99.0,NEW YORK KNICKS,94.0,0.31932773109243695,0.2702702702702703,43
+LOS ANGELES CLIPPERS,240,35,79,6,13,8,12,11,23,16,6,7,15,12,2009-01-08,away,loss,84.0,SAN ANTONIO SPURS,106.0,0.30701754385964913,0.3157894736842105,34
+SAN ANTONIO SPURS,240,44,86,11,29,7,8,8,31,29,8,8,9,14,2009-01-08,home,win,106.0,LOS ANGELES CLIPPERS,84.0,0.3384615384615385,0.275,39

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,31,77,12,29,31,40,16,30,11,0,1,16,21,away,loss,105.0,OKLAHOMA CITY THUNDER,122.0
-OKLAHOMA CITY THUNDER,240,46,96,8,23,22,24,14,28,20,10,5,2,27,home,win,122.0,LOS ANGELES LAKERS,105.0
-BOSTON CELTICS,240,42,83,11,19,14,16,12,37,34,7,5,22,16,away,win,109.0,PHILADELPHIA 76ERS,101.0
-PHILADELPHIA 76ERS,240,41,100,5,21,14,18,19,26,24,14,3,14,18,home,loss,101.0,BOSTON CELTICS,109.0
-DENVER NUGGETS,240,46,85,8,16,20,32,13,27,30,12,6,12,26,away,win,120.0,SACRAMENTO KINGS,113.0
-SACRAMENTO KINGS,240,39,85,12,31,23,28,14,29,23,5,7,17,23,home,loss,113.0,DENVER NUGGETS,120.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,31,77,12,29,31,40,16,30,11,0,1,16,21,2013-03-05,away,loss,105.0,OKLAHOMA CITY THUNDER,122.0,0.28703703703703703,0.2926829268292683,46
+OKLAHOMA CITY THUNDER,240,46,96,8,23,22,24,14,28,20,10,5,2,27,2013-03-05,home,win,122.0,LOS ANGELES LAKERS,105.0,0.323943661971831,0.25806451612903225,42
+BOSTON CELTICS,240,42,83,11,19,14,16,12,37,34,7,5,22,16,2013-03-05,away,win,109.0,PHILADELPHIA 76ERS,101.0,0.336,0.36666666666666664,49
+PHILADELPHIA 76ERS,240,41,100,5,21,14,18,19,26,24,14,3,14,18,2013-03-05,home,loss,101.0,BOSTON CELTICS,109.0,0.2907801418439716,0.19230769230769232,45
+DENVER NUGGETS,240,46,85,8,16,20,32,13,27,30,12,6,12,26,2013-03-05,away,win,120.0,SACRAMENTO KINGS,113.0,0.3511450381679389,0.3333333333333333,40
+SACRAMENTO KINGS,240,39,85,12,31,23,28,14,29,23,5,7,17,23,2013-03-05,home,loss,113.0,DENVER NUGGETS,120.0,0.31451612903225806,0.27906976744186046,43

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,240,48,85,14,31,25,31,8,26,34,14,1,19,33,away,win,135.0,GOLDEN STATE WARRIORS,131.0
-GOLDEN STATE WARRIORS,240,40,75,11,28,40,45,7,31,31,11,6,22,31,home,loss,131.0,LOS ANGELES CLIPPERS,135.0
-BROOKLYN NETS,240,43,90,15,36,22,29,12,20,20,3,2,14,24,away,loss,123.0,PHILADELPHIA 76ERS,145.0
-PHILADELPHIA 76ERS,240,55,98,9,23,26,32,15,34,29,8,3,12,23,home,win,145.0,BROOKLYN NETS,123.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,240,48,85,14,31,25,31,8,26,34,14,1,19,33,2019-04-15,away,win,135.0,GOLDEN STATE WARRIORS,131.0,0.3609022556390977,0.3111111111111111,34
+GOLDEN STATE WARRIORS,240,40,75,11,28,40,45,7,31,31,11,6,22,31,2019-04-15,home,loss,131.0,LOS ANGELES CLIPPERS,135.0,0.34782608695652173,0.28205128205128205,38
+BROOKLYN NETS,240,43,90,15,36,22,29,12,20,20,3,2,14,24,2019-04-15,away,loss,123.0,PHILADELPHIA 76ERS,145.0,0.3233082706766917,0.29411764705882354,32
+PHILADELPHIA 76ERS,240,55,98,9,23,26,32,15,34,29,8,3,12,23,2019-04-15,home,win,145.0,BROOKLYN NETS,123.0,0.35947712418300654,0.28125,49

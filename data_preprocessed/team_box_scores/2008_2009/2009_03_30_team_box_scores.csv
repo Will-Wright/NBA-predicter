@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MEMPHIS GRIZZLIES,240,40,79,5,18,29,40,12,34,22,11,8,19,20,away,win,114.0,GOLDEN STATE WARRIORS,109.0
-GOLDEN STATE WARRIORS,240,40,92,9,26,20,20,10,29,17,7,8,14,29,home,loss,109.0,MEMPHIS GRIZZLIES,114.0
-ORLANDO MAGIC,240,35,69,10,19,21,27,7,35,20,4,2,21,19,away,win,101.0,MIAMI HEAT,95.0
-MIAMI HEAT,240,39,86,4,12,13,21,10,24,19,10,7,9,21,home,loss,95.0,ORLANDO MAGIC,101.0
-MILWAUKEE BUCKS,240,39,81,10,21,19,27,8,36,27,12,3,13,24,away,win,107.0,NEW JERSEY NETS,78.0
-NEW JERSEY NETS,240,26,70,3,16,23,33,6,34,15,6,6,16,22,home,loss,78.0,MILWAUKEE BUCKS,107.0
-NEW YORK KNICKS,240,36,71,7,23,25,34,6,28,19,13,2,19,26,away,loss,104.0,UTAH JAZZ,112.0
-UTAH JAZZ,240,42,77,5,11,23,30,6,28,27,12,0,18,25,home,win,112.0,NEW YORK KNICKS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MEMPHIS GRIZZLIES,240,40,79,5,18,29,40,12,34,22,11,8,19,20,2009-03-30,away,win,114.0,GOLDEN STATE WARRIORS,109.0,0.33613445378151263,0.21739130434782608,46
+GOLDEN STATE WARRIORS,240,40,92,9,26,20,20,10,29,17,7,8,14,29,2009-03-30,home,loss,109.0,MEMPHIS GRIZZLIES,114.0,0.30303030303030304,0.2571428571428571,39
+ORLANDO MAGIC,240,35,69,10,19,21,27,7,35,20,4,2,21,19,2009-03-30,away,win,101.0,MIAMI HEAT,95.0,0.33653846153846156,0.3448275862068966,42
+MIAMI HEAT,240,39,86,4,12,13,21,10,24,19,10,7,9,21,2009-03-30,home,loss,95.0,ORLANDO MAGIC,101.0,0.312,0.25,34
+MILWAUKEE BUCKS,240,39,81,10,21,19,27,8,36,27,12,3,13,24,2009-03-30,away,win,107.0,NEW JERSEY NETS,78.0,0.325,0.3225806451612903,44
+NEW JERSEY NETS,240,26,70,3,16,23,33,6,34,15,6,6,16,22,2009-03-30,home,loss,78.0,MILWAUKEE BUCKS,107.0,0.2708333333333333,0.15789473684210525,40
+NEW YORK KNICKS,240,36,71,7,23,25,34,6,28,19,13,2,19,26,2009-03-30,away,loss,104.0,UTAH JAZZ,112.0,0.3364485981308411,0.23333333333333334,34
+UTAH JAZZ,240,42,77,5,11,23,30,6,28,27,12,0,18,25,2009-03-30,home,win,112.0,NEW YORK KNICKS,104.0,0.35294117647058826,0.3125,34

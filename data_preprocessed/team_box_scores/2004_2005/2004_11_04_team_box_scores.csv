@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-WASHINGTON WIZARDS,240,36,83,5,15,26,31,11,24,21,14,5,12,25,away,win,103.0,CHARLOTTE BOBCATS,96.0
-CHARLOTTE BOBCATS,240,37,78,1,8,21,32,14,28,22,6,5,19,27,home,loss,96.0,WASHINGTON WIZARDS,103.0
-MINNESOTA TIMBERWOLVES,265,37,82,3,9,15,21,11,39,28,5,9,14,24,away,loss,92.0,DENVER NUGGETS,94.0
-DENVER NUGGETS,265,37,97,3,14,17,21,19,34,25,9,6,11,22,home,win,94.0,MINNESOTA TIMBERWOLVES,92.0
-CLEVELAND CAVALIERS,240,33,85,3,13,17,22,9,29,19,5,3,6,25,away,loss,86.0,MIAMI HEAT,92.0
-MIAMI HEAT,240,36,76,3,11,17,27,8,33,15,5,8,8,20,home,win,92.0,CLEVELAND CAVALIERS,86.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+WASHINGTON WIZARDS,240,36,83,5,15,26,31,11,24,21,14,5,12,25,2004-11-04,away,win,103.0,CHARLOTTE BOBCATS,96.0,0.3025210084033613,0.25,35
+CHARLOTTE BOBCATS,240,37,78,1,8,21,32,14,28,22,6,5,19,27,2004-11-04,home,loss,96.0,WASHINGTON WIZARDS,103.0,0.3217391304347826,0.1111111111111111,42
+MINNESOTA TIMBERWOLVES,265,37,82,3,9,15,21,11,39,28,5,9,14,24,2004-11-04,away,loss,92.0,DENVER NUGGETS,94.0,0.31092436974789917,0.25,50
+DENVER NUGGETS,265,37,97,3,14,17,21,19,34,25,9,6,11,22,2004-11-04,home,win,94.0,MINNESOTA TIMBERWOLVES,92.0,0.27611940298507465,0.17647058823529413,53
+CLEVELAND CAVALIERS,240,33,85,3,13,17,22,9,29,19,5,3,6,25,2004-11-04,away,loss,86.0,MIAMI HEAT,92.0,0.2796610169491525,0.1875,38
+MIAMI HEAT,240,36,76,3,11,17,27,8,33,15,5,8,8,20,2004-11-04,home,win,92.0,CLEVELAND CAVALIERS,86.0,0.32142857142857145,0.21428571428571427,41

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,33,87,11,34,16,21,15,33,21,6,7,12,22,away,loss,93.0,CLEVELAND CAVALIERS,104.0
-CLEVELAND CAVALIERS,240,37,83,15,31,15,21,10,34,27,9,7,8,20,home,win,104.0,ATLANTA HAWKS,93.0
-OKLAHOMA CITY THUNDER,240,38,79,5,19,17,21,9,39,16,8,8,18,19,away,win,98.0,SAN ANTONIO SPURS,97.0
-SAN ANTONIO SPURS,240,40,94,6,23,11,13,9,28,19,10,6,10,16,home,loss,97.0,OKLAHOMA CITY THUNDER,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,33,87,11,34,16,21,15,33,21,6,7,12,22,2016-05-02,away,loss,93.0,CLEVELAND CAVALIERS,104.0,0.275,0.24444444444444444,48
+CLEVELAND CAVALIERS,240,37,83,15,31,15,21,10,34,27,9,7,8,20,2016-05-02,home,win,104.0,ATLANTA HAWKS,93.0,0.30833333333333335,0.32608695652173914,44
+OKLAHOMA CITY THUNDER,240,38,79,5,19,17,21,9,39,16,8,8,18,19,2016-05-02,away,win,98.0,SAN ANTONIO SPURS,97.0,0.3247863247863248,0.20833333333333334,48
+SAN ANTONIO SPURS,240,40,94,6,23,11,13,9,28,19,10,6,10,16,2016-05-02,home,loss,97.0,OKLAHOMA CITY THUNDER,98.0,0.29850746268656714,0.20689655172413793,37

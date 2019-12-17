@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,38,73,7,11,16,27,10,23,22,6,4,12,18,away,loss,99.0,CHICAGO BULLS,113.0
-CHICAGO BULLS,240,43,82,8,22,19,19,8,25,24,9,2,10,19,home,win,113.0,PHILADELPHIA 76ERS,99.0
-DENVER NUGGETS,240,36,81,5,21,25,29,10,36,21,3,3,13,32,away,loss,102.0,LOS ANGELES LAKERS,116.0
-LOS ANGELES LAKERS,240,37,87,5,24,37,46,18,33,21,9,2,11,25,home,win,116.0,DENVER NUGGETS,102.0
-HOUSTON ROCKETS,240,47,87,11,21,10,11,10,30,18,9,6,12,16,away,win,115.0,SACRAMENTO KINGS,98.0
-SACRAMENTO KINGS,240,37,84,10,23,14,17,11,26,20,4,5,15,13,home,loss,98.0,HOUSTON ROCKETS,115.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,38,73,7,11,16,27,10,23,22,6,4,12,18,2009-04-09,away,loss,99.0,CHICAGO BULLS,113.0,0.34234234234234234,0.3888888888888889,33
+CHICAGO BULLS,240,43,82,8,22,19,19,8,25,24,9,2,10,19,2009-04-09,home,win,113.0,PHILADELPHIA 76ERS,99.0,0.344,0.26666666666666666,33
+DENVER NUGGETS,240,36,81,5,21,25,29,10,36,21,3,3,13,32,2009-04-09,away,loss,102.0,LOS ANGELES LAKERS,116.0,0.3076923076923077,0.19230769230769232,46
+LOS ANGELES LAKERS,240,37,87,5,24,37,46,18,33,21,9,2,11,25,2009-04-09,home,win,116.0,DENVER NUGGETS,102.0,0.29838709677419356,0.1724137931034483,51
+HOUSTON ROCKETS,240,47,87,11,21,10,11,10,30,18,9,6,12,16,2009-04-09,away,win,115.0,SACRAMENTO KINGS,98.0,0.35074626865671643,0.34375,40
+SACRAMENTO KINGS,240,37,84,10,23,14,17,11,26,20,4,5,15,13,2009-04-09,home,loss,98.0,HOUSTON ROCKETS,115.0,0.30578512396694213,0.30303030303030304,37

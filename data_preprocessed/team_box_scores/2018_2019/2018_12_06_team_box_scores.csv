@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,36,91,12,35,16,20,14,33,21,4,5,16,23,away,loss,100.0,BOSTON CELTICS,128.0
-BOSTON CELTICS,240,49,92,13,38,17,20,7,39,32,8,6,9,24,home,win,128.0,NEW YORK KNICKS,100.0
-PHOENIX SUNS,240,35,91,5,27,11,14,11,30,20,11,2,16,21,away,loss,86.0,PORTLAND TRAIL BLAZERS,108.0
-PORTLAND TRAIL BLAZERS,240,41,85,9,27,17,27,13,43,24,10,6,17,19,home,win,108.0,PHOENIX SUNS,86.0
-HOUSTON ROCKETS,240,34,88,8,36,15,17,14,29,13,5,5,23,26,away,loss,91.0,UTAH JAZZ,118.0
-UTAH JAZZ,240,45,89,8,32,20,27,12,35,26,16,4,12,24,home,win,118.0,HOUSTON ROCKETS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,36,91,12,35,16,20,14,33,21,4,5,16,23,2018-12-06,away,loss,100.0,BOSTON CELTICS,128.0,0.28346456692913385,0.2553191489361702,47
+BOSTON CELTICS,240,49,92,13,38,17,20,7,39,32,8,6,9,24,2018-12-06,home,win,128.0,NEW YORK KNICKS,100.0,0.3475177304964539,0.2549019607843137,46
+PHOENIX SUNS,240,35,91,5,27,11,14,11,30,20,11,2,16,21,2018-12-06,away,loss,86.0,PORTLAND TRAIL BLAZERS,108.0,0.2777777777777778,0.15625,41
+PORTLAND TRAIL BLAZERS,240,41,85,9,27,17,27,13,43,24,10,6,17,19,2018-12-06,home,win,108.0,PHOENIX SUNS,86.0,0.3253968253968254,0.25,56
+HOUSTON ROCKETS,240,34,88,8,36,15,17,14,29,13,5,5,23,26,2018-12-06,away,loss,91.0,UTAH JAZZ,118.0,0.2786885245901639,0.18181818181818182,43
+UTAH JAZZ,240,45,89,8,32,20,27,12,35,26,16,4,12,24,2018-12-06,home,win,118.0,HOUSTON ROCKETS,91.0,0.3358208955223881,0.2,47

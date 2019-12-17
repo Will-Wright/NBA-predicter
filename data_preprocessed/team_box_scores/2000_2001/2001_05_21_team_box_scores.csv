@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,35,79,8,18,10,18,9,32,17,9,5,7,19,away,win,88.0,SAN ANTONIO SPURS,81.0
-SAN ANTONIO SPURS,240,27,71,4,16,23,25,11,31,17,4,7,14,17,home,loss,81.0,LOS ANGELES LAKERS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,35,79,8,18,10,18,9,32,17,9,5,7,19,2001-05-21,away,win,88.0,SAN ANTONIO SPURS,81.0,0.30701754385964913,0.3076923076923077,41
+SAN ANTONIO SPURS,240,27,71,4,16,23,25,11,31,17,4,7,14,17,2001-05-21,home,loss,81.0,LOS ANGELES LAKERS,88.0,0.2755102040816326,0.2,42

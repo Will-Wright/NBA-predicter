@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,31,77,6,17,28,37,10,26,16,4,3,11,19,away,loss,96.0,MINNESOTA TIMBERWOLVES,106.0
-MINNESOTA TIMBERWOLVES,240,41,82,3,9,21,27,11,36,35,6,2,8,29,home,win,106.0,HOUSTON ROCKETS,96.0
-CHARLOTTE HORNETS,240,26,80,3,10,12,14,15,26,16,7,1,15,25,away,loss,67.0,PORTLAND TRAIL BLAZERS,89.0
-PORTLAND TRAIL BLAZERS,240,29,70,4,15,27,30,11,36,20,8,4,14,17,home,win,89.0,CHARLOTTE HORNETS,67.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,31,77,6,17,28,37,10,26,16,4,3,11,19,2001-01-01,away,loss,96.0,MINNESOTA TIMBERWOLVES,106.0,0.28703703703703703,0.2608695652173913,36
+MINNESOTA TIMBERWOLVES,240,41,82,3,9,21,27,11,36,35,6,2,8,29,2001-01-01,home,win,106.0,HOUSTON ROCKETS,96.0,0.3333333333333333,0.25,47
+CHARLOTTE HORNETS,240,26,80,3,10,12,14,15,26,16,7,1,15,25,2001-01-01,away,loss,67.0,PORTLAND TRAIL BLAZERS,89.0,0.24528301886792453,0.23076923076923078,41
+PORTLAND TRAIL BLAZERS,240,29,70,4,15,27,30,11,36,20,8,4,14,17,2001-01-01,home,win,89.0,CHARLOTTE HORNETS,67.0,0.29292929292929293,0.21052631578947367,47

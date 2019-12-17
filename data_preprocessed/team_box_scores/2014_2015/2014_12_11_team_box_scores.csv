@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,31,85,9,28,23,30,15,33,20,5,4,14,20,away,loss,94.0,OKLAHOMA CITY THUNDER,103.0
-OKLAHOMA CITY THUNDER,240,38,87,7,26,20,22,11,35,22,9,11,11,23,home,win,103.0,CLEVELAND CAVALIERS,94.0
-HOUSTON ROCKETS,265,38,95,15,44,22,31,14,28,18,13,3,14,27,away,win,113.0,SACRAMENTO KINGS,109.0
-SACRAMENTO KINGS,265,39,84,8,18,23,34,11,33,22,8,4,21,23,home,loss,109.0,HOUSTON ROCKETS,113.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,31,85,9,28,23,30,15,33,20,5,4,14,20,2014-12-11,away,loss,94.0,OKLAHOMA CITY THUNDER,103.0,0.2672413793103448,0.24324324324324326,48
+OKLAHOMA CITY THUNDER,240,38,87,7,26,20,22,11,35,22,9,11,11,23,2014-12-11,home,win,103.0,CLEVELAND CAVALIERS,94.0,0.304,0.21212121212121213,46
+HOUSTON ROCKETS,265,38,95,15,44,22,31,14,28,18,13,3,14,27,2014-12-11,away,win,113.0,SACRAMENTO KINGS,109.0,0.2857142857142857,0.2542372881355932,42
+SACRAMENTO KINGS,265,39,84,8,18,23,34,11,33,22,8,4,21,23,2014-12-11,home,loss,109.0,HOUSTON ROCKETS,113.0,0.3170731707317073,0.3076923076923077,44

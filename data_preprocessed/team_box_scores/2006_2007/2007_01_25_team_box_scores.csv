@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,29,93,7,23,20,23,19,26,16,8,7,8,15,away,loss,85.0,CHICAGO BULLS,96.0
-CHICAGO BULLS,240,36,84,5,10,19,24,20,39,18,5,6,15,21,home,win,96.0,DALLAS MAVERICKS,85.0
-NEW JERSEY NETS,240,38,76,7,15,18,25,6,29,20,4,3,14,27,away,loss,101.0,LOS ANGELES CLIPPERS,102.0
-LOS ANGELES CLIPPERS,240,34,78,5,14,29,34,10,27,27,11,13,12,23,home,win,102.0,NEW JERSEY NETS,101.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,29,93,7,23,20,23,19,26,16,8,7,8,15,2007-01-25,away,loss,85.0,CHICAGO BULLS,96.0,0.23770491803278687,0.23333333333333334,45
+CHICAGO BULLS,240,36,84,5,10,19,24,20,39,18,5,6,15,21,2007-01-25,home,win,96.0,DALLAS MAVERICKS,85.0,0.3,0.3333333333333333,59
+NEW JERSEY NETS,240,38,76,7,15,18,25,6,29,20,4,3,14,27,2007-01-25,away,loss,101.0,LOS ANGELES CLIPPERS,102.0,0.3333333333333333,0.3181818181818182,35
+LOS ANGELES CLIPPERS,240,34,78,5,14,29,34,10,27,27,11,13,12,23,2007-01-25,home,win,102.0,NEW JERSEY NETS,101.0,0.30357142857142855,0.2631578947368421,37

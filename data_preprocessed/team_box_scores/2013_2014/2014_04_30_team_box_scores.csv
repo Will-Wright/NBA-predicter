@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PORTLAND TRAIL BLAZERS,240,36,83,9,25,17,23,9,25,14,8,14,10,21,away,loss,98.0,HOUSTON ROCKETS,108.0
-HOUSTON ROCKETS,240,43,91,8,25,14,18,14,34,23,7,8,12,21,home,win,108.0,PORTLAND TRAIL BLAZERS,98.0
-DALLAS MAVERICKS,240,39,89,12,28,13,15,9,38,18,2,8,8,21,away,loss,103.0,SAN ANTONIO SPURS,109.0
-SAN ANTONIO SPURS,240,41,88,8,16,19,27,12,35,24,6,5,5,15,home,win,109.0,DALLAS MAVERICKS,103.0
-BROOKLYN NETS,240,40,75,11,23,22,30,10,24,22,8,4,14,27,away,loss,113.0,TORONTO RAPTORS,115.0
-TORONTO RAPTORS,240,37,77,12,26,29,36,9,28,21,6,2,11,25,home,win,115.0,BROOKLYN NETS,113.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PORTLAND TRAIL BLAZERS,240,36,83,9,25,17,23,9,25,14,8,14,10,21,2014-04-30,away,loss,98.0,HOUSTON ROCKETS,108.0,0.3025210084033613,0.2647058823529412,34
+HOUSTON ROCKETS,240,43,91,8,25,14,18,14,34,23,7,8,12,21,2014-04-30,home,win,108.0,PORTLAND TRAIL BLAZERS,98.0,0.3208955223880597,0.24242424242424243,48
+DALLAS MAVERICKS,240,39,89,12,28,13,15,9,38,18,2,8,8,21,2014-04-30,away,loss,103.0,SAN ANTONIO SPURS,109.0,0.3046875,0.3,47
+SAN ANTONIO SPURS,240,41,88,8,16,19,27,12,35,24,6,5,5,15,2014-04-30,home,win,109.0,DALLAS MAVERICKS,103.0,0.3178294573643411,0.3333333333333333,47
+BROOKLYN NETS,240,40,75,11,23,22,30,10,24,22,8,4,14,27,2014-04-30,away,loss,113.0,TORONTO RAPTORS,115.0,0.34782608695652173,0.3235294117647059,34
+TORONTO RAPTORS,240,37,77,12,26,29,36,9,28,21,6,2,11,25,2014-04-30,home,win,115.0,BROOKLYN NETS,113.0,0.32456140350877194,0.3157894736842105,37

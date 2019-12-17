@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,40,88,7,17,9,16,12,29,22,7,3,7,22,away,loss,96.0,MILWAUKEE BUCKS,103.0
-MILWAUKEE BUCKS,240,36,83,6,11,25,33,18,35,23,5,3,12,15,home,win,103.0,ORLANDO MAGIC,96.0
-PHOENIX SUNS,240,32,96,4,17,22,26,17,25,21,11,5,8,17,away,loss,90.0,SACRAMENTO KINGS,116.0
-SACRAMENTO KINGS,240,44,88,7,16,21,25,14,41,23,6,6,15,20,home,win,116.0,PHOENIX SUNS,90.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,40,88,7,17,9,16,12,29,22,7,3,7,22,2001-04-25,away,loss,96.0,MILWAUKEE BUCKS,103.0,0.3125,0.2916666666666667,41
+MILWAUKEE BUCKS,240,36,83,6,11,25,33,18,35,23,5,3,12,15,2001-04-25,home,win,103.0,ORLANDO MAGIC,96.0,0.3025210084033613,0.35294117647058826,53
+PHOENIX SUNS,240,32,96,4,17,22,26,17,25,21,11,5,8,17,2001-04-25,away,loss,90.0,SACRAMENTO KINGS,116.0,0.25,0.19047619047619047,42
+SACRAMENTO KINGS,240,44,88,7,16,21,25,14,41,23,6,6,15,20,2001-04-25,home,win,116.0,PHOENIX SUNS,90.0,0.3333333333333333,0.30434782608695654,55

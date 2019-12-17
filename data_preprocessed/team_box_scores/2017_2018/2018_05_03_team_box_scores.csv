@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,40,92,13,33,10,14,16,33,30,7,4,11,21,away,loss,103.0,BOSTON CELTICS,108.0
-BOSTON CELTICS,240,37,82,15,36,19,24,5,36,23,7,3,9,16,home,win,108.0,PHILADELPHIA 76ERS,103.0
-CLEVELAND CAVALIERS,240,50,84,11,26,17,23,5,29,25,5,3,3,14,away,win,128.0,TORONTO RAPTORS,110.0
-TORONTO RAPTORS,240,44,81,12,30,10,11,5,30,26,2,2,11,24,home,loss,110.0,CLEVELAND CAVALIERS,128.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,40,92,13,33,10,14,16,33,30,7,4,11,21,2018-05-03,away,loss,103.0,BOSTON CELTICS,108.0,0.30303030303030304,0.2826086956521739,49
+BOSTON CELTICS,240,37,82,15,36,19,24,5,36,23,7,3,9,16,2018-05-03,home,win,108.0,PHILADELPHIA 76ERS,103.0,0.31092436974789917,0.29411764705882354,41
+CLEVELAND CAVALIERS,240,50,84,11,26,17,23,5,29,25,5,3,3,14,2018-05-03,away,win,128.0,TORONTO RAPTORS,110.0,0.373134328358209,0.2972972972972973,34
+TORONTO RAPTORS,240,44,81,12,30,10,11,5,30,26,2,2,11,24,2018-05-03,home,loss,110.0,CLEVELAND CAVALIERS,128.0,0.352,0.2857142857142857,35

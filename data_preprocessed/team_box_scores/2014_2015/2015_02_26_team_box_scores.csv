@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,39,92,11,29,10,19,14,30,32,10,6,14,24,away,loss,99.0,CLEVELAND CAVALIERS,110.0
-CLEVELAND CAVALIERS,240,36,77,9,28,29,35,8,43,15,10,2,16,19,home,win,110.0,GOLDEN STATE WARRIORS,99.0
-OKLAHOMA CITY THUNDER,265,39,101,8,24,27,30,13,37,17,6,4,10,24,away,loss,113.0,PHOENIX SUNS,117.0
-PHOENIX SUNS,265,48,97,9,26,12,21,10,42,21,4,9,13,24,home,win,117.0,OKLAHOMA CITY THUNDER,113.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,39,92,11,29,10,19,14,30,32,10,6,14,24,2015-02-26,away,loss,99.0,CLEVELAND CAVALIERS,110.0,0.29770992366412213,0.275,44
+CLEVELAND CAVALIERS,240,36,77,9,28,29,35,8,43,15,10,2,16,19,2015-02-26,home,win,110.0,GOLDEN STATE WARRIORS,99.0,0.3185840707964602,0.24324324324324326,51
+OKLAHOMA CITY THUNDER,265,39,101,8,24,27,30,13,37,17,6,4,10,24,2015-02-26,away,loss,113.0,PHOENIX SUNS,117.0,0.2785714285714286,0.25,50
+PHOENIX SUNS,265,48,97,9,26,12,21,10,42,21,4,9,13,24,2015-02-26,home,win,117.0,OKLAHOMA CITY THUNDER,113.0,0.3310344827586207,0.2571428571428571,52

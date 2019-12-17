@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,43,105,10,25,19,24,20,26,17,10,2,7,23,away,loss,115.0,PHOENIX SUNS,123.0
-PHOENIX SUNS,240,45,82,12,24,21,28,11,35,27,2,8,16,18,home,win,123.0,GOLDEN STATE WARRIORS,115.0
-PORTLAND TRAIL BLAZERS,240,30,78,6,17,19,25,13,30,13,5,7,19,27,away,loss,85.0,SACRAMENTO KINGS,96.0
-SACRAMENTO KINGS,240,34,74,4,19,24,28,5,32,18,11,3,14,18,home,win,96.0,PORTLAND TRAIL BLAZERS,85.0
-CLEVELAND CAVALIERS,240,34,81,13,32,18,24,18,33,18,4,4,17,26,away,loss,99.0,WASHINGTON WIZARDS,101.0
-WASHINGTON WIZARDS,240,36,74,7,19,22,32,7,29,20,8,1,9,25,home,win,101.0,CLEVELAND CAVALIERS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,43,105,10,25,19,24,20,26,17,10,2,7,23,2008-03-13,away,loss,115.0,PHOENIX SUNS,123.0,0.2905405405405405,0.2857142857142857,46
+PHOENIX SUNS,240,45,82,12,24,21,28,11,35,27,2,8,16,18,2008-03-13,home,win,123.0,GOLDEN STATE WARRIORS,115.0,0.3543307086614173,0.3333333333333333,46
+PORTLAND TRAIL BLAZERS,240,30,78,6,17,19,25,13,30,13,5,7,19,27,2008-03-13,away,loss,85.0,SACRAMENTO KINGS,96.0,0.2777777777777778,0.2608695652173913,43
+SACRAMENTO KINGS,240,34,74,4,19,24,28,5,32,18,11,3,14,18,2008-03-13,home,win,96.0,PORTLAND TRAIL BLAZERS,85.0,0.3148148148148148,0.17391304347826086,37
+CLEVELAND CAVALIERS,240,34,81,13,32,18,24,18,33,18,4,4,17,26,2008-03-13,away,loss,99.0,WASHINGTON WIZARDS,101.0,0.2956521739130435,0.28888888888888886,51
+WASHINGTON WIZARDS,240,36,74,7,19,22,32,7,29,20,8,1,9,25,2008-03-13,home,win,101.0,CLEVELAND CAVALIERS,99.0,0.32727272727272727,0.2692307692307692,36

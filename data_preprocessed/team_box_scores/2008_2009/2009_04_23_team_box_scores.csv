@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,38,79,12,21,19,24,8,29,23,16,10,13,21,away,win,107.0,CHICAGO BULLS,86.0
-CHICAGO BULLS,240,30,80,9,22,17,27,15,30,14,5,4,22,18,home,loss,86.0,BOSTON CELTICS,107.0
-SAN ANTONIO SPURS,240,25,78,2,17,15,21,8,33,10,7,2,11,18,away,loss,67.0,DALLAS MAVERICKS,88.0
-DALLAS MAVERICKS,240,34,72,8,22,12,16,5,46,20,8,8,13,20,home,win,88.0,SAN ANTONIO SPURS,67.0
-LOS ANGELES LAKERS,240,32,87,6,17,16,26,16,24,15,7,2,9,25,away,loss,86.0,UTAH JAZZ,88.0
-UTAH JAZZ,240,33,75,4,13,18,28,14,41,23,5,6,15,22,home,win,88.0,LOS ANGELES LAKERS,86.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,38,79,12,21,19,24,8,29,23,16,10,13,21,2009-04-23,away,win,107.0,CHICAGO BULLS,86.0,0.3247863247863248,0.36363636363636365,37
+CHICAGO BULLS,240,30,80,9,22,17,27,15,30,14,5,4,22,18,2009-04-23,home,loss,86.0,BOSTON CELTICS,107.0,0.2727272727272727,0.2903225806451613,45
+SAN ANTONIO SPURS,240,25,78,2,17,15,21,8,33,10,7,2,11,18,2009-04-23,away,loss,67.0,DALLAS MAVERICKS,88.0,0.24271844660194175,0.10526315789473684,41
+DALLAS MAVERICKS,240,34,72,8,22,12,16,5,46,20,8,8,13,20,2009-04-23,home,win,88.0,SAN ANTONIO SPURS,67.0,0.32075471698113206,0.26666666666666666,51
+LOS ANGELES LAKERS,240,32,87,6,17,16,26,16,24,15,7,2,9,25,2009-04-23,away,loss,86.0,UTAH JAZZ,88.0,0.2689075630252101,0.2608695652173913,40
+UTAH JAZZ,240,33,75,4,13,18,28,14,41,23,5,6,15,22,2009-04-23,home,win,88.0,LOS ANGELES LAKERS,86.0,0.3055555555555556,0.23529411764705882,55

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MINNESOTA TIMBERWOLVES,240,40,81,4,7,18,27,14,24,25,4,3,11,16,away,win,102.0,CHARLOTTE BOBCATS,96.0
-CHARLOTTE BOBCATS,240,39,75,10,19,8,11,10,26,25,5,4,16,28,home,loss,96.0,MINNESOTA TIMBERWOLVES,102.0
-BOSTON CELTICS,240,32,73,2,4,23,27,10,32,13,6,1,16,22,away,win,89.0,PORTLAND TRAIL BLAZERS,81.0
-PORTLAND TRAIL BLAZERS,240,28,72,5,17,20,25,9,29,16,9,1,16,23,home,loss,81.0,BOSTON CELTICS,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MINNESOTA TIMBERWOLVES,240,40,81,4,7,18,27,14,24,25,4,3,11,16,2007-01-01,away,win,102.0,CHARLOTTE BOBCATS,96.0,0.3305785123966942,0.36363636363636365,38
+CHARLOTTE BOBCATS,240,39,75,10,19,8,11,10,26,25,5,4,16,28,2007-01-01,home,loss,96.0,MINNESOTA TIMBERWOLVES,102.0,0.34210526315789475,0.3448275862068966,36
+BOSTON CELTICS,240,32,73,2,4,23,27,10,32,13,6,1,16,22,2007-01-01,away,win,89.0,PORTLAND TRAIL BLAZERS,81.0,0.3047619047619048,0.3333333333333333,42
+PORTLAND TRAIL BLAZERS,240,28,72,5,17,20,25,9,29,16,9,1,16,23,2007-01-01,home,loss,81.0,BOSTON CELTICS,89.0,0.28,0.22727272727272727,38

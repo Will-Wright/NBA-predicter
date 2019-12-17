@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,36,84,5,15,19,26,19,40,19,9,11,16,15,away,win,96.0,DALLAS MAVERICKS,83.0
-DALLAS MAVERICKS,240,35,87,9,19,4,6,7,29,24,8,8,13,23,home,loss,83.0,SAN ANTONIO SPURS,96.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,36,84,5,15,19,26,19,40,19,9,11,16,15,2003-05-23,away,win,96.0,DALLAS MAVERICKS,83.0,0.3,0.25,59
+DALLAS MAVERICKS,240,35,87,9,19,4,6,7,29,24,8,8,13,23,2003-05-23,home,loss,83.0,SAN ANTONIO SPURS,96.0,0.28688524590163933,0.32142857142857145,36

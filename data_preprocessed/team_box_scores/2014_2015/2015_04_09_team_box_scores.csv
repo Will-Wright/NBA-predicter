@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PORTLAND TRAIL BLAZERS,240,46,98,7,24,6,8,11,30,28,6,5,9,12,away,loss,105.0,GOLDEN STATE WARRIORS,116.0
-GOLDEN STATE WARRIORS,240,48,90,12,26,8,9,9,35,27,6,5,13,12,home,win,116.0,PORTLAND TRAIL BLAZERS,105.0
-CHICAGO BULLS,240,35,91,6,23,13,17,15,36,17,10,2,11,11,away,win,89.0,MIAMI HEAT,78.0
-MIAMI HEAT,240,34,88,5,18,5,7,13,33,14,2,7,14,17,home,loss,78.0,CHICAGO BULLS,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PORTLAND TRAIL BLAZERS,240,46,98,7,24,6,8,11,30,28,6,5,9,12,2015-04-09,away,loss,105.0,GOLDEN STATE WARRIORS,116.0,0.3194444444444444,0.22580645161290322,41
+GOLDEN STATE WARRIORS,240,48,90,12,26,8,9,9,35,27,6,5,13,12,2015-04-09,home,win,116.0,PORTLAND TRAIL BLAZERS,105.0,0.34782608695652173,0.3157894736842105,44
+CHICAGO BULLS,240,35,91,6,23,13,17,15,36,17,10,2,11,11,2015-04-09,away,win,89.0,MIAMI HEAT,78.0,0.2777777777777778,0.20689655172413793,51
+MIAMI HEAT,240,34,88,5,18,5,7,13,33,14,2,7,14,17,2015-04-09,home,loss,78.0,CHICAGO BULLS,89.0,0.2786885245901639,0.21739130434782608,46

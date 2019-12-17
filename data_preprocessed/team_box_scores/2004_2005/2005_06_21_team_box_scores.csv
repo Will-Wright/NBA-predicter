@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,37,79,8,17,13,19,13,27,19,6,8,5,21,away,win,95.0,SAN ANTONIO SPURS,86.0
-SAN ANTONIO SPURS,240,31,75,8,28,16,26,13,30,15,3,2,11,18,home,loss,86.0,DETROIT PISTONS,95.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,37,79,8,17,13,19,13,27,19,6,8,5,21,2005-06-21,away,win,95.0,SAN ANTONIO SPURS,86.0,0.31896551724137934,0.32,40
+SAN ANTONIO SPURS,240,31,75,8,28,16,26,13,30,15,3,2,11,18,2005-06-21,home,loss,86.0,DETROIT PISTONS,95.0,0.29245283018867924,0.2222222222222222,43

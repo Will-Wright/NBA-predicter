@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,265,47,100,5,13,16,19,18,29,29,5,10,12,31,away,loss,115.0,MEMPHIS GRIZZLIES,119.0
-MEMPHIS GRIZZLIES,265,44,88,2,6,29,40,12,33,32,6,12,9,22,home,win,119.0,LOS ANGELES CLIPPERS,115.0
-MIAMI HEAT,240,33,80,5,16,18,21,17,20,16,8,4,16,33,away,loss,89.0,UTAH JAZZ,101.0
-UTAH JAZZ,240,30,55,5,7,36,44,3,19,19,8,5,14,20,home,win,101.0,MIAMI HEAT,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,265,47,100,5,13,16,19,18,29,29,5,10,12,31,2002-01-28,away,loss,115.0,MEMPHIS GRIZZLIES,119.0,0.3197278911564626,0.2777777777777778,47
+MEMPHIS GRIZZLIES,265,44,88,2,6,29,40,12,33,32,6,12,9,22,2002-01-28,home,win,119.0,LOS ANGELES CLIPPERS,115.0,0.3333333333333333,0.25,45
+MIAMI HEAT,240,33,80,5,16,18,21,17,20,16,8,4,16,33,2002-01-28,away,loss,89.0,UTAH JAZZ,101.0,0.2920353982300885,0.23809523809523808,37
+UTAH JAZZ,240,30,55,5,7,36,44,3,19,19,8,5,14,20,2002-01-28,home,win,101.0,MIAMI HEAT,89.0,0.35294117647058826,0.4166666666666667,22

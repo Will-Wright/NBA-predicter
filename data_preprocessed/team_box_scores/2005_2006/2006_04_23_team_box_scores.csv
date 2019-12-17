@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MEMPHIS GRIZZLIES,240,33,62,6,14,21,29,7,22,16,8,4,19,31,away,loss,93.0,DALLAS MAVERICKS,103.0
-DALLAS MAVERICKS,240,34,74,5,13,30,35,15,25,17,12,3,14,27,home,win,103.0,MEMPHIS GRIZZLIES,93.0
-MILWAUKEE BUCKS,240,31,87,4,13,8,10,10,32,14,6,1,10,25,away,loss,74.0,DETROIT PISTONS,92.0
-DETROIT PISTONS,240,31,75,6,18,24,34,11,38,17,7,8,11,17,home,win,92.0,MILWAUKEE BUCKS,74.0
-INDIANA PACERS,240,30,64,5,12,25,30,9,31,19,3,3,17,25,away,win,90.0,NEW JERSEY NETS,88.0
-NEW JERSEY NETS,240,34,80,1,15,19,26,10,23,24,7,3,5,26,home,loss,88.0,INDIANA PACERS,90.0
-LOS ANGELES LAKERS,240,38,90,5,21,21,27,15,32,13,4,4,10,25,away,loss,102.0,PHOENIX SUNS,107.0
-PHOENIX SUNS,240,33,73,9,20,32,35,5,31,19,6,3,9,23,home,win,107.0,LOS ANGELES LAKERS,102.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MEMPHIS GRIZZLIES,240,33,62,6,14,21,29,7,22,16,8,4,19,31,2006-04-23,away,loss,93.0,DALLAS MAVERICKS,103.0,0.3473684210526316,0.3,29
+DALLAS MAVERICKS,240,34,74,5,13,30,35,15,25,17,12,3,14,27,2006-04-23,home,win,103.0,MEMPHIS GRIZZLIES,93.0,0.3148148148148148,0.2777777777777778,40
+MILWAUKEE BUCKS,240,31,87,4,13,8,10,10,32,14,6,1,10,25,2006-04-23,away,loss,74.0,DETROIT PISTONS,92.0,0.2627118644067797,0.23529411764705882,42
+DETROIT PISTONS,240,31,75,6,18,24,34,11,38,17,7,8,11,17,2006-04-23,home,win,92.0,MILWAUKEE BUCKS,74.0,0.29245283018867924,0.25,49
+INDIANA PACERS,240,30,64,5,12,25,30,9,31,19,3,3,17,25,2006-04-23,away,win,90.0,NEW JERSEY NETS,88.0,0.3191489361702128,0.29411764705882354,40
+NEW JERSEY NETS,240,34,80,1,15,19,26,10,23,24,7,3,5,26,2006-04-23,home,loss,88.0,INDIANA PACERS,90.0,0.2982456140350877,0.0625,33
+LOS ANGELES LAKERS,240,38,90,5,21,21,27,15,32,13,4,4,10,25,2006-04-23,away,loss,102.0,PHOENIX SUNS,107.0,0.296875,0.19230769230769232,47
+PHOENIX SUNS,240,33,73,9,20,32,35,5,31,19,6,3,9,23,2006-04-23,home,win,107.0,LOS ANGELES LAKERS,102.0,0.3113207547169811,0.3103448275862069,36

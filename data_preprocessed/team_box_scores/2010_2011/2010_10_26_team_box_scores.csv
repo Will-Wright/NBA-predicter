@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,27,74,8,20,18,25,11,28,15,10,6,17,21,away,loss,80.0,BOSTON CELTICS,88.0
-BOSTON CELTICS,240,32,69,8,16,16,25,8,34,25,6,4,18,19,home,win,88.0,MIAMI HEAT,80.0
-HOUSTON ROCKETS,240,38,91,8,20,26,28,16,37,25,6,7,20,25,away,loss,110.0,LOS ANGELES LAKERS,112.0
-LOS ANGELES LAKERS,240,40,96,9,21,23,28,14,30,21,11,4,12,24,home,win,112.0,HOUSTON ROCKETS,110.0
-PHOENIX SUNS,240,36,74,9,19,11,16,7,23,15,3,4,19,19,away,loss,92.0,PORTLAND TRAIL BLAZERS,106.0
-PORTLAND TRAIL BLAZERS,240,43,93,10,20,10,15,18,30,31,11,2,12,22,home,win,106.0,PHOENIX SUNS,92.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,27,74,8,20,18,25,11,28,15,10,6,17,21,2010-10-26,away,loss,80.0,BOSTON CELTICS,88.0,0.26732673267326734,0.2857142857142857,39
+BOSTON CELTICS,240,32,69,8,16,16,25,8,34,25,6,4,18,19,2010-10-26,home,win,88.0,MIAMI HEAT,80.0,0.31683168316831684,0.3333333333333333,42
+HOUSTON ROCKETS,240,38,91,8,20,26,28,16,37,25,6,7,20,25,2010-10-26,away,loss,110.0,LOS ANGELES LAKERS,112.0,0.29457364341085274,0.2857142857142857,53
+LOS ANGELES LAKERS,240,40,96,9,21,23,28,14,30,21,11,4,12,24,2010-10-26,home,win,112.0,HOUSTON ROCKETS,110.0,0.29411764705882354,0.3,44
+PHOENIX SUNS,240,36,74,9,19,11,16,7,23,15,3,4,19,19,2010-10-26,away,loss,92.0,PORTLAND TRAIL BLAZERS,106.0,0.32727272727272727,0.32142857142857145,30
+PORTLAND TRAIL BLAZERS,240,43,93,10,20,10,15,18,30,31,11,2,12,22,2010-10-26,home,win,106.0,PHOENIX SUNS,92.0,0.3161764705882353,0.3333333333333333,48

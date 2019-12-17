@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-INDIANA PACERS,240,32,84,7,23,20,25,15,30,22,8,4,13,28,away,loss,91.0,ATLANTA HAWKS,102.0
-ATLANTA HAWKS,240,33,74,11,24,25,38,11,35,24,10,4,13,25,home,win,102.0,INDIANA PACERS,91.0
-CHICAGO BULLS,240,37,75,4,12,13,18,11,22,20,8,4,12,20,away,loss,91.0,BROOKLYN NETS,110.0
-BROOKLYN NETS,240,42,84,6,17,20,23,17,27,19,7,2,11,19,home,win,110.0,CHICAGO BULLS,91.0
-OKLAHOMA CITY THUNDER,240,35,72,11,25,22,25,9,27,18,9,5,20,26,away,loss,103.0,HOUSTON ROCKETS,105.0
-HOUSTON ROCKETS,240,37,76,12,27,19,24,14,25,21,10,7,22,26,home,win,105.0,OKLAHOMA CITY THUNDER,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+INDIANA PACERS,240,32,84,7,23,20,25,15,30,22,8,4,13,28,2013-04-29,away,loss,91.0,ATLANTA HAWKS,102.0,0.27586206896551724,0.23333333333333334,45
+ATLANTA HAWKS,240,33,74,11,24,25,38,11,35,24,10,4,13,25,2013-04-29,home,win,102.0,INDIANA PACERS,91.0,0.308411214953271,0.3142857142857143,46
+CHICAGO BULLS,240,37,75,4,12,13,18,11,22,20,8,4,12,20,2013-04-29,away,loss,91.0,BROOKLYN NETS,110.0,0.33035714285714285,0.25,33
+BROOKLYN NETS,240,42,84,6,17,20,23,17,27,19,7,2,11,19,2013-04-29,home,win,110.0,CHICAGO BULLS,91.0,0.3333333333333333,0.2608695652173913,44
+OKLAHOMA CITY THUNDER,240,35,72,11,25,22,25,9,27,18,9,5,20,26,2013-04-29,away,loss,103.0,HOUSTON ROCKETS,105.0,0.32710280373831774,0.3055555555555556,36
+HOUSTON ROCKETS,240,37,76,12,27,19,24,14,25,21,10,7,22,26,2013-04-29,home,win,105.0,OKLAHOMA CITY THUNDER,103.0,0.3274336283185841,0.3076923076923077,39

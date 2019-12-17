@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,240,26,70,7,24,21,29,8,27,11,7,5,13,26,away,loss,80.0,MEMPHIS GRIZZLIES,92.0
-MEMPHIS GRIZZLIES,240,32,72,0,6,28,34,10,32,14,6,5,12,20,home,win,92.0,LOS ANGELES CLIPPERS,80.0
-NEW YORK KNICKS,240,36,76,4,13,18,21,11,25,13,7,5,13,23,away,loss,94.0,MIAMI HEAT,106.0
-MIAMI HEAT,240,34,78,9,19,29,34,13,29,20,7,3,10,18,home,win,106.0,NEW YORK KNICKS,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,240,26,70,7,24,21,29,8,27,11,7,5,13,26,2012-05-09,away,loss,80.0,MEMPHIS GRIZZLIES,92.0,0.2708333333333333,0.22580645161290322,35
+MEMPHIS GRIZZLIES,240,32,72,0,6,28,34,10,32,14,6,5,12,20,2012-05-09,home,win,92.0,LOS ANGELES CLIPPERS,80.0,0.3076923076923077,0.0,42
+NEW YORK KNICKS,240,36,76,4,13,18,21,11,25,13,7,5,13,23,2012-05-09,away,loss,94.0,MIAMI HEAT,106.0,0.32142857142857145,0.23529411764705882,36
+MIAMI HEAT,240,34,78,9,19,29,34,13,29,20,7,3,10,18,2012-05-09,home,win,106.0,NEW YORK KNICKS,94.0,0.30357142857142855,0.32142857142857145,42

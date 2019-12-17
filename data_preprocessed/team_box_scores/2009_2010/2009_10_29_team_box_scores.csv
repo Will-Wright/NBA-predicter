@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,33,78,4,21,15,23,8,36,15,5,5,13,23,away,loss,85.0,CHICAGO BULLS,92.0
-CHICAGO BULLS,240,35,84,3,16,19,28,15,37,20,5,9,9,20,home,win,92.0,SAN ANTONIO SPURS,85.0
-DENVER NUGGETS,240,28,61,3,11,38,49,5,31,11,6,3,8,30,away,win,97.0,PORTLAND TRAIL BLAZERS,94.0
-PORTLAND TRAIL BLAZERS,240,28,81,5,19,33,41,14,30,16,4,5,7,30,home,loss,94.0,DENVER NUGGETS,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,33,78,4,21,15,23,8,36,15,5,5,13,23,2009-10-29,away,loss,85.0,CHICAGO BULLS,92.0,0.2972972972972973,0.16,44
+CHICAGO BULLS,240,35,84,3,16,19,28,15,37,20,5,9,9,20,2009-10-29,home,win,92.0,SAN ANTONIO SPURS,85.0,0.29411764705882354,0.15789473684210525,52
+DENVER NUGGETS,240,28,61,3,11,38,49,5,31,11,6,3,8,30,2009-10-29,away,win,97.0,PORTLAND TRAIL BLAZERS,94.0,0.3146067415730337,0.21428571428571427,36
+PORTLAND TRAIL BLAZERS,240,28,81,5,19,33,41,14,30,16,4,5,7,30,2009-10-29,home,loss,94.0,DENVER NUGGETS,97.0,0.25688073394495414,0.20833333333333334,44

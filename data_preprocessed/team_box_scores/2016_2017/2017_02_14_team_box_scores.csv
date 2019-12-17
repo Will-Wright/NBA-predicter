@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-TORONTO RAPTORS,240,35,77,5,20,19,24,8,26,15,9,1,16,26,away,loss,94.0,CHICAGO BULLS,105.0
-CHICAGO BULLS,240,35,73,7,17,28,35,7,30,22,8,5,17,23,home,win,105.0,TORONTO RAPTORS,94.0
-SACRAMENTO KINGS,240,36,73,7,24,18,25,7,31,23,9,3,17,12,away,win,97.0,LOS ANGELES LAKERS,96.0
-LOS ANGELES LAKERS,240,38,83,12,29,8,15,13,30,22,10,3,17,21,home,loss,96.0,SACRAMENTO KINGS,97.0
-CLEVELAND CAVALIERS,240,44,86,13,39,15,22,9,34,27,3,4,10,18,away,win,116.0,MINNESOTA TIMBERWOLVES,108.0
-MINNESOTA TIMBERWOLVES,240,42,86,9,23,15,19,8,33,27,6,2,9,18,home,loss,108.0,CLEVELAND CAVALIERS,116.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+TORONTO RAPTORS,240,35,77,5,20,19,24,8,26,15,9,1,16,26,2017-02-14,away,loss,94.0,CHICAGO BULLS,105.0,0.3125,0.2,34
+CHICAGO BULLS,240,35,73,7,17,28,35,7,30,22,8,5,17,23,2017-02-14,home,win,105.0,TORONTO RAPTORS,94.0,0.32407407407407407,0.2916666666666667,37
+SACRAMENTO KINGS,240,36,73,7,24,18,25,7,31,23,9,3,17,12,2017-02-14,away,win,97.0,LOS ANGELES LAKERS,96.0,0.3302752293577982,0.22580645161290322,38
+LOS ANGELES LAKERS,240,38,83,12,29,8,15,13,30,22,10,3,17,21,2017-02-14,home,loss,96.0,SACRAMENTO KINGS,97.0,0.3140495867768595,0.2926829268292683,43
+CLEVELAND CAVALIERS,240,44,86,13,39,15,22,9,34,27,3,4,10,18,2017-02-14,away,win,116.0,MINNESOTA TIMBERWOLVES,108.0,0.3384615384615385,0.25,43
+MINNESOTA TIMBERWOLVES,240,42,86,9,23,15,19,8,33,27,6,2,9,18,2017-02-14,home,loss,108.0,CLEVELAND CAVALIERS,116.0,0.328125,0.28125,41

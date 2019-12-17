@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MINNESOTA TIMBERWOLVES,240,32,84,5,17,16,21,12,29,19,4,2,10,30,away,loss,85.0,LOS ANGELES LAKERS,92.0
-LOS ANGELES LAKERS,240,34,82,3,17,21,31,18,34,25,4,5,9,21,home,win,92.0,MINNESOTA TIMBERWOLVES,85.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MINNESOTA TIMBERWOLVES,240,32,84,5,17,16,21,12,29,19,4,2,10,30,2004-05-27,away,loss,85.0,LOS ANGELES LAKERS,92.0,0.27586206896551724,0.22727272727272727,41
+LOS ANGELES LAKERS,240,34,82,3,17,21,31,18,34,25,4,5,9,21,2004-05-27,home,win,92.0,MINNESOTA TIMBERWOLVES,85.0,0.29310344827586204,0.15,52

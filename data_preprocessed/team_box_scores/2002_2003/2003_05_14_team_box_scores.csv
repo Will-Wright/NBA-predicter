@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,29,79,4,7,15,20,15,36,17,7,4,14,19,away,loss,77.0,DETROIT PISTONS,78.0
-DETROIT PISTONS,240,29,74,8,22,12,17,7,30,18,6,11,12,21,home,win,78.0,PHILADELPHIA 76ERS,77.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,29,79,4,7,15,20,15,36,17,7,4,14,19,2003-05-14,away,loss,77.0,DETROIT PISTONS,78.0,0.26851851851851855,0.36363636363636365,51
+DETROIT PISTONS,240,29,74,8,22,12,17,7,30,18,6,11,12,21,2003-05-14,home,win,78.0,PHILADELPHIA 76ERS,77.0,0.2815533980582524,0.26666666666666666,37

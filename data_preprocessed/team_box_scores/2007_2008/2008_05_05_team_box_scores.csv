@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,32,73,11,26,18,23,15,25,16,3,2,19,23,away,loss,93.0,DETROIT PISTONS,100.0
-DETROIT PISTONS,240,36,76,4,12,24,28,8,27,23,9,5,8,22,home,win,100.0,ORLANDO MAGIC,93.0
-SAN ANTONIO SPURS,240,31,73,8,27,14,19,9,31,24,3,4,15,21,away,loss,84.0,NEW ORLEANS HORNETS,102.0
-NEW ORLEANS HORNETS,240,36,75,10,17,20,24,7,34,22,6,2,8,19,home,win,102.0,SAN ANTONIO SPURS,84.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,32,73,11,26,18,23,15,25,16,3,2,19,23,2008-05-05,away,loss,93.0,DETROIT PISTONS,100.0,0.3047619047619048,0.2972972972972973,40
+DETROIT PISTONS,240,36,76,4,12,24,28,8,27,23,9,5,8,22,2008-05-05,home,win,100.0,ORLANDO MAGIC,93.0,0.32142857142857145,0.25,35
+SAN ANTONIO SPURS,240,31,73,8,27,14,19,9,31,24,3,4,15,21,2008-05-05,away,loss,84.0,NEW ORLEANS HORNETS,102.0,0.2980769230769231,0.22857142857142856,40
+NEW ORLEANS HORNETS,240,36,75,10,17,20,24,7,34,22,6,2,8,19,2008-05-05,home,win,102.0,SAN ANTONIO SPURS,84.0,0.32432432432432434,0.37037037037037035,41

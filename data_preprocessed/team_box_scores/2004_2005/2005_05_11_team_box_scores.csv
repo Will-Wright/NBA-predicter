@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-INDIANA PACERS,240,37,95,7,24,11,14,19,33,21,11,8,10,17,away,win,92.0,DETROIT PISTONS,83.0
-DETROIT PISTONS,240,32,77,6,17,13,19,10,33,23,2,8,13,16,home,loss,83.0,INDIANA PACERS,92.0
-DALLAS MAVERICKS,240,43,87,6,13,16,24,12,34,18,5,4,15,26,away,win,108.0,PHOENIX SUNS,106.0
-PHOENIX SUNS,240,37,89,7,18,25,34,16,34,21,7,10,12,22,home,loss,106.0,DALLAS MAVERICKS,108.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+INDIANA PACERS,240,37,95,7,24,11,14,19,33,21,11,8,10,17,2005-05-11,away,win,92.0,DETROIT PISTONS,83.0,0.2803030303030303,0.22580645161290322,52
+DETROIT PISTONS,240,32,77,6,17,13,19,10,33,23,2,8,13,16,2005-05-11,home,loss,83.0,INDIANA PACERS,92.0,0.29357798165137616,0.2608695652173913,43
+DALLAS MAVERICKS,240,43,87,6,13,16,24,12,34,18,5,4,15,26,2005-05-11,away,win,108.0,PHOENIX SUNS,106.0,0.33076923076923076,0.3157894736842105,46
+PHOENIX SUNS,240,37,89,7,18,25,34,16,34,21,7,10,12,22,2005-05-11,home,loss,106.0,DALLAS MAVERICKS,108.0,0.29365079365079366,0.28,50

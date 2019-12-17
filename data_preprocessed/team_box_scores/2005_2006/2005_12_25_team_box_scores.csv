@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,30,75,2,7,8,14,6,24,15,7,2,8,16,away,loss,70.0,DETROIT PISTONS,85.0
-DETROIT PISTONS,240,34,82,5,13,12,17,18,39,17,3,2,10,14,home,win,85.0,SAN ANTONIO SPURS,70.0
-LOS ANGELES LAKERS,240,33,85,3,21,23,31,19,30,20,5,9,18,29,away,loss,92.0,MIAMI HEAT,97.0
-MIAMI HEAT,240,36,80,3,12,22,33,15,32,17,6,7,17,27,home,win,97.0,LOS ANGELES LAKERS,92.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,30,75,2,7,8,14,6,24,15,7,2,8,16,2005-12-25,away,loss,70.0,DETROIT PISTONS,85.0,0.2857142857142857,0.2222222222222222,30
+DETROIT PISTONS,240,34,82,5,13,12,17,18,39,17,3,2,10,14,2005-12-25,home,win,85.0,SAN ANTONIO SPURS,70.0,0.29310344827586204,0.2777777777777778,57
+LOS ANGELES LAKERS,240,33,85,3,21,23,31,19,30,20,5,9,18,29,2005-12-25,away,loss,92.0,MIAMI HEAT,97.0,0.2796610169491525,0.125,49
+MIAMI HEAT,240,36,80,3,12,22,33,15,32,17,6,7,17,27,2005-12-25,home,win,97.0,LOS ANGELES LAKERS,92.0,0.3103448275862069,0.2,47

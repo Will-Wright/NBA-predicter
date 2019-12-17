@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,35,76,3,8,17,26,12,30,19,1,7,9,24,away,loss,90.0,DETROIT PISTONS,98.0
-DETROIT PISTONS,240,32,78,8,19,26,33,16,28,22,4,4,6,22,home,win,98.0,ORLANDO MAGIC,90.0
-UTAH JAZZ,240,38,84,1,9,13,17,11,31,26,4,6,12,29,away,loss,90.0,HOUSTON ROCKETS,98.0
-HOUSTON ROCKETS,240,30,83,4,24,34,38,17,33,15,6,1,9,15,home,win,98.0,UTAH JAZZ,90.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,35,76,3,8,17,26,12,30,19,1,7,9,24,2007-04-23,away,loss,90.0,DETROIT PISTONS,98.0,0.3153153153153153,0.2727272727272727,42
+DETROIT PISTONS,240,32,78,8,19,26,33,16,28,22,4,4,6,22,2007-04-23,home,win,98.0,ORLANDO MAGIC,90.0,0.2909090909090909,0.2962962962962963,44
+UTAH JAZZ,240,38,84,1,9,13,17,11,31,26,4,6,12,29,2007-04-23,away,loss,90.0,HOUSTON ROCKETS,98.0,0.3114754098360656,0.1,42
+HOUSTON ROCKETS,240,30,83,4,24,34,38,17,33,15,6,1,9,15,2007-04-23,home,win,98.0,UTAH JAZZ,90.0,0.26548672566371684,0.14285714285714285,50

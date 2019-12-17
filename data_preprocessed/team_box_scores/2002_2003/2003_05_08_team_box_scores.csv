@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,37,79,9,22,27,34,12,32,27,7,3,18,23,away,loss,110.0,DALLAS MAVERICKS,132.0
-DALLAS MAVERICKS,240,51,99,17,32,13,18,14,32,23,5,4,11,25,home,win,132.0,SACRAMENTO KINGS,110.0
-PHILADELPHIA 76ERS,265,40,88,3,12,14,20,16,32,20,6,5,15,28,away,loss,97.0,DETROIT PISTONS,104.0
-DETROIT PISTONS,265,36,75,11,22,21,35,9,26,16,6,4,13,24,home,win,104.0,PHILADELPHIA 76ERS,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,37,79,9,22,27,34,12,32,27,7,3,18,23,2003-05-08,away,loss,110.0,DALLAS MAVERICKS,132.0,0.31896551724137934,0.2903225806451613,44
+DALLAS MAVERICKS,240,51,99,17,32,13,18,14,32,23,5,4,11,25,2003-05-08,home,win,132.0,SACRAMENTO KINGS,110.0,0.34,0.3469387755102041,46
+PHILADELPHIA 76ERS,265,40,88,3,12,14,20,16,32,20,6,5,15,28,2003-05-08,away,loss,97.0,DETROIT PISTONS,104.0,0.3125,0.2,48
+DETROIT PISTONS,265,36,75,11,22,21,35,9,26,16,6,4,13,24,2003-05-08,home,win,104.0,PHILADELPHIA 76ERS,97.0,0.32432432432432434,0.3333333333333333,35

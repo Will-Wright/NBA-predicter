@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,31,76,4,20,13,17,8,32,18,3,0,17,15,away,loss,79.0,BOSTON CELTICS,101.0
-BOSTON CELTICS,240,41,80,11,26,8,13,5,32,24,10,6,11,20,home,win,101.0,ATLANTA HAWKS,79.0
-LOS ANGELES LAKERS,240,39,86,5,17,9,18,19,29,22,4,7,13,13,away,win,92.0,DENVER NUGGETS,88.0
-DENVER NUGGETS,240,39,86,3,19,7,12,13,25,17,9,9,10,19,home,loss,88.0,LOS ANGELES LAKERS,92.0
-MIAMI HEAT,240,30,73,3,19,24,35,9,31,20,8,6,14,26,away,loss,87.0,NEW YORK KNICKS,89.0
-NEW YORK KNICKS,240,32,75,5,22,20,29,10,33,16,6,1,17,29,home,win,89.0,MIAMI HEAT,87.0
-CHICAGO BULLS,240,34,85,3,11,11,14,11,37,21,5,7,14,23,away,loss,82.0,PHILADELPHIA 76ERS,89.0
-PHILADELPHIA 76ERS,240,31,79,5,19,22,31,12,34,16,6,6,8,18,home,win,89.0,CHICAGO BULLS,82.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,31,76,4,20,13,17,8,32,18,3,0,17,15,2012-05-06,away,loss,79.0,BOSTON CELTICS,101.0,0.2897196261682243,0.16666666666666666,40
+BOSTON CELTICS,240,41,80,11,26,8,13,5,32,24,10,6,11,20,2012-05-06,home,win,101.0,ATLANTA HAWKS,79.0,0.33884297520661155,0.2972972972972973,37
+LOS ANGELES LAKERS,240,39,86,5,17,9,18,19,29,22,4,7,13,13,2012-05-06,away,win,92.0,DENVER NUGGETS,88.0,0.312,0.22727272727272727,48
+DENVER NUGGETS,240,39,86,3,19,7,12,13,25,17,9,9,10,19,2012-05-06,home,loss,88.0,LOS ANGELES LAKERS,92.0,0.312,0.13636363636363635,38
+MIAMI HEAT,240,30,73,3,19,24,35,9,31,20,8,6,14,26,2012-05-06,away,loss,87.0,NEW YORK KNICKS,89.0,0.2912621359223301,0.13636363636363635,40
+NEW YORK KNICKS,240,32,75,5,22,20,29,10,33,16,6,1,17,29,2012-05-06,home,win,89.0,MIAMI HEAT,87.0,0.29906542056074764,0.18518518518518517,43
+CHICAGO BULLS,240,34,85,3,11,11,14,11,37,21,5,7,14,23,2012-05-06,away,loss,82.0,PHILADELPHIA 76ERS,89.0,0.2857142857142857,0.21428571428571427,48
+PHILADELPHIA 76ERS,240,31,79,5,19,22,31,12,34,16,6,6,8,18,2012-05-06,home,win,89.0,CHICAGO BULLS,82.0,0.2818181818181818,0.20833333333333334,46

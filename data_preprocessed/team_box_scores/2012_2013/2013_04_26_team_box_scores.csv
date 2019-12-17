@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,38,76,11,27,3,8,6,31,22,14,4,11,19,away,win,90.0,BOSTON CELTICS,76.0
-BOSTON CELTICS,240,28,70,6,19,14,18,11,30,14,6,1,17,14,home,loss,76.0,NEW YORK KNICKS,90.0
-DENVER NUGGETS,240,40,86,7,18,21,27,11,23,26,11,1,18,25,away,loss,108.0,GOLDEN STATE WARRIORS,110.0
-GOLDEN STATE WARRIORS,240,42,80,8,20,18,23,12,30,26,7,7,21,20,home,win,110.0,DENVER NUGGETS,108.0
-SAN ANTONIO SPURS,240,52,85,5,16,11,15,8,41,30,9,7,14,20,away,win,120.0,LOS ANGELES LAKERS,89.0
-LOS ANGELES LAKERS,240,35,81,4,20,15,25,9,26,19,8,3,13,15,home,loss,89.0,SAN ANTONIO SPURS,120.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,38,76,11,27,3,8,6,31,22,14,4,11,19,2013-04-26,away,win,90.0,BOSTON CELTICS,76.0,0.3333333333333333,0.2894736842105263,37
+BOSTON CELTICS,240,28,70,6,19,14,18,11,30,14,6,1,17,14,2013-04-26,home,loss,76.0,NEW YORK KNICKS,90.0,0.2857142857142857,0.24,41
+DENVER NUGGETS,240,40,86,7,18,21,27,11,23,26,11,1,18,25,2013-04-26,away,loss,108.0,GOLDEN STATE WARRIORS,110.0,0.31746031746031744,0.28,34
+GOLDEN STATE WARRIORS,240,42,80,8,20,18,23,12,30,26,7,7,21,20,2013-04-26,home,win,110.0,DENVER NUGGETS,108.0,0.3442622950819672,0.2857142857142857,42
+SAN ANTONIO SPURS,240,52,85,5,16,11,15,8,41,30,9,7,14,20,2013-04-26,away,win,120.0,LOS ANGELES LAKERS,89.0,0.3795620437956204,0.23809523809523808,49
+LOS ANGELES LAKERS,240,35,81,4,20,15,25,9,26,19,8,3,13,15,2013-04-26,home,loss,89.0,SAN ANTONIO SPURS,120.0,0.3017241379310345,0.16666666666666666,35

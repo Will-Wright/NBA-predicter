@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,33,88,7,18,15,19,11,29,23,6,5,12,21,away,loss,88.0,LOS ANGELES LAKERS,106.0
-LOS ANGELES LAKERS,240,40,84,8,20,18,22,11,44,28,8,12,16,16,home,win,106.0,MIAMI HEAT,88.0
-MILWAUKEE BUCKS,240,41,81,4,12,20,29,16,27,19,4,5,15,22,away,loss,106.0,NEW JERSEY NETS,120.0
-NEW JERSEY NETS,240,44,87,11,23,21,31,18,22,25,9,4,8,25,home,win,120.0,MILWAUKEE BUCKS,106.0
-DALLAS MAVERICKS,240,32,74,4,14,26,31,9,35,17,4,3,11,19,away,loss,94.0,SAN ANTONIO SPURS,97.0
-SAN ANTONIO SPURS,240,37,81,7,18,16,22,8,28,19,6,4,6,21,home,win,97.0,DALLAS MAVERICKS,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,33,88,7,18,15,19,11,29,23,6,5,12,21,2008-02-28,away,loss,88.0,LOS ANGELES LAKERS,106.0,0.2727272727272727,0.28,40
+LOS ANGELES LAKERS,240,40,84,8,20,18,22,11,44,28,8,12,16,16,2008-02-28,home,win,106.0,MIAMI HEAT,88.0,0.3225806451612903,0.2857142857142857,55
+MILWAUKEE BUCKS,240,41,81,4,12,20,29,16,27,19,4,5,15,22,2008-02-28,away,loss,106.0,NEW JERSEY NETS,120.0,0.3360655737704918,0.25,43
+NEW JERSEY NETS,240,44,87,11,23,21,31,18,22,25,9,4,8,25,2008-02-28,home,win,120.0,MILWAUKEE BUCKS,106.0,0.33587786259541985,0.3235294117647059,40
+DALLAS MAVERICKS,240,32,74,4,14,26,31,9,35,17,4,3,11,19,2008-02-28,away,loss,94.0,SAN ANTONIO SPURS,97.0,0.3018867924528302,0.2222222222222222,44
+SAN ANTONIO SPURS,240,37,81,7,18,16,22,8,28,19,6,4,6,21,2008-02-28,home,win,97.0,DALLAS MAVERICKS,94.0,0.3135593220338983,0.28,36

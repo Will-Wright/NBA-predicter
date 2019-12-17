@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,45,101,7,18,13,16,16,25,27,9,1,10,30,away,loss,110.0,LOS ANGELES LAKERS,120.0
-LOS ANGELES LAKERS,240,39,68,7,11,35,43,4,33,23,6,9,15,20,home,win,120.0,UTAH JAZZ,110.0
-DETROIT PISTONS,240,31,77,2,10,22,28,9,26,12,7,3,10,20,away,loss,86.0,ORLANDO MAGIC,111.0
-ORLANDO MAGIC,240,42,78,11,24,16,23,7,34,18,6,8,11,23,home,win,111.0,DETROIT PISTONS,86.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,45,101,7,18,13,16,16,25,27,9,1,10,30,2008-05-07,away,loss,110.0,LOS ANGELES LAKERS,120.0,0.3082191780821918,0.28,41
+LOS ANGELES LAKERS,240,39,68,7,11,35,43,4,33,23,6,9,15,20,2008-05-07,home,win,120.0,UTAH JAZZ,110.0,0.3644859813084112,0.3888888888888889,37
+DETROIT PISTONS,240,31,77,2,10,22,28,9,26,12,7,3,10,20,2008-05-07,away,loss,86.0,ORLANDO MAGIC,111.0,0.28703703703703703,0.16666666666666666,35
+ORLANDO MAGIC,240,42,78,11,24,16,23,7,34,18,6,8,11,23,2008-05-07,home,win,111.0,DETROIT PISTONS,86.0,0.35,0.3142857142857143,41

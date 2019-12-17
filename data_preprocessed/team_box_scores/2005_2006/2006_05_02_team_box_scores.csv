@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,25,72,4,16,24,30,10,40,10,3,5,19,29,away,loss,78.0,MIAMI HEAT,92.0
-MIAMI HEAT,240,33,73,4,23,22,41,9,31,19,4,8,12,25,home,win,92.0,CHICAGO BULLS,78.0
-INDIANA PACERS,240,34,81,7,25,11,17,8,29,19,11,8,11,23,away,loss,86.0,NEW JERSEY NETS,92.0
-NEW JERSEY NETS,240,36,78,4,16,16,20,10,40,32,4,6,16,24,home,win,92.0,INDIANA PACERS,86.0
-LOS ANGELES LAKERS,240,36,70,7,21,18,24,5,32,16,5,4,18,24,away,loss,97.0,PHOENIX SUNS,114.0
-PHOENIX SUNS,240,42,86,8,23,22,26,12,24,18,6,3,8,19,home,win,114.0,LOS ANGELES LAKERS,97.0
-SACRAMENTO KINGS,240,34,77,10,22,20,25,11,19,17,11,3,9,27,away,loss,98.0,SAN ANTONIO SPURS,109.0
-SAN ANTONIO SPURS,240,39,68,7,16,24,27,7,33,27,3,4,14,23,home,win,109.0,SACRAMENTO KINGS,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,25,72,4,16,24,30,10,40,10,3,5,19,29,2006-05-02,away,loss,78.0,MIAMI HEAT,92.0,0.25773195876288657,0.2,50
+MIAMI HEAT,240,33,73,4,23,22,41,9,31,19,4,8,12,25,2006-05-02,home,win,92.0,CHICAGO BULLS,78.0,0.3113207547169811,0.14814814814814814,40
+INDIANA PACERS,240,34,81,7,25,11,17,8,29,19,11,8,11,23,2006-05-02,away,loss,86.0,NEW JERSEY NETS,92.0,0.2956521739130435,0.21875,37
+NEW JERSEY NETS,240,36,78,4,16,16,20,10,40,32,4,6,16,24,2006-05-02,home,win,92.0,INDIANA PACERS,86.0,0.3157894736842105,0.2,50
+LOS ANGELES LAKERS,240,36,70,7,21,18,24,5,32,16,5,4,18,24,2006-05-02,away,loss,97.0,PHOENIX SUNS,114.0,0.33962264150943394,0.25,37
+PHOENIX SUNS,240,42,86,8,23,22,26,12,24,18,6,3,8,19,2006-05-02,home,win,114.0,LOS ANGELES LAKERS,97.0,0.328125,0.25806451612903225,36
+SACRAMENTO KINGS,240,34,77,10,22,20,25,11,19,17,11,3,9,27,2006-05-02,away,loss,98.0,SAN ANTONIO SPURS,109.0,0.3063063063063063,0.3125,30
+SAN ANTONIO SPURS,240,39,68,7,16,24,27,7,33,27,3,4,14,23,2006-05-02,home,win,109.0,SACRAMENTO KINGS,98.0,0.3644859813084112,0.30434782608695654,40

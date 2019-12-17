@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW ORLEANS HORNETS,240,33,73,12,23,27,29,11,24,20,10,2,15,21,away,win,105.0,DENVER NUGGETS,101.0
-DENVER NUGGETS,240,38,75,7,17,18,22,9,26,24,9,6,16,24,home,loss,101.0,NEW ORLEANS HORNETS,105.0
-ORLANDO MAGIC,240,38,81,6,19,23,30,13,36,26,8,5,11,17,away,win,105.0,WASHINGTON WIZARDS,90.0
-WASHINGTON WIZARDS,240,35,83,3,17,17,22,11,35,22,7,3,13,27,home,loss,90.0,ORLANDO MAGIC,105.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW ORLEANS HORNETS,240,33,73,12,23,27,29,11,24,20,10,2,15,21,2008-11-27,away,win,105.0,DENVER NUGGETS,101.0,0.3113207547169811,0.34285714285714286,35
+DENVER NUGGETS,240,38,75,7,17,18,22,9,26,24,9,6,16,24,2008-11-27,home,loss,101.0,NEW ORLEANS HORNETS,105.0,0.336283185840708,0.2916666666666667,35
+ORLANDO MAGIC,240,38,81,6,19,23,30,13,36,26,8,5,11,17,2008-11-27,away,win,105.0,WASHINGTON WIZARDS,90.0,0.31932773109243695,0.24,49
+WASHINGTON WIZARDS,240,35,83,3,17,17,22,11,35,22,7,3,13,27,2008-11-27,home,loss,90.0,ORLANDO MAGIC,105.0,0.2966101694915254,0.15,46

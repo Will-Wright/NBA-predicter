@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,39,86,9,27,22,27,9,40,15,8,3,14,14,away,win,109.0,BROOKLYN NETS,102.0
-BROOKLYN NETS,240,39,88,14,35,10,16,9,34,26,4,3,14,24,home,loss,102.0,BOSTON CELTICS,109.0
-SAN ANTONIO SPURS,240,35,79,6,26,21,27,8,39,18,9,7,12,16,away,win,97.0,DALLAS MAVERICKS,91.0
-DALLAS MAVERICKS,240,33,81,10,34,15,18,5,35,18,7,4,15,23,home,loss,91.0,SAN ANTONIO SPURS,97.0
-TORONTO RAPTORS,240,41,78,14,30,33,42,5,31,28,11,4,12,30,away,win,129.0,HOUSTON ROCKETS,113.0
-HOUSTON ROCKETS,240,33,79,12,39,35,41,14,34,21,4,4,19,27,home,loss,113.0,TORONTO RAPTORS,129.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,39,86,9,27,22,27,9,40,15,8,3,14,14,2017-11-14,away,win,109.0,BROOKLYN NETS,102.0,0.312,0.25,49
+BROOKLYN NETS,240,39,88,14,35,10,16,9,34,26,4,3,14,24,2017-11-14,home,loss,102.0,BOSTON CELTICS,109.0,0.30708661417322836,0.2857142857142857,43
+SAN ANTONIO SPURS,240,35,79,6,26,21,27,8,39,18,9,7,12,16,2017-11-14,away,win,97.0,DALLAS MAVERICKS,91.0,0.30701754385964913,0.1875,47
+DALLAS MAVERICKS,240,33,81,10,34,15,18,5,35,18,7,4,15,23,2017-11-14,home,loss,91.0,SAN ANTONIO SPURS,97.0,0.2894736842105263,0.22727272727272727,40
+TORONTO RAPTORS,240,41,78,14,30,33,42,5,31,28,11,4,12,30,2017-11-14,away,win,129.0,HOUSTON ROCKETS,113.0,0.3445378151260504,0.3181818181818182,36
+HOUSTON ROCKETS,240,33,79,12,39,35,41,14,34,21,4,4,19,27,2017-11-14,home,loss,113.0,TORONTO RAPTORS,129.0,0.29464285714285715,0.23529411764705882,48

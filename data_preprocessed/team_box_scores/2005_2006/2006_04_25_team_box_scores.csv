@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-WASHINGTON WIZARDS,240,31,78,8,20,19,29,11,29,13,10,5,11,20,away,win,89.0,CLEVELAND CAVALIERS,84.0
-CLEVELAND CAVALIERS,240,30,83,3,12,21,29,13,34,14,8,10,16,22,home,loss,84.0,WASHINGTON WIZARDS,89.0
-INDIANA PACERS,240,28,79,7,25,12,17,10,27,18,4,6,13,24,away,loss,75.0,NEW JERSEY NETS,90.0
-NEW JERSEY NETS,240,33,71,2,15,22,28,12,28,22,4,5,12,19,home,win,90.0,INDIANA PACERS,75.0
-SACRAMENTO KINGS,265,42,87,3,10,32,38,14,33,15,4,3,16,29,away,loss,119.0,SAN ANTONIO SPURS,128.0
-SAN ANTONIO SPURS,265,43,84,12,26,30,36,7,27,29,7,9,11,28,home,win,128.0,SACRAMENTO KINGS,119.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+WASHINGTON WIZARDS,240,31,78,8,20,19,29,11,29,13,10,5,11,20,2006-04-25,away,win,89.0,CLEVELAND CAVALIERS,84.0,0.28440366972477066,0.2857142857142857,40
+CLEVELAND CAVALIERS,240,30,83,3,12,21,29,13,34,14,8,10,16,22,2006-04-25,home,loss,84.0,WASHINGTON WIZARDS,89.0,0.26548672566371684,0.2,47
+INDIANA PACERS,240,28,79,7,25,12,17,10,27,18,4,6,13,24,2006-04-25,away,loss,75.0,NEW JERSEY NETS,90.0,0.2616822429906542,0.21875,37
+NEW JERSEY NETS,240,33,71,2,15,22,28,12,28,22,4,5,12,19,2006-04-25,home,win,90.0,INDIANA PACERS,75.0,0.3173076923076923,0.11764705882352941,40
+SACRAMENTO KINGS,265,42,87,3,10,32,38,14,33,15,4,3,16,29,2006-04-25,away,loss,119.0,SAN ANTONIO SPURS,128.0,0.32558139534883723,0.23076923076923078,47
+SAN ANTONIO SPURS,265,43,84,12,26,30,36,7,27,29,7,9,11,28,2006-04-25,home,win,128.0,SACRAMENTO KINGS,119.0,0.33858267716535434,0.3157894736842105,34

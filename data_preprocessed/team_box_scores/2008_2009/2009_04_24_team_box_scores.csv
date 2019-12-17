@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,28,68,4,22,19,30,9,33,20,8,7,14,17,away,win,79.0,DETROIT PISTONS,68.0
-DETROIT PISTONS,240,27,71,4,12,10,12,5,34,17,4,5,15,25,home,loss,68.0,CLEVELAND CAVALIERS,79.0
-PORTLAND TRAIL BLAZERS,240,32,76,10,23,9,10,9,23,19,7,9,12,25,away,loss,83.0,HOUSTON ROCKETS,86.0
-HOUSTON ROCKETS,240,32,69,3,9,19,24,9,32,21,7,7,12,16,home,win,86.0,PORTLAND TRAIL BLAZERS,83.0
-ORLANDO MAGIC,240,31,73,8,20,24,29,9,26,18,8,6,14,22,away,loss,94.0,PHILADELPHIA 76ERS,96.0
-PHILADELPHIA 76ERS,240,37,71,4,10,18,26,6,29,16,6,5,15,24,home,win,96.0,ORLANDO MAGIC,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,28,68,4,22,19,30,9,33,20,8,7,14,17,2009-04-24,away,win,79.0,DETROIT PISTONS,68.0,0.2916666666666667,0.15384615384615385,42
+DETROIT PISTONS,240,27,71,4,12,10,12,5,34,17,4,5,15,25,2009-04-24,home,loss,68.0,CLEVELAND CAVALIERS,79.0,0.2755102040816326,0.25,39
+PORTLAND TRAIL BLAZERS,240,32,76,10,23,9,10,9,23,19,7,9,12,25,2009-04-24,away,loss,83.0,HOUSTON ROCKETS,86.0,0.2962962962962963,0.30303030303030304,32
+HOUSTON ROCKETS,240,32,69,3,9,19,24,9,32,21,7,7,12,16,2009-04-24,home,win,86.0,PORTLAND TRAIL BLAZERS,83.0,0.31683168316831684,0.25,41
+ORLANDO MAGIC,240,31,73,8,20,24,29,9,26,18,8,6,14,22,2009-04-24,away,loss,94.0,PHILADELPHIA 76ERS,96.0,0.2980769230769231,0.2857142857142857,35
+PHILADELPHIA 76ERS,240,37,71,4,10,18,26,6,29,16,6,5,15,24,2009-04-24,home,win,96.0,ORLANDO MAGIC,94.0,0.3425925925925926,0.2857142857142857,35

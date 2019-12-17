@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,33,81,7,19,19,29,13,29,15,5,2,11,19,away,loss,92.0,SAN ANTONIO SPURS,103.0
-SAN ANTONIO SPURS,240,37,77,8,24,21,26,12,34,21,6,6,10,23,home,win,103.0,CLEVELAND CAVALIERS,92.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,33,81,7,19,19,29,13,29,15,5,2,11,19,2007-06-10,away,loss,92.0,SAN ANTONIO SPURS,103.0,0.2894736842105263,0.2692307692307692,42
+SAN ANTONIO SPURS,240,37,77,8,24,21,26,12,34,21,6,6,10,23,2007-06-10,home,win,103.0,CLEVELAND CAVALIERS,92.0,0.32456140350877194,0.25,46

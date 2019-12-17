@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,41,81,15,32,11,14,7,40,27,1,8,12,24,away,win,108.0,MEMPHIS GRIZZLIES,95.0
-MEMPHIS GRIZZLIES,240,34,91,4,16,23,30,12,31,21,7,5,3,16,home,loss,95.0,GOLDEN STATE WARRIORS,108.0
-ATLANTA HAWKS,240,36,84,8,27,14,19,12,35,20,8,6,15,22,away,win,94.0,WASHINGTON WIZARDS,91.0
-WASHINGTON WIZARDS,240,34,93,4,18,19,25,18,37,19,7,4,11,18,home,loss,91.0,ATLANTA HAWKS,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,41,81,15,32,11,14,7,40,27,1,8,12,24,2015-05-15,away,win,108.0,MEMPHIS GRIZZLIES,95.0,0.3360655737704918,0.3191489361702128,47
+MEMPHIS GRIZZLIES,240,34,91,4,16,23,30,12,31,21,7,5,3,16,2015-05-15,home,loss,95.0,GOLDEN STATE WARRIORS,108.0,0.272,0.2,43
+ATLANTA HAWKS,240,36,84,8,27,14,19,12,35,20,8,6,15,22,2015-05-15,away,win,94.0,WASHINGTON WIZARDS,91.0,0.3,0.22857142857142856,47
+WASHINGTON WIZARDS,240,34,93,4,18,19,25,18,37,19,7,4,11,18,2015-05-15,home,loss,91.0,ATLANTA HAWKS,94.0,0.2677165354330709,0.18181818181818182,55

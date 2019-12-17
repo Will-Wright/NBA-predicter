@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-OKLAHOMA CITY THUNDER,240,35,81,11,29,20,28,10,33,25,8,9,17,19,away,loss,101.0,HOUSTON ROCKETS,112.0
-HOUSTON ROCKETS,240,41,86,16,36,14,19,11,30,25,12,3,12,19,home,win,112.0,OKLAHOMA CITY THUNDER,101.0
-CLEVELAND CAVALIERS,240,37,78,9,30,26,36,12,26,14,8,3,9,15,away,win,109.0,LOS ANGELES LAKERS,102.0
-LOS ANGELES LAKERS,240,39,76,8,24,16,23,8,27,26,4,1,11,26,home,loss,102.0,CLEVELAND CAVALIERS,109.0
-NEW YORK KNICKS,240,28,68,8,22,15,20,5,31,22,5,6,21,32,away,loss,79.0,MILWAUKEE BUCKS,95.0
-MILWAUKEE BUCKS,240,28,72,8,18,31,42,14,30,21,13,2,15,17,home,win,95.0,NEW YORK KNICKS,79.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+OKLAHOMA CITY THUNDER,240,35,81,11,29,20,28,10,33,25,8,9,17,19,2015-01-15,away,loss,101.0,HOUSTON ROCKETS,112.0,0.3017241379310345,0.275,43
+HOUSTON ROCKETS,240,41,86,16,36,14,19,11,30,25,12,3,12,19,2015-01-15,home,win,112.0,OKLAHOMA CITY THUNDER,101.0,0.3228346456692913,0.3076923076923077,41
+CLEVELAND CAVALIERS,240,37,78,9,30,26,36,12,26,14,8,3,9,15,2015-01-15,away,win,109.0,LOS ANGELES LAKERS,102.0,0.3217391304347826,0.23076923076923078,38
+LOS ANGELES LAKERS,240,39,76,8,24,16,23,8,27,26,4,1,11,26,2015-01-15,home,loss,102.0,CLEVELAND CAVALIERS,109.0,0.3391304347826087,0.25,35
+NEW YORK KNICKS,240,28,68,8,22,15,20,5,31,22,5,6,21,32,2015-01-15,away,loss,79.0,MILWAUKEE BUCKS,95.0,0.2916666666666667,0.26666666666666666,36
+MILWAUKEE BUCKS,240,28,72,8,18,31,42,14,30,21,13,2,15,17,2015-01-15,home,win,95.0,NEW YORK KNICKS,79.0,0.28,0.3076923076923077,44

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-WASHINGTON WIZARDS,240,41,82,5,18,15,19,18,44,21,8,3,19,22,away,win,102.0,INDIANA PACERS,79.0
-INDIANA PACERS,240,30,77,6,15,13,22,4,19,19,8,5,11,20,home,loss,79.0,WASHINGTON WIZARDS,102.0
-LOS ANGELES CLIPPERS,240,38,88,12,27,16,20,12,32,21,7,4,17,28,away,loss,104.0,OKLAHOMA CITY THUNDER,105.0
-OKLAHOMA CITY THUNDER,240,33,77,7,17,32,36,7,37,14,9,5,12,21,home,win,105.0,LOS ANGELES CLIPPERS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+WASHINGTON WIZARDS,240,41,82,5,18,15,19,18,44,21,8,3,19,22,2014-05-13,away,win,102.0,INDIANA PACERS,79.0,0.3333333333333333,0.21739130434782608,62
+INDIANA PACERS,240,30,77,6,15,13,22,4,19,19,8,5,11,20,2014-05-13,home,loss,79.0,WASHINGTON WIZARDS,102.0,0.2803738317757009,0.2857142857142857,23
+LOS ANGELES CLIPPERS,240,38,88,12,27,16,20,12,32,21,7,4,17,28,2014-05-13,away,loss,104.0,OKLAHOMA CITY THUNDER,105.0,0.30158730158730157,0.3076923076923077,44
+OKLAHOMA CITY THUNDER,240,33,77,7,17,32,36,7,37,14,9,5,12,21,2014-05-13,home,win,105.0,LOS ANGELES CLIPPERS,104.0,0.3,0.2916666666666667,44

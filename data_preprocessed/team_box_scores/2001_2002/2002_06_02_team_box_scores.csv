@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,265,39,94,7,17,27,33,15,37,24,5,4,12,25,away,win,112.0,SACRAMENTO KINGS,106.0
-SACRAMENTO KINGS,265,44,97,2,20,16,30,15,36,25,5,4,14,30,home,loss,106.0,LOS ANGELES LAKERS,112.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,265,39,94,7,17,27,33,15,37,24,5,4,12,25,2002-06-02,away,win,112.0,SACRAMENTO KINGS,106.0,0.2932330827067669,0.2916666666666667,52
+SACRAMENTO KINGS,265,44,97,2,20,16,30,15,36,25,5,4,14,30,2002-06-02,home,loss,106.0,LOS ANGELES LAKERS,112.0,0.3120567375886525,0.09090909090909091,51

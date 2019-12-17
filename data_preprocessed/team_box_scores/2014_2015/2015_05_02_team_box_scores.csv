@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,43,89,10,25,13,20,13,33,26,7,6,10,23,away,loss,109.0,LOS ANGELES CLIPPERS,111.0
-LOS ANGELES CLIPPERS,240,40,76,14,27,17,25,7,36,26,6,7,12,21,home,win,111.0,SAN ANTONIO SPURS,109.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,43,89,10,25,13,20,13,33,26,7,6,10,23,2015-05-02,away,loss,109.0,LOS ANGELES CLIPPERS,111.0,0.32575757575757575,0.2857142857142857,46
+LOS ANGELES CLIPPERS,240,40,76,14,27,17,25,7,36,26,6,7,12,21,2015-05-02,home,win,111.0,SAN ANTONIO SPURS,109.0,0.3448275862068966,0.34146341463414637,43

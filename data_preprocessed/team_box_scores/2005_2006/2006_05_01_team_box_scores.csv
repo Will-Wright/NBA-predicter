@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DENVER NUGGETS,240,34,92,4,12,11,15,14,27,20,10,3,10,21,away,loss,83.0,LOS ANGELES CLIPPERS,101.0
-LOS ANGELES CLIPPERS,240,37,74,3,12,24,27,10,38,25,3,6,17,20,home,win,101.0,DENVER NUGGETS,83.0
-DALLAS MAVERICKS,240,39,79,7,12,17,17,12,33,21,6,6,12,26,away,win,102.0,MEMPHIS GRIZZLIES,76.0
-MEMPHIS GRIZZLIES,240,28,67,0,7,20,28,8,24,9,5,1,14,19,home,loss,76.0,DALLAS MAVERICKS,102.0
-DETROIT PISTONS,240,35,74,8,17,31,41,13,20,22,7,3,6,21,away,win,109.0,MILWAUKEE BUCKS,99.0
-MILWAUKEE BUCKS,240,38,69,4,10,19,28,11,26,23,3,4,16,33,home,loss,99.0,DETROIT PISTONS,109.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DENVER NUGGETS,240,34,92,4,12,11,15,14,27,20,10,3,10,21,2006-05-01,away,loss,83.0,LOS ANGELES CLIPPERS,101.0,0.2698412698412698,0.25,41
+LOS ANGELES CLIPPERS,240,37,74,3,12,24,27,10,38,25,3,6,17,20,2006-05-01,home,win,101.0,DENVER NUGGETS,83.0,0.3333333333333333,0.2,48
+DALLAS MAVERICKS,240,39,79,7,12,17,17,12,33,21,6,6,12,26,2006-05-01,away,win,102.0,MEMPHIS GRIZZLIES,76.0,0.3305084745762712,0.3684210526315789,45
+MEMPHIS GRIZZLIES,240,28,67,0,7,20,28,8,24,9,5,1,14,19,2006-05-01,home,loss,76.0,DALLAS MAVERICKS,102.0,0.29473684210526313,0.0,32
+DETROIT PISTONS,240,35,74,8,17,31,41,13,20,22,7,3,6,21,2006-05-01,away,win,109.0,MILWAUKEE BUCKS,99.0,0.3211009174311927,0.32,33
+MILWAUKEE BUCKS,240,38,69,4,10,19,28,11,26,23,3,4,16,33,2006-05-01,home,loss,99.0,DETROIT PISTONS,109.0,0.35514018691588783,0.2857142857142857,37

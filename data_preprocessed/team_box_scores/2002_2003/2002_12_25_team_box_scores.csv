@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,38,82,4,11,25,35,10,32,25,13,2,11,23,away,win,105.0,LOS ANGELES LAKERS,99.0
-LOS ANGELES LAKERS,240,33,90,6,19,27,38,22,39,21,9,6,17,25,home,loss,99.0,SACRAMENTO KINGS,105.0
-BOSTON CELTICS,240,23,71,6,21,29,36,9,23,11,6,3,18,24,away,loss,81.0,NEW JERSEY NETS,117.0
-NEW JERSEY NETS,240,45,83,3,13,24,30,8,38,31,13,3,11,28,home,win,117.0,BOSTON CELTICS,81.0
-DETROIT PISTONS,240,41,81,8,22,9,14,5,30,30,5,3,13,27,away,loss,99.0,ORLANDO MAGIC,104.0
-ORLANDO MAGIC,240,36,84,4,10,28,35,18,31,18,11,3,10,16,home,win,104.0,DETROIT PISTONS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,38,82,4,11,25,35,10,32,25,13,2,11,23,2002-12-25,away,win,105.0,LOS ANGELES LAKERS,99.0,0.31666666666666665,0.26666666666666666,42
+LOS ANGELES LAKERS,240,33,90,6,19,27,38,22,39,21,9,6,17,25,2002-12-25,home,loss,99.0,SACRAMENTO KINGS,105.0,0.2682926829268293,0.24,61
+BOSTON CELTICS,240,23,71,6,21,29,36,9,23,11,6,3,18,24,2002-12-25,away,loss,81.0,NEW JERSEY NETS,117.0,0.24468085106382978,0.2222222222222222,32
+NEW JERSEY NETS,240,45,83,3,13,24,30,8,38,31,13,3,11,28,2002-12-25,home,win,117.0,BOSTON CELTICS,81.0,0.3515625,0.1875,46
+DETROIT PISTONS,240,41,81,8,22,9,14,5,30,30,5,3,13,27,2002-12-25,away,loss,99.0,ORLANDO MAGIC,104.0,0.3360655737704918,0.26666666666666666,35
+ORLANDO MAGIC,240,36,84,4,10,28,35,18,31,18,11,3,10,16,2002-12-25,home,win,104.0,DETROIT PISTONS,99.0,0.3,0.2857142857142857,49

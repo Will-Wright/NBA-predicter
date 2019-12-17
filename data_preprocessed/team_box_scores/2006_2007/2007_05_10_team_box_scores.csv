@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,32,81,6,21,11,17,10,33,20,7,10,8,19,away,win,81.0,CHICAGO BULLS,74.0
-CHICAGO BULLS,240,28,83,2,13,16,26,22,38,12,3,6,12,17,home,loss,74.0,DETROIT PISTONS,81.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,32,81,6,21,11,17,10,33,20,7,10,8,19,2007-05-10,away,win,81.0,CHICAGO BULLS,74.0,0.2831858407079646,0.2222222222222222,43
+CHICAGO BULLS,240,28,83,2,13,16,26,22,38,12,3,6,12,17,2007-05-10,home,loss,74.0,DETROIT PISTONS,81.0,0.25225225225225223,0.13333333333333333,60

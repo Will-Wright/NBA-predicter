@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,31,71,4,13,22,24,11,29,17,7,3,10,15,away,win,88.0,INDIANA PACERS,79.0
-INDIANA PACERS,240,36,75,5,19,2,7,8,28,27,3,7,11,21,home,loss,79.0,DETROIT PISTONS,88.0
-SAN ANTONIO SPURS,240,33,72,6,17,26,34,11,20,21,4,8,15,22,away,win,98.0,SEATTLE SUPERSONICS,96.0
-SEATTLE SUPERSONICS,240,36,75,4,11,20,26,11,27,13,6,2,12,28,home,loss,96.0,SAN ANTONIO SPURS,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,31,71,4,13,22,24,11,29,17,7,3,10,15,2005-05-19,away,win,88.0,INDIANA PACERS,79.0,0.30392156862745096,0.23529411764705882,40
+INDIANA PACERS,240,36,75,5,19,2,7,8,28,27,3,7,11,21,2005-05-19,home,loss,79.0,DETROIT PISTONS,88.0,0.32432432432432434,0.20833333333333334,36
+SAN ANTONIO SPURS,240,33,72,6,17,26,34,11,20,21,4,8,15,22,2005-05-19,away,win,98.0,SEATTLE SUPERSONICS,96.0,0.3142857142857143,0.2608695652173913,31
+SEATTLE SUPERSONICS,240,36,75,4,11,20,26,11,27,13,6,2,12,28,2005-05-19,home,loss,96.0,SAN ANTONIO SPURS,98.0,0.32432432432432434,0.26666666666666666,38

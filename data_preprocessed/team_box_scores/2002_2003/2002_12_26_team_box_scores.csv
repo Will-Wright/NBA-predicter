@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,34,90,3,14,12,15,9,34,20,5,10,7,20,away,win,83.0,NEW ORLEANS HORNETS,81.0
-NEW ORLEANS HORNETS,240,31,79,4,14,15,20,13,40,27,2,3,16,19,home,loss,81.0,DALLAS MAVERICKS,83.0
-TORONTO RAPTORS,240,36,78,8,22,8,16,13,26,20,5,3,12,24,away,loss,88.0,SEATTLE SUPERSONICS,97.0
-SEATTLE SUPERSONICS,240,37,76,3,10,20,24,12,32,28,4,4,10,20,home,win,97.0,TORONTO RAPTORS,88.0
-DETROIT PISTONS,240,29,73,4,11,25,31,12,25,15,5,1,7,24,away,win,87.0,WASHINGTON WIZARDS,82.0
-WASHINGTON WIZARDS,240,27,65,3,11,25,32,12,32,12,3,5,12,24,home,loss,82.0,DETROIT PISTONS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,34,90,3,14,12,15,9,34,20,5,10,7,20,2002-12-26,away,win,83.0,NEW ORLEANS HORNETS,81.0,0.27419354838709675,0.17647058823529413,43
+NEW ORLEANS HORNETS,240,31,79,4,14,15,20,13,40,27,2,3,16,19,2002-12-26,home,loss,81.0,DALLAS MAVERICKS,83.0,0.2818181818181818,0.2222222222222222,53
+TORONTO RAPTORS,240,36,78,8,22,8,16,13,26,20,5,3,12,24,2002-12-26,away,loss,88.0,SEATTLE SUPERSONICS,97.0,0.3157894736842105,0.26666666666666666,39
+SEATTLE SUPERSONICS,240,37,76,3,10,20,24,12,32,28,4,4,10,20,2002-12-26,home,win,97.0,TORONTO RAPTORS,88.0,0.3274336283185841,0.23076923076923078,44
+DETROIT PISTONS,240,29,73,4,11,25,31,12,25,15,5,1,7,24,2002-12-26,away,win,87.0,WASHINGTON WIZARDS,82.0,0.28431372549019607,0.26666666666666666,37
+WASHINGTON WIZARDS,240,27,65,3,11,25,32,12,32,12,3,5,12,24,2002-12-26,home,loss,82.0,DETROIT PISTONS,87.0,0.29347826086956524,0.21428571428571427,44

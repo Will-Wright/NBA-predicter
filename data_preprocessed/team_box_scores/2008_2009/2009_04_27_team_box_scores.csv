@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,35,87,6,18,20,27,12,31,24,9,1,10,24,away,loss,96.0,LOS ANGELES LAKERS,107.0
-LOS ANGELES LAKERS,240,36,80,9,21,26,35,15,35,23,8,8,16,21,home,win,107.0,UTAH JAZZ,96.0
-ATLANTA HAWKS,240,28,66,5,14,20,26,11,29,15,7,4,13,25,away,win,81.0,MIAMI HEAT,71.0
-MIAMI HEAT,240,23,61,4,16,21,28,7,26,11,7,3,12,27,home,loss,71.0,ATLANTA HAWKS,81.0
-DENVER NUGGETS,240,43,76,10,20,25,30,10,31,29,15,6,11,29,away,win,121.0,NEW ORLEANS HORNETS,63.0
-NEW ORLEANS HORNETS,240,17,54,2,15,27,32,7,25,10,10,1,26,23,home,loss,63.0,DENVER NUGGETS,121.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,35,87,6,18,20,27,12,31,24,9,1,10,24,2009-04-27,away,loss,96.0,LOS ANGELES LAKERS,107.0,0.28688524590163933,0.25,43
+LOS ANGELES LAKERS,240,36,80,9,21,26,35,15,35,23,8,8,16,21,2009-04-27,home,win,107.0,UTAH JAZZ,96.0,0.3103448275862069,0.3,50
+ATLANTA HAWKS,240,28,66,5,14,20,26,11,29,15,7,4,13,25,2009-04-27,away,win,81.0,MIAMI HEAT,71.0,0.2978723404255319,0.2631578947368421,40
+MIAMI HEAT,240,23,61,4,16,21,28,7,26,11,7,3,12,27,2009-04-27,home,loss,71.0,ATLANTA HAWKS,81.0,0.27380952380952384,0.2,33
+DENVER NUGGETS,240,43,76,10,20,25,30,10,31,29,15,6,11,29,2009-04-27,away,win,121.0,NEW ORLEANS HORNETS,63.0,0.36134453781512604,0.3333333333333333,41
+NEW ORLEANS HORNETS,240,17,54,2,15,27,32,7,25,10,10,1,26,23,2009-04-27,home,loss,63.0,DENVER NUGGETS,121.0,0.23943661971830985,0.11764705882352941,32

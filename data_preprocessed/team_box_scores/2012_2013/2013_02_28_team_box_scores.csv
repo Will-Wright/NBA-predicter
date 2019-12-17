@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,33,85,4,11,12,21,12,35,16,5,8,12,24,away,loss,82.0,CHICAGO BULLS,93.0
-CHICAGO BULLS,240,32,83,3,14,26,33,15,38,19,6,15,11,12,home,win,93.0,PHILADELPHIA 76ERS,82.0
-LOS ANGELES CLIPPERS,240,39,80,4,23,17,21,9,27,18,8,6,11,26,away,win,99.0,INDIANA PACERS,91.0
-INDIANA PACERS,240,32,75,9,25,18,25,14,26,18,6,4,20,22,home,loss,91.0,LOS ANGELES CLIPPERS,99.0
-MINNESOTA TIMBERWOLVES,240,37,81,7,21,13,15,6,29,26,9,6,12,19,away,loss,94.0,LOS ANGELES LAKERS,116.0
-LOS ANGELES LAKERS,240,44,83,16,32,12,21,13,36,30,7,6,14,20,home,win,116.0,MINNESOTA TIMBERWOLVES,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,33,85,4,11,12,21,12,35,16,5,8,12,24,2013-02-28,away,loss,82.0,CHICAGO BULLS,93.0,0.2796610169491525,0.26666666666666666,47
+CHICAGO BULLS,240,32,83,3,14,26,33,15,38,19,6,15,11,12,2013-02-28,home,win,93.0,PHILADELPHIA 76ERS,82.0,0.2782608695652174,0.17647058823529413,53
+LOS ANGELES CLIPPERS,240,39,80,4,23,17,21,9,27,18,8,6,11,26,2013-02-28,away,win,99.0,INDIANA PACERS,91.0,0.3277310924369748,0.14814814814814814,36
+INDIANA PACERS,240,32,75,9,25,18,25,14,26,18,6,4,20,22,2013-02-28,home,loss,91.0,LOS ANGELES CLIPPERS,99.0,0.29906542056074764,0.2647058823529412,40
+MINNESOTA TIMBERWOLVES,240,37,81,7,21,13,15,6,29,26,9,6,12,19,2013-02-28,away,loss,94.0,LOS ANGELES LAKERS,116.0,0.3135593220338983,0.25,35
+LOS ANGELES LAKERS,240,44,83,16,32,12,21,13,36,30,7,6,14,20,2013-02-28,home,win,116.0,MINNESOTA TIMBERWOLVES,94.0,0.3464566929133858,0.3333333333333333,49

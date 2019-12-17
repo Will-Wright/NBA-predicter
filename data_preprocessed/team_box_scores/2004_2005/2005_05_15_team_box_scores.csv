@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,42,82,8,21,17,23,13,24,16,7,3,15,25,away,loss,109.0,DALLAS MAVERICKS,119.0
-DALLAS MAVERICKS,240,46,83,6,14,21,29,16,27,21,8,4,15,23,home,win,119.0,PHOENIX SUNS,109.0
-DETROIT PISTONS,240,34,84,3,13,18,20,15,32,22,7,8,15,20,away,win,89.0,INDIANA PACERS,76.0
-INDIANA PACERS,240,26,70,3,19,21,28,11,30,14,8,5,18,22,home,loss,76.0,DETROIT PISTONS,89.0
-SAN ANTONIO SPURS,240,30,72,5,16,24,30,15,25,16,6,5,20,25,away,loss,89.0,SEATTLE SUPERSONICS,101.0
-SEATTLE SUPERSONICS,240,39,78,6,13,17,27,9,23,16,11,9,12,25,home,win,101.0,SAN ANTONIO SPURS,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,42,82,8,21,17,23,13,24,16,7,3,15,25,2005-05-15,away,loss,109.0,DALLAS MAVERICKS,119.0,0.3387096774193548,0.27586206896551724,37
+DALLAS MAVERICKS,240,46,83,6,14,21,29,16,27,21,8,4,15,23,2005-05-15,home,win,119.0,PHOENIX SUNS,109.0,0.35658914728682173,0.3,43
+DETROIT PISTONS,240,34,84,3,13,18,20,15,32,22,7,8,15,20,2005-05-15,away,win,89.0,INDIANA PACERS,76.0,0.288135593220339,0.1875,47
+INDIANA PACERS,240,26,70,3,19,21,28,11,30,14,8,5,18,22,2005-05-15,home,loss,76.0,DETROIT PISTONS,89.0,0.2708333333333333,0.13636363636363635,41
+SAN ANTONIO SPURS,240,30,72,5,16,24,30,15,25,16,6,5,20,25,2005-05-15,away,loss,89.0,SEATTLE SUPERSONICS,101.0,0.29411764705882354,0.23809523809523808,40
+SEATTLE SUPERSONICS,240,39,78,6,13,17,27,9,23,16,11,9,12,25,2005-05-15,home,win,101.0,SAN ANTONIO SPURS,89.0,0.3333333333333333,0.3157894736842105,32

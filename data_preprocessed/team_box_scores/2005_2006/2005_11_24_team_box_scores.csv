@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,26,69,4,16,20,27,12,23,10,9,7,18,18,away,loss,76.0,INDIANA PACERS,98.0
-INDIANA PACERS,240,39,79,11,18,9,13,11,30,19,8,3,18,21,home,win,98.0,CLEVELAND CAVALIERS,76.0
-SEATTLE SUPERSONICS,240,33,79,12,29,18,24,11,29,19,2,2,15,27,away,loss,96.0,LOS ANGELES LAKERS,108.0
-LOS ANGELES LAKERS,240,37,84,10,20,24,34,15,30,21,6,2,8,23,home,win,108.0,SEATTLE SUPERSONICS,96.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,26,69,4,16,20,27,12,23,10,9,7,18,18,2005-11-24,away,loss,76.0,INDIANA PACERS,98.0,0.2736842105263158,0.2,35
+INDIANA PACERS,240,39,79,11,18,9,13,11,30,19,8,3,18,21,2005-11-24,home,win,98.0,CLEVELAND CAVALIERS,76.0,0.3305084745762712,0.3793103448275862,41
+SEATTLE SUPERSONICS,240,33,79,12,29,18,24,11,29,19,2,2,15,27,2005-11-24,away,loss,96.0,LOS ANGELES LAKERS,108.0,0.29464285714285715,0.2926829268292683,40
+LOS ANGELES LAKERS,240,37,84,10,20,24,34,15,30,21,6,2,8,23,2005-11-24,home,win,108.0,SEATTLE SUPERSONICS,96.0,0.30578512396694213,0.3333333333333333,45

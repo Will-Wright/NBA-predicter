@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MEMPHIS GRIZZLIES,265,36,83,4,13,21,27,19,28,18,2,4,16,34,away,loss,97.0,LOS ANGELES CLIPPERS,101.0
-LOS ANGELES CLIPPERS,265,34,76,5,16,28,40,10,26,18,8,8,9,26,home,win,101.0,MEMPHIS GRIZZLIES,97.0
-SAN ANTONIO SPURS,240,28,74,10,22,21,30,7,36,12,7,4,12,23,away,win,87.0,UTAH JAZZ,81.0
-UTAH JAZZ,240,32,88,0,13,17,26,16,41,16,6,8,12,23,home,loss,81.0,SAN ANTONIO SPURS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MEMPHIS GRIZZLIES,265,36,83,4,13,21,27,19,28,18,2,4,16,34,2012-05-07,away,loss,97.0,LOS ANGELES CLIPPERS,101.0,0.3025210084033613,0.23529411764705882,47
+LOS ANGELES CLIPPERS,265,34,76,5,16,28,40,10,26,18,8,8,9,26,2012-05-07,home,win,101.0,MEMPHIS GRIZZLIES,97.0,0.3090909090909091,0.23809523809523808,36
+SAN ANTONIO SPURS,240,28,74,10,22,21,30,7,36,12,7,4,12,23,2012-05-07,away,win,87.0,UTAH JAZZ,81.0,0.27450980392156865,0.3125,43
+UTAH JAZZ,240,32,88,0,13,17,26,16,41,16,6,8,12,23,2012-05-07,home,loss,81.0,SAN ANTONIO SPURS,87.0,0.26666666666666666,0.0,57

@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DENVER NUGGETS,240,23,79,2,9,12,18,18,31,12,8,10,22,19,away,loss,60.0,INDIANA PACERS,71.0
-INDIANA PACERS,240,27,76,0,8,17,23,15,34,21,15,7,16,20,home,win,71.0,DENVER NUGGETS,60.0
-LOS ANGELES LAKERS,240,40,87,8,19,25,41,16,32,25,7,5,10,22,away,win,113.0,MILWAUKEE BUCKS,107.0
-MILWAUKEE BUCKS,240,36,90,9,19,26,30,17,35,22,8,5,12,26,home,loss,107.0,LOS ANGELES LAKERS,113.0
-HOUSTON ROCKETS,240,35,66,5,10,11,17,5,39,17,9,4,22,22,away,win,86.0,NEW JERSEY NETS,75.0
-NEW JERSEY NETS,240,27,80,4,12,17,22,12,23,21,12,1,12,20,home,loss,75.0,HOUSTON ROCKETS,86.0
-MIAMI HEAT,240,24,68,4,12,21,24,10,34,8,8,3,13,31,away,loss,73.0,SAN ANTONIO SPURS,80.0
-SAN ANTONIO SPURS,240,25,73,4,15,26,41,15,33,12,6,5,10,17,home,win,80.0,MIAMI HEAT,73.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DENVER NUGGETS,240,23,79,2,9,12,18,18,31,12,8,10,22,19,2003-11-04,away,loss,60.0,INDIANA PACERS,71.0,0.22549019607843138,0.18181818181818182,49
+INDIANA PACERS,240,27,76,0,8,17,23,15,34,21,15,7,16,20,2003-11-04,home,win,71.0,DENVER NUGGETS,60.0,0.2621359223300971,0.0,49
+LOS ANGELES LAKERS,240,40,87,8,19,25,41,16,32,25,7,5,10,22,2003-11-04,away,win,113.0,MILWAUKEE BUCKS,107.0,0.31496062992125984,0.2962962962962963,48
+MILWAUKEE BUCKS,240,36,90,9,19,26,30,17,35,22,8,5,12,26,2003-11-04,home,loss,107.0,LOS ANGELES LAKERS,113.0,0.2857142857142857,0.32142857142857145,52
+HOUSTON ROCKETS,240,35,66,5,10,11,17,5,39,17,9,4,22,22,2003-11-04,away,win,86.0,NEW JERSEY NETS,75.0,0.3465346534653465,0.3333333333333333,44
+NEW JERSEY NETS,240,27,80,4,12,17,22,12,23,21,12,1,12,20,2003-11-04,home,loss,75.0,HOUSTON ROCKETS,86.0,0.2523364485981308,0.25,35
+MIAMI HEAT,240,24,68,4,12,21,24,10,34,8,8,3,13,31,2003-11-04,away,loss,73.0,SAN ANTONIO SPURS,80.0,0.2608695652173913,0.25,44
+SAN ANTONIO SPURS,240,25,73,4,15,26,41,15,33,12,6,5,10,17,2003-11-04,home,win,80.0,MIAMI HEAT,73.0,0.25510204081632654,0.21052631578947367,48

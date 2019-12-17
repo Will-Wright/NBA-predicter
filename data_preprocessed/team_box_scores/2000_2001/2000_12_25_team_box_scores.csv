@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,30,78,8,20,25,32,11,28,18,8,6,13,21,away,loss,93.0,INDIANA PACERS,103.0
-INDIANA PACERS,240,40,84,5,13,18,22,15,32,21,9,11,17,31,home,win,103.0,ORLANDO MAGIC,93.0
-PORTLAND TRAIL BLAZERS,240,37,76,4,11,31,46,12,33,19,4,5,9,29,away,win,109.0,LOS ANGELES LAKERS,104.0
-LOS ANGELES LAKERS,240,35,74,6,20,28,41,8,26,21,5,0,11,32,home,loss,104.0,PORTLAND TRAIL BLAZERS,109.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,30,78,8,20,25,32,11,28,18,8,6,13,21,2000-12-25,away,loss,93.0,INDIANA PACERS,103.0,0.2777777777777778,0.2857142857142857,39
+INDIANA PACERS,240,40,84,5,13,18,22,15,32,21,9,11,17,31,2000-12-25,home,win,103.0,ORLANDO MAGIC,93.0,0.3225806451612903,0.2777777777777778,47
+PORTLAND TRAIL BLAZERS,240,37,76,4,11,31,46,12,33,19,4,5,9,29,2000-12-25,away,win,109.0,LOS ANGELES LAKERS,104.0,0.3274336283185841,0.26666666666666666,45
+LOS ANGELES LAKERS,240,35,74,6,20,28,41,8,26,21,5,0,11,32,2000-12-25,home,loss,104.0,PORTLAND TRAIL BLAZERS,109.0,0.3211009174311927,0.23076923076923078,34

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PORTLAND TRAIL BLAZERS,240,50,103,17,39,12,14,9,32,32,6,11,8,27,away,loss,129.0,MILWAUKEE BUCKS,137.0
-MILWAUKEE BUCKS,240,50,106,16,43,21,26,18,40,32,7,3,12,20,home,win,137.0,PORTLAND TRAIL BLAZERS,129.0
-NEW ORLEANS PELICANS,240,47,88,16,35,14,22,8,36,28,8,6,17,25,away,win,124.0,PHOENIX SUNS,121.0
-PHOENIX SUNS,240,40,86,13,31,28,32,9,29,28,10,3,14,19,home,loss,121.0,NEW ORLEANS PELICANS,124.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PORTLAND TRAIL BLAZERS,240,50,103,17,39,12,14,9,32,32,6,11,8,27,2019-11-21,away,loss,129.0,MILWAUKEE BUCKS,137.0,0.32679738562091504,0.30357142857142855,41
+MILWAUKEE BUCKS,240,50,106,16,43,21,26,18,40,32,7,3,12,20,2019-11-21,home,win,137.0,PORTLAND TRAIL BLAZERS,129.0,0.32051282051282054,0.2711864406779661,58
+NEW ORLEANS PELICANS,240,47,88,16,35,14,22,8,36,28,8,6,17,25,2019-11-21,away,win,124.0,PHOENIX SUNS,121.0,0.34814814814814815,0.3137254901960784,44
+PHOENIX SUNS,240,40,86,13,31,28,32,9,29,28,10,3,14,19,2019-11-21,home,loss,121.0,NEW ORLEANS PELICANS,124.0,0.31746031746031744,0.29545454545454547,38

@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-OKLAHOMA CITY THUNDER,240,34,89,7,27,13,17,14,33,20,3,5,7,11,away,loss,88.0,GOLDEN STATE WARRIORS,96.0
-GOLDEN STATE WARRIORS,240,37,85,17,37,5,8,10,36,20,4,4,11,16,home,win,96.0,OKLAHOMA CITY THUNDER,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+OKLAHOMA CITY THUNDER,240,34,89,7,27,13,17,14,33,20,3,5,7,11,2016-05-30,away,loss,88.0,GOLDEN STATE WARRIORS,96.0,0.2764227642276423,0.20588235294117646,47
+GOLDEN STATE WARRIORS,240,37,85,17,37,5,8,10,36,20,4,4,11,16,2016-05-30,home,win,96.0,OKLAHOMA CITY THUNDER,88.0,0.30327868852459017,0.3148148148148148,46

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MEMPHIS GRIZZLIES,240,28,61,5,14,18,26,7,27,15,1,5,20,32,away,loss,79.0,DALLAS MAVERICKS,94.0
-DALLAS MAVERICKS,240,31,69,4,14,28,36,11,26,18,5,5,12,31,home,win,94.0,MEMPHIS GRIZZLIES,79.0
-MILWAUKEE BUCKS,240,37,85,6,12,18,24,14,28,16,5,3,13,22,away,loss,98.0,DETROIT PISTONS,109.0
-DETROIT PISTONS,240,42,83,10,25,15,19,10,31,30,6,6,9,20,home,win,109.0,MILWAUKEE BUCKS,98.0
-LOS ANGELES LAKERS,240,38,75,9,16,14,19,5,34,20,8,4,17,24,away,win,99.0,PHOENIX SUNS,93.0
-PHOENIX SUNS,240,33,78,9,27,18,18,6,29,19,4,6,14,25,home,loss,93.0,LOS ANGELES LAKERS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MEMPHIS GRIZZLIES,240,28,61,5,14,18,26,7,27,15,1,5,20,32,2006-04-26,away,loss,79.0,DALLAS MAVERICKS,94.0,0.3146067415730337,0.2631578947368421,34
+DALLAS MAVERICKS,240,31,69,4,14,28,36,11,26,18,5,5,12,31,2006-04-26,home,win,94.0,MEMPHIS GRIZZLIES,79.0,0.31,0.2222222222222222,37
+MILWAUKEE BUCKS,240,37,85,6,12,18,24,14,28,16,5,3,13,22,2006-04-26,away,loss,98.0,DETROIT PISTONS,109.0,0.30327868852459017,0.3333333333333333,42
+DETROIT PISTONS,240,42,83,10,25,15,19,10,31,30,6,6,9,20,2006-04-26,home,win,109.0,MILWAUKEE BUCKS,98.0,0.336,0.2857142857142857,41
+LOS ANGELES LAKERS,240,38,75,9,16,14,19,5,34,20,8,4,17,24,2006-04-26,away,win,99.0,PHOENIX SUNS,93.0,0.336283185840708,0.36,39
+PHOENIX SUNS,240,33,78,9,27,18,18,6,29,19,4,6,14,25,2006-04-26,home,loss,93.0,LOS ANGELES LAKERS,99.0,0.2972972972972973,0.25,35

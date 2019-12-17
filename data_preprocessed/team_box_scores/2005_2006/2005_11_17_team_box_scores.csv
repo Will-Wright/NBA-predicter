@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,29,76,1,9,19,28,15,28,14,4,4,16,21,away,loss,78.0,DALLAS MAVERICKS,87.0
-DALLAS MAVERICKS,240,32,81,3,10,20,23,16,30,14,8,11,16,28,home,win,87.0,ATLANTA HAWKS,78.0
-WASHINGTON WIZARDS,240,37,80,8,13,16,19,7,24,14,7,5,11,16,away,loss,98.0,MINNESOTA TIMBERWOLVES,109.0
-MINNESOTA TIMBERWOLVES,240,46,86,7,13,10,12,10,35,29,6,5,13,19,home,win,109.0,WASHINGTON WIZARDS,98.0
-HOUSTON ROCKETS,240,28,72,7,19,17,22,9,31,12,6,2,16,22,away,loss,80.0,SAN ANTONIO SPURS,86.0
-SAN ANTONIO SPURS,240,35,76,3,11,13,18,9,26,23,8,5,12,19,home,win,86.0,HOUSTON ROCKETS,80.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,29,76,1,9,19,28,15,28,14,4,4,16,21,2005-11-17,away,loss,78.0,DALLAS MAVERICKS,87.0,0.2761904761904762,0.1,43
+DALLAS MAVERICKS,240,32,81,3,10,20,23,16,30,14,8,11,16,28,2005-11-17,home,win,87.0,ATLANTA HAWKS,78.0,0.2831858407079646,0.23076923076923078,46
+WASHINGTON WIZARDS,240,37,80,8,13,16,19,7,24,14,7,5,11,16,2005-11-17,away,loss,98.0,MINNESOTA TIMBERWOLVES,109.0,0.3162393162393162,0.38095238095238093,31
+MINNESOTA TIMBERWOLVES,240,46,86,7,13,10,12,10,35,29,6,5,13,19,2005-11-17,home,win,109.0,WASHINGTON WIZARDS,98.0,0.3484848484848485,0.35,45
+HOUSTON ROCKETS,240,28,72,7,19,17,22,9,31,12,6,2,16,22,2005-11-17,away,loss,80.0,SAN ANTONIO SPURS,86.0,0.28,0.2692307692307692,40
+SAN ANTONIO SPURS,240,35,76,3,11,13,18,9,26,23,8,5,12,19,2005-11-17,home,win,86.0,HOUSTON ROCKETS,80.0,0.3153153153153153,0.21428571428571427,35

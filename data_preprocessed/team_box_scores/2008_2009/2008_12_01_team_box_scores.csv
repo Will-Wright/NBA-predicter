@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,34,81,5,26,15,25,16,24,14,6,5,11,16,away,loss,88.0,BOSTON CELTICS,107.0
-BOSTON CELTICS,240,40,74,6,13,21,24,9,34,20,7,1,11,20,home,win,107.0,ORLANDO MAGIC,88.0
-MINNESOTA TIMBERWOLVES,240,30,75,11,25,19,25,11,28,17,5,9,17,19,away,loss,90.0,CHARLOTTE BOBCATS,100.0
-CHARLOTTE BOBCATS,240,37,80,7,13,19,26,10,28,28,5,9,9,21,home,win,100.0,MINNESOTA TIMBERWOLVES,90.0
-MIAMI HEAT,265,47,99,8,25,28,31,21,30,30,7,9,14,37,away,win,130.0,GOLDEN STATE WARRIORS,129.0
-GOLDEN STATE WARRIORS,265,39,84,4,14,47,52,11,25,24,9,8,9,22,home,loss,129.0,MIAMI HEAT,130.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,34,81,5,26,15,25,16,24,14,6,5,11,16,2008-12-01,away,loss,88.0,BOSTON CELTICS,107.0,0.2956521739130435,0.16129032258064516,40
+BOSTON CELTICS,240,40,74,6,13,21,24,9,34,20,7,1,11,20,2008-12-01,home,win,107.0,ORLANDO MAGIC,88.0,0.3508771929824561,0.3157894736842105,43
+MINNESOTA TIMBERWOLVES,240,30,75,11,25,19,25,11,28,17,5,9,17,19,2008-12-01,away,loss,90.0,CHARLOTTE BOBCATS,100.0,0.2857142857142857,0.3055555555555556,39
+CHARLOTTE BOBCATS,240,37,80,7,13,19,26,10,28,28,5,9,9,21,2008-12-01,home,win,100.0,MINNESOTA TIMBERWOLVES,90.0,0.3162393162393162,0.35,38
+MIAMI HEAT,265,47,99,8,25,28,31,21,30,30,7,9,14,37,2008-12-01,away,win,130.0,GOLDEN STATE WARRIORS,129.0,0.3219178082191781,0.24242424242424243,51
+GOLDEN STATE WARRIORS,265,39,84,4,14,47,52,11,25,24,9,8,9,22,2008-12-01,home,loss,129.0,MIAMI HEAT,130.0,0.3170731707317073,0.2222222222222222,36

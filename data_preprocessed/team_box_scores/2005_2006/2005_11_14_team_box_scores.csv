@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,32,95,8,29,10,19,19,27,24,6,2,18,29,away,loss,82.0,GOLDEN STATE WARRIORS,100.0
-GOLDEN STATE WARRIORS,240,35,75,8,22,22,27,11,36,20,8,6,19,25,home,win,100.0,CHICAGO BULLS,82.0
-LOS ANGELES LAKERS,240,25,77,4,11,19,23,15,30,12,5,12,17,20,away,loss,73.0,MEMPHIS GRIZZLIES,85.0
-MEMPHIS GRIZZLIES,240,31,82,4,15,19,25,18,32,14,8,11,14,22,home,win,85.0,LOS ANGELES LAKERS,73.0
-NEW YORK KNICKS,240,27,64,5,10,14,24,9,35,14,8,8,22,19,away,win,73.0,UTAH JAZZ,62.0
-UTAH JAZZ,240,22,75,4,18,14,17,12,28,16,8,7,20,26,home,loss,62.0,NEW YORK KNICKS,73.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,32,95,8,29,10,19,19,27,24,6,2,18,29,2005-11-14,away,loss,82.0,GOLDEN STATE WARRIORS,100.0,0.25196850393700787,0.21621621621621623,46
+GOLDEN STATE WARRIORS,240,35,75,8,22,22,27,11,36,20,8,6,19,25,2005-11-14,home,win,100.0,CHICAGO BULLS,82.0,0.3181818181818182,0.26666666666666666,47
+LOS ANGELES LAKERS,240,25,77,4,11,19,23,15,30,12,5,12,17,20,2005-11-14,away,loss,73.0,MEMPHIS GRIZZLIES,85.0,0.24509803921568626,0.26666666666666666,45
+MEMPHIS GRIZZLIES,240,31,82,4,15,19,25,18,32,14,8,11,14,22,2005-11-14,home,win,85.0,LOS ANGELES LAKERS,73.0,0.2743362831858407,0.21052631578947367,50
+NEW YORK KNICKS,240,27,64,5,10,14,24,9,35,14,8,8,22,19,2005-11-14,away,win,73.0,UTAH JAZZ,62.0,0.2967032967032967,0.3333333333333333,44
+UTAH JAZZ,240,22,75,4,18,14,17,12,28,16,8,7,20,26,2005-11-14,home,loss,62.0,NEW YORK KNICKS,73.0,0.2268041237113402,0.18181818181818182,40

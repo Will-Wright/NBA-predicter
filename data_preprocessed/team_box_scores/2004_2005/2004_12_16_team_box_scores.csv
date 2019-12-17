@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MILWAUKEE BUCKS,240,33,85,2,6,9,14,11,25,18,9,4,12,22,away,loss,77.0,CHICAGO BULLS,85.0
-CHICAGO BULLS,240,34,69,3,15,14,22,10,34,19,5,10,14,18,home,win,85.0,MILWAUKEE BUCKS,77.0
-CLEVELAND CAVALIERS,240,27,78,2,10,13,17,13,28,12,6,6,11,21,away,loss,69.0,DETROIT PISTONS,81.0
-DETROIT PISTONS,240,29,71,3,7,20,24,11,29,16,5,5,10,17,home,win,81.0,CLEVELAND CAVALIERS,69.0
-LOS ANGELES LAKERS,240,46,83,12,26,11,14,8,33,26,4,3,11,19,away,win,115.0,SACRAMENTO KINGS,99.0
-SACRAMENTO KINGS,240,41,90,5,17,12,18,15,26,24,4,5,10,17,home,loss,99.0,LOS ANGELES LAKERS,115.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MILWAUKEE BUCKS,240,33,85,2,6,9,14,11,25,18,9,4,12,22,2004-12-16,away,loss,77.0,CHICAGO BULLS,85.0,0.2796610169491525,0.25,36
+CHICAGO BULLS,240,34,69,3,15,14,22,10,34,19,5,10,14,18,2004-12-16,home,win,85.0,MILWAUKEE BUCKS,77.0,0.3300970873786408,0.16666666666666666,44
+CLEVELAND CAVALIERS,240,27,78,2,10,13,17,13,28,12,6,6,11,21,2004-12-16,away,loss,69.0,DETROIT PISTONS,81.0,0.2571428571428571,0.16666666666666666,41
+DETROIT PISTONS,240,29,71,3,7,20,24,11,29,16,5,5,10,17,2004-12-16,home,win,81.0,CLEVELAND CAVALIERS,69.0,0.29,0.3,40
+LOS ANGELES LAKERS,240,46,83,12,26,11,14,8,33,26,4,3,11,19,2004-12-16,away,win,115.0,SACRAMENTO KINGS,99.0,0.35658914728682173,0.3157894736842105,41
+SACRAMENTO KINGS,240,41,90,5,17,12,18,15,26,24,4,5,10,17,2004-12-16,home,loss,99.0,LOS ANGELES LAKERS,115.0,0.31297709923664124,0.22727272727272727,41

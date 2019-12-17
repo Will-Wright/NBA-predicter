@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,31,78,9,29,10,14,10,27,15,9,2,15,23,away,loss,81.0,PHILADELPHIA 76ERS,83.0
-PHILADELPHIA 76ERS,240,31,67,2,12,19,30,11,32,20,9,3,17,19,home,win,83.0,BOSTON CELTICS,81.0
-SAN ANTONIO SPURS,240,27,82,4,16,21,32,18,30,12,7,7,11,23,away,loss,79.0,SEATTLE SUPERSONICS,91.0
-SEATTLE SUPERSONICS,240,34,68,8,14,15,24,3,40,24,4,10,12,29,home,win,91.0,SAN ANTONIO SPURS,79.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,31,78,9,29,10,14,10,27,15,9,2,15,23,2002-05-01,away,loss,81.0,PHILADELPHIA 76ERS,83.0,0.28440366972477066,0.23684210526315788,37
+PHILADELPHIA 76ERS,240,31,67,2,12,19,30,11,32,20,9,3,17,19,2002-05-01,home,win,83.0,BOSTON CELTICS,81.0,0.3163265306122449,0.14285714285714285,43
+SAN ANTONIO SPURS,240,27,82,4,16,21,32,18,30,12,7,7,11,23,2002-05-01,away,loss,79.0,SEATTLE SUPERSONICS,91.0,0.24770642201834864,0.2,48
+SEATTLE SUPERSONICS,240,34,68,8,14,15,24,3,40,24,4,10,12,29,2002-05-01,home,win,91.0,SAN ANTONIO SPURS,79.0,0.3333333333333333,0.36363636363636365,43

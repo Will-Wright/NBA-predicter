@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,32,92,9,42,20,27,15,28,20,7,5,19,22,away,loss,93.0,DENVER NUGGETS,138.0
-DENVER NUGGETS,240,53,94,13,31,19,25,11,45,34,12,6,15,24,home,win,138.0,ATLANTA HAWKS,93.0
-GOLDEN STATE WARRIORS,240,32,76,4,18,18,22,12,32,18,2,5,16,24,away,loss,86.0,HOUSTON ROCKETS,107.0
-HOUSTON ROCKETS,240,35,87,16,47,21,26,14,27,20,8,4,5,21,home,win,107.0,GOLDEN STATE WARRIORS,86.0
-SAN ANTONIO SPURS,240,41,102,9,29,20,25,15,30,19,7,6,5,24,away,loss,111.0,LOS ANGELES CLIPPERS,116.0
-LOS ANGELES CLIPPERS,240,40,85,8,23,28,35,9,41,23,2,3,12,25,home,win,116.0,SAN ANTONIO SPURS,111.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,32,92,9,42,20,27,15,28,20,7,5,19,22,2018-11-15,away,loss,93.0,DENVER NUGGETS,138.0,0.25806451612903225,0.17647058823529413,43
+DENVER NUGGETS,240,53,94,13,31,19,25,11,45,34,12,6,15,24,2018-11-15,home,win,138.0,ATLANTA HAWKS,93.0,0.36054421768707484,0.29545454545454547,56
+GOLDEN STATE WARRIORS,240,32,76,4,18,18,22,12,32,18,2,5,16,24,2018-11-15,away,loss,86.0,HOUSTON ROCKETS,107.0,0.2962962962962963,0.18181818181818182,44
+HOUSTON ROCKETS,240,35,87,16,47,21,26,14,27,20,8,4,5,21,2018-11-15,home,win,107.0,GOLDEN STATE WARRIORS,86.0,0.28688524590163933,0.25396825396825395,41
+SAN ANTONIO SPURS,240,41,102,9,29,20,25,15,30,19,7,6,5,24,2018-11-15,away,loss,111.0,LOS ANGELES CLIPPERS,116.0,0.2867132867132867,0.23684210526315788,45
+LOS ANGELES CLIPPERS,240,40,85,8,23,28,35,9,41,23,2,3,12,25,2018-11-15,home,win,116.0,SAN ANTONIO SPURS,111.0,0.32,0.25806451612903225,50

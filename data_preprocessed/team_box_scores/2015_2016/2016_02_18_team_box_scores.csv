@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,37,93,8,21,13,22,15,34,12,4,4,13,19,away,loss,95.0,CLEVELAND CAVALIERS,106.0
-CLEVELAND CAVALIERS,240,42,91,7,24,15,17,11,41,21,8,8,10,22,home,win,106.0,CHICAGO BULLS,95.0
-SAN ANTONIO SPURS,240,35,83,4,17,12,15,5,28,19,11,2,15,16,away,loss,86.0,LOS ANGELES CLIPPERS,105.0
-LOS ANGELES CLIPPERS,240,39,78,12,25,15,20,8,37,23,8,7,18,20,home,win,105.0,SAN ANTONIO SPURS,86.0
-UTAH JAZZ,240,31,77,4,15,23,29,12,36,20,9,6,23,21,away,loss,89.0,WASHINGTON WIZARDS,103.0
-WASHINGTON WIZARDS,240,42,86,7,18,12,21,6,30,25,14,10,11,20,home,win,103.0,UTAH JAZZ,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,37,93,8,21,13,22,15,34,12,4,4,13,19,2016-02-18,away,loss,95.0,CLEVELAND CAVALIERS,106.0,0.2846153846153846,0.27586206896551724,49
+CLEVELAND CAVALIERS,240,42,91,7,24,15,17,11,41,21,8,8,10,22,2016-02-18,home,win,106.0,CHICAGO BULLS,95.0,0.3157894736842105,0.22580645161290322,52
+SAN ANTONIO SPURS,240,35,83,4,17,12,15,5,28,19,11,2,15,16,2016-02-18,away,loss,86.0,LOS ANGELES CLIPPERS,105.0,0.2966101694915254,0.19047619047619047,33
+LOS ANGELES CLIPPERS,240,39,78,12,25,15,20,8,37,23,8,7,18,20,2016-02-18,home,win,105.0,SAN ANTONIO SPURS,86.0,0.3333333333333333,0.32432432432432434,45
+UTAH JAZZ,240,31,77,4,15,23,29,12,36,20,9,6,23,21,2016-02-18,away,loss,89.0,WASHINGTON WIZARDS,103.0,0.28703703703703703,0.21052631578947367,48
+WASHINGTON WIZARDS,240,42,86,7,18,12,21,6,30,25,14,10,11,20,2016-02-18,home,win,103.0,UTAH JAZZ,89.0,0.328125,0.28,36

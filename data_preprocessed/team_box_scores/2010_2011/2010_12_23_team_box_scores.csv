@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,38,90,8,22,17,25,16,30,17,7,2,10,16,away,loss,101.0,ORLANDO MAGIC,123.0
-ORLANDO MAGIC,240,50,84,13,25,10,17,4,35,31,5,3,13,20,home,win,123.0,SAN ANTONIO SPURS,101.0
-MIAMI HEAT,240,37,82,5,18,16,17,11,33,12,9,4,16,22,away,win,95.0,PHOENIX SUNS,83.0
-PHOENIX SUNS,240,30,75,10,26,13,19,11,28,25,7,2,19,21,home,loss,83.0,MIAMI HEAT,95.0
-MILWAUKEE BUCKS,240,35,81,2,9,12,18,7,30,13,7,9,12,20,away,win,84.0,SACRAMENTO KINGS,79.0
-SACRAMENTO KINGS,240,31,85,7,21,10,15,19,38,18,3,4,25,28,home,loss,79.0,MILWAUKEE BUCKS,84.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,38,90,8,22,17,25,16,30,17,7,2,10,16,2010-12-23,away,loss,101.0,ORLANDO MAGIC,123.0,0.296875,0.26666666666666666,46
+ORLANDO MAGIC,240,50,84,13,25,10,17,4,35,31,5,3,13,20,2010-12-23,home,win,123.0,SAN ANTONIO SPURS,101.0,0.373134328358209,0.34210526315789475,39
+MIAMI HEAT,240,37,82,5,18,16,17,11,33,12,9,4,16,22,2010-12-23,away,win,95.0,PHOENIX SUNS,83.0,0.31092436974789917,0.21739130434782608,44
+PHOENIX SUNS,240,30,75,10,26,13,19,11,28,25,7,2,19,21,2010-12-23,home,loss,83.0,MIAMI HEAT,95.0,0.2857142857142857,0.2777777777777778,39
+MILWAUKEE BUCKS,240,35,81,2,9,12,18,7,30,13,7,9,12,20,2010-12-23,away,win,84.0,SACRAMENTO KINGS,79.0,0.3017241379310345,0.18181818181818182,37
+SACRAMENTO KINGS,240,31,85,7,21,10,15,19,38,18,3,4,25,28,2010-12-23,home,loss,79.0,MILWAUKEE BUCKS,84.0,0.2672413793103448,0.25,57

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MINNESOTA TIMBERWOLVES,240,37,83,6,16,21,30,17,35,21,2,3,13,17,away,win,101.0,DENVER NUGGETS,97.0
-DENVER NUGGETS,240,40,86,6,22,11,20,11,28,27,11,11,7,26,home,loss,97.0,MINNESOTA TIMBERWOLVES,101.0
-SAN ANTONIO SPURS,240,28,77,9,34,18,21,7,28,14,8,5,13,11,away,loss,83.0,NEW YORK KNICKS,100.0
-NEW YORK KNICKS,240,39,82,12,27,10,16,10,38,26,10,5,12,18,home,win,100.0,SAN ANTONIO SPURS,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MINNESOTA TIMBERWOLVES,240,37,83,6,16,21,30,17,35,21,2,3,13,17,2013-01-03,away,win,101.0,DENVER NUGGETS,97.0,0.30833333333333335,0.2727272727272727,52
+DENVER NUGGETS,240,40,86,6,22,11,20,11,28,27,11,11,7,26,2013-01-03,home,loss,97.0,MINNESOTA TIMBERWOLVES,101.0,0.31746031746031744,0.21428571428571427,39
+SAN ANTONIO SPURS,240,28,77,9,34,18,21,7,28,14,8,5,13,11,2013-01-03,away,loss,83.0,NEW YORK KNICKS,100.0,0.26666666666666666,0.20930232558139536,35
+NEW YORK KNICKS,240,39,82,12,27,10,16,10,38,26,10,5,12,18,2013-01-03,home,win,100.0,SAN ANTONIO SPURS,83.0,0.32231404958677684,0.3076923076923077,48

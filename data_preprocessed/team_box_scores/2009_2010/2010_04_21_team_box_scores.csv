@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,40,83,8,15,14,22,16,35,18,5,1,8,15,away,win,102.0,DALLAS MAVERICKS,88.0
-DALLAS MAVERICKS,240,31,85,7,19,19,20,14,28,19,7,6,7,18,home,loss,88.0,SAN ANTONIO SPURS,102.0
-CHARLOTTE BOBCATS,240,29,66,6,14,13,18,11,25,18,7,6,19,29,away,loss,77.0,ORLANDO MAGIC,92.0
-ORLANDO MAGIC,240,29,64,10,27,24,35,11,25,17,11,3,14,22,home,win,92.0,CHARLOTTE BOBCATS,77.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,40,83,8,15,14,22,16,35,18,5,1,8,15,2010-04-21,away,win,102.0,DALLAS MAVERICKS,88.0,0.3252032520325203,0.34782608695652173,51
+DALLAS MAVERICKS,240,31,85,7,19,19,20,14,28,19,7,6,7,18,2010-04-21,home,loss,88.0,SAN ANTONIO SPURS,102.0,0.2672413793103448,0.2692307692307692,42
+CHARLOTTE BOBCATS,240,29,66,6,14,13,18,11,25,18,7,6,19,29,2010-04-21,away,loss,77.0,ORLANDO MAGIC,92.0,0.30526315789473685,0.3,36
+ORLANDO MAGIC,240,29,64,10,27,24,35,11,25,17,11,3,14,22,2010-04-21,home,win,92.0,CHARLOTTE BOBCATS,77.0,0.3118279569892473,0.2702702702702703,36

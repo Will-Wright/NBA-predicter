@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW ORLEANS PELICANS,240,48,105,13,37,7,9,10,36,33,12,5,13,19,away,loss,116.0,GOLDEN STATE WARRIORS,121.0
-GOLDEN STATE WARRIORS,240,43,91,13,40,22,27,7,42,36,10,8,16,18,home,win,121.0,NEW ORLEANS PELICANS,116.0
-CLEVELAND CAVALIERS,265,42,102,14,35,15,21,13,32,25,5,5,5,23,away,win,113.0,TORONTO RAPTORS,112.0
-TORONTO RAPTORS,265,39,91,9,28,25,31,15,35,26,2,6,13,22,home,loss,112.0,CLEVELAND CAVALIERS,113.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW ORLEANS PELICANS,240,48,105,13,37,7,9,10,36,33,12,5,13,19,2018-05-01,away,loss,116.0,GOLDEN STATE WARRIORS,121.0,0.3137254901960784,0.26,46
+GOLDEN STATE WARRIORS,240,43,91,13,40,22,27,7,42,36,10,8,16,18,2018-05-01,home,win,121.0,NEW ORLEANS PELICANS,116.0,0.3208955223880597,0.24528301886792453,49
+CLEVELAND CAVALIERS,265,42,102,14,35,15,21,13,32,25,5,5,5,23,2018-05-01,away,win,113.0,TORONTO RAPTORS,112.0,0.2916666666666667,0.2857142857142857,45
+TORONTO RAPTORS,265,39,91,9,28,25,31,15,35,26,2,6,13,22,2018-05-01,home,loss,112.0,CLEVELAND CAVALIERS,113.0,0.3,0.24324324324324326,50

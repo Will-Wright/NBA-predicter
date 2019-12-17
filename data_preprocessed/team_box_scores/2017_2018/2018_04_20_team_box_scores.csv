@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,34,77,10,32,12,16,9,27,17,11,3,16,23,away,loss,90.0,INDIANA PACERS,92.0
-INDIANA PACERS,240,34,73,8,26,16,20,7,30,17,8,3,17,22,home,win,92.0,CLEVELAND CAVALIERS,90.0
-BOSTON CELTICS,240,32,80,8,24,20,28,17,28,17,3,1,16,15,away,loss,92.0,MILWAUKEE BUCKS,116.0
-MILWAUKEE BUCKS,240,45,79,16,33,10,15,7,30,28,8,12,9,27,home,win,116.0,BOSTON CELTICS,92.0
-TORONTO RAPTORS,240,37,82,12,28,17,19,8,26,20,8,4,18,19,away,loss,103.0,WASHINGTON WIZARDS,122.0
-WASHINGTON WIZARDS,240,47,85,10,23,18,20,7,32,29,10,8,11,21,home,win,122.0,TORONTO RAPTORS,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,34,77,10,32,12,16,9,27,17,11,3,16,23,2018-04-20,away,loss,90.0,INDIANA PACERS,92.0,0.3063063063063063,0.23809523809523808,36
+INDIANA PACERS,240,34,73,8,26,16,20,7,30,17,8,3,17,22,2018-04-20,home,win,92.0,CLEVELAND CAVALIERS,90.0,0.3177570093457944,0.23529411764705882,37
+BOSTON CELTICS,240,32,80,8,24,20,28,17,28,17,3,1,16,15,2018-04-20,away,loss,92.0,MILWAUKEE BUCKS,116.0,0.2857142857142857,0.25,45
+MILWAUKEE BUCKS,240,45,79,16,33,10,15,7,30,28,8,12,9,27,2018-04-20,home,win,116.0,BOSTON CELTICS,92.0,0.3629032258064516,0.32653061224489793,37
+TORONTO RAPTORS,240,37,82,12,28,17,19,8,26,20,8,4,18,19,2018-04-20,away,loss,103.0,WASHINGTON WIZARDS,122.0,0.31092436974789917,0.3,34
+WASHINGTON WIZARDS,240,47,85,10,23,18,20,7,32,29,10,8,11,21,2018-04-20,home,win,122.0,TORONTO RAPTORS,103.0,0.3560606060606061,0.30303030303030304,39

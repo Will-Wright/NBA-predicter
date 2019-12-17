@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,240,30,78,4,17,18,23,13,33,12,10,6,16,28,away,win,82.0,MEMPHIS GRIZZLIES,72.0
-MEMPHIS GRIZZLIES,240,25,77,0,13,22,31,12,32,12,11,4,13,20,home,loss,72.0,LOS ANGELES CLIPPERS,82.0
-INDIANA PACERS,240,31,77,4,17,20,28,8,30,18,7,3,15,31,away,loss,86.0,MIAMI HEAT,95.0
-MIAMI HEAT,240,33,81,0,6,29,38,15,30,16,8,5,12,22,home,win,95.0,INDIANA PACERS,86.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,240,30,78,4,17,18,23,13,33,12,10,6,16,28,2012-05-13,away,win,82.0,MEMPHIS GRIZZLIES,72.0,0.2777777777777778,0.19047619047619047,46
+MEMPHIS GRIZZLIES,240,25,77,0,13,22,31,12,32,12,11,4,13,20,2012-05-13,home,loss,72.0,LOS ANGELES CLIPPERS,82.0,0.24509803921568626,0.0,44
+INDIANA PACERS,240,31,77,4,17,20,28,8,30,18,7,3,15,31,2012-05-13,away,loss,86.0,MIAMI HEAT,95.0,0.28703703703703703,0.19047619047619047,38
+MIAMI HEAT,240,33,81,0,6,29,38,15,30,16,8,5,12,22,2012-05-13,home,win,95.0,INDIANA PACERS,86.0,0.2894736842105263,0.0,45

@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,32,71,12,17,32,45,14,33,21,6,10,12,22,away,win,108.0,PHILADELPHIA 76ERS,96.0
-PHILADELPHIA 76ERS,240,37,90,4,15,18,26,20,31,23,6,4,10,32,home,loss,96.0,LOS ANGELES LAKERS,108.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,32,71,12,17,32,45,14,33,21,6,10,12,22,2001-06-15,away,win,108.0,PHILADELPHIA 76ERS,96.0,0.3106796116504854,0.41379310344827586,47
+PHILADELPHIA 76ERS,240,37,90,4,15,18,26,20,31,23,6,4,10,32,2001-06-15,home,loss,96.0,LOS ANGELES LAKERS,108.0,0.29133858267716534,0.21052631578947367,51

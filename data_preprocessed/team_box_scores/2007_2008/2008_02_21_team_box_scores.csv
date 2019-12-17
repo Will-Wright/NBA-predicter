@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,38,80,7,14,17,27,12,22,24,5,3,11,17,away,loss,100.0,HOUSTON ROCKETS,112.0
-HOUSTON ROCKETS,240,42,78,9,23,19,27,10,32,32,7,1,11,20,home,win,112.0,MIAMI HEAT,100.0
-SAN ANTONIO SPURS,240,35,74,8,25,22,26,10,31,20,8,6,11,18,away,win,100.0,MINNESOTA TIMBERWOLVES,99.0
-MINNESOTA TIMBERWOLVES,240,41,81,5,9,12,17,8,26,26,5,4,12,22,home,loss,99.0,SAN ANTONIO SPURS,100.0
-SEATTLE SUPERSONICS,240,31,80,6,13,20,31,13,38,19,2,3,15,28,away,loss,88.0,PORTLAND TRAIL BLAZERS,92.0
-PORTLAND TRAIL BLAZERS,240,29,76,7,19,27,39,10,39,20,10,11,8,20,home,win,92.0,SEATTLE SUPERSONICS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,38,80,7,14,17,27,12,22,24,5,3,11,17,2008-02-21,away,loss,100.0,HOUSTON ROCKETS,112.0,0.3220338983050847,0.3333333333333333,34
+HOUSTON ROCKETS,240,42,78,9,23,19,27,10,32,32,7,1,11,20,2008-02-21,home,win,112.0,MIAMI HEAT,100.0,0.35,0.28125,42
+SAN ANTONIO SPURS,240,35,74,8,25,22,26,10,31,20,8,6,11,18,2008-02-21,away,win,100.0,MINNESOTA TIMBERWOLVES,99.0,0.3211009174311927,0.24242424242424243,41
+MINNESOTA TIMBERWOLVES,240,41,81,5,9,12,17,8,26,26,5,4,12,22,2008-02-21,home,loss,99.0,SAN ANTONIO SPURS,100.0,0.3360655737704918,0.35714285714285715,34
+SEATTLE SUPERSONICS,240,31,80,6,13,20,31,13,38,19,2,3,15,28,2008-02-21,away,loss,88.0,PORTLAND TRAIL BLAZERS,92.0,0.27927927927927926,0.3157894736842105,51
+PORTLAND TRAIL BLAZERS,240,29,76,7,19,27,39,10,39,20,10,11,8,20,2008-02-21,home,win,92.0,SEATTLE SUPERSONICS,88.0,0.2761904761904762,0.2692307692307692,49

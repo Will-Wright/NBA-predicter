@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,44,101,11,33,9,12,5,34,28,4,6,12,23,away,loss,108.0,PHILADELPHIA 76ERS,127.0
-PHILADELPHIA 76ERS,240,44,93,12,36,27,30,11,44,30,10,8,13,17,home,win,127.0,CHICAGO BULLS,108.0
-LOS ANGELES LAKERS,240,45,93,7,30,22,29,8,38,23,10,6,15,26,away,loss,119.0,PORTLAND TRAIL BLAZERS,128.0
-PORTLAND TRAIL BLAZERS,240,44,100,13,37,27,29,14,40,21,9,10,16,26,home,win,128.0,LOS ANGELES LAKERS,119.0
-MIAMI HEAT,240,38,97,12,35,25,34,22,33,25,6,5,16,26,away,win,113.0,WASHINGTON WIZARDS,112.0
-WASHINGTON WIZARDS,240,38,81,7,26,29,39,7,33,19,7,15,14,31,home,loss,112.0,MIAMI HEAT,113.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,44,101,11,33,9,12,5,34,28,4,6,12,23,2018-10-18,away,loss,108.0,PHILADELPHIA 76ERS,127.0,0.30344827586206896,0.25,39
+PHILADELPHIA 76ERS,240,44,93,12,36,27,30,11,44,30,10,8,13,17,2018-10-18,home,win,127.0,CHICAGO BULLS,108.0,0.32116788321167883,0.25,55
+LOS ANGELES LAKERS,240,45,93,7,30,22,29,8,38,23,10,6,15,26,2018-10-18,away,loss,119.0,PORTLAND TRAIL BLAZERS,128.0,0.32608695652173914,0.1891891891891892,46
+PORTLAND TRAIL BLAZERS,240,44,100,13,37,27,29,14,40,21,9,10,16,26,2018-10-18,home,win,128.0,LOS ANGELES LAKERS,119.0,0.3055555555555556,0.26,54
+MIAMI HEAT,240,38,97,12,35,25,34,22,33,25,6,5,16,26,2018-10-18,away,win,113.0,WASHINGTON WIZARDS,112.0,0.2814814814814815,0.2553191489361702,55
+WASHINGTON WIZARDS,240,38,81,7,26,29,39,7,33,19,7,15,14,31,2018-10-18,home,loss,112.0,MIAMI HEAT,113.0,0.31932773109243695,0.21212121212121213,40

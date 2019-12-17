@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,30,78,4,13,24,29,12,31,18,7,7,7,17,away,win,88.0,INDIANA PACERS,85.0
-INDIANA PACERS,240,34,79,8,19,9,10,9,30,23,0,5,12,24,home,loss,85.0,PHILADELPHIA 76ERS,88.0
-SACRAMENTO KINGS,240,29,83,5,16,26,33,17,31,15,8,6,14,23,away,win,89.0,PHOENIX SUNS,82.0
-PHOENIX SUNS,240,32,88,3,13,15,22,17,32,17,4,5,11,24,home,loss,82.0,SACRAMENTO KINGS,89.0
-NEW YORK KNICKS,240,34,68,6,16,19,24,6,25,17,6,4,18,30,away,loss,93.0,TORONTO RAPTORS,100.0
-TORONTO RAPTORS,240,34,76,8,17,24,33,12,26,15,10,8,16,26,home,win,100.0,NEW YORK KNICKS,93.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,30,78,4,13,24,29,12,31,18,7,7,7,17,2001-05-02,away,win,88.0,INDIANA PACERS,85.0,0.2777777777777778,0.23529411764705882,43
+INDIANA PACERS,240,34,79,8,19,9,10,9,30,23,0,5,12,24,2001-05-02,home,loss,85.0,PHILADELPHIA 76ERS,88.0,0.3008849557522124,0.2962962962962963,39
+SACRAMENTO KINGS,240,29,83,5,16,26,33,17,31,15,8,6,14,23,2001-05-02,away,win,89.0,PHOENIX SUNS,82.0,0.25892857142857145,0.23809523809523808,48
+PHOENIX SUNS,240,32,88,3,13,15,22,17,32,17,4,5,11,24,2001-05-02,home,loss,82.0,SACRAMENTO KINGS,89.0,0.26666666666666666,0.1875,49
+NEW YORK KNICKS,240,34,68,6,16,19,24,6,25,17,6,4,18,30,2001-05-02,away,loss,93.0,TORONTO RAPTORS,100.0,0.3333333333333333,0.2727272727272727,31
+TORONTO RAPTORS,240,34,76,8,17,24,33,12,26,15,10,8,16,26,2001-05-02,home,win,100.0,NEW YORK KNICKS,93.0,0.3090909090909091,0.32,38

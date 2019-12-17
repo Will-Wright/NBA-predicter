@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,34,78,4,8,14,22,16,33,16,10,9,24,30,away,win,86.0,MEMPHIS GRIZZLIES,79.0
-MEMPHIS GRIZZLIES,240,30,76,2,9,17,27,11,27,21,10,10,19,25,home,loss,79.0,GOLDEN STATE WARRIORS,86.0
-ORLANDO MAGIC,240,34,93,10,20,20,24,17,27,23,7,10,12,35,away,loss,98.0,UTAH JAZZ,105.0
-UTAH JAZZ,240,37,77,1,4,30,39,15,41,27,7,18,17,19,home,win,105.0,ORLANDO MAGIC,98.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,34,78,4,8,14,22,16,33,16,10,9,24,30,2001-11-12,away,win,86.0,MEMPHIS GRIZZLIES,79.0,0.30357142857142855,0.3333333333333333,49
+MEMPHIS GRIZZLIES,240,30,76,2,9,17,27,11,27,21,10,10,19,25,2001-11-12,home,loss,79.0,GOLDEN STATE WARRIORS,86.0,0.2830188679245283,0.18181818181818182,38
+ORLANDO MAGIC,240,34,93,10,20,20,24,17,27,23,7,10,12,35,2001-11-12,away,loss,98.0,UTAH JAZZ,105.0,0.2677165354330709,0.3333333333333333,44
+UTAH JAZZ,240,37,77,1,4,30,39,15,41,27,7,18,17,19,2001-11-12,home,win,105.0,ORLANDO MAGIC,98.0,0.32456140350877194,0.2,56

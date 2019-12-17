@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,42,88,6,15,27,33,16,29,25,8,1,15,17,away,loss,117.0,DALLAS MAVERICKS,127.0
-DALLAS MAVERICKS,240,52,96,8,20,15,18,13,32,32,9,4,12,27,home,win,127.0,SACRAMENTO KINGS,117.0
-HOUSTON ROCKETS,240,33,81,6,14,13,16,5,30,19,11,6,17,27,away,loss,85.0,LOS ANGELES LAKERS,93.0
-LOS ANGELES LAKERS,240,29,77,5,9,30,42,18,40,17,15,3,21,15,home,win,93.0,HOUSTON ROCKETS,85.0
-PORTLAND TRAIL BLAZERS,240,34,70,5,12,15,20,9,30,21,8,7,12,14,away,win,88.0,PHILADELPHIA 76ERS,82.0
-PHILADELPHIA 76ERS,240,31,81,4,13,16,20,18,27,14,7,5,11,18,home,loss,82.0,PORTLAND TRAIL BLAZERS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,42,88,6,15,27,33,16,29,25,8,1,15,17,2004-04-01,away,loss,117.0,DALLAS MAVERICKS,127.0,0.3230769230769231,0.2857142857142857,45
+DALLAS MAVERICKS,240,52,96,8,20,15,18,13,32,32,9,4,12,27,2004-04-01,home,win,127.0,SACRAMENTO KINGS,117.0,0.35135135135135137,0.2857142857142857,45
+HOUSTON ROCKETS,240,33,81,6,14,13,16,5,30,19,11,6,17,27,2004-04-01,away,loss,85.0,LOS ANGELES LAKERS,93.0,0.2894736842105263,0.3,35
+LOS ANGELES LAKERS,240,29,77,5,9,30,42,18,40,17,15,3,21,15,2004-04-01,home,win,93.0,HOUSTON ROCKETS,85.0,0.27358490566037735,0.35714285714285715,58
+PORTLAND TRAIL BLAZERS,240,34,70,5,12,15,20,9,30,21,8,7,12,14,2004-04-01,away,win,88.0,PHILADELPHIA 76ERS,82.0,0.3269230769230769,0.29411764705882354,39
+PHILADELPHIA 76ERS,240,31,81,4,13,16,20,18,27,14,7,5,11,18,2004-04-01,home,loss,82.0,PORTLAND TRAIL BLAZERS,88.0,0.2767857142857143,0.23529411764705882,45

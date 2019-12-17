@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,35,87,3,13,24,33,18,13,22,12,4,12,31,away,loss,97.0,SEATTLE SUPERSONICS,105.0
-SEATTLE SUPERSONICS,240,33,72,10,22,29,32,17,33,18,4,6,21,28,home,win,105.0,CLEVELAND CAVALIERS,97.0
-NEW ORLEANS HORNETS,240,40,90,8,28,11,17,14,25,30,5,5,6,22,away,loss,99.0,TORONTO RAPTORS,102.0
-TORONTO RAPTORS,240,32,77,10,18,28,31,11,34,19,3,4,10,17,home,win,102.0,NEW ORLEANS HORNETS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,35,87,3,13,24,33,18,13,22,12,4,12,31,2005-01-16,away,loss,97.0,SEATTLE SUPERSONICS,105.0,0.28688524590163933,0.1875,31
+SEATTLE SUPERSONICS,240,33,72,10,22,29,32,17,33,18,4,6,21,28,2005-01-16,home,win,105.0,CLEVELAND CAVALIERS,97.0,0.3142857142857143,0.3125,50
+NEW ORLEANS HORNETS,240,40,90,8,28,11,17,14,25,30,5,5,6,22,2005-01-16,away,loss,99.0,TORONTO RAPTORS,102.0,0.3076923076923077,0.2222222222222222,39
+TORONTO RAPTORS,240,32,77,10,18,28,31,11,34,19,3,4,10,17,2005-01-16,home,win,102.0,NEW ORLEANS HORNETS,99.0,0.29357798165137616,0.35714285714285715,45

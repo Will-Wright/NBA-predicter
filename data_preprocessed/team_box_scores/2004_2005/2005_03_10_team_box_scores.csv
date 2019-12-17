@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,39,86,7,16,15,21,11,34,17,1,7,11,24,away,win,100.0,DALLAS MAVERICKS,95.0
-DALLAS MAVERICKS,240,33,90,5,20,24,29,17,34,17,5,9,8,25,home,loss,95.0,LOS ANGELES LAKERS,100.0
-MINNESOTA TIMBERWOLVES,240,38,81,3,4,11,15,12,24,16,4,1,16,29,away,loss,90.0,MIAMI HEAT,107.0
-MIAMI HEAT,240,36,75,2,9,33,41,14,29,18,11,8,10,11,home,win,107.0,MINNESOTA TIMBERWOLVES,90.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,39,86,7,16,15,21,11,34,17,1,7,11,24,2005-03-10,away,win,100.0,DALLAS MAVERICKS,95.0,0.312,0.30434782608695654,45
+DALLAS MAVERICKS,240,33,90,5,20,24,29,17,34,17,5,9,8,25,2005-03-10,home,loss,95.0,LOS ANGELES LAKERS,100.0,0.2682926829268293,0.2,51
+MINNESOTA TIMBERWOLVES,240,38,81,3,4,11,15,12,24,16,4,1,16,29,2005-03-10,away,loss,90.0,MIAMI HEAT,107.0,0.31932773109243695,0.42857142857142855,36
+MIAMI HEAT,240,36,75,2,9,33,41,14,29,18,11,8,10,11,2005-03-10,home,win,107.0,MINNESOTA TIMBERWOLVES,90.0,0.32432432432432434,0.18181818181818182,43

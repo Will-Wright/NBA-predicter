@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,43,79,4,18,20,27,2,30,16,8,8,11,20,away,loss,110.0,PORTLAND TRAIL BLAZERS,113.0
-PORTLAND TRAIL BLAZERS,240,40,86,9,22,24,27,10,31,22,7,4,12,21,home,win,113.0,LOS ANGELES LAKERS,110.0
-GOLDEN STATE WARRIORS,240,43,83,14,28,12,16,5,36,30,11,12,14,20,away,win,112.0,SAN ANTONIO SPURS,92.0
-SAN ANTONIO SPURS,240,34,87,7,24,17,23,14,32,19,6,8,16,10,home,loss,92.0,GOLDEN STATE WARRIORS,112.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,43,79,4,18,20,27,2,30,16,8,8,11,20,2017-11-02,away,loss,110.0,PORTLAND TRAIL BLAZERS,113.0,0.3524590163934426,0.18181818181818182,32
+PORTLAND TRAIL BLAZERS,240,40,86,9,22,24,27,10,31,22,7,4,12,21,2017-11-02,home,win,113.0,LOS ANGELES LAKERS,110.0,0.31746031746031744,0.2903225806451613,41
+GOLDEN STATE WARRIORS,240,43,83,14,28,12,16,5,36,30,11,12,14,20,2017-11-02,away,win,112.0,SAN ANTONIO SPURS,92.0,0.3412698412698413,0.3333333333333333,41
+SAN ANTONIO SPURS,240,34,87,7,24,17,23,14,32,19,6,8,16,10,2017-11-02,home,loss,92.0,GOLDEN STATE WARRIORS,112.0,0.2809917355371901,0.22580645161290322,46

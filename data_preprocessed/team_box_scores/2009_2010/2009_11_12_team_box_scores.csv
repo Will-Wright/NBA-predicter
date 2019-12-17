@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,38,104,8,23,18,29,24,31,12,2,1,13,20,away,loss,102.0,LOS ANGELES LAKERS,121.0
-LOS ANGELES LAKERS,240,53,92,8,16,7,18,8,42,36,5,7,15,23,home,win,121.0,PHOENIX SUNS,102.0
-CLEVELAND CAVALIERS,240,36,75,9,19,30,40,5,31,16,7,4,11,30,away,win,111.0,MIAMI HEAT,104.0
-MIAMI HEAT,240,35,76,7,22,27,37,7,30,13,5,6,10,23,home,loss,104.0,CLEVELAND CAVALIERS,111.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,38,104,8,23,18,29,24,31,12,2,1,13,20,2009-11-12,away,loss,102.0,LOS ANGELES LAKERS,121.0,0.2676056338028169,0.25806451612903225,55
+LOS ANGELES LAKERS,240,53,92,8,16,7,18,8,42,36,5,7,15,23,2009-11-12,home,win,121.0,PHOENIX SUNS,102.0,0.36551724137931035,0.3333333333333333,50
+CLEVELAND CAVALIERS,240,36,75,9,19,30,40,5,31,16,7,4,11,30,2009-11-12,away,win,111.0,MIAMI HEAT,104.0,0.32432432432432434,0.32142857142857145,36
+MIAMI HEAT,240,35,76,7,22,27,37,7,30,13,5,6,10,23,2009-11-12,home,loss,104.0,CLEVELAND CAVALIERS,111.0,0.3153153153153153,0.2413793103448276,37

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,39,95,7,23,5,7,18,21,20,9,4,19,16,away,loss,90.0,CHICAGO BULLS,120.0
-CHICAGO BULLS,240,46,84,7,19,21,23,11,35,29,14,10,12,7,home,win,120.0,GOLDEN STATE WARRIORS,90.0
-LOS ANGELES LAKERS,240,40,98,9,29,23,30,18,32,19,8,6,10,25,away,loss,112.0,DENVER NUGGETS,118.0
-DENVER NUGGETS,240,43,88,7,25,25,31,11,32,25,5,5,10,20,home,win,118.0,LOS ANGELES LAKERS,112.0
-BOSTON CELTICS,240,43,79,9,16,17,25,9,26,24,5,0,10,30,away,win,112.0,MIAMI HEAT,107.0
-MIAMI HEAT,240,36,72,3,16,32,41,11,26,18,4,4,14,22,home,loss,107.0,BOSTON CELTICS,112.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,39,95,7,23,5,7,18,21,20,9,4,19,16,2010-11-11,away,loss,90.0,CHICAGO BULLS,120.0,0.291044776119403,0.23333333333333334,39
+CHICAGO BULLS,240,46,84,7,19,21,23,11,35,29,14,10,12,7,2010-11-11,home,win,120.0,GOLDEN STATE WARRIORS,90.0,0.35384615384615387,0.2692307692307692,46
+LOS ANGELES LAKERS,240,40,98,9,29,23,30,18,32,19,8,6,10,25,2010-11-11,away,loss,112.0,DENVER NUGGETS,118.0,0.2898550724637681,0.23684210526315788,50
+DENVER NUGGETS,240,43,88,7,25,25,31,11,32,25,5,5,10,20,2010-11-11,home,win,118.0,LOS ANGELES LAKERS,112.0,0.3282442748091603,0.21875,43
+BOSTON CELTICS,240,43,79,9,16,17,25,9,26,24,5,0,10,30,2010-11-11,away,win,112.0,MIAMI HEAT,107.0,0.3524590163934426,0.36,35
+MIAMI HEAT,240,36,72,3,16,32,41,11,26,18,4,4,14,22,2010-11-11,home,loss,107.0,BOSTON CELTICS,112.0,0.3333333333333333,0.15789473684210525,37

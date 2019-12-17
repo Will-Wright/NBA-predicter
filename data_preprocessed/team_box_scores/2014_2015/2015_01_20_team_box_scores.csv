@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,38,84,11,27,22,27,14,30,27,10,6,16,27,away,win,109.0,DENVER NUGGETS,99.0
-DENVER NUGGETS,240,37,79,5,14,20,29,12,30,26,7,0,16,23,home,loss,99.0,SAN ANTONIO SPURS,109.0
-OKLAHOMA CITY THUNDER,240,41,92,6,26,6,10,12,30,15,11,3,11,23,away,win,94.0,MIAMI HEAT,86.0
-MIAMI HEAT,240,32,68,8,22,14,19,4,32,20,4,2,19,16,home,loss,86.0,OKLAHOMA CITY THUNDER,94.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,38,84,11,27,22,27,14,30,27,10,6,16,27,2015-01-20,away,win,109.0,DENVER NUGGETS,99.0,0.3114754098360656,0.2894736842105263,44
+DENVER NUGGETS,240,37,79,5,14,20,29,12,30,26,7,0,16,23,2015-01-20,home,loss,99.0,SAN ANTONIO SPURS,109.0,0.31896551724137934,0.2631578947368421,42
+OKLAHOMA CITY THUNDER,240,41,92,6,26,6,10,12,30,15,11,3,11,23,2015-01-20,away,win,94.0,MIAMI HEAT,86.0,0.3082706766917293,0.1875,42
+MIAMI HEAT,240,32,68,8,22,14,19,4,32,20,4,2,19,16,2015-01-20,home,loss,86.0,OKLAHOMA CITY THUNDER,94.0,0.32,0.26666666666666666,36

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,39,83,2,9,22,31,14,20,26,6,4,16,33,away,loss,102.0,LOS ANGELES LAKERS,132.0
-LOS ANGELES LAKERS,240,45,75,8,17,34,44,11,32,27,9,5,14,27,home,win,132.0,UTAH JAZZ,102.0
-DETROIT PISTONS,240,31,69,7,15,18,28,10,35,13,4,9,10,17,away,win,87.0,MIAMI HEAT,85.0
-MIAMI HEAT,240,32,78,6,11,15,22,12,28,16,5,2,5,22,home,loss,85.0,DETROIT PISTONS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,39,83,2,9,22,31,14,20,26,6,4,16,33,2006-11-30,away,loss,102.0,LOS ANGELES LAKERS,132.0,0.319672131147541,0.18181818181818182,34
+LOS ANGELES LAKERS,240,45,75,8,17,34,44,11,32,27,9,5,14,27,2006-11-30,home,win,132.0,UTAH JAZZ,102.0,0.375,0.32,43
+DETROIT PISTONS,240,31,69,7,15,18,28,10,35,13,4,9,10,17,2006-11-30,away,win,87.0,MIAMI HEAT,85.0,0.31,0.3181818181818182,45
+MIAMI HEAT,240,32,78,6,11,15,22,12,28,16,5,2,5,22,2006-11-30,home,loss,85.0,DETROIT PISTONS,87.0,0.2909090909090909,0.35294117647058826,40

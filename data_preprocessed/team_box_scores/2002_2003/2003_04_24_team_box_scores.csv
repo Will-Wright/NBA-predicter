@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-INDIANA PACERS,240,26,80,4,13,27,36,14,33,19,8,5,14,22,away,loss,83.0,BOSTON CELTICS,101.0
-BOSTON CELTICS,240,34,75,9,23,24,28,5,37,25,7,3,14,28,home,win,101.0,INDIANA PACERS,83.0
-MINNESOTA TIMBERWOLVES,265,43,91,4,14,24,26,8,39,23,12,7,17,35,away,win,114.0,LOS ANGELES LAKERS,110.0
-LOS ANGELES LAKERS,265,39,98,10,26,22,36,15,35,24,9,7,18,27,home,loss,110.0,MINNESOTA TIMBERWOLVES,114.0
-NEW JERSEY NETS,240,36,79,8,18,23,28,11,29,23,4,3,16,28,away,win,103.0,MILWAUKEE BUCKS,101.0
-MILWAUKEE BUCKS,240,35,83,6,19,25,29,9,29,20,8,2,10,28,home,loss,101.0,NEW JERSEY NETS,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+INDIANA PACERS,240,26,80,4,13,27,36,14,33,19,8,5,14,22,2003-04-24,away,loss,83.0,BOSTON CELTICS,101.0,0.24528301886792453,0.23529411764705882,47
+BOSTON CELTICS,240,34,75,9,23,24,28,5,37,25,7,3,14,28,2003-04-24,home,win,101.0,INDIANA PACERS,83.0,0.3119266055045872,0.28125,42
+MINNESOTA TIMBERWOLVES,265,43,91,4,14,24,26,8,39,23,12,7,17,35,2003-04-24,away,win,114.0,LOS ANGELES LAKERS,110.0,0.3208955223880597,0.2222222222222222,47
+LOS ANGELES LAKERS,265,39,98,10,26,22,36,15,35,24,9,7,18,27,2003-04-24,home,loss,110.0,MINNESOTA TIMBERWOLVES,114.0,0.2846715328467153,0.2777777777777778,50
+NEW JERSEY NETS,240,36,79,8,18,23,28,11,29,23,4,3,16,28,2003-04-24,away,win,103.0,MILWAUKEE BUCKS,101.0,0.3130434782608696,0.3076923076923077,40
+MILWAUKEE BUCKS,240,35,83,6,19,25,29,9,29,20,8,2,10,28,2003-04-24,home,loss,101.0,NEW JERSEY NETS,103.0,0.2966101694915254,0.24,38

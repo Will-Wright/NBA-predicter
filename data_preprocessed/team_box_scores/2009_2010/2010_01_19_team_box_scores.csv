@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-TORONTO RAPTORS,240,40,83,7,19,13,21,5,27,19,5,2,10,21,away,loss,100.0,CLEVELAND CAVALIERS,108.0
-CLEVELAND CAVALIERS,240,38,72,7,22,25,30,6,37,27,4,6,14,21,home,win,108.0,TORONTO RAPTORS,100.0
-INDIANA PACERS,240,31,85,7,26,14,20,13,32,19,8,3,17,17,away,loss,83.0,MIAMI HEAT,113.0
-MIAMI HEAT,240,45,80,10,17,13,19,6,39,18,10,9,14,23,home,win,113.0,INDIANA PACERS,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+TORONTO RAPTORS,240,40,83,7,19,13,21,5,27,19,5,2,10,21,2010-01-19,away,loss,100.0,CLEVELAND CAVALIERS,108.0,0.3252032520325203,0.2692307692307692,32
+CLEVELAND CAVALIERS,240,38,72,7,22,25,30,6,37,27,4,6,14,21,2010-01-19,home,win,108.0,TORONTO RAPTORS,100.0,0.34545454545454546,0.2413793103448276,43
+INDIANA PACERS,240,31,85,7,26,14,20,13,32,19,8,3,17,17,2010-01-19,away,loss,83.0,MIAMI HEAT,113.0,0.2672413793103448,0.21212121212121213,45
+MIAMI HEAT,240,45,80,10,17,13,19,6,39,18,10,9,14,23,2010-01-19,home,win,113.0,INDIANA PACERS,83.0,0.36,0.37037037037037035,45

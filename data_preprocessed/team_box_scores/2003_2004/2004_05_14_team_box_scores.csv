@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,315,37,86,11,24,42,55,12,44,24,8,9,22,42,away,win,127.0,DETROIT PISTONS,120.0
-DETROIT PISTONS,315,42,111,6,25,30,42,19,34,28,16,8,15,41,home,loss,120.0,NEW JERSEY NETS,127.0
-SACRAMENTO KINGS,240,27,81,4,17,16,17,9,32,19,9,1,14,25,away,loss,74.0,MINNESOTA TIMBERWOLVES,86.0
-MINNESOTA TIMBERWOLVES,240,30,72,4,14,22,29,11,37,21,7,4,15,21,home,win,86.0,SACRAMENTO KINGS,74.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,315,37,86,11,24,42,55,12,44,24,8,9,22,42,2004-05-14,away,win,127.0,DETROIT PISTONS,120.0,0.3008130081300813,0.3142857142857143,56
+DETROIT PISTONS,315,42,111,6,25,30,42,19,34,28,16,8,15,41,2004-05-14,home,loss,120.0,NEW JERSEY NETS,127.0,0.27450980392156865,0.1935483870967742,53
+SACRAMENTO KINGS,240,27,81,4,17,16,17,9,32,19,9,1,14,25,2004-05-14,away,loss,74.0,MINNESOTA TIMBERWOLVES,86.0,0.25,0.19047619047619047,41
+MINNESOTA TIMBERWOLVES,240,30,72,4,14,22,29,11,37,21,7,4,15,21,2004-05-14,home,win,86.0,SACRAMENTO KINGS,74.0,0.29411764705882354,0.2222222222222222,48

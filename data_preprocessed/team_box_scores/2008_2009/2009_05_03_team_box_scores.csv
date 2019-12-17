@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,26,63,4,19,22,25,11,28,12,5,8,17,22,away,loss,78.0,ATLANTA HAWKS,91.0
-ATLANTA HAWKS,240,29,71,11,23,22,25,5,25,18,11,1,7,20,home,win,91.0,MIAMI HEAT,78.0
-DALLAS MAVERICKS,240,40,82,6,18,9,13,10,27,17,10,2,20,29,away,loss,95.0,DENVER NUGGETS,109.0
-DENVER NUGGETS,240,40,73,4,12,25,36,5,25,28,15,11,14,19,home,win,109.0,DALLAS MAVERICKS,95.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,26,63,4,19,22,25,11,28,12,5,8,17,22,2009-05-03,away,loss,78.0,ATLANTA HAWKS,91.0,0.29213483146067415,0.17391304347826086,39
+ATLANTA HAWKS,240,29,71,11,23,22,25,5,25,18,11,1,7,20,2009-05-03,home,win,91.0,MIAMI HEAT,78.0,0.29,0.3235294117647059,30
+DALLAS MAVERICKS,240,40,82,6,18,9,13,10,27,17,10,2,20,29,2009-05-03,away,loss,95.0,DENVER NUGGETS,109.0,0.32786885245901637,0.25,37
+DENVER NUGGETS,240,40,73,4,12,25,36,5,25,28,15,11,14,19,2009-05-03,home,win,109.0,DALLAS MAVERICKS,95.0,0.35398230088495575,0.25,30

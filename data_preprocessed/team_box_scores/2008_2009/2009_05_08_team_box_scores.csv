@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,36,82,11,20,25,33,10,33,17,11,9,6,22,away,win,108.0,HOUSTON ROCKETS,94.0
-HOUSTON ROCKETS,240,35,84,6,19,18,25,19,37,16,2,3,17,22,home,loss,94.0,LOS ANGELES LAKERS,108.0
-BOSTON CELTICS,240,34,79,5,18,23,26,6,23,24,11,1,14,29,away,loss,96.0,ORLANDO MAGIC,117.0
-ORLANDO MAGIC,240,39,66,9,18,30,36,3,33,16,11,5,17,25,home,win,117.0,BOSTON CELTICS,96.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,36,82,11,20,25,33,10,33,17,11,9,6,22,2009-05-08,away,win,108.0,HOUSTON ROCKETS,94.0,0.3050847457627119,0.3548387096774194,43
+HOUSTON ROCKETS,240,35,84,6,19,18,25,19,37,16,2,3,17,22,2009-05-08,home,loss,94.0,LOS ANGELES LAKERS,108.0,0.29411764705882354,0.24,56
+BOSTON CELTICS,240,34,79,5,18,23,26,6,23,24,11,1,14,29,2009-05-08,away,loss,96.0,ORLANDO MAGIC,117.0,0.3008849557522124,0.21739130434782608,29
+ORLANDO MAGIC,240,39,66,9,18,30,36,3,33,16,11,5,17,25,2009-05-08,home,win,117.0,BOSTON CELTICS,96.0,0.37142857142857144,0.3333333333333333,36

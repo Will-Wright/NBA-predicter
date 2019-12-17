@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,33,74,6,18,18,25,10,27,17,10,5,10,14,away,win,90.0,CLEVELAND CAVALIERS,81.0
-CLEVELAND CAVALIERS,240,33,76,7,29,8,18,12,31,18,4,2,14,18,home,loss,81.0,HOUSTON ROCKETS,90.0
-INDIANA PACERS,240,34,74,8,19,23,30,8,33,16,8,5,14,26,away,win,99.0,GOLDEN STATE WARRIORS,89.0
-GOLDEN STATE WARRIORS,240,33,76,3,20,20,28,8,30,16,6,6,13,23,home,loss,89.0,INDIANA PACERS,99.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,33,74,6,18,18,25,10,27,17,10,5,10,14,2006-01-05,away,win,90.0,CLEVELAND CAVALIERS,81.0,0.308411214953271,0.25,37
+CLEVELAND CAVALIERS,240,33,76,7,29,8,18,12,31,18,4,2,14,18,2006-01-05,home,loss,81.0,HOUSTON ROCKETS,90.0,0.30275229357798167,0.19444444444444445,43
+INDIANA PACERS,240,34,74,8,19,23,30,8,33,16,8,5,14,26,2006-01-05,away,win,99.0,GOLDEN STATE WARRIORS,89.0,0.3148148148148148,0.2962962962962963,41
+GOLDEN STATE WARRIORS,240,33,76,3,20,20,28,8,30,16,6,6,13,23,2006-01-05,home,loss,89.0,INDIANA PACERS,99.0,0.30275229357798167,0.13043478260869565,38

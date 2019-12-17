@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,34,79,4,11,14,16,10,33,22,4,5,18,27,away,loss,86.0,LOS ANGELES CLIPPERS,99.0
-LOS ANGELES CLIPPERS,240,33,70,5,9,28,35,7,30,20,10,8,10,15,home,win,99.0,NEW YORK KNICKS,86.0
-SACRAMENTO KINGS,240,32,85,1,19,20,29,12,35,21,8,6,12,22,away,loss,85.0,LOS ANGELES LAKERS,93.0
-LOS ANGELES LAKERS,240,36,90,3,16,18,24,19,34,24,8,4,12,22,home,win,93.0,SACRAMENTO KINGS,85.0
-TORONTO RAPTORS,240,34,79,9,24,10,20,15,33,20,10,7,20,18,away,win,87.0,PHOENIX SUNS,81.0
-PHOENIX SUNS,240,36,84,1,10,8,11,10,28,19,10,5,18,16,home,loss,81.0,TORONTO RAPTORS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,34,79,4,11,14,16,10,33,22,4,5,18,27,2001-11-18,away,loss,86.0,LOS ANGELES CLIPPERS,99.0,0.3008849557522124,0.26666666666666666,43
+LOS ANGELES CLIPPERS,240,33,70,5,9,28,35,7,30,20,10,8,10,15,2001-11-18,home,win,99.0,NEW YORK KNICKS,86.0,0.32038834951456313,0.35714285714285715,37
+SACRAMENTO KINGS,240,32,85,1,19,20,29,12,35,21,8,6,12,22,2001-11-18,away,loss,85.0,LOS ANGELES LAKERS,93.0,0.27350427350427353,0.05,47
+LOS ANGELES LAKERS,240,36,90,3,16,18,24,19,34,24,8,4,12,22,2001-11-18,home,win,93.0,SACRAMENTO KINGS,85.0,0.2857142857142857,0.15789473684210525,53
+TORONTO RAPTORS,240,34,79,9,24,10,20,15,33,20,10,7,20,18,2001-11-18,away,win,87.0,PHOENIX SUNS,81.0,0.3008849557522124,0.2727272727272727,48
+PHOENIX SUNS,240,36,84,1,10,8,11,10,28,19,10,5,18,16,2001-11-18,home,loss,81.0,TORONTO RAPTORS,87.0,0.3,0.09090909090909091,38

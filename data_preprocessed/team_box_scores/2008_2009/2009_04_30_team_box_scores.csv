@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,315,46,106,11,31,24,30,16,33,29,6,6,11,29,away,loss,127.0,CHICAGO BULLS,128.0
-CHICAGO BULLS,315,49,99,9,17,21,28,9,37,27,4,7,15,30,home,win,128.0,BOSTON CELTICS,127.0
-PORTLAND TRAIL BLAZERS,240,30,71,4,11,12,16,13,29,14,3,9,15,17,away,loss,76.0,HOUSTON ROCKETS,92.0
-HOUSTON ROCKETS,240,36,78,9,24,11,14,10,31,14,9,4,8,13,home,win,92.0,PORTLAND TRAIL BLAZERS,76.0
-ORLANDO MAGIC,240,44,82,12,26,14,20,12,29,31,10,4,12,24,away,win,114.0,PHILADELPHIA 76ERS,89.0
-PHILADELPHIA 76ERS,240,31,76,7,20,20,25,12,24,17,4,2,16,21,home,loss,89.0,ORLANDO MAGIC,114.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,315,46,106,11,31,24,30,16,33,29,6,6,11,29,2009-04-30,away,loss,127.0,CHICAGO BULLS,128.0,0.3026315789473684,0.2619047619047619,49
+CHICAGO BULLS,315,49,99,9,17,21,28,9,37,27,4,7,15,30,2009-04-30,home,win,128.0,BOSTON CELTICS,127.0,0.3310810810810811,0.34615384615384615,46
+PORTLAND TRAIL BLAZERS,240,30,71,4,11,12,16,13,29,14,3,9,15,17,2009-04-30,away,loss,76.0,HOUSTON ROCKETS,92.0,0.297029702970297,0.26666666666666666,42
+HOUSTON ROCKETS,240,36,78,9,24,11,14,10,31,14,9,4,8,13,2009-04-30,home,win,92.0,PORTLAND TRAIL BLAZERS,76.0,0.3157894736842105,0.2727272727272727,41
+ORLANDO MAGIC,240,44,82,12,26,14,20,12,29,31,10,4,12,24,2009-04-30,away,win,114.0,PHILADELPHIA 76ERS,89.0,0.3492063492063492,0.3157894736842105,41
+PHILADELPHIA 76ERS,240,31,76,7,20,20,25,12,24,17,4,2,16,21,2009-04-30,home,loss,89.0,ORLANDO MAGIC,114.0,0.2897196261682243,0.25925925925925924,36

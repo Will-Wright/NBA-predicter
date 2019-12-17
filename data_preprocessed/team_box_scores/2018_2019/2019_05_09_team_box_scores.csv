@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-TORONTO RAPTORS,240,35,81,9,36,22,29,9,25,25,9,4,12,24,away,loss,101.0,PHILADELPHIA 76ERS,112.0
-PHILADELPHIA 76ERS,240,41,89,10,28,20,26,16,36,27,5,3,18,22,home,win,112.0,TORONTO RAPTORS,101.0
-DENVER NUGGETS,240,33,86,12,32,30,32,16,28,22,7,3,6,23,away,loss,108.0,PORTLAND TRAIL BLAZERS,119.0
-PORTLAND TRAIL BLAZERS,240,41,89,15,33,22,30,11,32,18,4,5,9,20,home,win,119.0,DENVER NUGGETS,108.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+TORONTO RAPTORS,240,35,81,9,36,22,29,9,25,25,9,4,12,24,2019-05-09,away,loss,101.0,PHILADELPHIA 76ERS,112.0,0.3017241379310345,0.2,34
+PHILADELPHIA 76ERS,240,41,89,10,28,20,26,16,36,27,5,3,18,22,2019-05-09,home,win,112.0,TORONTO RAPTORS,101.0,0.3153846153846154,0.2631578947368421,52
+DENVER NUGGETS,240,33,86,12,32,30,32,16,28,22,7,3,6,23,2019-05-09,away,loss,108.0,PORTLAND TRAIL BLAZERS,119.0,0.2773109243697479,0.2727272727272727,44
+PORTLAND TRAIL BLAZERS,240,41,89,15,33,22,30,11,32,18,4,5,9,20,2019-05-09,home,win,119.0,DENVER NUGGETS,108.0,0.3153846153846154,0.3125,43

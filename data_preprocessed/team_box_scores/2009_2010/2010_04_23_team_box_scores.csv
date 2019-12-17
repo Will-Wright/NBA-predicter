@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,37,79,8,23,18,23,11,27,19,9,2,14,23,away,win,100.0,MIAMI HEAT,98.0
-MIAMI HEAT,240,39,77,6,18,14,17,9,25,20,7,4,16,21,home,loss,98.0,BOSTON CELTICS,100.0
-DALLAS MAVERICKS,240,34,76,8,20,14,15,8,28,17,5,4,12,25,away,loss,90.0,SAN ANTONIO SPURS,94.0
-SAN ANTONIO SPURS,240,37,76,0,7,20,26,12,24,19,5,4,11,16,home,win,94.0,DALLAS MAVERICKS,90.0
-DENVER NUGGETS,240,31,72,4,15,27,35,8,32,12,4,6,14,25,away,loss,93.0,UTAH JAZZ,105.0
-UTAH JAZZ,240,39,83,7,18,20,31,10,33,27,10,0,7,26,home,win,105.0,DENVER NUGGETS,93.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,37,79,8,23,18,23,11,27,19,9,2,14,23,2010-04-23,away,win,100.0,MIAMI HEAT,98.0,0.31896551724137934,0.25806451612903225,38
+MIAMI HEAT,240,39,77,6,18,14,17,9,25,20,7,4,16,21,2010-04-23,home,loss,98.0,BOSTON CELTICS,100.0,0.33620689655172414,0.25,34
+DALLAS MAVERICKS,240,34,76,8,20,14,15,8,28,17,5,4,12,25,2010-04-23,away,loss,90.0,SAN ANTONIO SPURS,94.0,0.3090909090909091,0.2857142857142857,36
+SAN ANTONIO SPURS,240,37,76,0,7,20,26,12,24,19,5,4,11,16,2010-04-23,home,win,94.0,DALLAS MAVERICKS,90.0,0.3274336283185841,0.0,36
+DENVER NUGGETS,240,31,72,4,15,27,35,8,32,12,4,6,14,25,2010-04-23,away,loss,93.0,UTAH JAZZ,105.0,0.30097087378640774,0.21052631578947367,40
+UTAH JAZZ,240,39,83,7,18,20,31,10,33,27,10,0,7,26,2010-04-23,home,win,105.0,DENVER NUGGETS,93.0,0.319672131147541,0.28,43

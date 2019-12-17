@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BROOKLYN NETS,240,34,79,5,14,22,33,10,31,21,5,2,9,18,away,win,95.0,CHICAGO BULLS,92.0
-CHICAGO BULLS,240,36,89,7,18,13,18,15,31,23,4,7,16,26,home,loss,92.0,BROOKLYN NETS,95.0
-DENVER NUGGETS,240,34,98,7,28,13,21,20,24,18,10,3,7,22,away,loss,88.0,GOLDEN STATE WARRIORS,92.0
-GOLDEN STATE WARRIORS,240,31,77,7,25,23,24,13,42,17,3,5,19,19,home,win,92.0,DENVER NUGGETS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BROOKLYN NETS,240,34,79,5,14,22,33,10,31,21,5,2,9,18,2013-05-02,away,win,95.0,CHICAGO BULLS,92.0,0.3008849557522124,0.2631578947368421,41
+CHICAGO BULLS,240,36,89,7,18,13,18,15,31,23,4,7,16,26,2013-05-02,home,loss,92.0,BROOKLYN NETS,95.0,0.288,0.28,46
+DENVER NUGGETS,240,34,98,7,28,13,21,20,24,18,10,3,7,22,2013-05-02,away,loss,88.0,GOLDEN STATE WARRIORS,92.0,0.25757575757575757,0.2,44
+GOLDEN STATE WARRIORS,240,31,77,7,25,23,24,13,42,17,3,5,19,19,2013-05-02,home,win,92.0,DENVER NUGGETS,88.0,0.28703703703703703,0.21875,55

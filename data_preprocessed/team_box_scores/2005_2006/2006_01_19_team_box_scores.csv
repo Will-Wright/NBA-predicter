@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,42,83,12,25,9,18,14,26,30,11,5,8,14,away,win,105.0,NEW YORK KNICKS,79.0
-NEW YORK KNICKS,240,33,67,1,7,12,18,8,27,13,6,0,20,19,home,loss,79.0,DETROIT PISTONS,105.0
-LOS ANGELES LAKERS,265,41,93,10,32,17,20,13,38,24,5,4,15,29,away,loss,109.0,SACRAMENTO KINGS,118.0
-SACRAMENTO KINGS,265,41,88,12,26,24,28,8,33,27,6,0,11,22,home,win,118.0,LOS ANGELES LAKERS,109.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,42,83,12,25,9,18,14,26,30,11,5,8,14,2006-01-19,away,win,105.0,NEW YORK KNICKS,79.0,0.336,0.32432432432432434,40
+NEW YORK KNICKS,240,33,67,1,7,12,18,8,27,13,6,0,20,19,2006-01-19,home,loss,79.0,DETROIT PISTONS,105.0,0.33,0.125,35
+LOS ANGELES LAKERS,265,41,93,10,32,17,20,13,38,24,5,4,15,29,2006-01-19,away,loss,109.0,SACRAMENTO KINGS,118.0,0.30597014925373134,0.23809523809523808,51
+SACRAMENTO KINGS,265,41,88,12,26,24,28,8,33,27,6,0,11,22,2006-01-19,home,win,118.0,LOS ANGELES LAKERS,109.0,0.3178294573643411,0.3157894736842105,41

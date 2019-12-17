@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHOENIX SUNS,240,45,96,10,22,22,24,10,56,18,5,5,18,26,away,win,122.0,BROOKLYN NETS,114.0
-BROOKLYN NETS,240,42,102,9,31,21,30,7,37,15,9,4,7,22,home,loss,114.0,PHOENIX SUNS,122.0
-SACRAMENTO KINGS,240,37,88,2,14,7,14,9,36,15,8,5,14,18,away,loss,83.0,INDIANA PACERS,101.0
-INDIANA PACERS,240,36,85,12,29,17,22,14,39,25,8,7,14,17,home,win,101.0,SACRAMENTO KINGS,83.0
-DETROIT PISTONS,240,41,94,10,33,1,3,10,34,21,7,3,12,11,away,loss,93.0,LOS ANGELES LAKERS,113.0
-LOS ANGELES LAKERS,240,45,91,12,26,11,14,11,42,30,9,5,14,14,home,win,113.0,DETROIT PISTONS,93.0
-OKLAHOMA CITY THUNDER,240,40,81,12,28,18,21,9,37,24,6,3,15,20,away,win,110.0,MILWAUKEE BUCKS,91.0
-MILWAUKEE BUCKS,240,32,77,9,31,18,22,4,27,24,8,4,14,22,home,loss,91.0,OKLAHOMA CITY THUNDER,110.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHOENIX SUNS,240,45,96,10,22,22,24,10,56,18,5,5,18,26,2017-10-31,away,win,122.0,BROOKLYN NETS,114.0,0.3191489361702128,0.3125,66
+BROOKLYN NETS,240,42,102,9,31,21,30,7,37,15,9,4,7,22,2017-10-31,home,loss,114.0,PHOENIX SUNS,122.0,0.2916666666666667,0.225,44
+SACRAMENTO KINGS,240,37,88,2,14,7,14,9,36,15,8,5,14,18,2017-10-31,away,loss,83.0,INDIANA PACERS,101.0,0.296,0.125,45
+INDIANA PACERS,240,36,85,12,29,17,22,14,39,25,8,7,14,17,2017-10-31,home,win,101.0,SACRAMENTO KINGS,83.0,0.2975206611570248,0.2926829268292683,53
+DETROIT PISTONS,240,41,94,10,33,1,3,10,34,21,7,3,12,11,2017-10-31,away,loss,93.0,LOS ANGELES LAKERS,113.0,0.3037037037037037,0.23255813953488372,44
+LOS ANGELES LAKERS,240,45,91,12,26,11,14,11,42,30,9,5,14,14,2017-10-31,home,win,113.0,DETROIT PISTONS,93.0,0.33088235294117646,0.3157894736842105,53
+OKLAHOMA CITY THUNDER,240,40,81,12,28,18,21,9,37,24,6,3,15,20,2017-10-31,away,win,110.0,MILWAUKEE BUCKS,91.0,0.3305785123966942,0.3,46
+MILWAUKEE BUCKS,240,32,77,9,31,18,22,4,27,24,8,4,14,22,2017-10-31,home,loss,91.0,OKLAHOMA CITY THUNDER,110.0,0.29357798165137616,0.225,31

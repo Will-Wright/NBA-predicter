@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,39,72,6,11,14,23,7,22,25,4,4,11,18,away,loss,98.0,LOS ANGELES LAKERS,99.0
-LOS ANGELES LAKERS,240,39,77,3,16,18,20,10,21,22,5,5,10,19,home,win,99.0,CLEVELAND CAVALIERS,98.0
-GOLDEN STATE WARRIORS,240,39,102,8,30,13,20,16,39,22,7,4,8,15,away,loss,99.0,PHOENIX SUNS,112.0
-PHOENIX SUNS,240,44,85,13,25,11,15,4,44,32,1,7,13,18,home,win,112.0,GOLDEN STATE WARRIORS,99.0
-DETROIT PISTONS,240,37,84,5,13,4,7,16,40,25,4,4,11,17,away,win,83.0,SAN ANTONIO SPURS,68.0
-SAN ANTONIO SPURS,240,27,70,2,13,12,24,4,28,9,4,5,6,16,home,loss,68.0,DETROIT PISTONS,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,39,72,6,11,14,23,7,22,25,4,4,11,18,2006-01-12,away,loss,98.0,LOS ANGELES LAKERS,99.0,0.35135135135135137,0.35294117647058826,29
+LOS ANGELES LAKERS,240,39,77,3,16,18,20,10,21,22,5,5,10,19,2006-01-12,home,win,99.0,CLEVELAND CAVALIERS,98.0,0.33620689655172414,0.15789473684210525,31
+GOLDEN STATE WARRIORS,240,39,102,8,30,13,20,16,39,22,7,4,8,15,2006-01-12,away,loss,99.0,PHOENIX SUNS,112.0,0.2765957446808511,0.21052631578947367,55
+PHOENIX SUNS,240,44,85,13,25,11,15,4,44,32,1,7,13,18,2006-01-12,home,win,112.0,GOLDEN STATE WARRIORS,99.0,0.34108527131782945,0.34210526315789475,48
+DETROIT PISTONS,240,37,84,5,13,4,7,16,40,25,4,4,11,17,2006-01-12,away,win,83.0,SAN ANTONIO SPURS,68.0,0.30578512396694213,0.2777777777777778,56
+SAN ANTONIO SPURS,240,27,70,2,13,12,24,4,28,9,4,5,6,16,2006-01-12,home,loss,68.0,DETROIT PISTONS,83.0,0.27835051546391754,0.13333333333333333,32

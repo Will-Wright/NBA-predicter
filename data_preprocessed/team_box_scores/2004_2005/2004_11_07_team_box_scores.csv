@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,37,86,4,18,12,17,12,19,24,12,4,11,24,away,loss,90.0,LOS ANGELES LAKERS,106.0
-LOS ANGELES LAKERS,240,37,66,6,12,26,31,7,33,21,4,7,18,19,home,win,106.0,ATLANTA HAWKS,90.0
-SAN ANTONIO SPURS,240,34,80,6,18,20,24,15,17,17,6,7,20,29,away,loss,94.0,SEATTLE SUPERSONICS,113.0
-SEATTLE SUPERSONICS,240,39,77,6,13,29,33,14,22,15,9,6,12,25,home,win,113.0,SAN ANTONIO SPURS,94.0
-PORTLAND TRAIL BLAZERS,240,37,81,6,16,17,24,16,34,15,4,7,16,20,away,loss,97.0,TORONTO RAPTORS,101.0
-TORONTO RAPTORS,240,39,87,8,16,15,20,12,30,22,10,2,9,20,home,win,101.0,PORTLAND TRAIL BLAZERS,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,37,86,4,18,12,17,12,19,24,12,4,11,24,2004-11-07,away,loss,90.0,LOS ANGELES LAKERS,106.0,0.3008130081300813,0.18181818181818182,31
+LOS ANGELES LAKERS,240,37,66,6,12,26,31,7,33,21,4,7,18,19,2004-11-07,home,win,106.0,ATLANTA HAWKS,90.0,0.3592233009708738,0.3333333333333333,40
+SAN ANTONIO SPURS,240,34,80,6,18,20,24,15,17,17,6,7,20,29,2004-11-07,away,loss,94.0,SEATTLE SUPERSONICS,113.0,0.2982456140350877,0.25,32
+SEATTLE SUPERSONICS,240,39,77,6,13,29,33,14,22,15,9,6,12,25,2004-11-07,home,win,113.0,SAN ANTONIO SPURS,94.0,0.33620689655172414,0.3157894736842105,36
+PORTLAND TRAIL BLAZERS,240,37,81,6,16,17,24,16,34,15,4,7,16,20,2004-11-07,away,loss,97.0,TORONTO RAPTORS,101.0,0.3135593220338983,0.2727272727272727,50
+TORONTO RAPTORS,240,39,87,8,16,15,20,12,30,22,10,2,9,20,2004-11-07,home,win,101.0,PORTLAND TRAIL BLAZERS,97.0,0.30952380952380953,0.3333333333333333,42

@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-WASHINGTON WIZARDS,240,30,74,2,9,13,19,13,36,16,9,11,12,19,away,win,75.0,CHICAGO BULLS,69.0
-CHICAGO BULLS,240,25,75,6,16,13,17,11,32,19,4,8,11,17,home,loss,69.0,WASHINGTON WIZARDS,75.0
-GOLDEN STATE WARRIORS,240,40,85,10,26,13,19,13,29,24,6,1,13,28,away,loss,103.0,LOS ANGELES CLIPPERS,113.0
-LOS ANGELES CLIPPERS,240,37,76,8,20,31,41,12,29,20,10,4,12,21,home,win,113.0,GOLDEN STATE WARRIORS,103.0
-MEMPHIS GRIZZLIES,265,37,87,7,19,19,26,13,37,21,11,3,9,21,away,win,100.0,OKLAHOMA CITY THUNDER,99.0
-OKLAHOMA CITY THUNDER,265,36,92,12,31,15,19,19,32,24,2,3,17,22,home,loss,99.0,MEMPHIS GRIZZLIES,100.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+WASHINGTON WIZARDS,240,30,74,2,9,13,19,13,36,16,9,11,12,19,2014-04-29,away,win,75.0,CHICAGO BULLS,69.0,0.28846153846153844,0.18181818181818182,49
+CHICAGO BULLS,240,25,75,6,16,13,17,11,32,19,4,8,11,17,2014-04-29,home,loss,69.0,WASHINGTON WIZARDS,75.0,0.25,0.2727272727272727,43
+GOLDEN STATE WARRIORS,240,40,85,10,26,13,19,13,29,24,6,1,13,28,2014-04-29,away,loss,103.0,LOS ANGELES CLIPPERS,113.0,0.32,0.2777777777777778,42
+LOS ANGELES CLIPPERS,240,37,76,8,20,31,41,12,29,20,10,4,12,21,2014-04-29,home,win,113.0,GOLDEN STATE WARRIORS,103.0,0.3274336283185841,0.2857142857142857,41
+MEMPHIS GRIZZLIES,265,37,87,7,19,19,26,13,37,21,11,3,9,21,2014-04-29,away,win,100.0,OKLAHOMA CITY THUNDER,99.0,0.29838709677419356,0.2692307692307692,50
+OKLAHOMA CITY THUNDER,265,36,92,12,31,15,19,19,32,24,2,3,17,22,2014-04-29,home,loss,99.0,MEMPHIS GRIZZLIES,100.0,0.28125,0.27906976744186046,51

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,29,73,7,21,24,29,8,30,14,8,7,17,12,away,loss,89.0,BROOKLYN NETS,103.0
-BROOKLYN NETS,240,46,93,4,13,7,10,16,37,29,7,4,14,24,home,win,103.0,SAN ANTONIO SPURS,89.0
-CHICAGO BULLS,240,32,77,4,14,19,20,14,31,20,8,3,15,16,away,loss,87.0,GOLDEN STATE WARRIORS,102.0
-GOLDEN STATE WARRIORS,240,40,83,11,22,11,15,12,27,24,7,6,12,18,home,win,102.0,CHICAGO BULLS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,29,73,7,21,24,29,8,30,14,8,7,17,12,2014-02-06,away,loss,89.0,BROOKLYN NETS,103.0,0.28431372549019607,0.25,38
+BROOKLYN NETS,240,46,93,4,13,7,10,16,37,29,7,4,14,24,2014-02-06,home,win,103.0,SAN ANTONIO SPURS,89.0,0.33093525179856115,0.23529411764705882,53
+CHICAGO BULLS,240,32,77,4,14,19,20,14,31,20,8,3,15,16,2014-02-06,away,loss,87.0,GOLDEN STATE WARRIORS,102.0,0.29357798165137616,0.2222222222222222,45
+GOLDEN STATE WARRIORS,240,40,83,11,22,11,15,12,27,24,7,6,12,18,2014-02-06,home,win,102.0,CHICAGO BULLS,87.0,0.3252032520325203,0.3333333333333333,39

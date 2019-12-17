@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-WASHINGTON WIZARDS,240,34,88,4,17,24,26,14,24,18,5,6,11,23,away,loss,96.0,ATLANTA HAWKS,116.0
-ATLANTA HAWKS,240,42,88,7,18,25,27,16,33,23,6,6,14,24,home,win,116.0,WASHINGTON WIZARDS,96.0
-SACRAMENTO KINGS,240,29,71,4,11,20,32,9,26,21,7,4,12,26,away,loss,82.0,LOS ANGELES CLIPPERS,100.0
-LOS ANGELES CLIPPERS,240,35,69,2,13,28,36,10,35,19,5,4,17,25,home,win,100.0,SACRAMENTO KINGS,82.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+WASHINGTON WIZARDS,240,34,88,4,17,24,26,14,24,18,5,6,11,23,2010-11-25,away,loss,96.0,ATLANTA HAWKS,116.0,0.2786885245901639,0.19047619047619047,38
+ATLANTA HAWKS,240,42,88,7,18,25,27,16,33,23,6,6,14,24,2010-11-25,home,win,116.0,WASHINGTON WIZARDS,96.0,0.3230769230769231,0.28,49
+SACRAMENTO KINGS,240,29,71,4,11,20,32,9,26,21,7,4,12,26,2010-11-25,away,loss,82.0,LOS ANGELES CLIPPERS,100.0,0.29,0.26666666666666666,35
+LOS ANGELES CLIPPERS,240,35,69,2,13,28,36,10,35,19,5,4,17,25,2010-11-25,home,win,100.0,SACRAMENTO KINGS,82.0,0.33653846153846156,0.13333333333333333,45

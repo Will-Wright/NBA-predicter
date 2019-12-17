@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,36,91,3,14,19,27,24,44,20,6,6,17,30,away,win,94.0,DALLAS MAVERICKS,92.0
-DALLAS MAVERICKS,240,34,98,4,21,20,33,23,32,19,7,4,8,26,home,loss,92.0,SACRAMENTO KINGS,94.0
-DETROIT PISTONS,240,41,72,7,15,20,21,6,27,31,11,10,12,18,away,win,109.0,MILWAUKEE BUCKS,92.0
-MILWAUKEE BUCKS,240,37,82,6,14,12,18,15,23,23,10,2,16,14,home,loss,92.0,DETROIT PISTONS,109.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,36,91,3,14,19,27,24,44,20,6,6,17,30,2004-04-26,away,win,94.0,DALLAS MAVERICKS,92.0,0.28346456692913385,0.17647058823529413,68
+DALLAS MAVERICKS,240,34,98,4,21,20,33,23,32,19,7,4,8,26,2004-04-26,home,loss,92.0,SACRAMENTO KINGS,94.0,0.25757575757575757,0.16,55
+DETROIT PISTONS,240,41,72,7,15,20,21,6,27,31,11,10,12,18,2004-04-26,away,win,109.0,MILWAUKEE BUCKS,92.0,0.36283185840707965,0.3181818181818182,33
+MILWAUKEE BUCKS,240,37,82,6,14,12,18,15,23,23,10,2,16,14,2004-04-26,home,loss,92.0,DETROIT PISTONS,109.0,0.31092436974789917,0.3,38

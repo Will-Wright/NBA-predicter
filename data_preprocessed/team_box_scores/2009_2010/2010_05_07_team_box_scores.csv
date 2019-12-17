@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,44,74,5,12,31,34,11,34,25,3,4,12,24,away,win,124.0,BOSTON CELTICS,95.0
-BOSTON CELTICS,240,35,82,4,17,21,29,14,16,20,3,6,7,22,home,loss,95.0,CLEVELAND CAVALIERS,124.0
-PHOENIX SUNS,240,42,79,15,26,11,17,6,31,16,7,6,11,20,away,win,110.0,SAN ANTONIO SPURS,96.0
-SAN ANTONIO SPURS,240,36,80,8,16,16,28,11,32,17,6,7,12,14,home,loss,96.0,PHOENIX SUNS,110.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,44,74,5,12,31,34,11,34,25,3,4,12,24,2010-05-07,away,win,124.0,BOSTON CELTICS,95.0,0.3728813559322034,0.29411764705882354,45
+BOSTON CELTICS,240,35,82,4,17,21,29,14,16,20,3,6,7,22,2010-05-07,home,loss,95.0,CLEVELAND CAVALIERS,124.0,0.29914529914529914,0.19047619047619047,30
+PHOENIX SUNS,240,42,79,15,26,11,17,6,31,16,7,6,11,20,2010-05-07,away,win,110.0,SAN ANTONIO SPURS,96.0,0.34710743801652894,0.36585365853658536,37
+SAN ANTONIO SPURS,240,36,80,8,16,16,28,11,32,17,6,7,12,14,2010-05-07,home,loss,96.0,PHOENIX SUNS,110.0,0.3103448275862069,0.3333333333333333,43

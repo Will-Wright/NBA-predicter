@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,32,89,4,14,22,27,14,32,12,13,6,13,28,away,loss,90.0,LOS ANGELES LAKERS,96.0
-LOS ANGELES LAKERS,240,36,79,0,10,24,37,15,39,22,8,4,17,28,home,win,96.0,SACRAMENTO KINGS,90.0
-CHARLOTTE HORNETS,240,35,80,0,6,20,26,18,24,22,6,4,11,19,away,loss,90.0,MILWAUKEE BUCKS,91.0
-MILWAUKEE BUCKS,240,35,83,7,14,14,19,18,26,21,7,9,12,23,home,win,91.0,CHARLOTTE HORNETS,90.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,32,89,4,14,22,27,14,32,12,13,6,13,28,2001-05-08,away,loss,90.0,LOS ANGELES LAKERS,96.0,0.2644628099173554,0.2222222222222222,46
+LOS ANGELES LAKERS,240,36,79,0,10,24,37,15,39,22,8,4,17,28,2001-05-08,home,win,96.0,SACRAMENTO KINGS,90.0,0.3130434782608696,0.0,54
+CHARLOTTE HORNETS,240,35,80,0,6,20,26,18,24,22,6,4,11,19,2001-05-08,away,loss,90.0,MILWAUKEE BUCKS,91.0,0.30434782608695654,0.0,42
+MILWAUKEE BUCKS,240,35,83,7,14,14,19,18,26,21,7,9,12,23,2001-05-08,home,win,91.0,CHARLOTTE HORNETS,90.0,0.2966101694915254,0.3333333333333333,44

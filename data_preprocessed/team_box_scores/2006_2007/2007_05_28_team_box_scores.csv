@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,28,69,5,15,30,41,12,27,11,8,6,11,17,away,win,91.0,UTAH JAZZ,79.0
-UTAH JAZZ,240,32,68,1,7,14,20,8,30,18,10,8,17,27,home,loss,79.0,SAN ANTONIO SPURS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,28,69,5,15,30,41,12,27,11,8,6,11,17,2007-05-28,away,win,91.0,UTAH JAZZ,79.0,0.28865979381443296,0.25,39
+UTAH JAZZ,240,32,68,1,7,14,20,8,30,18,10,8,17,27,2007-05-28,home,loss,79.0,SAN ANTONIO SPURS,91.0,0.32,0.125,38

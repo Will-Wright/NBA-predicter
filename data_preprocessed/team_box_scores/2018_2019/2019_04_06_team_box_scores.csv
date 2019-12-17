@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,46,88,9,27,15,26,10,44,25,5,5,10,14,away,win,116.0,CHICAGO BULLS,96.0
-CHICAGO BULLS,240,38,89,8,25,12,15,7,31,22,4,3,8,22,home,loss,96.0,PHILADELPHIA 76ERS,116.0
-BROOKLYN NETS,240,48,97,19,45,18,23,12,31,25,7,0,10,19,away,win,133.0,MILWAUKEE BUCKS,128.0
-MILWAUKEE BUCKS,240,49,88,16,34,14,21,6,37,28,7,4,14,18,home,loss,128.0,BROOKLYN NETS,133.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,46,88,9,27,15,26,10,44,25,5,5,10,14,2019-04-06,away,win,116.0,CHICAGO BULLS,96.0,0.34328358208955223,0.25,54
+CHICAGO BULLS,240,38,89,8,25,12,15,7,31,22,4,3,8,22,2019-04-06,home,loss,96.0,PHILADELPHIA 76ERS,116.0,0.2992125984251969,0.24242424242424243,38
+BROOKLYN NETS,240,48,97,19,45,18,23,12,31,25,7,0,10,19,2019-04-06,away,win,133.0,MILWAUKEE BUCKS,128.0,0.3310344827586207,0.296875,43
+MILWAUKEE BUCKS,240,49,88,16,34,14,21,6,37,28,7,4,14,18,2019-04-06,home,loss,128.0,BROOKLYN NETS,133.0,0.35766423357664234,0.32,43

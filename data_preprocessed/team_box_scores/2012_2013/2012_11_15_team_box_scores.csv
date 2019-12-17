@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,35,75,7,13,20,25,12,32,17,8,3,13,24,away,loss,97.0,BROOKLYN NETS,102.0
-BROOKLYN NETS,240,36,85,8,22,22,28,18,29,19,7,7,11,18,home,win,102.0,BOSTON CELTICS,97.0
-MIAMI HEAT,240,36,77,13,27,13,16,5,24,24,5,9,11,14,away,win,98.0,DENVER NUGGETS,93.0
-DENVER NUGGETS,240,37,88,6,20,13,19,21,27,19,6,7,13,20,home,loss,93.0,MIAMI HEAT,98.0
-NEW YORK KNICKS,240,39,86,11,26,15,23,10,31,17,6,6,7,19,away,win,104.0,SAN ANTONIO SPURS,100.0
-SAN ANTONIO SPURS,240,38,87,8,29,16,21,13,35,21,4,7,10,20,home,loss,100.0,NEW YORK KNICKS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,35,75,7,13,20,25,12,32,17,8,3,13,24,2012-11-15,away,loss,97.0,BROOKLYN NETS,102.0,0.3181818181818182,0.35,44
+BROOKLYN NETS,240,36,85,8,22,22,28,18,29,19,7,7,11,18,2012-11-15,home,win,102.0,BOSTON CELTICS,97.0,0.2975206611570248,0.26666666666666666,47
+MIAMI HEAT,240,36,77,13,27,13,16,5,24,24,5,9,11,14,2012-11-15,away,win,98.0,DENVER NUGGETS,93.0,0.3185840707964602,0.325,29
+DENVER NUGGETS,240,37,88,6,20,13,19,21,27,19,6,7,13,20,2012-11-15,home,loss,93.0,MIAMI HEAT,98.0,0.296,0.23076923076923078,48
+NEW YORK KNICKS,240,39,86,11,26,15,23,10,31,17,6,6,7,19,2012-11-15,away,win,104.0,SAN ANTONIO SPURS,100.0,0.312,0.2972972972972973,41
+SAN ANTONIO SPURS,240,38,87,8,29,16,21,13,35,21,4,7,10,20,2012-11-15,home,loss,100.0,NEW YORK KNICKS,104.0,0.304,0.21621621621621623,48

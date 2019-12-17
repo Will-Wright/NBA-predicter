@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,41,78,10,21,16,21,6,37,24,5,6,11,19,away,win,108.0,BOSTON CELTICS,88.0
-BOSTON CELTICS,240,33,81,6,18,16,23,11,29,19,8,3,11,19,home,loss,88.0,CLEVELAND CAVALIERS,108.0
-DENVER NUGGETS,240,47,92,16,27,17,28,19,37,29,7,4,16,25,away,win,127.0,GOLDEN STATE WARRIORS,112.0
-GOLDEN STATE WARRIORS,240,40,96,10,24,22,25,16,30,22,6,6,11,19,home,loss,112.0,DENVER NUGGETS,127.0
-MILWAUKEE BUCKS,240,42,86,8,18,20,25,12,32,24,6,5,9,28,away,win,112.0,INDIANA PACERS,110.0
-INDIANA PACERS,240,34,74,7,16,35,44,9,27,18,5,5,10,20,home,loss,110.0,MILWAUKEE BUCKS,112.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,41,78,10,21,16,21,6,37,24,5,6,11,19,2010-02-25,away,win,108.0,BOSTON CELTICS,88.0,0.3445378151260504,0.3225806451612903,43
+BOSTON CELTICS,240,33,81,6,18,16,23,11,29,19,8,3,11,19,2010-02-25,home,loss,88.0,CLEVELAND CAVALIERS,108.0,0.2894736842105263,0.25,40
+DENVER NUGGETS,240,47,92,16,27,17,28,19,37,29,7,4,16,25,2010-02-25,away,win,127.0,GOLDEN STATE WARRIORS,112.0,0.3381294964028777,0.37209302325581395,56
+GOLDEN STATE WARRIORS,240,40,96,10,24,22,25,16,30,22,6,6,11,19,2010-02-25,home,loss,112.0,DENVER NUGGETS,127.0,0.29411764705882354,0.29411764705882354,46
+MILWAUKEE BUCKS,240,42,86,8,18,20,25,12,32,24,6,5,9,28,2010-02-25,away,win,112.0,INDIANA PACERS,110.0,0.328125,0.3076923076923077,44
+INDIANA PACERS,240,34,74,7,16,35,44,9,27,18,5,5,10,20,2010-02-25,home,loss,110.0,MILWAUKEE BUCKS,112.0,0.3148148148148148,0.30434782608695654,36

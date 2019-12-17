@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,38,84,12,32,16,20,5,34,19,9,2,14,23,away,loss,104.0,GOLDEN STATE WARRIORS,115.0
-GOLDEN STATE WARRIORS,240,42,85,14,31,17,20,9,38,33,11,4,17,20,home,win,115.0,UTAH JAZZ,104.0
-BOSTON CELTICS,240,27,77,10,32,25,33,8,30,20,4,2,16,26,away,loss,89.0,WASHINGTON WIZARDS,116.0
-WASHINGTON WIZARDS,240,43,92,8,25,22,25,13,37,26,7,5,9,26,home,win,116.0,BOSTON CELTICS,89.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,38,84,12,32,16,20,5,34,19,9,2,14,23,2017-05-04,away,loss,104.0,GOLDEN STATE WARRIORS,115.0,0.3114754098360656,0.2727272727272727,39
+GOLDEN STATE WARRIORS,240,42,85,14,31,17,20,9,38,33,11,4,17,20,2017-05-04,home,win,115.0,UTAH JAZZ,104.0,0.33070866141732286,0.3111111111111111,47
+BOSTON CELTICS,240,27,77,10,32,25,33,8,30,20,4,2,16,26,2017-05-04,away,loss,89.0,WASHINGTON WIZARDS,116.0,0.25961538461538464,0.23809523809523808,38
+WASHINGTON WIZARDS,240,43,92,8,25,22,25,13,37,26,7,5,9,26,2017-05-04,home,win,116.0,BOSTON CELTICS,89.0,0.31851851851851853,0.24242424242424243,50

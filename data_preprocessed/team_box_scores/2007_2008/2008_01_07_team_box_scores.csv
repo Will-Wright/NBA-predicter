@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,265,41,91,10,25,29,34,14,29,22,4,2,13,22,away,loss,121.0,GOLDEN STATE WARRIORS,130.0
-GOLDEN STATE WARRIORS,265,47,91,14,31,22,25,10,34,25,6,4,10,25,home,win,130.0,SAN ANTONIO SPURS,121.0
-DENVER NUGGETS,240,41,96,4,13,29,40,23,29,17,4,4,9,19,away,loss,115.0,PHOENIX SUNS,137.0
-PHOENIX SUNS,240,50,93,20,31,17,18,12,30,32,1,13,10,32,home,win,137.0,DENVER NUGGETS,115.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,265,41,91,10,25,29,34,14,29,22,4,2,13,22,2008-01-07,away,loss,121.0,GOLDEN STATE WARRIORS,130.0,0.3106060606060606,0.2857142857142857,43
+GOLDEN STATE WARRIORS,265,47,91,14,31,22,25,10,34,25,6,4,10,25,2008-01-07,home,win,130.0,SAN ANTONIO SPURS,121.0,0.34057971014492755,0.3111111111111111,44
+DENVER NUGGETS,240,41,96,4,13,29,40,23,29,17,4,4,9,19,2008-01-07,away,loss,115.0,PHOENIX SUNS,137.0,0.29927007299270075,0.23529411764705882,52
+PHOENIX SUNS,240,50,93,20,31,17,18,12,30,32,1,13,10,32,2008-01-07,home,win,137.0,DENVER NUGGETS,115.0,0.34965034965034963,0.39215686274509803,42

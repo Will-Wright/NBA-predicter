@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,240,41,78,0,4,25,26,11,21,11,7,2,11,17,away,loss,107.0,PHOENIX SUNS,127.0
-PHOENIX SUNS,240,48,80,15,27,16,19,9,23,32,5,3,12,22,home,win,127.0,LOS ANGELES CLIPPERS,107.0
-DALLAS MAVERICKS,265,42,81,7,17,28,31,9,32,15,3,5,11,32,away,win,119.0,SAN ANTONIO SPURS,111.0
-SAN ANTONIO SPURS,265,36,76,6,19,33,39,7,27,16,6,10,10,25,home,loss,111.0,DALLAS MAVERICKS,119.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,240,41,78,0,4,25,26,11,21,11,7,2,11,17,2006-05-22,away,loss,107.0,PHOENIX SUNS,127.0,0.3445378151260504,0.0,32
+PHOENIX SUNS,240,48,80,15,27,16,19,9,23,32,5,3,12,22,2006-05-22,home,win,127.0,LOS ANGELES CLIPPERS,107.0,0.375,0.35714285714285715,32
+DALLAS MAVERICKS,265,42,81,7,17,28,31,9,32,15,3,5,11,32,2006-05-22,away,win,119.0,SAN ANTONIO SPURS,111.0,0.34146341463414637,0.2916666666666667,41
+SAN ANTONIO SPURS,265,36,76,6,19,33,39,7,27,16,6,10,10,25,2006-05-22,home,loss,111.0,DALLAS MAVERICKS,119.0,0.32142857142857145,0.24,34

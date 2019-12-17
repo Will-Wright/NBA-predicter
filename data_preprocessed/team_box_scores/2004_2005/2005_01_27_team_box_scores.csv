@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHARLOTTE BOBCATS,240,34,73,10,17,15,18,5,28,23,9,2,16,21,away,loss,93.0,CHICAGO BULLS,101.0
-CHICAGO BULLS,240,41,77,6,16,13,17,6,28,26,7,2,14,19,home,win,101.0,CHARLOTTE BOBCATS,93.0
-DETROIT PISTONS,240,32,68,5,14,19,26,6,33,20,2,2,13,20,away,win,88.0,INDIANA PACERS,76.0
-INDIANA PACERS,240,27,67,6,15,16,22,6,30,15,6,6,13,22,home,loss,76.0,DETROIT PISTONS,88.0
-SACRAMENTO KINGS,240,33,77,1,10,13,16,10,22,22,12,6,17,26,away,loss,80.0,SAN ANTONIO SPURS,90.0
-SAN ANTONIO SPURS,240,33,71,5,14,19,27,13,28,17,10,8,17,14,home,win,90.0,SACRAMENTO KINGS,80.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHARLOTTE BOBCATS,240,34,73,10,17,15,18,5,28,23,9,2,16,21,2005-01-27,away,loss,93.0,CHICAGO BULLS,101.0,0.3177570093457944,0.37037037037037035,33
+CHICAGO BULLS,240,41,77,6,16,13,17,6,28,26,7,2,14,19,2005-01-27,home,win,101.0,CHARLOTTE BOBCATS,93.0,0.3474576271186441,0.2727272727272727,34
+DETROIT PISTONS,240,32,68,5,14,19,26,6,33,20,2,2,13,20,2005-01-27,away,win,88.0,INDIANA PACERS,76.0,0.32,0.2631578947368421,39
+INDIANA PACERS,240,27,67,6,15,16,22,6,30,15,6,6,13,22,2005-01-27,home,loss,76.0,DETROIT PISTONS,88.0,0.2872340425531915,0.2857142857142857,36
+SACRAMENTO KINGS,240,33,77,1,10,13,16,10,22,22,12,6,17,26,2005-01-27,away,loss,80.0,SAN ANTONIO SPURS,90.0,0.3,0.09090909090909091,32
+SAN ANTONIO SPURS,240,33,71,5,14,19,27,13,28,17,10,8,17,14,2005-01-27,home,win,90.0,SACRAMENTO KINGS,80.0,0.3173076923076923,0.2631578947368421,41

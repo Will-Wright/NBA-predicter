@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,35,76,9,22,17,25,6,35,27,5,7,13,19,away,win,96.0,LOS ANGELES CLIPPERS,86.0
-LOS ANGELES CLIPPERS,240,37,80,3,9,9,18,9,35,22,11,8,12,23,home,loss,86.0,SAN ANTONIO SPURS,96.0
-OKLAHOMA CITY THUNDER,240,38,77,6,16,21,25,9,30,16,6,10,7,23,away,win,103.0,LOS ANGELES LAKERS,100.0
-LOS ANGELES LAKERS,240,37,86,5,18,21,29,18,25,19,5,7,8,19,home,loss,100.0,OKLAHOMA CITY THUNDER,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,35,76,9,22,17,25,6,35,27,5,7,13,19,2012-05-19,away,win,96.0,LOS ANGELES CLIPPERS,86.0,0.3153153153153153,0.2903225806451613,41
+LOS ANGELES CLIPPERS,240,37,80,3,9,9,18,9,35,22,11,8,12,23,2012-05-19,home,loss,86.0,SAN ANTONIO SPURS,96.0,0.3162393162393162,0.25,44
+OKLAHOMA CITY THUNDER,240,38,77,6,16,21,25,9,30,16,6,10,7,23,2012-05-19,away,win,103.0,LOS ANGELES LAKERS,100.0,0.33043478260869563,0.2727272727272727,39
+LOS ANGELES LAKERS,240,37,86,5,18,21,29,18,25,19,5,7,8,19,2012-05-19,home,loss,100.0,OKLAHOMA CITY THUNDER,103.0,0.3008130081300813,0.21739130434782608,43

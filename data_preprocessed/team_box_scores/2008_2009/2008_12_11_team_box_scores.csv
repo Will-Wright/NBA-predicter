@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHARLOTTE BOBCATS,240,38,78,2,10,12,19,11,33,19,3,8,10,21,away,loss,90.0,DALLAS MAVERICKS,95.0
-DALLAS MAVERICKS,240,36,80,8,20,15,16,9,29,25,6,1,7,11,home,win,95.0,CHARLOTTE BOBCATS,90.0
-PORTLAND TRAIL BLAZERS,240,34,77,6,27,14,19,13,30,13,4,3,13,24,away,loss,88.0,UTAH JAZZ,97.0
-UTAH JAZZ,240,35,72,3,10,24,30,10,28,23,9,1,11,21,home,win,97.0,PORTLAND TRAIL BLAZERS,88.0
-BOSTON CELTICS,240,44,79,8,15,26,33,12,29,31,15,3,18,25,away,win,122.0,WASHINGTON WIZARDS,88.0
-WASHINGTON WIZARDS,240,31,72,4,18,22,27,6,20,16,8,9,22,28,home,loss,88.0,BOSTON CELTICS,122.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHARLOTTE BOBCATS,240,38,78,2,10,12,19,11,33,19,3,8,10,21,2008-12-11,away,loss,90.0,DALLAS MAVERICKS,95.0,0.3275862068965517,0.16666666666666666,44
+DALLAS MAVERICKS,240,36,80,8,20,15,16,9,29,25,6,1,7,11,2008-12-11,home,win,95.0,CHARLOTTE BOBCATS,90.0,0.3103448275862069,0.2857142857142857,38
+PORTLAND TRAIL BLAZERS,240,34,77,6,27,14,19,13,30,13,4,3,13,24,2008-12-11,away,loss,88.0,UTAH JAZZ,97.0,0.3063063063063063,0.18181818181818182,43
+UTAH JAZZ,240,35,72,3,10,24,30,10,28,23,9,1,11,21,2008-12-11,home,win,97.0,PORTLAND TRAIL BLAZERS,88.0,0.32710280373831774,0.23076923076923078,38
+BOSTON CELTICS,240,44,79,8,15,26,33,12,29,31,15,3,18,25,2008-12-11,away,win,122.0,WASHINGTON WIZARDS,88.0,0.35772357723577236,0.34782608695652173,41
+WASHINGTON WIZARDS,240,31,72,4,18,22,27,6,20,16,8,9,22,28,2008-12-11,home,loss,88.0,BOSTON CELTICS,122.0,0.30097087378640774,0.18181818181818182,26

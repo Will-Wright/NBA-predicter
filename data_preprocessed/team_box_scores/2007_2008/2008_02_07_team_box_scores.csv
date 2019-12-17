@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,37,66,5,9,35,48,4,43,22,8,7,24,16,away,win,114.0,GOLDEN STATE WARRIORS,108.0
-GOLDEN STATE WARRIORS,240,41,95,7,28,19,21,12,29,19,14,3,13,31,home,loss,108.0,CHICAGO BULLS,114.0
-CLEVELAND CAVALIERS,240,31,78,8,27,7,13,7,28,14,7,6,8,14,away,loss,77.0,HOUSTON ROCKETS,92.0
-HOUSTON ROCKETS,240,37,85,8,27,10,15,17,38,29,3,5,9,12,home,win,92.0,CLEVELAND CAVALIERS,77.0
-MIAMI HEAT,240,29,80,2,15,24,29,13,25,22,5,2,18,28,away,loss,84.0,PHILADELPHIA 76ERS,101.0
-PHILADELPHIA 76ERS,240,37,77,2,10,25,39,14,34,22,9,10,14,23,home,win,101.0,MIAMI HEAT,84.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,37,66,5,9,35,48,4,43,22,8,7,24,16,2008-02-07,away,win,114.0,GOLDEN STATE WARRIORS,108.0,0.3592233009708738,0.35714285714285715,47
+GOLDEN STATE WARRIORS,240,41,95,7,28,19,21,12,29,19,14,3,13,31,2008-02-07,home,loss,108.0,CHICAGO BULLS,114.0,0.3014705882352941,0.2,41
+CLEVELAND CAVALIERS,240,31,78,8,27,7,13,7,28,14,7,6,8,14,2008-02-07,away,loss,77.0,HOUSTON ROCKETS,92.0,0.28440366972477066,0.22857142857142856,35
+HOUSTON ROCKETS,240,37,85,8,27,10,15,17,38,29,3,5,9,12,2008-02-07,home,win,92.0,CLEVELAND CAVALIERS,77.0,0.30327868852459017,0.22857142857142856,55
+MIAMI HEAT,240,29,80,2,15,24,29,13,25,22,5,2,18,28,2008-02-07,away,loss,84.0,PHILADELPHIA 76ERS,101.0,0.26605504587155965,0.11764705882352941,38
+PHILADELPHIA 76ERS,240,37,77,2,10,25,39,14,34,22,9,10,14,23,2008-02-07,home,win,101.0,MIAMI HEAT,84.0,0.32456140350877194,0.16666666666666666,48

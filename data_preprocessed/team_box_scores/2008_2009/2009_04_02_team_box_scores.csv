@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,34,93,6,17,30,40,20,32,21,11,4,15,36,away,loss,104.0,DENVER NUGGETS,114.0
-DENVER NUGGETS,240,35,75,9,23,35,46,8,36,20,9,10,19,30,home,win,114.0,UTAH JAZZ,104.0
-MILWAUKEE BUCKS,240,35,75,4,14,21,26,7,21,21,10,2,15,31,away,loss,95.0,PHILADELPHIA 76ERS,105.0
-PHILADELPHIA 76ERS,240,35,69,3,11,32,43,13,31,20,7,1,20,26,home,win,105.0,MILWAUKEE BUCKS,95.0
-CLEVELAND CAVALIERS,240,39,83,11,30,12,17,10,30,22,0,7,9,26,away,loss,101.0,WASHINGTON WIZARDS,109.0
-WASHINGTON WIZARDS,240,41,81,1,10,26,30,10,32,27,4,3,7,17,home,win,109.0,CLEVELAND CAVALIERS,101.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,34,93,6,17,30,40,20,32,21,11,4,15,36,2009-04-02,away,loss,104.0,DENVER NUGGETS,114.0,0.2677165354330709,0.2608695652173913,52
+DENVER NUGGETS,240,35,75,9,23,35,46,8,36,20,9,10,19,30,2009-04-02,home,win,114.0,UTAH JAZZ,104.0,0.3181818181818182,0.28125,44
+MILWAUKEE BUCKS,240,35,75,4,14,21,26,7,21,21,10,2,15,31,2009-04-02,away,loss,95.0,PHILADELPHIA 76ERS,105.0,0.3181818181818182,0.2222222222222222,28
+PHILADELPHIA 76ERS,240,35,69,3,11,32,43,13,31,20,7,1,20,26,2009-04-02,home,win,105.0,MILWAUKEE BUCKS,95.0,0.33653846153846156,0.21428571428571427,44
+CLEVELAND CAVALIERS,240,39,83,11,30,12,17,10,30,22,0,7,9,26,2009-04-02,away,loss,101.0,WASHINGTON WIZARDS,109.0,0.319672131147541,0.2682926829268293,40
+WASHINGTON WIZARDS,240,41,81,1,10,26,30,10,32,27,4,3,7,17,2009-04-02,home,win,109.0,CLEVELAND CAVALIERS,101.0,0.3360655737704918,0.09090909090909091,42

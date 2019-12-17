@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,36,82,5,14,14,20,8,33,19,9,8,11,15,away,loss,91.0,BOSTON CELTICS,92.0
-BOSTON CELTICS,240,36,82,2,18,18,19,9,36,28,7,7,13,16,home,win,92.0,PHILADELPHIA 76ERS,91.0
-DENVER NUGGETS,240,35,89,7,26,10,14,23,31,23,5,9,18,21,away,loss,87.0,LOS ANGELES LAKERS,96.0
-LOS ANGELES LAKERS,240,35,89,11,24,15,23,24,26,22,10,14,11,20,home,win,96.0,DENVER NUGGETS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,36,82,5,14,14,20,8,33,19,9,8,11,15,2012-05-12,away,loss,91.0,BOSTON CELTICS,92.0,0.3050847457627119,0.2631578947368421,41
+BOSTON CELTICS,240,36,82,2,18,18,19,9,36,28,7,7,13,16,2012-05-12,home,win,92.0,PHILADELPHIA 76ERS,91.0,0.3050847457627119,0.1,45
+DENVER NUGGETS,240,35,89,7,26,10,14,23,31,23,5,9,18,21,2012-05-12,away,loss,87.0,LOS ANGELES LAKERS,96.0,0.28225806451612906,0.21212121212121213,54
+LOS ANGELES LAKERS,240,35,89,11,24,15,23,24,26,22,10,14,11,20,2012-05-12,home,win,96.0,DENVER NUGGETS,87.0,0.28225806451612906,0.3142857142857143,50

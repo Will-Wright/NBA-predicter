@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,35,77,5,19,20,25,10,29,24,11,4,21,25,away,loss,95.0,NEW JERSEY NETS,104.0
-NEW JERSEY NETS,240,35,79,7,10,27,33,13,31,29,11,1,17,23,home,win,104.0,BOSTON CELTICS,95.0
-LOS ANGELES LAKERS,240,36,80,8,23,15,24,7,30,10,5,1,16,25,away,loss,95.0,SAN ANTONIO SPURS,114.0
-SAN ANTONIO SPURS,240,42,75,8,14,22,27,5,34,27,8,5,13,24,home,win,114.0,LOS ANGELES LAKERS,95.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,35,77,5,19,20,25,10,29,24,11,4,21,25,2003-05-07,away,loss,95.0,NEW JERSEY NETS,104.0,0.3125,0.20833333333333334,39
+NEW JERSEY NETS,240,35,79,7,10,27,33,13,31,29,11,1,17,23,2003-05-07,home,win,104.0,BOSTON CELTICS,95.0,0.30701754385964913,0.4117647058823529,44
+LOS ANGELES LAKERS,240,36,80,8,23,15,24,7,30,10,5,1,16,25,2003-05-07,away,loss,95.0,SAN ANTONIO SPURS,114.0,0.3103448275862069,0.25806451612903225,37
+SAN ANTONIO SPURS,240,42,75,8,14,22,27,5,34,27,8,5,13,24,2003-05-07,home,win,114.0,LOS ANGELES LAKERS,95.0,0.358974358974359,0.36363636363636365,39

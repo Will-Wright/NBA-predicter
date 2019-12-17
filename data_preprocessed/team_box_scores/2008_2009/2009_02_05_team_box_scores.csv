@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,265,42,88,9,22,17,29,12,30,21,12,3,11,24,away,win,110.0,BOSTON CELTICS,109.0
-BOSTON CELTICS,265,42,93,8,18,17,20,12,35,26,8,8,16,28,home,loss,109.0,LOS ANGELES LAKERS,110.0
-INDIANA PACERS,240,33,84,13,34,15,17,11,31,24,7,8,16,23,away,loss,94.0,PHILADELPHIA 76ERS,99.0
-PHILADELPHIA 76ERS,240,34,85,5,12,26,34,16,34,26,12,3,13,19,home,win,99.0,INDIANA PACERS,94.0
-DALLAS MAVERICKS,240,34,85,3,13,16,19,8,24,21,12,3,14,16,away,loss,87.0,UTAH JAZZ,115.0
-UTAH JAZZ,240,42,84,12,26,19,22,13,41,31,10,5,16,18,home,win,115.0,DALLAS MAVERICKS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,265,42,88,9,22,17,29,12,30,21,12,3,11,24,2009-02-05,away,win,110.0,BOSTON CELTICS,109.0,0.3230769230769231,0.2903225806451613,42
+BOSTON CELTICS,265,42,93,8,18,17,20,12,35,26,8,8,16,28,2009-02-05,home,loss,109.0,LOS ANGELES LAKERS,110.0,0.3111111111111111,0.3076923076923077,47
+INDIANA PACERS,240,33,84,13,34,15,17,11,31,24,7,8,16,23,2009-02-05,away,loss,94.0,PHILADELPHIA 76ERS,99.0,0.28205128205128205,0.2765957446808511,42
+PHILADELPHIA 76ERS,240,34,85,5,12,26,34,16,34,26,12,3,13,19,2009-02-05,home,win,99.0,INDIANA PACERS,94.0,0.2857142857142857,0.29411764705882354,50
+DALLAS MAVERICKS,240,34,85,3,13,16,19,8,24,21,12,3,14,16,2009-02-05,away,loss,87.0,UTAH JAZZ,115.0,0.2857142857142857,0.1875,32
+UTAH JAZZ,240,42,84,12,26,19,22,13,41,31,10,5,16,18,2009-02-05,home,win,115.0,DALLAS MAVERICKS,87.0,0.3333333333333333,0.3157894736842105,54

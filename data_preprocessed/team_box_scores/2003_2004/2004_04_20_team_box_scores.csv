@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,27,67,5,18,31,38,5,33,17,7,5,15,21,away,loss,90.0,INDIANA PACERS,103.0
-INDIANA PACERS,240,41,92,9,23,12,19,15,34,23,9,5,11,27,home,win,103.0,BOSTON CELTICS,90.0
-NEW YORK KNICKS,240,30,88,4,16,17,21,18,24,20,13,4,18,24,away,loss,81.0,NEW JERSEY NETS,99.0
-NEW JERSEY NETS,240,38,71,7,18,16,24,7,37,28,12,8,23,20,home,win,99.0,NEW YORK KNICKS,81.0
-DALLAS MAVERICKS,240,30,93,2,19,17,20,23,34,16,5,7,13,20,away,loss,79.0,SACRAMENTO KINGS,83.0
-SACRAMENTO KINGS,240,30,81,6,23,17,24,13,35,23,11,4,12,21,home,win,83.0,DALLAS MAVERICKS,79.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,27,67,5,18,31,38,5,33,17,7,5,15,21,2004-04-20,away,loss,90.0,INDIANA PACERS,103.0,0.2872340425531915,0.21739130434782608,38
+INDIANA PACERS,240,41,92,9,23,12,19,15,34,23,9,5,11,27,2004-04-20,home,win,103.0,BOSTON CELTICS,90.0,0.3082706766917293,0.28125,49
+NEW YORK KNICKS,240,30,88,4,16,17,21,18,24,20,13,4,18,24,2004-04-20,away,loss,81.0,NEW JERSEY NETS,99.0,0.2542372881355932,0.2,42
+NEW JERSEY NETS,240,38,71,7,18,16,24,7,37,28,12,8,23,20,2004-04-20,home,win,99.0,NEW YORK KNICKS,81.0,0.3486238532110092,0.28,44
+DALLAS MAVERICKS,240,30,93,2,19,17,20,23,34,16,5,7,13,20,2004-04-20,away,loss,79.0,SACRAMENTO KINGS,83.0,0.24390243902439024,0.09523809523809523,57
+SACRAMENTO KINGS,240,30,81,6,23,17,24,13,35,23,11,4,12,21,2004-04-20,home,win,83.0,DALLAS MAVERICKS,79.0,0.2702702702702703,0.20689655172413793,48

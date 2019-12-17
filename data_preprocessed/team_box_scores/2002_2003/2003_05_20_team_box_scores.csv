@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,33,84,3,8,19,24,19,32,14,6,1,14,25,away,win,88.0,DETROIT PISTONS,86.0
-DETROIT PISTONS,240,29,68,5,14,23,34,7,29,16,7,8,12,23,home,loss,86.0,NEW JERSEY NETS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,33,84,3,8,19,24,19,32,14,6,1,14,25,2003-05-20,away,win,88.0,DETROIT PISTONS,86.0,0.28205128205128205,0.2727272727272727,51
+DETROIT PISTONS,240,29,68,5,14,23,34,7,29,16,7,8,12,23,2003-05-20,home,loss,86.0,NEW JERSEY NETS,88.0,0.29896907216494845,0.2631578947368421,36

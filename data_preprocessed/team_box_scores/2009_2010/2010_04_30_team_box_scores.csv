@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,31,81,5,16,16,22,15,36,15,5,6,11,15,away,win,83.0,MILWAUKEE BUCKS,69.0
-MILWAUKEE BUCKS,240,25,76,7,26,12,12,8,34,14,4,3,12,24,home,loss,69.0,ATLANTA HAWKS,83.0
-LOS ANGELES LAKERS,240,37,79,12,24,9,14,10,33,23,4,8,15,21,away,win,95.0,OKLAHOMA CITY THUNDER,94.0
-OKLAHOMA CITY THUNDER,240,31,85,5,19,27,31,13,29,21,7,4,6,19,home,loss,94.0,LOS ANGELES LAKERS,95.0
-DENVER NUGGETS,240,36,83,5,17,27,40,11,28,19,8,4,10,39,away,loss,104.0,UTAH JAZZ,112.0
-UTAH JAZZ,240,36,69,6,15,34,51,8,37,26,2,4,18,31,home,win,112.0,DENVER NUGGETS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,31,81,5,16,16,22,15,36,15,5,6,11,15,2010-04-30,away,win,83.0,MILWAUKEE BUCKS,69.0,0.2767857142857143,0.23809523809523808,51
+MILWAUKEE BUCKS,240,25,76,7,26,12,12,8,34,14,4,3,12,24,2010-04-30,home,loss,69.0,ATLANTA HAWKS,83.0,0.24752475247524752,0.21212121212121213,42
+LOS ANGELES LAKERS,240,37,79,12,24,9,14,10,33,23,4,8,15,21,2010-04-30,away,win,95.0,OKLAHOMA CITY THUNDER,94.0,0.31896551724137934,0.3333333333333333,43
+OKLAHOMA CITY THUNDER,240,31,85,5,19,27,31,13,29,21,7,4,6,19,2010-04-30,home,loss,94.0,LOS ANGELES LAKERS,95.0,0.2672413793103448,0.20833333333333334,42
+DENVER NUGGETS,240,36,83,5,17,27,40,11,28,19,8,4,10,39,2010-04-30,away,loss,104.0,UTAH JAZZ,112.0,0.3025210084033613,0.22727272727272727,39
+UTAH JAZZ,240,36,69,6,15,34,51,8,37,26,2,4,18,31,2010-04-30,home,win,112.0,DENVER NUGGETS,104.0,0.34285714285714286,0.2857142857142857,45

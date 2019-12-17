@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,30,86,6,22,17,27,20,23,18,11,5,13,27,away,loss,83.0,LOS ANGELES LAKERS,106.0
-LOS ANGELES LAKERS,240,39,78,9,16,19,24,12,35,26,6,7,16,21,home,win,106.0,NEW JERSEY NETS,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,30,86,6,22,17,27,20,23,18,11,5,13,27,2002-06-07,away,loss,83.0,LOS ANGELES LAKERS,106.0,0.25862068965517243,0.21428571428571427,43
+LOS ANGELES LAKERS,240,39,78,9,16,19,24,12,35,26,6,7,16,21,2002-06-07,home,win,106.0,NEW JERSEY NETS,83.0,0.3333333333333333,0.36,47

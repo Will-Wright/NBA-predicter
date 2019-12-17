@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,32,79,2,12,23,27,6,33,12,8,5,12,23,away,loss,89.0,CHICAGO BULLS,93.0
-CHICAGO BULLS,240,34,82,4,21,21,25,13,40,17,7,3,14,27,home,win,93.0,MIAMI HEAT,89.0
-BOSTON CELTICS,240,30,77,3,17,12,15,3,35,18,14,8,12,20,away,loss,75.0,DENVER NUGGETS,89.0
-DENVER NUGGETS,240,34,75,5,15,16,23,7,45,22,6,9,17,17,home,win,89.0,BOSTON CELTICS,75.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,32,79,2,12,23,27,6,33,12,8,5,12,23,2011-02-24,away,loss,89.0,CHICAGO BULLS,93.0,0.2882882882882883,0.14285714285714285,39
+CHICAGO BULLS,240,34,82,4,21,21,25,13,40,17,7,3,14,27,2011-02-24,home,win,93.0,MIAMI HEAT,89.0,0.29310344827586204,0.16,53
+BOSTON CELTICS,240,30,77,3,17,12,15,3,35,18,14,8,12,20,2011-02-24,away,loss,75.0,DENVER NUGGETS,89.0,0.2803738317757009,0.15,38
+DENVER NUGGETS,240,34,75,5,15,16,23,7,45,22,6,9,17,17,2011-02-24,home,win,89.0,BOSTON CELTICS,75.0,0.3119266055045872,0.25,52

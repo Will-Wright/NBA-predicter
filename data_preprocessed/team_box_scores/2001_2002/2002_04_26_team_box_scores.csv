@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,35,81,3,13,12,20,7,39,23,9,8,14,19,away,win,85.0,INDIANA PACERS,84.0
-INDIANA PACERS,240,34,83,4,11,12,21,10,35,25,6,4,12,19,home,loss,84.0,NEW JERSEY NETS,85.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,35,81,3,13,12,20,7,39,23,9,8,14,19,2002-04-26,away,win,85.0,INDIANA PACERS,84.0,0.3017241379310345,0.1875,46
+INDIANA PACERS,240,34,83,4,11,12,21,10,35,25,6,4,12,19,2002-04-26,home,loss,84.0,NEW JERSEY NETS,85.0,0.2905982905982906,0.26666666666666666,45

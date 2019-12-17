@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,34,69,3,6,21,24,15,34,16,5,4,26,29,away,win,92.0,CHICAGO BULLS,80.0
-CHICAGO BULLS,240,26,76,1,10,27,37,19,15,14,11,6,15,23,home,loss,80.0,UTAH JAZZ,92.0
-MEMPHIS GRIZZLIES,240,41,87,6,18,11,18,22,29,30,7,11,19,26,away,loss,99.0,DENVER NUGGETS,106.0
-DENVER NUGGETS,240,41,81,5,11,19,29,10,27,26,10,8,11,19,home,win,106.0,MEMPHIS GRIZZLIES,99.0
-ORLANDO MAGIC,240,23,70,5,15,22,35,9,31,15,9,4,16,19,away,loss,73.0,PHILADELPHIA 76ERS,95.0
-PHILADELPHIA 76ERS,240,39,86,9,20,8,9,12,36,29,9,4,12,24,home,win,95.0,ORLANDO MAGIC,73.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,34,69,3,6,21,24,15,34,16,5,4,26,29,2003-12-22,away,win,92.0,CHICAGO BULLS,80.0,0.3300970873786408,0.3333333333333333,49
+CHICAGO BULLS,240,26,76,1,10,27,37,19,15,14,11,6,15,23,2003-12-22,home,loss,80.0,UTAH JAZZ,92.0,0.2549019607843137,0.09090909090909091,34
+MEMPHIS GRIZZLIES,240,41,87,6,18,11,18,22,29,30,7,11,19,26,2003-12-22,away,loss,99.0,DENVER NUGGETS,106.0,0.3203125,0.25,51
+DENVER NUGGETS,240,41,81,5,11,19,29,10,27,26,10,8,11,19,2003-12-22,home,win,106.0,MEMPHIS GRIZZLIES,99.0,0.3360655737704918,0.3125,37
+ORLANDO MAGIC,240,23,70,5,15,22,35,9,31,15,9,4,16,19,2003-12-22,away,loss,73.0,PHILADELPHIA 76ERS,95.0,0.24731182795698925,0.25,40
+PHILADELPHIA 76ERS,240,39,86,9,20,8,9,12,36,29,9,4,12,24,2003-12-22,home,win,95.0,ORLANDO MAGIC,73.0,0.312,0.3103448275862069,48

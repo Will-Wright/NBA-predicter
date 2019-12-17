@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MILWAUKEE BUCKS,240,39,91,6,23,10,12,20,29,31,12,1,14,15,away,loss,94.0,GOLDEN STATE WARRIORS,100.0
-GOLDEN STATE WARRIORS,240,39,77,12,24,10,13,8,28,23,7,6,17,13,home,win,100.0,MILWAUKEE BUCKS,94.0
-SAN ANTONIO SPURS,240,35,85,6,16,13,17,10,28,20,5,5,10,20,away,win,89.0,LOS ANGELES LAKERS,88.0
-LOS ANGELES LAKERS,240,34,80,2,14,18,22,12,32,24,6,5,10,16,home,loss,88.0,SAN ANTONIO SPURS,89.0
-MIAMI HEAT,240,36,72,7,16,25,36,9,35,19,6,6,10,27,away,win,104.0,ORLANDO MAGIC,100.0
-ORLANDO MAGIC,240,36,85,12,33,16,31,17,27,20,4,0,10,26,home,loss,100.0,MIAMI HEAT,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MILWAUKEE BUCKS,240,39,91,6,23,10,12,20,29,31,12,1,14,15,2011-02-03,away,loss,94.0,GOLDEN STATE WARRIORS,100.0,0.3,0.20689655172413793,49
+GOLDEN STATE WARRIORS,240,39,77,12,24,10,13,8,28,23,7,6,17,13,2011-02-03,home,win,100.0,MILWAUKEE BUCKS,94.0,0.33620689655172414,0.3333333333333333,36
+SAN ANTONIO SPURS,240,35,85,6,16,13,17,10,28,20,5,5,10,20,2011-02-03,away,win,89.0,LOS ANGELES LAKERS,88.0,0.2916666666666667,0.2727272727272727,38
+LOS ANGELES LAKERS,240,34,80,2,14,18,22,12,32,24,6,5,10,16,2011-02-03,home,loss,88.0,SAN ANTONIO SPURS,89.0,0.2982456140350877,0.125,44
+MIAMI HEAT,240,36,72,7,16,25,36,9,35,19,6,6,10,27,2011-02-03,away,win,104.0,ORLANDO MAGIC,100.0,0.3333333333333333,0.30434782608695654,44
+ORLANDO MAGIC,240,36,85,12,33,16,31,17,27,20,4,0,10,26,2011-02-03,home,loss,100.0,MIAMI HEAT,104.0,0.2975206611570248,0.26666666666666666,44

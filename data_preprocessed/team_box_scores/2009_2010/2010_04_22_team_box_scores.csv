@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,36,82,14,35,20,31,14,29,21,5,7,13,24,away,loss,106.0,CHICAGO BULLS,108.0
-CHICAGO BULLS,240,42,84,5,12,19,25,7,35,22,5,4,8,22,home,win,108.0,CLEVELAND CAVALIERS,106.0
-LOS ANGELES LAKERS,240,38,84,10,31,10,12,7,32,22,4,4,8,26,away,loss,96.0,OKLAHOMA CITY THUNDER,101.0
-OKLAHOMA CITY THUNDER,240,33,80,8,19,27,34,14,39,16,3,3,9,19,home,win,101.0,LOS ANGELES LAKERS,96.0
-PHOENIX SUNS,240,37,70,13,28,21,30,7,28,21,7,3,15,22,away,win,108.0,PORTLAND TRAIL BLAZERS,89.0
-PORTLAND TRAIL BLAZERS,240,34,77,5,16,16,28,14,23,20,9,2,12,27,home,loss,89.0,PHOENIX SUNS,108.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,36,82,14,35,20,31,14,29,21,5,7,13,24,2010-04-22,away,loss,106.0,CHICAGO BULLS,108.0,0.3050847457627119,0.2857142857142857,43
+CHICAGO BULLS,240,42,84,5,12,19,25,7,35,22,5,4,8,22,2010-04-22,home,win,108.0,CLEVELAND CAVALIERS,106.0,0.3333333333333333,0.29411764705882354,42
+LOS ANGELES LAKERS,240,38,84,10,31,10,12,7,32,22,4,4,8,26,2010-04-22,away,loss,96.0,OKLAHOMA CITY THUNDER,101.0,0.3114754098360656,0.24390243902439024,39
+OKLAHOMA CITY THUNDER,240,33,80,8,19,27,34,14,39,16,3,3,9,19,2010-04-22,home,win,101.0,LOS ANGELES LAKERS,96.0,0.2920353982300885,0.2962962962962963,53
+PHOENIX SUNS,240,37,70,13,28,21,30,7,28,21,7,3,15,22,2010-04-22,away,win,108.0,PORTLAND TRAIL BLAZERS,89.0,0.34579439252336447,0.3170731707317073,35
+PORTLAND TRAIL BLAZERS,240,34,77,5,16,16,28,14,23,20,9,2,12,27,2010-04-22,home,loss,89.0,PHOENIX SUNS,108.0,0.3063063063063063,0.23809523809523808,37

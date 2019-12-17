@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW ORLEANS HORNETS,240,29,72,8,20,11,14,6,34,18,2,3,20,20,away,loss,77.0,MIAMI HEAT,85.0
-MIAMI HEAT,240,34,83,2,11,15,23,11,33,17,13,5,6,23,home,win,85.0,NEW ORLEANS HORNETS,77.0
-SACRAMENTO KINGS,240,35,80,4,16,30,35,9,30,22,13,6,9,17,away,win,104.0,MINNESOTA TIMBERWOLVES,98.0
-MINNESOTA TIMBERWOLVES,240,39,88,10,25,10,12,15,33,24,5,5,18,26,home,loss,98.0,SACRAMENTO KINGS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW ORLEANS HORNETS,240,29,72,8,20,11,14,6,34,18,2,3,20,20,2004-05-04,away,loss,77.0,MIAMI HEAT,85.0,0.2871287128712871,0.2857142857142857,40
+MIAMI HEAT,240,34,83,2,11,15,23,11,33,17,13,5,6,23,2004-05-04,home,win,85.0,NEW ORLEANS HORNETS,77.0,0.2905982905982906,0.15384615384615385,44
+SACRAMENTO KINGS,240,35,80,4,16,30,35,9,30,22,13,6,9,17,2004-05-04,away,win,104.0,MINNESOTA TIMBERWOLVES,98.0,0.30434782608695654,0.2,39
+MINNESOTA TIMBERWOLVES,240,39,88,10,25,10,12,15,33,24,5,5,18,26,2004-05-04,home,loss,98.0,SACRAMENTO KINGS,104.0,0.30708661417322836,0.2857142857142857,48

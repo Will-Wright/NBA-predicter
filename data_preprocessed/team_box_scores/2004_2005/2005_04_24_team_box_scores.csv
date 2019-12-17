@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-WASHINGTON WIZARDS,240,33,86,5,19,23,33,9,35,16,4,8,12,22,away,loss,94.0,CHICAGO BULLS,103.0
-CHICAGO BULLS,240,40,94,7,22,16,26,16,38,27,6,10,9,26,home,win,103.0,WASHINGTON WIZARDS,94.0
-NEW JERSEY NETS,240,34,78,10,22,20,26,11,28,22,5,0,8,27,away,loss,98.0,MIAMI HEAT,116.0
-MIAMI HEAT,240,42,71,9,15,23,35,7,35,21,4,2,9,21,home,win,116.0,NEW JERSEY NETS,98.0
-MEMPHIS GRIZZLIES,240,41,88,9,21,12,15,11,35,23,5,6,11,17,away,loss,103.0,PHOENIX SUNS,114.0
-PHOENIX SUNS,240,42,93,15,32,15,18,14,34,28,5,5,9,17,home,win,114.0,MEMPHIS GRIZZLIES,103.0
-DENVER NUGGETS,240,34,82,3,6,22,30,15,29,12,9,8,13,21,away,win,93.0,SAN ANTONIO SPURS,87.0
-SAN ANTONIO SPURS,240,34,81,3,13,16,19,12,33,22,6,8,17,23,home,loss,87.0,DENVER NUGGETS,93.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+WASHINGTON WIZARDS,240,33,86,5,19,23,33,9,35,16,4,8,12,22,2005-04-24,away,loss,94.0,CHICAGO BULLS,103.0,0.2773109243697479,0.20833333333333334,44
+CHICAGO BULLS,240,40,94,7,22,16,26,16,38,27,6,10,9,26,2005-04-24,home,win,103.0,WASHINGTON WIZARDS,94.0,0.29850746268656714,0.2413793103448276,54
+NEW JERSEY NETS,240,34,78,10,22,20,26,11,28,22,5,0,8,27,2005-04-24,away,loss,98.0,MIAMI HEAT,116.0,0.30357142857142855,0.3125,39
+MIAMI HEAT,240,42,71,9,15,23,35,7,35,21,4,2,9,21,2005-04-24,home,win,116.0,NEW JERSEY NETS,98.0,0.37168141592920356,0.375,42
+MEMPHIS GRIZZLIES,240,41,88,9,21,12,15,11,35,23,5,6,11,17,2005-04-24,away,loss,103.0,PHOENIX SUNS,114.0,0.3178294573643411,0.3,46
+PHOENIX SUNS,240,42,93,15,32,15,18,14,34,28,5,5,9,17,2005-04-24,home,win,114.0,MEMPHIS GRIZZLIES,103.0,0.3111111111111111,0.3191489361702128,48
+DENVER NUGGETS,240,34,82,3,6,22,30,15,29,12,9,8,13,21,2005-04-24,away,win,93.0,SAN ANTONIO SPURS,87.0,0.29310344827586204,0.3333333333333333,44
+SAN ANTONIO SPURS,240,34,81,3,13,16,19,12,33,22,6,8,17,23,2005-04-24,home,loss,87.0,DENVER NUGGETS,93.0,0.2956521739130435,0.1875,45

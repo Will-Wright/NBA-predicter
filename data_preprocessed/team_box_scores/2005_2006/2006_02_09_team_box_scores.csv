@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,31,66,2,9,12,19,4,24,19,6,8,18,18,away,loss,76.0,DALLAS MAVERICKS,112.0
-DALLAS MAVERICKS,240,45,80,11,16,11,13,8,28,24,9,6,12,15,home,win,112.0,MIAMI HEAT,76.0
-CHICAGO BULLS,240,30,90,2,15,18,23,17,34,17,10,3,18,21,away,loss,80.0,SACRAMENTO KINGS,98.0
-SACRAMENTO KINGS,240,31,76,10,27,26,29,9,35,24,11,7,15,22,home,win,98.0,CHICAGO BULLS,80.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,31,66,2,9,12,19,4,24,19,6,8,18,18,2006-02-09,away,loss,76.0,DALLAS MAVERICKS,112.0,0.31958762886597936,0.18181818181818182,28
+DALLAS MAVERICKS,240,45,80,11,16,11,13,8,28,24,9,6,12,15,2006-02-09,home,win,112.0,MIAMI HEAT,76.0,0.36,0.4074074074074074,36
+CHICAGO BULLS,240,30,90,2,15,18,23,17,34,17,10,3,18,21,2006-02-09,away,loss,80.0,SACRAMENTO KINGS,98.0,0.25,0.11764705882352941,51
+SACRAMENTO KINGS,240,31,76,10,27,26,29,9,35,24,11,7,15,22,2006-02-09,home,win,98.0,CHICAGO BULLS,80.0,0.2897196261682243,0.2702702702702703,44

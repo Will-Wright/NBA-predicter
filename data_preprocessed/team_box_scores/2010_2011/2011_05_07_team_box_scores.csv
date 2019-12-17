@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,31,73,5,23,14,19,12,24,20,9,9,14,16,away,loss,81.0,BOSTON CELTICS,97.0
-BOSTON CELTICS,240,37,74,9,18,14,17,10,29,27,7,4,12,17,home,win,97.0,MIAMI HEAT,81.0
-OKLAHOMA CITY THUNDER,265,34,93,4,21,21,23,18,35,19,6,10,13,30,away,loss,93.0,MEMPHIS GRIZZLIES,101.0
-MEMPHIS GRIZZLIES,265,34,90,3,10,30,44,20,35,17,9,9,9,17,home,win,101.0,OKLAHOMA CITY THUNDER,93.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,31,73,5,23,14,19,12,24,20,9,9,14,16,2011-05-07,away,loss,81.0,BOSTON CELTICS,97.0,0.2980769230769231,0.17857142857142858,36
+BOSTON CELTICS,240,37,74,9,18,14,17,10,29,27,7,4,12,17,2011-05-07,home,win,97.0,MIAMI HEAT,81.0,0.3333333333333333,0.3333333333333333,39
+OKLAHOMA CITY THUNDER,265,34,93,4,21,21,23,18,35,19,6,10,13,30,2011-05-07,away,loss,93.0,MEMPHIS GRIZZLIES,101.0,0.2677165354330709,0.16,53
+MEMPHIS GRIZZLIES,265,34,90,3,10,30,44,20,35,17,9,9,9,17,2011-05-07,home,win,101.0,OKLAHOMA CITY THUNDER,93.0,0.27419354838709675,0.23076923076923078,55

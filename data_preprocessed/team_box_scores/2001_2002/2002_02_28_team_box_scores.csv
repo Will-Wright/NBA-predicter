@@ -1,9 +1,9 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,265,37,80,3,18,30,36,6,28,25,7,3,13,26,away,loss,107.0,CLEVELAND CAVALIERS,114.0
-CLEVELAND CAVALIERS,265,41,81,5,12,27,34,10,30,21,5,6,13,29,home,win,114.0,SAN ANTONIO SPURS,107.0
-NEW YORK KNICKS,240,29,78,7,17,21,27,14,26,14,7,3,13,20,away,loss,86.0,MIAMI HEAT,100.0
-MIAMI HEAT,240,38,79,5,7,19,28,12,33,21,9,4,13,26,home,win,100.0,NEW YORK KNICKS,86.0
-INDIANA PACERS,265,36,80,3,17,25,35,12,33,22,8,4,19,24,away,loss,100.0,PHOENIX SUNS,107.0
-PHOENIX SUNS,265,47,101,5,14,8,14,17,32,28,7,4,11,29,home,win,107.0,INDIANA PACERS,100.0
-MEMPHIS GRIZZLIES,240,23,73,0,9,24,36,20,21,8,7,8,24,22,away,loss,70.0,UTAH JAZZ,114.0
-UTAH JAZZ,240,46,79,4,10,18,25,15,30,39,14,11,12,29,home,win,114.0,MEMPHIS GRIZZLIES,70.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,265,37,80,3,18,30,36,6,28,25,7,3,13,26,2002-02-28,away,loss,107.0,CLEVELAND CAVALIERS,114.0,0.3162393162393162,0.14285714285714285,34
+CLEVELAND CAVALIERS,265,41,81,5,12,27,34,10,30,21,5,6,13,29,2002-02-28,home,win,114.0,SAN ANTONIO SPURS,107.0,0.3360655737704918,0.29411764705882354,40
+NEW YORK KNICKS,240,29,78,7,17,21,27,14,26,14,7,3,13,20,2002-02-28,away,loss,86.0,MIAMI HEAT,100.0,0.27102803738317754,0.2916666666666667,40
+MIAMI HEAT,240,38,79,5,7,19,28,12,33,21,9,4,13,26,2002-02-28,home,win,100.0,NEW YORK KNICKS,86.0,0.3247863247863248,0.4166666666666667,45
+INDIANA PACERS,265,36,80,3,17,25,35,12,33,22,8,4,19,24,2002-02-28,away,loss,100.0,PHOENIX SUNS,107.0,0.3103448275862069,0.15,45
+PHOENIX SUNS,265,47,101,5,14,8,14,17,32,28,7,4,11,29,2002-02-28,home,win,107.0,INDIANA PACERS,100.0,0.31756756756756754,0.2631578947368421,49
+MEMPHIS GRIZZLIES,240,23,73,0,9,24,36,20,21,8,7,8,24,22,2002-02-28,away,loss,70.0,UTAH JAZZ,114.0,0.23958333333333334,0.0,41
+UTAH JAZZ,240,46,79,4,10,18,25,15,30,39,14,11,12,29,2002-02-28,home,win,114.0,MEMPHIS GRIZZLIES,70.0,0.368,0.2857142857142857,45

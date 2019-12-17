@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW JERSEY NETS,240,33,69,8,21,9,20,7,32,21,9,3,17,20,away,win,83.0,CLEVELAND CAVALIERS,72.0
-CLEVELAND CAVALIERS,240,24,72,4,15,20,29,15,30,13,7,3,18,22,home,loss,72.0,NEW JERSEY NETS,83.0
-SAN ANTONIO SPURS,240,29,72,8,23,22,28,6,33,15,8,6,13,21,away,win,88.0,PHOENIX SUNS,85.0
-PHOENIX SUNS,240,31,77,7,18,16,17,9,33,18,3,3,15,21,home,loss,85.0,SAN ANTONIO SPURS,88.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW JERSEY NETS,240,33,69,8,21,9,20,7,32,21,9,3,17,20,2007-05-16,away,win,83.0,CLEVELAND CAVALIERS,72.0,0.3235294117647059,0.27586206896551724,39
+CLEVELAND CAVALIERS,240,24,72,4,15,20,29,15,30,13,7,3,18,22,2007-05-16,home,loss,72.0,NEW JERSEY NETS,83.0,0.25,0.21052631578947367,45
+SAN ANTONIO SPURS,240,29,72,8,23,22,28,6,33,15,8,6,13,21,2007-05-16,away,win,88.0,PHOENIX SUNS,85.0,0.2871287128712871,0.25806451612903225,39
+PHOENIX SUNS,240,31,77,7,18,16,17,9,33,18,3,3,15,21,2007-05-16,home,loss,85.0,SAN ANTONIO SPURS,88.0,0.28703703703703703,0.28,42

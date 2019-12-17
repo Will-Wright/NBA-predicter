@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,32,75,7,21,17,21,8,28,25,8,2,16,23,away,loss,88.0,CLEVELAND CAVALIERS,114.0
-CLEVELAND CAVALIERS,240,40,80,15,35,19,25,10,33,23,12,7,14,21,home,win,114.0,MIAMI HEAT,88.0
-HOUSTON ROCKETS,240,34,77,11,31,29,40,17,38,24,9,2,18,24,away,win,108.0,DALLAS MAVERICKS,101.0
-DALLAS MAVERICKS,240,37,84,8,26,19,27,9,32,23,6,5,13,29,home,loss,101.0,HOUSTON ROCKETS,108.0
-PHOENIX SUNS,240,42,90,5,19,17,26,9,38,25,6,3,11,16,away,loss,106.0,GOLDEN STATE WARRIORS,107.0
-GOLDEN STATE WARRIORS,240,43,93,10,26,11,17,15,35,29,6,5,13,20,home,win,107.0,PHOENIX SUNS,106.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,32,75,7,21,17,21,8,28,25,8,2,16,23,2015-04-02,away,loss,88.0,CLEVELAND CAVALIERS,114.0,0.29906542056074764,0.25,36
+CLEVELAND CAVALIERS,240,40,80,15,35,19,25,10,33,23,12,7,14,21,2015-04-02,home,win,114.0,MIAMI HEAT,88.0,0.3333333333333333,0.3,43
+HOUSTON ROCKETS,240,34,77,11,31,29,40,17,38,24,9,2,18,24,2015-04-02,away,win,108.0,DALLAS MAVERICKS,101.0,0.3063063063063063,0.2619047619047619,55
+DALLAS MAVERICKS,240,37,84,8,26,19,27,9,32,23,6,5,13,29,2015-04-02,home,loss,101.0,HOUSTON ROCKETS,108.0,0.30578512396694213,0.23529411764705882,41
+PHOENIX SUNS,240,42,90,5,19,17,26,9,38,25,6,3,11,16,2015-04-02,away,loss,106.0,GOLDEN STATE WARRIORS,107.0,0.3181818181818182,0.20833333333333334,47
+GOLDEN STATE WARRIORS,240,43,93,10,26,11,17,15,35,29,6,5,13,20,2015-04-02,home,win,107.0,PHOENIX SUNS,106.0,0.3161764705882353,0.2777777777777778,50

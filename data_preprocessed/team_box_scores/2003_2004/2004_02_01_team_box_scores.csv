@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,32,78,4,16,33,39,12,30,17,5,1,14,20,away,loss,101.0,MINNESOTA TIMBERWOLVES,106.0
-MINNESOTA TIMBERWOLVES,240,40,81,4,16,22,22,7,30,28,7,7,11,28,home,win,106.0,PHILADELPHIA 76ERS,101.0
-LOS ANGELES LAKERS,240,30,76,2,13,22,28,9,33,20,10,3,14,30,away,win,84.0,TORONTO RAPTORS,83.0
-TORONTO RAPTORS,240,27,80,5,16,24,35,18,30,13,7,2,15,25,home,loss,83.0,LOS ANGELES LAKERS,84.0
-CLEVELAND CAVALIERS,240,38,74,2,8,26,30,9,35,23,6,9,24,22,away,win,104.0,WASHINGTON WIZARDS,100.0
-WASHINGTON WIZARDS,240,37,86,5,15,21,29,9,24,20,15,4,13,23,home,loss,100.0,CLEVELAND CAVALIERS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,32,78,4,16,33,39,12,30,17,5,1,14,20,2004-02-01,away,loss,101.0,MINNESOTA TIMBERWOLVES,106.0,0.2909090909090909,0.2,42
+MINNESOTA TIMBERWOLVES,240,40,81,4,16,22,22,7,30,28,7,7,11,28,2004-02-01,home,win,106.0,PHILADELPHIA 76ERS,101.0,0.3305785123966942,0.2,37
+LOS ANGELES LAKERS,240,30,76,2,13,22,28,9,33,20,10,3,14,30,2004-02-01,away,win,84.0,TORONTO RAPTORS,83.0,0.2830188679245283,0.13333333333333333,42
+TORONTO RAPTORS,240,27,80,5,16,24,35,18,30,13,7,2,15,25,2004-02-01,home,loss,83.0,LOS ANGELES LAKERS,84.0,0.2523364485981308,0.23809523809523808,48
+CLEVELAND CAVALIERS,240,38,74,2,8,26,30,9,35,23,6,9,24,22,2004-02-01,away,win,104.0,WASHINGTON WIZARDS,100.0,0.3392857142857143,0.2,44
+WASHINGTON WIZARDS,240,37,86,5,15,21,29,9,24,20,15,4,13,23,2004-02-01,home,loss,100.0,CLEVELAND CAVALIERS,104.0,0.3008130081300813,0.25,33

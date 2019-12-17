@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,32,94,7,27,33,36,16,32,21,6,2,16,25,away,loss,104.0,BROOKLYN NETS,116.0
-BROOKLYN NETS,240,41,87,11,27,23,34,13,38,27,12,8,18,27,home,win,116.0,ATLANTA HAWKS,104.0
-NEW ORLEANS PELICANS,240,47,83,10,32,15,21,6,36,26,14,5,18,20,away,win,119.0,LOS ANGELES LAKERS,112.0
-LOS ANGELES LAKERS,240,44,90,9,27,15,20,9,29,27,7,6,17,24,home,loss,112.0,NEW ORLEANS PELICANS,119.0
-MINNESOTA TIMBERWOLVES,240,43,86,10,25,19,23,10,35,25,5,1,17,17,away,win,115.0,OKLAHOMA CITY THUNDER,113.0
-OKLAHOMA CITY THUNDER,240,46,96,11,31,10,16,9,27,26,9,6,11,22,home,loss,113.0,MINNESOTA TIMBERWOLVES,115.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,32,94,7,27,33,36,16,32,21,6,2,16,25,2017-10-22,away,loss,104.0,BROOKLYN NETS,116.0,0.25396825396825395,0.20588235294117646,48
+BROOKLYN NETS,240,41,87,11,27,23,34,13,38,27,12,8,18,27,2017-10-22,home,win,116.0,ATLANTA HAWKS,104.0,0.3203125,0.2894736842105263,51
+NEW ORLEANS PELICANS,240,47,83,10,32,15,21,6,36,26,14,5,18,20,2017-10-22,away,win,119.0,LOS ANGELES LAKERS,112.0,0.36153846153846153,0.23809523809523808,42
+LOS ANGELES LAKERS,240,44,90,9,27,15,20,9,29,27,7,6,17,24,2017-10-22,home,loss,112.0,NEW ORLEANS PELICANS,119.0,0.3283582089552239,0.25,38
+MINNESOTA TIMBERWOLVES,240,43,86,10,25,19,23,10,35,25,5,1,17,17,2017-10-22,away,win,115.0,OKLAHOMA CITY THUNDER,113.0,0.3333333333333333,0.2857142857142857,45
+OKLAHOMA CITY THUNDER,240,46,96,11,31,10,16,9,27,26,9,6,11,22,2017-10-22,home,loss,113.0,MINNESOTA TIMBERWOLVES,115.0,0.323943661971831,0.2619047619047619,36

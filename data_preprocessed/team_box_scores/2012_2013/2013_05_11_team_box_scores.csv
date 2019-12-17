@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW YORK KNICKS,240,25,71,3,11,18,25,11,30,11,7,3,14,23,away,loss,71.0,INDIANA PACERS,82.0
-INDIANA PACERS,240,28,80,10,33,16,23,18,35,14,7,1,17,23,home,win,82.0,NEW YORK KNICKS,71.0
-OKLAHOMA CITY THUNDER,240,32,88,5,18,12,19,14,37,10,7,4,12,23,away,loss,81.0,MEMPHIS GRIZZLIES,87.0
-MEMPHIS GRIZZLIES,240,30,74,4,14,23,28,5,39,16,5,6,11,19,home,win,87.0,OKLAHOMA CITY THUNDER,81.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW YORK KNICKS,240,25,71,3,11,18,25,11,30,11,7,3,14,23,2013-05-11,away,loss,71.0,INDIANA PACERS,82.0,0.2604166666666667,0.21428571428571427,41
+INDIANA PACERS,240,28,80,10,33,16,23,18,35,14,7,1,17,23,2013-05-11,home,win,82.0,NEW YORK KNICKS,71.0,0.25925925925925924,0.23255813953488372,53
+OKLAHOMA CITY THUNDER,240,32,88,5,18,12,19,14,37,10,7,4,12,23,2013-05-11,away,loss,81.0,MEMPHIS GRIZZLIES,87.0,0.26666666666666666,0.21739130434782608,51
+MEMPHIS GRIZZLIES,240,30,74,4,14,23,28,5,39,16,5,6,11,19,2013-05-11,home,win,87.0,OKLAHOMA CITY THUNDER,81.0,0.28846153846153844,0.2222222222222222,44

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SACRAMENTO KINGS,240,46,89,8,16,18,22,11,38,33,9,3,12,18,away,win,118.0,NEW JERSEY NETS,82.0
-NEW JERSEY NETS,240,34,88,2,14,12,17,12,29,21,9,0,15,19,home,loss,82.0,SACRAMENTO KINGS,118.0
-SAN ANTONIO SPURS,240,36,76,7,18,8,11,10,25,23,7,2,15,21,away,loss,87.0,PORTLAND TRAIL BLAZERS,90.0
-PORTLAND TRAIL BLAZERS,240,33,74,4,12,20,28,14,24,19,10,4,12,17,home,win,90.0,SAN ANTONIO SPURS,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SACRAMENTO KINGS,240,46,89,8,16,18,22,11,38,33,9,3,12,18,2003-01-09,away,win,118.0,NEW JERSEY NETS,82.0,0.34074074074074073,0.3333333333333333,49
+NEW JERSEY NETS,240,34,88,2,14,12,17,12,29,21,9,0,15,19,2003-01-09,home,loss,82.0,SACRAMENTO KINGS,118.0,0.2786885245901639,0.125,41
+SAN ANTONIO SPURS,240,36,76,7,18,8,11,10,25,23,7,2,15,21,2003-01-09,away,loss,87.0,PORTLAND TRAIL BLAZERS,90.0,0.32142857142857145,0.28,35
+PORTLAND TRAIL BLAZERS,240,33,74,4,12,20,28,14,24,19,10,4,12,17,2003-01-09,home,win,90.0,SAN ANTONIO SPURS,87.0,0.308411214953271,0.25,38

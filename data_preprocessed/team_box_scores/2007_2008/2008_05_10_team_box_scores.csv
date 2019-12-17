@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-BOSTON CELTICS,240,30,74,5,16,19,24,12,21,18,5,3,11,27,away,loss,84.0,CLEVELAND CAVALIERS,108.0
-CLEVELAND CAVALIERS,240,37,69,10,19,24,33,11,26,29,6,7,10,21,home,win,108.0,BOSTON CELTICS,84.0
-DETROIT PISTONS,240,36,79,4,13,14,15,12,27,18,9,3,9,23,away,win,90.0,ORLANDO MAGIC,89.0
-ORLANDO MAGIC,240,34,73,10,18,11,17,10,25,13,6,4,12,19,home,loss,89.0,DETROIT PISTONS,90.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+BOSTON CELTICS,240,30,74,5,16,19,24,12,21,18,5,3,11,27,2008-05-10,away,loss,84.0,CLEVELAND CAVALIERS,108.0,0.28846153846153844,0.23809523809523808,33
+CLEVELAND CAVALIERS,240,37,69,10,19,24,33,11,26,29,6,7,10,21,2008-05-10,home,win,108.0,BOSTON CELTICS,84.0,0.3490566037735849,0.3448275862068966,37
+DETROIT PISTONS,240,36,79,4,13,14,15,12,27,18,9,3,9,23,2008-05-10,away,win,90.0,ORLANDO MAGIC,89.0,0.3130434782608696,0.23529411764705882,39
+ORLANDO MAGIC,240,34,73,10,18,11,17,10,25,13,6,4,12,19,2008-05-10,home,loss,89.0,DETROIT PISTONS,90.0,0.3177570093457944,0.35714285714285715,35

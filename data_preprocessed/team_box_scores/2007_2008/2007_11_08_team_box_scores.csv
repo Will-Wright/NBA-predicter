@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,32,72,6,18,23,30,7,29,17,6,2,17,24,away,loss,93.0,CHICAGO BULLS,97.0
-CHICAGO BULLS,240,39,85,1,9,18,27,15,32,28,9,2,14,21,home,win,97.0,DETROIT PISTONS,93.0
-DALLAS MAVERICKS,240,42,84,10,24,26,30,10,39,25,1,5,12,29,away,win,120.0,GOLDEN STATE WARRIORS,115.0
-GOLDEN STATE WARRIORS,240,44,89,11,25,16,30,8,30,23,4,5,7,23,home,loss,115.0,DALLAS MAVERICKS,120.0
-WASHINGTON WIZARDS,240,29,73,5,18,22,26,8,29,16,9,5,15,25,away,loss,85.0,NEW JERSEY NETS,87.0
-NEW JERSEY NETS,240,28,72,4,22,27,32,8,31,23,5,5,16,26,home,win,87.0,WASHINGTON WIZARDS,85.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,32,72,6,18,23,30,7,29,17,6,2,17,24,2007-11-08,away,loss,93.0,CHICAGO BULLS,97.0,0.3076923076923077,0.25,36
+CHICAGO BULLS,240,39,85,1,9,18,27,15,32,28,9,2,14,21,2007-11-08,home,win,97.0,DETROIT PISTONS,93.0,0.31451612903225806,0.1,47
+DALLAS MAVERICKS,240,42,84,10,24,26,30,10,39,25,1,5,12,29,2007-11-08,away,win,120.0,GOLDEN STATE WARRIORS,115.0,0.3333333333333333,0.29411764705882354,49
+GOLDEN STATE WARRIORS,240,44,89,11,25,16,30,8,30,23,4,5,7,23,2007-11-08,home,loss,115.0,DALLAS MAVERICKS,120.0,0.3308270676691729,0.3055555555555556,38
+WASHINGTON WIZARDS,240,29,73,5,18,22,26,8,29,16,9,5,15,25,2007-11-08,away,loss,85.0,NEW JERSEY NETS,87.0,0.28431372549019607,0.21739130434782608,37
+NEW JERSEY NETS,240,28,72,4,22,27,32,8,31,23,5,5,16,26,2007-11-08,home,win,87.0,WASHINGTON WIZARDS,85.0,0.28,0.15384615384615385,39

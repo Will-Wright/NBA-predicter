@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CLEVELAND CAVALIERS,240,29,65,3,16,28,41,7,23,11,8,5,12,18,away,loss,89.0,BOSTON CELTICS,96.0
-BOSTON CELTICS,240,37,77,5,15,17,23,12,26,25,7,7,13,27,home,win,96.0,CLEVELAND CAVALIERS,89.0
-UTAH JAZZ,240,37,81,6,17,24,28,17,27,23,9,4,18,31,away,loss,104.0,LOS ANGELES LAKERS,111.0
-LOS ANGELES LAKERS,240,35,74,7,20,34,42,11,23,24,9,8,14,20,home,win,111.0,UTAH JAZZ,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CLEVELAND CAVALIERS,240,29,65,3,16,28,41,7,23,11,8,5,12,18,2008-05-14,away,loss,89.0,BOSTON CELTICS,96.0,0.30851063829787234,0.15789473684210525,30
+BOSTON CELTICS,240,37,77,5,15,17,23,12,26,25,7,7,13,27,2008-05-14,home,win,96.0,CLEVELAND CAVALIERS,89.0,0.32456140350877194,0.25,38
+UTAH JAZZ,240,37,81,6,17,24,28,17,27,23,9,4,18,31,2008-05-14,away,loss,104.0,LOS ANGELES LAKERS,111.0,0.3135593220338983,0.2608695652173913,44
+LOS ANGELES LAKERS,240,35,74,7,20,34,42,11,23,24,9,8,14,20,2008-05-14,home,win,111.0,UTAH JAZZ,104.0,0.3211009174311927,0.25925925925925924,34

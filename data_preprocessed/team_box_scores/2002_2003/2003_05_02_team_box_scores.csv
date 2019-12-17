@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,37,80,7,20,26,32,16,28,20,5,3,10,27,away,win,107.0,NEW ORLEANS HORNETS,103.0
-NEW ORLEANS HORNETS,240,41,83,7,16,14,23,11,28,26,5,9,8,27,home,loss,103.0,PHILADELPHIA 76ERS,107.0
-DETROIT PISTONS,240,32,74,7,23,32,51,12,33,13,9,5,10,27,away,win,103.0,ORLANDO MAGIC,88.0
-ORLANDO MAGIC,240,32,81,2,18,22,28,11,36,13,5,2,16,36,home,loss,88.0,DETROIT PISTONS,103.0
-DALLAS MAVERICKS,240,39,92,9,17,16,21,17,15,26,6,2,11,23,away,loss,103.0,PORTLAND TRAIL BLAZERS,125.0
-PORTLAND TRAIL BLAZERS,240,49,82,4,9,23,25,14,31,32,3,6,15,22,home,win,125.0,DALLAS MAVERICKS,103.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,37,80,7,20,26,32,16,28,20,5,3,10,27,2003-05-02,away,win,107.0,NEW ORLEANS HORNETS,103.0,0.3162393162393162,0.25925925925925924,44
+NEW ORLEANS HORNETS,240,41,83,7,16,14,23,11,28,26,5,9,8,27,2003-05-02,home,loss,103.0,PHILADELPHIA 76ERS,107.0,0.33064516129032256,0.30434782608695654,39
+DETROIT PISTONS,240,32,74,7,23,32,51,12,33,13,9,5,10,27,2003-05-02,away,win,103.0,ORLANDO MAGIC,88.0,0.3018867924528302,0.23333333333333334,45
+ORLANDO MAGIC,240,32,81,2,18,22,28,11,36,13,5,2,16,36,2003-05-02,home,loss,88.0,DETROIT PISTONS,103.0,0.2831858407079646,0.1,47
+DALLAS MAVERICKS,240,39,92,9,17,16,21,17,15,26,6,2,11,23,2003-05-02,away,loss,103.0,PORTLAND TRAIL BLAZERS,125.0,0.29770992366412213,0.34615384615384615,32
+PORTLAND TRAIL BLAZERS,240,49,82,4,9,23,25,14,31,32,3,6,15,22,2003-05-02,home,win,125.0,DALLAS MAVERICKS,103.0,0.37404580152671757,0.3076923076923077,45

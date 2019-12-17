@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MILWAUKEE BUCKS,240,37,80,11,35,17,26,7,33,30,8,7,12,22,away,loss,102.0,TORONTO RAPTORS,120.0
-TORONTO RAPTORS,240,41,87,14,41,24,27,10,34,32,9,5,11,23,home,win,120.0,MILWAUKEE BUCKS,102.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MILWAUKEE BUCKS,240,37,80,11,35,17,26,7,33,30,8,7,12,22,2019-05-21,away,loss,102.0,TORONTO RAPTORS,120.0,0.3162393162393162,0.2391304347826087,40
+TORONTO RAPTORS,240,41,87,14,41,24,27,10,34,32,9,5,11,23,2019-05-21,home,win,120.0,MILWAUKEE BUCKS,102.0,0.3203125,0.2545454545454545,44

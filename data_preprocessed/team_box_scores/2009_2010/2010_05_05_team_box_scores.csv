@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,40,79,7,18,15,22,7,30,28,8,8,12,31,away,loss,102.0,PHOENIX SUNS,110.0
-PHOENIX SUNS,240,36,85,9,19,29,37,18,31,19,6,1,14,21,home,win,110.0,SAN ANTONIO SPURS,102.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,40,79,7,18,15,22,7,30,28,8,8,12,31,2010-05-05,away,loss,102.0,PHOENIX SUNS,110.0,0.33613445378151263,0.28,37
+PHOENIX SUNS,240,36,85,9,19,29,37,18,31,19,6,1,14,21,2010-05-05,home,win,110.0,SAN ANTONIO SPURS,102.0,0.2975206611570248,0.32142857142857145,49

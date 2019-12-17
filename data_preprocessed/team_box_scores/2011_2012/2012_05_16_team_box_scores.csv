@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,30,78,2,15,13,14,11,30,11,9,2,12,20,away,loss,75.0,OKLAHOMA CITY THUNDER,77.0
-OKLAHOMA CITY THUNDER,240,29,69,6,17,13,16,6,30,15,7,8,13,19,home,win,77.0,LOS ANGELES LAKERS,75.0
-BOSTON CELTICS,240,40,77,5,11,22,28,7,37,26,6,6,7,19,away,win,107.0,PHILADELPHIA 76ERS,91.0
-PHILADELPHIA 76ERS,240,33,81,8,15,17,22,11,26,22,3,7,9,20,home,loss,91.0,BOSTON CELTICS,107.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,30,78,2,15,13,14,11,30,11,9,2,12,20,2012-05-16,away,loss,75.0,OKLAHOMA CITY THUNDER,77.0,0.2777777777777778,0.11764705882352941,41
+OKLAHOMA CITY THUNDER,240,29,69,6,17,13,16,6,30,15,7,8,13,19,2012-05-16,home,win,77.0,LOS ANGELES LAKERS,75.0,0.29591836734693877,0.2608695652173913,36
+BOSTON CELTICS,240,40,77,5,11,22,28,7,37,26,6,6,7,19,2012-05-16,away,win,107.0,PHILADELPHIA 76ERS,91.0,0.3418803418803419,0.3125,44
+PHILADELPHIA 76ERS,240,33,81,8,15,17,22,11,26,22,3,7,9,20,2012-05-16,home,loss,91.0,BOSTON CELTICS,107.0,0.2894736842105263,0.34782608695652173,37

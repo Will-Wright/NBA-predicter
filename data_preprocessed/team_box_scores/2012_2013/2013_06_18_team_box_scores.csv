@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,265,37,85,5,18,21,28,12,33,13,8,2,13,21,away,loss,100.0,MIAMI HEAT,103.0
-MIAMI HEAT,265,38,81,11,19,16,21,12,30,23,10,6,15,26,home,win,103.0,SAN ANTONIO SPURS,100.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,265,37,85,5,18,21,28,12,33,13,8,2,13,21,2013-06-18,away,loss,100.0,MIAMI HEAT,103.0,0.30327868852459017,0.21739130434782608,45
+MIAMI HEAT,265,38,81,11,19,16,21,12,30,23,10,6,15,26,2013-06-18,home,win,103.0,SAN ANTONIO SPURS,100.0,0.31932773109243695,0.36666666666666664,42

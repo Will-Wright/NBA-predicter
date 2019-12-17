@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-PHILADELPHIA 76ERS,240,26,76,0,9,32,37,5,25,13,6,7,12,18,away,loss,84.0,CHICAGO BULLS,117.0
-CHICAGO BULLS,240,46,88,7,15,18,21,14,39,28,9,8,15,26,home,win,117.0,PHILADELPHIA 76ERS,84.0
-HOUSTON ROCKETS,240,30,85,6,20,9,12,7,31,11,6,5,14,15,away,loss,75.0,PHOENIX SUNS,109.0
-PHOENIX SUNS,240,43,88,13,26,10,14,10,45,29,7,5,12,14,home,win,109.0,HOUSTON ROCKETS,75.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+PHILADELPHIA 76ERS,240,26,76,0,9,32,37,5,25,13,6,7,12,18,2006-02-16,away,loss,84.0,CHICAGO BULLS,117.0,0.2549019607843137,0.0,30
+CHICAGO BULLS,240,46,88,7,15,18,21,14,39,28,9,8,15,26,2006-02-16,home,win,117.0,PHILADELPHIA 76ERS,84.0,0.34328358208955223,0.3181818181818182,53
+HOUSTON ROCKETS,240,30,85,6,20,9,12,7,31,11,6,5,14,15,2006-02-16,away,loss,75.0,PHOENIX SUNS,109.0,0.2608695652173913,0.23076923076923078,38
+PHOENIX SUNS,240,43,88,13,26,10,14,10,45,29,7,5,12,14,2006-02-16,home,win,109.0,HOUSTON ROCKETS,75.0,0.3282442748091603,0.3333333333333333,55

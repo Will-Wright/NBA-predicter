@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-HOUSTON ROCKETS,240,33,79,12,41,21,24,8,31,19,10,3,15,20,away,loss,99.0,GOLDEN STATE WARRIORS,104.0
-GOLDEN STATE WARRIORS,240,39,85,13,37,13,18,12,30,28,6,1,15,19,home,win,104.0,HOUSTON ROCKETS,99.0
-BOSTON CELTICS,240,29,93,7,39,26,34,12,38,19,7,1,14,18,away,loss,91.0,MILWAUKEE BUCKS,116.0
-MILWAUKEE BUCKS,240,42,94,15,47,17,22,10,46,27,8,7,14,23,home,win,116.0,BOSTON CELTICS,91.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+HOUSTON ROCKETS,240,33,79,12,41,21,24,8,31,19,10,3,15,20,2019-05-08,away,loss,99.0,GOLDEN STATE WARRIORS,104.0,0.29464285714285715,0.22641509433962265,39
+GOLDEN STATE WARRIORS,240,39,85,13,37,13,18,12,30,28,6,1,15,19,2019-05-08,home,win,104.0,HOUSTON ROCKETS,99.0,0.31451612903225806,0.26,42
+BOSTON CELTICS,240,29,93,7,39,26,34,12,38,19,7,1,14,18,2019-05-08,away,loss,91.0,MILWAUKEE BUCKS,116.0,0.23770491803278687,0.15217391304347827,50
+MILWAUKEE BUCKS,240,42,94,15,47,17,22,10,46,27,8,7,14,23,2019-05-08,home,win,116.0,BOSTON CELTICS,91.0,0.3088235294117647,0.24193548387096775,56

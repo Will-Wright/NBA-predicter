@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,27,73,7,21,11,18,12,24,8,7,5,14,24,away,loss,72.0,MIAMI HEAT,98.0
-MIAMI HEAT,240,35,74,7,21,21,24,12,35,12,5,5,11,21,home,win,98.0,ATLANTA HAWKS,72.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,27,73,7,21,11,18,12,24,8,7,5,14,24,2009-05-01,away,loss,72.0,MIAMI HEAT,98.0,0.27,0.25,36
+MIAMI HEAT,240,35,74,7,21,21,24,12,35,12,5,5,11,21,2009-05-01,home,win,98.0,ATLANTA HAWKS,72.0,0.3211009174311927,0.25,47

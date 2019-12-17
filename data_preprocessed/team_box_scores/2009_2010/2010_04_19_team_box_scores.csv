@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-CHICAGO BULLS,240,41,93,4,13,16,17,13,24,25,3,3,4,19,away,loss,102.0,CLEVELAND CAVALIERS,112.0
-CLEVELAND CAVALIERS,240,40,71,10,20,22,24,5,31,24,2,9,11,19,home,win,112.0,CHICAGO BULLS,102.0
-UTAH JAZZ,240,36,68,6,13,36,47,6,26,26,7,4,18,30,away,win,114.0,DENVER NUGGETS,111.0
-DENVER NUGGETS,240,35,75,4,18,37,44,6,26,22,9,6,17,37,home,loss,111.0,UTAH JAZZ,114.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+CHICAGO BULLS,240,41,93,4,13,16,17,13,24,25,3,3,4,19,2010-04-19,away,loss,102.0,CLEVELAND CAVALIERS,112.0,0.30597014925373134,0.23529411764705882,37
+CLEVELAND CAVALIERS,240,40,71,10,20,22,24,5,31,24,2,9,11,19,2010-04-19,home,win,112.0,CHICAGO BULLS,102.0,0.36036036036036034,0.3333333333333333,36
+UTAH JAZZ,240,36,68,6,13,36,47,6,26,26,7,4,18,30,2010-04-19,away,win,114.0,DENVER NUGGETS,111.0,0.34615384615384615,0.3157894736842105,32
+DENVER NUGGETS,240,35,75,4,18,37,44,6,26,22,9,6,17,37,2010-04-19,home,loss,111.0,UTAH JAZZ,114.0,0.3181818181818182,0.18181818181818182,32

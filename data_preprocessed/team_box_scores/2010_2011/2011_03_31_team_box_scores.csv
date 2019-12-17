@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,30,83,6,26,16,23,11,36,18,3,4,13,27,away,loss,82.0,LOS ANGELES LAKERS,110.0
-LOS ANGELES LAKERS,240,38,85,6,16,28,39,12,40,23,8,3,7,19,home,win,110.0,DALLAS MAVERICKS,82.0
-BOSTON CELTICS,240,46,84,2,11,13,16,8,35,29,6,4,11,20,away,win,107.0,SAN ANTONIO SPURS,97.0
-SAN ANTONIO SPURS,240,39,90,8,29,11,14,13,30,21,6,3,12,19,home,loss,97.0,BOSTON CELTICS,107.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,30,83,6,26,16,23,11,36,18,3,4,13,27,2011-03-31,away,loss,82.0,LOS ANGELES LAKERS,110.0,0.26548672566371684,0.1875,47
+LOS ANGELES LAKERS,240,38,85,6,16,28,39,12,40,23,8,3,7,19,2011-03-31,home,win,110.0,DALLAS MAVERICKS,82.0,0.3089430894308943,0.2727272727272727,52
+BOSTON CELTICS,240,46,84,2,11,13,16,8,35,29,6,4,11,20,2011-03-31,away,win,107.0,SAN ANTONIO SPURS,97.0,0.35384615384615387,0.15384615384615385,43
+SAN ANTONIO SPURS,240,39,90,8,29,11,14,13,30,21,6,3,12,19,2011-03-31,home,loss,97.0,BOSTON CELTICS,107.0,0.3023255813953488,0.21621621621621623,43

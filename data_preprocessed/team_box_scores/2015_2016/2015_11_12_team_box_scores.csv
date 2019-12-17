@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-UTAH JAZZ,240,34,89,4,17,19,25,11,31,13,10,9,10,23,away,loss,91.0,MIAMI HEAT,92.0
-MIAMI HEAT,240,36,77,4,13,16,25,8,39,14,6,11,15,20,home,win,92.0,UTAH JAZZ,91.0
-GOLDEN STATE WARRIORS,240,48,89,18,38,15,16,6,27,34,8,7,11,25,away,win,129.0,MINNESOTA TIMBERWOLVES,116.0
-MINNESOTA TIMBERWOLVES,240,43,87,3,9,27,36,15,32,21,4,1,13,18,home,loss,116.0,GOLDEN STATE WARRIORS,129.0
-LOS ANGELES CLIPPERS,240,40,90,9,26,15,28,12,25,17,13,3,14,17,away,loss,104.0,PHOENIX SUNS,118.0
-PHOENIX SUNS,240,44,83,14,30,16,21,9,37,22,10,3,19,23,home,win,118.0,LOS ANGELES CLIPPERS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+UTAH JAZZ,240,34,89,4,17,19,25,11,31,13,10,9,10,23,2015-11-12,away,loss,91.0,MIAMI HEAT,92.0,0.2764227642276423,0.19047619047619047,42
+MIAMI HEAT,240,36,77,4,13,16,25,8,39,14,6,11,15,20,2015-11-12,home,win,92.0,UTAH JAZZ,91.0,0.3185840707964602,0.23529411764705882,47
+GOLDEN STATE WARRIORS,240,48,89,18,38,15,16,6,27,34,8,7,11,25,2015-11-12,away,win,129.0,MINNESOTA TIMBERWOLVES,116.0,0.35036496350364965,0.32142857142857145,33
+MINNESOTA TIMBERWOLVES,240,43,87,3,9,27,36,15,32,21,4,1,13,18,2015-11-12,home,loss,116.0,GOLDEN STATE WARRIORS,129.0,0.33076923076923076,0.25,47
+LOS ANGELES CLIPPERS,240,40,90,9,26,15,28,12,25,17,13,3,14,17,2015-11-12,away,loss,104.0,PHOENIX SUNS,118.0,0.3076923076923077,0.2571428571428571,37
+PHOENIX SUNS,240,44,83,14,30,16,21,9,37,22,10,3,19,23,2015-11-12,home,win,118.0,LOS ANGELES CLIPPERS,104.0,0.3464566929133858,0.3181818181818182,46

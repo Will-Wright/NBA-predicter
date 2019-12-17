@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,37,73,3,13,9,14,8,28,20,14,6,17,15,away,win,86.0,CHICAGO BULLS,67.0
-CHICAGO BULLS,240,28,75,2,10,9,11,13,26,20,10,4,26,15,home,loss,67.0,MIAMI HEAT,86.0
-SAN ANTONIO SPURS,240,43,73,8,17,22,28,8,26,30,7,6,17,20,away,win,116.0,LOS ANGELES CLIPPERS,90.0
-LOS ANGELES CLIPPERS,240,32,76,5,16,21,25,13,20,21,5,1,18,22,home,loss,90.0,SAN ANTONIO SPURS,116.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,37,73,3,13,9,14,8,28,20,14,6,17,15,2013-02-21,away,win,86.0,CHICAGO BULLS,67.0,0.33636363636363636,0.1875,36
+CHICAGO BULLS,240,28,75,2,10,9,11,13,26,20,10,4,26,15,2013-02-21,home,loss,67.0,MIAMI HEAT,86.0,0.27184466019417475,0.16666666666666666,39
+SAN ANTONIO SPURS,240,43,73,8,17,22,28,8,26,30,7,6,17,20,2013-02-21,away,win,116.0,LOS ANGELES CLIPPERS,90.0,0.3706896551724138,0.32,34
+LOS ANGELES CLIPPERS,240,32,76,5,16,21,25,13,20,21,5,1,18,22,2013-02-21,home,loss,90.0,SAN ANTONIO SPURS,116.0,0.2962962962962963,0.23809523809523808,33

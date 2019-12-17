@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-NEW ORLEANS HORNETS,240,27,69,4,11,20,32,9,27,14,6,5,16,22,away,loss,78.0,LOS ANGELES LAKERS,87.0
-LOS ANGELES LAKERS,240,34,76,4,11,15,22,13,31,20,8,8,13,20,home,win,87.0,NEW ORLEANS HORNETS,78.0
-DENVER NUGGETS,240,27,69,7,16,28,37,5,26,12,7,1,11,21,away,loss,89.0,OKLAHOMA CITY THUNDER,106.0
-OKLAHOMA CITY THUNDER,240,36,82,10,30,24,28,17,37,19,6,3,15,26,home,win,106.0,DENVER NUGGETS,89.0
-MEMPHIS GRIZZLIES,240,35,88,3,14,14,20,11,36,17,9,7,14,25,away,loss,87.0,SAN ANTONIO SPURS,93.0
-SAN ANTONIO SPURS,240,32,73,7,17,22,32,10,38,21,9,8,18,23,home,win,93.0,MEMPHIS GRIZZLIES,87.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+NEW ORLEANS HORNETS,240,27,69,4,11,20,32,9,27,14,6,5,16,22,2011-04-20,away,loss,78.0,LOS ANGELES LAKERS,87.0,0.28125,0.26666666666666666,36
+LOS ANGELES LAKERS,240,34,76,4,11,15,22,13,31,20,8,8,13,20,2011-04-20,home,win,87.0,NEW ORLEANS HORNETS,78.0,0.3090909090909091,0.26666666666666666,44
+DENVER NUGGETS,240,27,69,7,16,28,37,5,26,12,7,1,11,21,2011-04-20,away,loss,89.0,OKLAHOMA CITY THUNDER,106.0,0.28125,0.30434782608695654,31
+OKLAHOMA CITY THUNDER,240,36,82,10,30,24,28,17,37,19,6,3,15,26,2011-04-20,home,win,106.0,DENVER NUGGETS,89.0,0.3050847457627119,0.25,54
+MEMPHIS GRIZZLIES,240,35,88,3,14,14,20,11,36,17,9,7,14,25,2011-04-20,away,loss,87.0,SAN ANTONIO SPURS,93.0,0.2845528455284553,0.17647058823529413,47
+SAN ANTONIO SPURS,240,32,73,7,17,22,32,10,38,21,9,8,18,23,2011-04-20,home,win,93.0,MEMPHIS GRIZZLIES,87.0,0.3047619047619048,0.2916666666666667,48

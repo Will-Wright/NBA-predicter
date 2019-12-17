@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MILWAUKEE BUCKS,240,31,69,4,15,32,35,5,30,17,6,3,15,22,away,loss,98.0,MIAMI HEAT,104.0
-MIAMI HEAT,240,39,84,7,17,19,26,10,30,22,10,3,10,30,home,win,104.0,MILWAUKEE BUCKS,98.0
-SACRAMENTO KINGS,240,35,74,9,17,35,42,7,26,32,13,1,11,22,away,win,114.0,PHILADELPHIA 76ERS,105.0
-PHILADELPHIA 76ERS,240,40,80,3,11,22,27,12,34,22,6,3,18,27,home,loss,105.0,SACRAMENTO KINGS,114.0
-DETROIT PISTONS,240,34,77,5,20,10,15,16,35,22,8,9,13,17,away,win,83.0,PORTLAND TRAIL BLAZERS,68.0
-PORTLAND TRAIL BLAZERS,240,25,73,7,16,11,14,11,24,13,7,2,14,19,home,loss,68.0,DETROIT PISTONS,83.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MILWAUKEE BUCKS,240,31,69,4,15,32,35,5,30,17,6,3,15,22,2004-03-04,away,loss,98.0,MIAMI HEAT,104.0,0.31,0.21052631578947367,35
+MIAMI HEAT,240,39,84,7,17,19,26,10,30,22,10,3,10,30,2004-03-04,home,win,104.0,MILWAUKEE BUCKS,98.0,0.3170731707317073,0.2916666666666667,40
+SACRAMENTO KINGS,240,35,74,9,17,35,42,7,26,32,13,1,11,22,2004-03-04,away,win,114.0,PHILADELPHIA 76ERS,105.0,0.3211009174311927,0.34615384615384615,33
+PHILADELPHIA 76ERS,240,40,80,3,11,22,27,12,34,22,6,3,18,27,2004-03-04,home,loss,105.0,SACRAMENTO KINGS,114.0,0.3333333333333333,0.21428571428571427,46
+DETROIT PISTONS,240,34,77,5,20,10,15,16,35,22,8,9,13,17,2004-03-04,away,win,83.0,PORTLAND TRAIL BLAZERS,68.0,0.3063063063063063,0.2,51
+PORTLAND TRAIL BLAZERS,240,25,73,7,16,11,14,11,24,13,7,2,14,19,2004-03-04,home,loss,68.0,DETROIT PISTONS,83.0,0.25510204081632654,0.30434782608695654,35

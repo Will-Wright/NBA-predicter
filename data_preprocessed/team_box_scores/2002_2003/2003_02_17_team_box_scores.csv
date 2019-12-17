@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,25,75,0,5,12,17,8,28,11,7,4,10,28,away,loss,62.0,DETROIT PISTONS,93.0
-DETROIT PISTONS,240,32,72,7,21,22,26,11,40,19,1,7,15,22,home,win,93.0,MIAMI HEAT,62.0
-NEW YORK KNICKS,240,36,90,7,21,12,12,13,26,25,12,3,16,20,away,loss,91.0,PORTLAND TRAIL BLAZERS,99.0
-PORTLAND TRAIL BLAZERS,240,40,78,6,13,13,18,12,30,27,10,6,19,16,home,win,99.0,NEW YORK KNICKS,91.0
-MINNESOTA TIMBERWOLVES,240,37,82,3,10,20,24,14,19,21,8,5,12,23,away,loss,97.0,UTAH JAZZ,109.0
-UTAH JAZZ,240,42,71,4,4,21,24,5,30,30,6,6,16,20,home,win,109.0,MINNESOTA TIMBERWOLVES,97.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,25,75,0,5,12,17,8,28,11,7,4,10,28,2003-02-17,away,loss,62.0,DETROIT PISTONS,93.0,0.25,0.0,36
+DETROIT PISTONS,240,32,72,7,21,22,26,11,40,19,1,7,15,22,2003-02-17,home,win,93.0,MIAMI HEAT,62.0,0.3076923076923077,0.25,51
+NEW YORK KNICKS,240,36,90,7,21,12,12,13,26,25,12,3,16,20,2003-02-17,away,loss,91.0,PORTLAND TRAIL BLAZERS,99.0,0.2857142857142857,0.25,39
+PORTLAND TRAIL BLAZERS,240,40,78,6,13,13,18,12,30,27,10,6,19,16,2003-02-17,home,win,99.0,NEW YORK KNICKS,91.0,0.3389830508474576,0.3157894736842105,42
+MINNESOTA TIMBERWOLVES,240,37,82,3,10,20,24,14,19,21,8,5,12,23,2003-02-17,away,loss,97.0,UTAH JAZZ,109.0,0.31092436974789917,0.23076923076923078,33
+UTAH JAZZ,240,42,71,4,4,21,24,5,30,30,6,6,16,20,2003-02-17,home,win,109.0,MINNESOTA TIMBERWOLVES,97.0,0.37168141592920356,0.5,35

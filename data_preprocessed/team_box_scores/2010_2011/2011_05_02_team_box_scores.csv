@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ATLANTA HAWKS,240,40,78,7,13,16,20,9,29,20,8,8,10,17,away,win,103.0,CHICAGO BULLS,95.0
-CHICAGO BULLS,240,37,83,8,18,13,16,10,27,21,7,7,11,16,home,loss,95.0,ATLANTA HAWKS,103.0
-DALLAS MAVERICKS,240,39,79,9,20,9,11,5,35,30,8,8,11,17,away,win,96.0,LOS ANGELES LAKERS,94.0
-LOS ANGELES LAKERS,240,36,84,5,19,17,20,11,33,21,9,8,11,12,home,loss,94.0,DALLAS MAVERICKS,96.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ATLANTA HAWKS,240,40,78,7,13,16,20,9,29,20,8,8,10,17,2011-05-02,away,win,103.0,CHICAGO BULLS,95.0,0.3389830508474576,0.35,38
+CHICAGO BULLS,240,37,83,8,18,13,16,10,27,21,7,7,11,16,2011-05-02,home,loss,95.0,ATLANTA HAWKS,103.0,0.30833333333333335,0.3076923076923077,37
+DALLAS MAVERICKS,240,39,79,9,20,9,11,5,35,30,8,8,11,17,2011-05-02,away,win,96.0,LOS ANGELES LAKERS,94.0,0.3305084745762712,0.3103448275862069,40
+LOS ANGELES LAKERS,240,36,84,5,19,17,20,11,33,21,9,8,11,12,2011-05-02,home,loss,94.0,DALLAS MAVERICKS,96.0,0.3,0.20833333333333334,44

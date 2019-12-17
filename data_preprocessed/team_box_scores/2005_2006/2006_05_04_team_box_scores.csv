@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,38,77,11,25,26,34,14,37,21,6,5,14,26,away,win,113.0,CHICAGO BULLS,96.0
-CHICAGO BULLS,240,31,75,10,30,24,32,8,26,19,4,1,11,26,home,loss,96.0,MIAMI HEAT,113.0
-NEW JERSEY NETS,240,33,71,10,22,20,23,13,31,24,7,2,15,22,away,win,96.0,INDIANA PACERS,90.0
-INDIANA PACERS,240,33,70,7,19,17,25,6,24,12,7,1,12,19,home,loss,90.0,NEW JERSEY NETS,96.0
-PHOENIX SUNS,265,46,81,9,20,25,29,6,25,26,8,1,13,23,away,win,126.0,LOS ANGELES LAKERS,118.0
-LOS ANGELES LAKERS,265,47,85,9,23,15,22,12,27,23,8,1,20,30,home,loss,118.0,PHOENIX SUNS,126.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,38,77,11,25,26,34,14,37,21,6,5,14,26,2006-05-04,away,win,113.0,CHICAGO BULLS,96.0,0.33043478260869563,0.3055555555555556,51
+CHICAGO BULLS,240,31,75,10,30,24,32,8,26,19,4,1,11,26,2006-05-04,home,loss,96.0,MIAMI HEAT,113.0,0.29245283018867924,0.25,34
+NEW JERSEY NETS,240,33,71,10,22,20,23,13,31,24,7,2,15,22,2006-05-04,away,win,96.0,INDIANA PACERS,90.0,0.3173076923076923,0.3125,44
+INDIANA PACERS,240,33,70,7,19,17,25,6,24,12,7,1,12,19,2006-05-04,home,loss,90.0,NEW JERSEY NETS,96.0,0.32038834951456313,0.2692307692307692,30
+PHOENIX SUNS,265,46,81,9,20,25,29,6,25,26,8,1,13,23,2006-05-04,away,win,126.0,LOS ANGELES LAKERS,118.0,0.36220472440944884,0.3103448275862069,31
+LOS ANGELES LAKERS,265,47,85,9,23,15,22,12,27,23,8,1,20,30,2006-05-04,home,loss,118.0,PHOENIX SUNS,126.0,0.3560606060606061,0.28125,39

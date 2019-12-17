@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-ORLANDO MAGIC,240,31,74,7,19,19,21,9,28,16,9,2,16,28,away,loss,88.0,DETROIT PISTONS,98.0
-DETROIT PISTONS,240,36,78,7,22,19,26,12,30,17,5,5,15,19,home,win,98.0,ORLANDO MAGIC,88.0
-BOSTON CELTICS,240,35,77,14,38,16,23,4,24,24,13,2,15,29,away,win,100.0,PORTLAND TRAIL BLAZERS,92.0
-PORTLAND TRAIL BLAZERS,240,31,63,2,15,28,41,8,35,23,7,2,24,22,home,loss,92.0,BOSTON CELTICS,100.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+ORLANDO MAGIC,240,31,74,7,19,19,21,9,28,16,9,2,16,28,2003-02-13,away,loss,88.0,DETROIT PISTONS,98.0,0.29523809523809524,0.2692307692307692,37
+DETROIT PISTONS,240,36,78,7,22,19,26,12,30,17,5,5,15,19,2003-02-13,home,win,98.0,ORLANDO MAGIC,88.0,0.3157894736842105,0.2413793103448276,42
+BOSTON CELTICS,240,35,77,14,38,16,23,4,24,24,13,2,15,29,2003-02-13,away,win,100.0,PORTLAND TRAIL BLAZERS,92.0,0.3125,0.2692307692307692,28
+PORTLAND TRAIL BLAZERS,240,31,63,2,15,28,41,8,35,23,7,2,24,22,2003-02-13,home,loss,92.0,BOSTON CELTICS,100.0,0.32978723404255317,0.11764705882352941,43

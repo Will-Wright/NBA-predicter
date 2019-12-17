@@ -1,3 +1,3 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-GOLDEN STATE WARRIORS,240,38,82,13,34,20,23,6,36,34,7,5,15,26,away,win,109.0,TORONTO RAPTORS,104.0
-TORONTO RAPTORS,240,35,94,11,38,23,26,15,34,17,8,2,15,22,home,loss,104.0,GOLDEN STATE WARRIORS,109.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+GOLDEN STATE WARRIORS,240,38,82,13,34,20,23,6,36,34,7,5,15,26,2019-06-02,away,win,109.0,TORONTO RAPTORS,104.0,0.31666666666666665,0.2765957446808511,42
+TORONTO RAPTORS,240,35,94,11,38,23,26,15,34,17,8,2,15,22,2019-06-02,home,loss,104.0,GOLDEN STATE WARRIORS,109.0,0.2713178294573643,0.22448979591836735,49

@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-MIAMI HEAT,240,38,80,5,12,20,28,14,33,20,8,9,15,24,away,win,101.0,INDIANA PACERS,93.0
-INDIANA PACERS,240,33,79,7,22,20,24,8,30,17,7,6,15,28,home,loss,93.0,MIAMI HEAT,101.0
-SAN ANTONIO SPURS,240,38,72,6,15,20,27,9,31,28,4,4,15,22,away,win,102.0,LOS ANGELES CLIPPERS,99.0
-LOS ANGELES CLIPPERS,240,41,86,4,16,13,19,10,26,22,10,5,7,22,home,loss,99.0,SAN ANTONIO SPURS,102.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+MIAMI HEAT,240,38,80,5,12,20,28,14,33,20,8,9,15,24,2012-05-20,away,win,101.0,INDIANA PACERS,93.0,0.3220338983050847,0.29411764705882354,47
+INDIANA PACERS,240,33,79,7,22,20,24,8,30,17,7,6,15,28,2012-05-20,home,loss,93.0,MIAMI HEAT,101.0,0.29464285714285715,0.2413793103448276,38
+SAN ANTONIO SPURS,240,38,72,6,15,20,27,9,31,28,4,4,15,22,2012-05-20,away,win,102.0,LOS ANGELES CLIPPERS,99.0,0.34545454545454546,0.2857142857142857,40
+LOS ANGELES CLIPPERS,240,41,86,4,16,13,19,10,26,22,10,5,7,22,2012-05-20,home,loss,99.0,SAN ANTONIO SPURS,102.0,0.3228346456692913,0.2,36

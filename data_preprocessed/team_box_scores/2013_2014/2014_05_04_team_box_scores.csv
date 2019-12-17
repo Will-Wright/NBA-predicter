@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DALLAS MAVERICKS,240,36,88,9,25,15,17,11,28,21,6,2,13,21,away,loss,96.0,SAN ANTONIO SPURS,119.0
-SAN ANTONIO SPURS,240,42,74,10,24,25,33,6,34,21,10,4,11,21,home,win,119.0,DALLAS MAVERICKS,96.0
-BROOKLYN NETS,240,37,81,8,23,22,30,16,26,16,5,3,8,26,away,win,104.0,TORONTO RAPTORS,103.0
-TORONTO RAPTORS,240,35,73,4,13,29,33,10,28,13,4,3,9,27,home,loss,103.0,BROOKLYN NETS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DALLAS MAVERICKS,240,36,88,9,25,15,17,11,28,21,6,2,13,21,2014-05-04,away,loss,96.0,SAN ANTONIO SPURS,119.0,0.2903225806451613,0.2647058823529412,39
+SAN ANTONIO SPURS,240,42,74,10,24,25,33,6,34,21,10,4,11,21,2014-05-04,home,win,119.0,DALLAS MAVERICKS,96.0,0.3620689655172414,0.29411764705882354,40
+BROOKLYN NETS,240,37,81,8,23,22,30,16,26,16,5,3,8,26,2014-05-04,away,win,104.0,TORONTO RAPTORS,103.0,0.3135593220338983,0.25806451612903225,42
+TORONTO RAPTORS,240,35,73,4,13,29,33,10,28,13,4,3,9,27,2014-05-04,home,loss,103.0,BROOKLYN NETS,104.0,0.32407407407407407,0.23529411764705882,38

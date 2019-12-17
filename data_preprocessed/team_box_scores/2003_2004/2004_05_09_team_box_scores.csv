@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-SAN ANTONIO SPURS,240,29,85,11,27,12,22,19,26,18,9,2,19,27,away,loss,81.0,LOS ANGELES LAKERS,105.0
-LOS ANGELES LAKERS,240,37,65,6,16,25,40,8,33,29,12,9,19,24,home,win,105.0,SAN ANTONIO SPURS,81.0
-DETROIT PISTONS,240,22,76,0,10,20,26,19,26,10,6,7,18,25,away,loss,64.0,NEW JERSEY NETS,82.0
-NEW JERSEY NETS,240,29,70,4,15,20,26,11,37,22,11,7,15,30,home,win,82.0,DETROIT PISTONS,64.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+SAN ANTONIO SPURS,240,29,85,11,27,12,22,19,26,18,9,2,19,27,2004-05-09,away,loss,81.0,LOS ANGELES LAKERS,105.0,0.2543859649122807,0.2894736842105263,45
+LOS ANGELES LAKERS,240,37,65,6,16,25,40,8,33,29,12,9,19,24,2004-05-09,home,win,105.0,SAN ANTONIO SPURS,81.0,0.3627450980392157,0.2727272727272727,41
+DETROIT PISTONS,240,22,76,0,10,20,26,19,26,10,6,7,18,25,2004-05-09,away,loss,64.0,NEW JERSEY NETS,82.0,0.22448979591836735,0.0,45
+NEW JERSEY NETS,240,29,70,4,15,20,26,11,37,22,11,7,15,30,2004-05-09,home,win,82.0,DETROIT PISTONS,64.0,0.29292929292929293,0.21052631578947367,48

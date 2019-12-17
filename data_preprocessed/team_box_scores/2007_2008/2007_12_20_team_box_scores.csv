@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES LAKERS,240,36,80,2,15,16,24,12,35,17,7,3,13,22,away,loss,90.0,CLEVELAND CAVALIERS,94.0
-CLEVELAND CAVALIERS,240,34,82,3,12,23,30,15,34,15,10,3,10,23,home,win,94.0,LOS ANGELES LAKERS,90.0
-HOUSTON ROCKETS,290,41,102,12,34,17,25,13,43,27,11,6,18,26,away,loss,111.0,DENVER NUGGETS,112.0
-DENVER NUGGETS,290,41,112,5,20,25,34,27,36,25,7,13,14,21,home,win,112.0,HOUSTON ROCKETS,111.0
-NEW JERSEY NETS,265,40,87,4,11,23,30,20,30,23,6,2,15,26,away,win,107.0,MIAMI HEAT,103.0
-MIAMI HEAT,265,40,86,3,13,20,29,16,27,23,11,10,12,25,home,loss,103.0,NEW JERSEY NETS,107.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES LAKERS,240,36,80,2,15,16,24,12,35,17,7,3,13,22,2007-12-20,away,loss,90.0,CLEVELAND CAVALIERS,94.0,0.3103448275862069,0.11764705882352941,47
+CLEVELAND CAVALIERS,240,34,82,3,12,23,30,15,34,15,10,3,10,23,2007-12-20,home,win,94.0,LOS ANGELES LAKERS,90.0,0.29310344827586204,0.2,49
+HOUSTON ROCKETS,290,41,102,12,34,17,25,13,43,27,11,6,18,26,2007-12-20,away,loss,111.0,DENVER NUGGETS,112.0,0.2867132867132867,0.2608695652173913,56
+DENVER NUGGETS,290,41,112,5,20,25,34,27,36,25,7,13,14,21,2007-12-20,home,win,112.0,HOUSTON ROCKETS,111.0,0.2679738562091503,0.2,63
+NEW JERSEY NETS,265,40,87,4,11,23,30,20,30,23,6,2,15,26,2007-12-20,away,win,107.0,MIAMI HEAT,103.0,0.31496062992125984,0.26666666666666666,50
+MIAMI HEAT,265,40,86,3,13,20,29,16,27,23,11,10,12,25,2007-12-20,home,loss,103.0,NEW JERSEY NETS,107.0,0.31746031746031744,0.1875,43

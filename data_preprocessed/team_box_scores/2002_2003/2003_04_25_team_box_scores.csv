@@ -1,7 +1,7 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-DETROIT PISTONS,240,29,74,3,15,19,29,13,27,19,6,5,16,26,away,loss,80.0,ORLANDO MAGIC,89.0
-ORLANDO MAGIC,240,33,69,6,13,17,28,8,27,18,8,7,15,30,home,win,89.0,DETROIT PISTONS,80.0
-SAN ANTONIO SPURS,240,36,79,7,15,20,29,11,40,27,6,3,18,22,away,win,99.0,PHOENIX SUNS,86.0
-PHOENIX SUNS,240,33,87,4,15,16,25,13,22,16,11,4,11,28,home,loss,86.0,SAN ANTONIO SPURS,99.0
-DALLAS MAVERICKS,240,42,83,13,29,18,21,10,24,27,8,2,6,26,away,win,115.0,PORTLAND TRAIL BLAZERS,103.0
-PORTLAND TRAIL BLAZERS,240,33,76,6,17,31,39,21,28,26,4,0,17,22,home,loss,103.0,DALLAS MAVERICKS,115.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+DETROIT PISTONS,240,29,74,3,15,19,29,13,27,19,6,5,16,26,2003-04-25,away,loss,80.0,ORLANDO MAGIC,89.0,0.2815533980582524,0.16666666666666666,40
+ORLANDO MAGIC,240,33,69,6,13,17,28,8,27,18,8,7,15,30,2003-04-25,home,win,89.0,DETROIT PISTONS,80.0,0.3235294117647059,0.3157894736842105,35
+SAN ANTONIO SPURS,240,36,79,7,15,20,29,11,40,27,6,3,18,22,2003-04-25,away,win,99.0,PHOENIX SUNS,86.0,0.3130434782608696,0.3181818181818182,51
+PHOENIX SUNS,240,33,87,4,15,16,25,13,22,16,11,4,11,28,2003-04-25,home,loss,86.0,SAN ANTONIO SPURS,99.0,0.275,0.21052631578947367,35
+DALLAS MAVERICKS,240,42,83,13,29,18,21,10,24,27,8,2,6,26,2003-04-25,away,win,115.0,PORTLAND TRAIL BLAZERS,103.0,0.336,0.30952380952380953,34
+PORTLAND TRAIL BLAZERS,240,33,76,6,17,31,39,21,28,26,4,0,17,22,2003-04-25,home,loss,103.0,DALLAS MAVERICKS,115.0,0.30275229357798167,0.2608695652173913,49

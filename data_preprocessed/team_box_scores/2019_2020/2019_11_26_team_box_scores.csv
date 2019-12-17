@@ -1,5 +1,5 @@
-team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,location,outcome,game_score,opponent,opponent_score
-LOS ANGELES CLIPPERS,240,41,97,11,33,21,30,17,39,22,12,3,14,27,away,win,114.0,DALLAS MAVERICKS,99.0
-DALLAS MAVERICKS,240,30,79,11,38,28,35,9,37,16,12,2,20,21,home,loss,99.0,LOS ANGELES CLIPPERS,114.0
-WASHINGTON WIZARDS,240,40,95,10,40,14,21,5,31,26,9,3,12,22,away,loss,104.0,DENVER NUGGETS,117.0
-DENVER NUGGETS,240,47,90,6,24,17,23,10,48,31,8,6,20,20,home,win,117.0,WASHINGTON WIZARDS,104.0
+team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_date,location,outcome,game_score,opponent,opponent_score,field_goal_percentage,three_point_percentage,total_rebounds
+LOS ANGELES CLIPPERS,240,41,97,11,33,21,30,17,39,22,12,3,14,27,2019-11-26,away,win,114.0,DALLAS MAVERICKS,99.0,0.2971014492753623,0.25,56
+DALLAS MAVERICKS,240,30,79,11,38,28,35,9,37,16,12,2,20,21,2019-11-26,home,loss,99.0,LOS ANGELES CLIPPERS,114.0,0.27522935779816515,0.22448979591836735,46
+WASHINGTON WIZARDS,240,40,95,10,40,14,21,5,31,26,9,3,12,22,2019-11-26,away,loss,104.0,DENVER NUGGETS,117.0,0.2962962962962963,0.2,36
+DENVER NUGGETS,240,47,90,6,24,17,23,10,48,31,8,6,20,20,2019-11-26,home,win,117.0,WASHINGTON WIZARDS,104.0,0.34306569343065696,0.2,58
