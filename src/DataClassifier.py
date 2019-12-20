@@ -1,6 +1,29 @@
-# Loads preprocessed NBA game data and 
-# classifies with various sklearn algorithms
-#
+"""
+`DataClassifier` class contains methods for modeling,
+classifying, and evaluating NBA game prediction methods.
+
+Attributes:
+    load_data(): Loads complete preprocessed data set.
+    
+    set_feats_and_labels(feats, labels, skip_playoffs,
+                         start_year, end_year): 
+        Selects features and labels for modeling. 
+    
+    set_train_test_split(n_splits, test_size, rng_seed): Sets data
+        shuffling parameters.
+    
+    set_classifiers(classifiers): Sets classifiers from scikit-learn.
+    
+    train_and_test_models(verbose): Trains and tests/evaluates
+        all classification models.  Shuffles data for 
+        cross-validation using StratifiedShuffleSplit 
+        (stratified k-fold with shuffling). Logs results.
+        
+    plot_results(): Plots classifier accuracy and log loss.
+
+    Requirements:
+        sklearn, pandas, numpy, seaborn, matplotlib
+"""
 
 from sklearn.metrics import accuracy_score, log_loss
 from sklearn.model_selection import StratifiedShuffleSplit
@@ -19,6 +42,15 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import os
 import datetime
+
+
+# Hides sklearn warnings for nice printing
+def warn(*args, **kwargs): pass
+import warnings
+warnings.warn = warn
+from sklearn.exceptions import DataConversionWarning
+warnings.filterwarnings(action='ignore', category=DataConversionWarning)
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 class DataClassifier:        
@@ -57,7 +89,7 @@ class DataClassifier:
         self.labels = labels
         self.skip_playoffs = skip_playoffs
         self.start_year = start_year
-        if not end_year:
+        if not end_year or end_year > self.date_today.year:
             if self.date_today.month < 10:
                 self.end_year = end_year - 1
             else:
@@ -72,7 +104,17 @@ class DataClassifier:
         self.rng_seed_init = rng_seed
         
         
-    def set_classifiers(self, classifiers = ["DTC"]):
+    def set_classifiers(self, classifiers = ["KNN", 
+                                             "SVC", \
+                                             "NSVC", \
+                                             "DTC", \
+                                             "RFC", \
+                                             "ABC",\
+                                             "GBC", \
+                                             "GNB", \
+                                             "LDA", \
+                                             "QDA", \
+                                             "LR"]):
         self.classifiers = classifiers
     
         
@@ -90,12 +132,13 @@ class DataClassifier:
         
         for clf_str in self.classifiers:
             for idx_model in range(0, self.n_splits):
-                print("Training and testing model :", idx_model+1, "of", self.n_splits)
-                
                 X_train, X_test, y_train, y_test \
                     = self.__get_train_test_split(self.rng_seed_init + idx_model)
                 
                 clf, name = self.__get_classifier(clf_str)
+                #print("Training and testing classifier " \
+                #      + name + " for model :",\
+                #      idx_model+1, "of", self.n_splits)
                 clf = clf.fit(X_train, y_train)
                 
                 train_predictions = clf.predict(X_test)
@@ -112,9 +155,10 @@ class DataClassifier:
                 print("="*30)
                 print(name)
                 print('****Results****')
-                print("Avg Accuracy : {:.4%}".format(acc_temp))
-                print("Variance     : {:.6}".format(var_temp))
-                print("Avg Log Loss : {}".format(ll_temp))
+                print("Accuracy : {:.4%}".format(acc_temp))
+                if self.n_splits > 1:
+                    print("Variance : {:.6}".format(var_temp))
+                print("Log Loss : {:.8}".format(ll_temp))
 
             log_entry = pd.DataFrame([[name, acc_temp*100, ll_temp]], columns=self.log_cols)
             self.log = self.log.append(log_entry)

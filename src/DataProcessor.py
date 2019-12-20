@@ -1,7 +1,39 @@
-# Collects and preprocesses NBA game data
-#
-# Requires the following web scraper utility
-#    https://github.com/jaebradley/basketball_reference_web_scraper
+"""
+`DataProcessor` class contains methods for acquiring,
+integrating, and processing NBA data.
+
+Attributes:
+    update_and_process_all_data(): Runs all methods listed below
+        in the order listed.
+    
+    scrape_data_player_box_scores(): Scrapes player box scores
+        for 2000-current from the website
+        https://www.basketball-reference.com/ 
+        using the utility desribed below.
+        Places files in `data_raw` folder.
+        
+    scrape_data_team_box_scores(): Scrapes team box scores for
+        2000-current. Places files in `data_raw` folder.
+    
+    scrape_data_season_schedule(): Scrapes season schedule data
+        for 2000-current. Places files in `data_raw` folder.
+
+    create_processed_team_box_and_add_season_schedule(): 
+        Creates `data_preprocessed` folder and merges team box
+        scores with season schedule.  Adds the following data:
+        win/loss, home/away, opponent, opponent score.
+
+    add_fgp_tpp_tr_to_processed_team_box(): Adds derived features
+        recommended by professional NBA analysts to preprocessed data.
+
+    write_complete_processed_team_box(): Writes single csv file
+        for classification and validation phase.
+
+    Requirements:
+        pandas, numpy
+        Web scraper utility:
+            https://github.com/jaebradley/basketball_reference_web_scraper
+"""
 
 import os
 import csv
@@ -290,7 +322,7 @@ class DataProcessor:
         status_csv_filename = 'create_processed_team_box_and_add_season_schedule.csv'
         
         
-        print("\nAdding season schedule to team box scores (e.g, win/loss, total pts).\n")
+        print("\nAdding season schedule to team box scores (e.g, win/loss, home/away, opponent score).\n")
         if self.date_today.month < 10:
             current_season_start_year = self.date_today.year-1
         else:
