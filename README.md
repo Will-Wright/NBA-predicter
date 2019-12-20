@@ -1,15 +1,15 @@
 # NBA Predicter
 
-This project collects NBA game and season statistics to predict individual game win/loss outcomes.  This project also compares various machine learning classifier algorithms to demonstrate which are most accurate.
+This project contains a complete data pipeline which collects NBA game and season statistics and predicts individual game win/loss outcomes.  This project also compares various machine learning classifier algorithms to demonstrate which are most accurate.
 
-The data pipeline is split into two classes.  The `DataProcessor` class handles acquisition, integration, and processing.  The `DataClassifier` class handles modeling (selecting features, params, classifiers), classifying, evaluation, and plotting results.
+The data pipeline is split into two classes.  The `DataProcessor` class handles acquisition, integration, and processing.  The `DataClassifier` class handles modeling (selecting features, params, classifiers), classifying, evaluation, and plotting results.  The [NBA Predictor Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb) demonstates how to use this project.
 
  <p align="center">
  <img src="./results/classifier_results.png">
  </p>
  <p align="center">
- Original image
- </p>
+Accuracy results for 9 common classifiers
+</p>
 
 
 ## Getting Started
@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This project uses the following packages
+This project requires the following packages:
 
 ```
 sklearn
