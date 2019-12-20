@@ -8,7 +8,7 @@ The data pipeline is split into two classes.  The `DataProcessor` class handles 
  <img src="./results/classifier_results.png">
  </p>
  <p align="center">
-Accuracy results for 9 common classifiers
+Accuracy results for 9 common classifiers (with fixed features, params, etc.)
 </p>
 
 
