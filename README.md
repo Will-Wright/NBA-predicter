@@ -29,4 +29,5 @@ To run the entire data pipeline on your local machine, just follow the [NBA Pred
 
 ## Future work
 
-- x
+- Add new data to dataset: advanced statistics, number games on the road, etc.
+- Use [WEKA machine learning models](https://www.cs.waikato.ac.nz/ml/weka/)
