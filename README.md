@@ -4,6 +4,14 @@ This project collects NBA game and season statistics to predict individual game 
 
 The data pipeline is split into two classes.  The `DataProcessor` class handles acquisition, integration, and processing.  The `DataClassifier` class handles modeling (selecting features, params, classifiers), classifying, evaluation, and plotting results.
 
+ <p align="center">
+ <img src="./results/classifier_results.png">
+ </p>
+ <p align="center">
+ Original image
+ </p>
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
