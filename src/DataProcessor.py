@@ -36,7 +36,7 @@ class DataProcessor:
             os.mkdir(self.proc_team_file_path)
             
     
-    def process_all_data():
+    def update_and_process_all_data():
         self.scrape_data_player_box_scores()
         self.scrape_data_team_box_scores()
         self.scrape_data_season_schedule()
@@ -145,6 +145,7 @@ class DataProcessor:
 
             # end if not is_complete_season
 
+            
     def scrape_data_team_box_scores(self):
         print("\nScraping team box score data.\n")
         if self.date_today.month < 10:
@@ -249,6 +250,7 @@ class DataProcessor:
                 # end while
             # end if not is_complete_season
              
+                
     def scrape_data_season_schedule(self):
         print("\nScraping season schedule data.\n")    
         if self.date_today.month < 10:
