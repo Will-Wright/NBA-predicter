@@ -1,6 +1,6 @@
 # NBA Predicter
 
-This project collects NBA game and season statistics to predict individual game win/loss outcomes.
+This project collects NBA game and season statistics to predict individual game win/loss outcomes.  This project also compares various machine learning classifier algorithms to demonstrate which are most accurate.
 
 The data pipeline is split into two classes.  The `DataProcessor` class handles acquisition, integration, and processing.  The `DataClassifier` class handles modeling (selecting features, params, classifiers), classifying, evaluation, and plotting results.
 
