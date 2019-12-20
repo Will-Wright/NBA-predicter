@@ -1,7 +1,7 @@
 team,minutes_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls
-WASHINGTON WIZARDS,240,49,88,18,33,17,21,8,28,31,6,5,15,27
+WASHINGTON WIZARDS,240,49,88,18,34,17,21,7,28,31,6,5,15,27
 DETROIT PISTONS,240,41,86,13,39,24,34,12,24,29,6,4,14,19
-SAN ANTONIO SPURS,240,39,92,12,33,17,20,9,45,23,5,4,18,22
+SAN ANTONIO SPURS,240,39,91,12,33,17,20,8,45,23,5,4,18,22
 HOUSTON ROCKETS,240,40,98,11,43,18,27,14,44,20,9,6,12,19
 MIAMI HEAT,240,37,81,11,24,26,31,7,28,22,9,7,14,26
 MEMPHIS GRIZZLIES,240,42,86,13,36,21,30,16,29,28,4,6,15,20
