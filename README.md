@@ -32,7 +32,7 @@ You can find the web scraper at https://github.com/jaebradley/basketball_referen
 
 ### Running Tests
 
-To run the entire data pipeline on your local machine, just follow the [NBA Predictor Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb)
+To run the entire data pipeline on your local machine, just follow the [NBA Predictor Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb).
 
 
 ## Future work
