@@ -1,18 +1,26 @@
 # NBA Predicter
 
-This project
+This project collects NBA game and season statistics to predict individual game win/loss outcomes.
+
+The data pipeline is split into two classes.  The `DataProcessor` class handles acquisition, integration, and processing.  The `DataClassifier` class handles modeling (selecting features, params, classifiers), classifying, evaluation, and plotting results.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+This project uses the following packages
 
 ```
-Give examples
+sklearn
+pandas
+seaborn
+basketball_reference_web_scraper
 ```
+
+You can find the web scraper at https://github.com/jaebradley/basketball_reference_web_scraper.
+
 
 ### Installing
 
