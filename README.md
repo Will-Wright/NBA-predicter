@@ -12,7 +12,7 @@ Accuracy results for 9 common classifiers with fixed features
 
 ### Contents
 
-The [NBA Predictor Jupyter Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb) demonstates how to use all of the methods in this project.
+The [NBA Predictor Jupyter Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb) demonstates how to use all of the methods in this project.  Use this notebook to run the full pipeline and generate the plot above.
 
 The data pipeline is split into two classes which can be found in the `src` folder.  
 
