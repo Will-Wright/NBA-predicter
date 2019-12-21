@@ -10,6 +10,8 @@ Accuracy results for 9 common classifiers with fixed features (see [NBA Predicto
 </p>
 
 
+[Accuracy results for 9 common classifiers with fixed features (see [NBA Predictor Jupyter Notebook](https://github.com/Will-Wright/NBA-predicter/blob/ master/NBA%20Predicter.ipynb))](./results/classifier_results.png)
+
 ### Contents
 
 The data pipeline is split into two classes which can be found in the `src` folder.  
