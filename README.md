@@ -1,13 +1,12 @@
 # NBA Predicter
 
-This project contains a data pipeline which collects NBA statistics and uses box score data to predict whether a given team will win or lose a given game.  
-This project also compares various machine learning classifier algorithms to demonstrate which are most accurate for the prediction process (see plot).
+This project contains a data pipeline which collects NBA statistics and uses box score data to predict whether a given team will win or lose a given game. This project also compares various machine learning classifier algorithms to demonstrate which are most accurate for the prediction process (see plot).
 
 <p align="center">
  <img src="./results/classifier_results.png">
  </p>
  <p align="center">
-Accuracy results for 9 common classifiers (with fixed features, params, etc.)
+Accuracy results for 9 common classifiers with fixed features (see [NBA Predictor Jupyter Notebook](https://github.com/Will-Wright/NBA-predicter/blob/ master/NBA%20Predicter.ipynb)) 
 </p>
 
 
