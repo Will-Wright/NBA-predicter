@@ -1,10 +1,9 @@
 # NBA Predicter
 
-This project contains a complete data pipeline which collects NBA game and season statistics and predicts individual game win/loss outcomes.  This project also compares various machine learning classifier algorithms to demonstrate which are most accurate.
+This project contains a data pipeline which collects NBA statistics and uses box score data to predict whether a given team will win or lose a given game.  
+This project also compares various machine learning classifier algorithms to demonstrate which are most accurate for the prediction process (see plot).
 
-The data pipeline is split into two classes.  The `DataProcessor` class handles acquisition, integration, and processing.  The `DataClassifier` class handles modeling (selecting features, params, classifiers), classifying, evaluation, and plotting results.  The [NBA Predictor Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb) demonstates how to use this project.
-
- <p align="center">
+<p align="center">
  <img src="./results/classifier_results.png">
  </p>
  <p align="center">
@@ -12,13 +11,20 @@ Accuracy results for 9 common classifiers (with fixed features, params, etc.)
 </p>
 
 
-## Getting Started
+### Contents
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+The data pipeline is split into two classes which can be found in the `src` folder.  
+
+ - `DataProcessor` handles acquisition, integration, and processing.  
+ - `DataClassifier` handles modeling (selecting features, params, classifiers), classifying, evaluation, and plotting results.  
+
+The [NBA Predictor Jupyter Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb) demonstates how to use the methods in this project.
+
+The `data_raw` and `data_processed` folders contain previously scraped data for NBA seasons 2000-2001 to partway through 2019-2020.  To update data, just call `DataProcessor.update_and_process_all_data()`.
 
 ### Prerequisites
 
-This project requires the following packages:
+This project requires Python 3 and the following packages:
 
 ```
 sklearn
@@ -32,7 +38,7 @@ You can find the web scraper at https://github.com/jaebradley/basketball_referen
 
 ### Running Tests
 
-To run the entire data pipeline on your local machine, just follow the [NBA Predictor Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb).
+To run the entire data pipeline on your local machine, just follow the [NBA Predictor Jupyter Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb).
 
 
 ## Future work
