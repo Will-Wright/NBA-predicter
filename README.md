@@ -3,7 +3,16 @@
 This project contains a data pipeline which collects NBA statistics and uses box score data to predict whether a given team will win or lose a given game. This project also compares various machine learning classifier algorithms to demonstrate which are most accurate for the prediction process.
 
 
-Heatmap
+### Introduction
+
+The long-term goal of this project is to use all relevant available data and tune the best performing machine learning algorithms to identify an optimal method for predicting the outcome of future basketball games.
+
+Current version of this package uses the box score data of a specific team (and not their opponent) to predict the win/loss outcome for a game which has already been played.  Of course, the box score data for a given game would not be available to predict future games.  The purpose of this step of modeling is to do the following:
+
+- identify the best candidate features for future methods,
+- identify the best potential machine learning algorithms for outcome prediction,
+- offer comprehensive data pipeline which is easy to use, modify, and update
+
 <p align="center">
  <img src="./images/corr_heatmap.png">
  </p>
