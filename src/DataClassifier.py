@@ -126,7 +126,6 @@ class DataClassifier:
         self.accuracy_arr = np.zeros((self.n_splits,))
         self.ll_arr = np.zeros((self.n_splits,))
         
-        
         self.log_cols=["Classifier", "Accuracy", "Log Loss"]
         self.log = pd.DataFrame(columns=self.log_cols)
         
@@ -169,17 +168,26 @@ class DataClassifier:
             
     def plot_results(self):
         sns.set_color_codes("muted")
-        sns.barplot(x='Accuracy', y='Classifier', data=self.log, color="b")
+        fig, ax = plt.subplots(figsize=(8,4))
+
+        sns_plt = sns.barplot(x='Accuracy', y='Classifier', \
+                              data=self.log, color="b", ax=ax)
 
         plt.xlabel('Accuracy %')
         plt.title('Classifier Accuracy')
+        plt.gcf().subplots_adjust(left=0.5)
+        sns_plt.get_figure().savefig("./images/classifier_accuracy.png")
         plt.show()
 
+        fig, ax = plt.subplots(figsize=(8,4))
         sns.set_color_codes("muted")
-        sns.barplot(x='Log Loss', y='Classifier', data=self.log, color="g")
+        sns_plt = sns.barplot(x='Log Loss', y='Classifier', data=self.log, \
+                              color="g", ax=ax)
 
         plt.xlabel('Log Loss')
         plt.title('Classifier Log Loss')
+        plt.gcf().subplots_adjust(left=0.5)
+        sns_plt.get_figure().savefig("./images/classifier_log_loss.png")
         plt.show()
     
     
