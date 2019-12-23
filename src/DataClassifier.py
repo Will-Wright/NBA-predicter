@@ -175,7 +175,7 @@ class DataClassifier:
 
         plt.xlabel('Accuracy %')
         plt.title('Classifier Accuracy')
-        plt.gcf().subplots_adjust(left=0.5)
+        plt.gcf().subplots_adjust(left=0.35)
         sns_plt.get_figure().savefig("./images/classifier_accuracy.png")
         plt.show()
 
@@ -186,7 +186,7 @@ class DataClassifier:
 
         plt.xlabel('Log Loss')
         plt.title('Classifier Log Loss')
-        plt.gcf().subplots_adjust(left=0.5)
+        plt.gcf().subplots_adjust(left=0.35)
         sns_plt.get_figure().savefig("./images/classifier_log_loss.png")
         plt.show()
     
