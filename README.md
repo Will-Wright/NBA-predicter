@@ -21,7 +21,7 @@ Plot of
 
 Fixed features
 <p align="center">
- <img src="./images/classifier_results.png">
+ <img src="./images/classifier_accuracy.png">
  </p>
  <p align="center">
 </p>
