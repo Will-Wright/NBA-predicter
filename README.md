@@ -13,6 +13,7 @@ Current version of this package uses the box score data of a specific team (and 
 - identify the best potential machine learning algorithms for outcome prediction,
 - offer a comprehensive data pipeline which is easy to use, modify, and update.
 
+## Data Visualization and Accuracy Results
 
 The following heatmap and bar graph help us identify candidate features (NBA stats) to use in the classification phase of the pipeline.  For instance, the bar graph shows that game outcome has a high positive correlation with `made_field_goals` and `field_goal_percentage`, and a high negative correlation with `personal_fouls`, suggesting that these features should be used in modeling.  (See [NBA Predictor Jupyter Notebook](https://github.com/Will-Wright/NBA-predicter/blob/master/NBA%20Predicter.ipynb) to generate these plots.)
 
